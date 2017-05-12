@@ -1,0 +1,52 @@
+# [uMatrix 0.9.2.0]
+# Title: ThaiConsentHosts
+# Version: 201705122033
+# Author: kowith337
+# Homepage: https://github.com/kowith337/ThaiConsentHosts
+# Expires: 2 days
+
+# Operator Consent
+0.0.0.0 consentprt.dtac.co.th
+
+# TLD
+0.0.0.0 7banana.com
+0.0.0.0 beezzi.com
+0.0.0.0 contentdd.net
+0.0.0.0 fly2.me
+0.0.0.0 gangzaa.net
+0.0.0.0 gizmobi.mobi
+0.0.0.0 larnload.com
+0.0.0.0 mobindy.com
+0.0.0.0 mono-mobile.com
+0.0.0.0 myscoobi.com
+0.0.0.0 playclub.me
+0.0.0.0 seaman2u.com
+0.0.0.0 vstyle4u.com
+0.0.0.0 zigifun.com
+
+#Generic
+0.0.0.0 c.beezzi.com
+0.0.0.0 corellinet.beezzi.com
+0.0.0.0 corellinet.beezzi.com:8080
+0.0.0.0 free.gangzaa.net
+0.0.0.0 g.zm.my
+0.0.0.0 lp.contentdd.net
+0.0.0.0 lps.mobindy.com
+0.0.0.0 m.gangzaa.net
+0.0.0.0 m.mono-mobile.com
+0.0.0.0 m.vstyle4u.com
+0.0.0.0 m.zigifun.com
+0.0.0.0 mt.chz.mobi
+0.0.0.0 mt.seaman2u.com
+0.0.0.0 play.redlight.th.contentbox.stream
+0.0.0.0 th.contentbox.stream
+0.0.0.0 th1.music.playclub.me
+0.0.0.0 vas.dtac.co.th
+0.0.0.0 w.vstyle4u.com
+0.0.0.0 wap.7banana.com
+0.0.0.0 wap.7banana.com
+0.0.0.0 wap.shinee.com
+0.0.0.0 wap2.cheesemobile.com
+0.0.0.0 web.facebook.com
+0.0.0.0 www.8086.com.tw
+0.0.0.0 zeed.bigolives.tv
