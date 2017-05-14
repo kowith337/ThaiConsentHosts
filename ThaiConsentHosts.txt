@@ -1,6 +1,6 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiConsentHosts
-# Version: 201705122036
+# Version: 201705141212
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -10,6 +10,8 @@
 
 # TLD
 0.0.0.0 7banana.com
+0.0.0.0 achelous.mobi
+0.0.0.0 addlink.mobi
 0.0.0.0 beezzi.com
 0.0.0.0 contentdd.net
 0.0.0.0 fly2.me
@@ -47,6 +49,7 @@
 0.0.0.0 wap.shinee.com
 0.0.0.0 wap2.cheesemobile.com
 0.0.0.0 www.8086.com.tw
+0.0.0.0 www.achelous.mobi
 0.0.0.0 www.seaman2u.com
 0.0.0.0 www.seaman2u.com:8080
 0.0.0.0 zeed.bigolives.tv
