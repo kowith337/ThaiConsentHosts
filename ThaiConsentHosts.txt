@@ -1,12 +1,15 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiConsentHosts
-# Version: 201705141212
+# Version: 201705141736
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
 
-# Operator Consent
+# Operator Prompt
 0.0.0.0 consentprt.dtac.co.th
+0.0.0.0 ss1.mobilelife.co.th
+0.0.0.0 ss2.mobilelife.co.th
+0.0.0.0 ss3.mobilelife.co.th
 
 # TLD
 0.0.0.0 7banana.com
