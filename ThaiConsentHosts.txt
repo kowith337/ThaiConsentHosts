@@ -1,6 +1,6 @@
 # [uMatrix 0.9.2.0]
 # Title: ThaiConsentHosts
-# Version: 201705141736
+# Version: 201705260747
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -15,9 +15,11 @@
 0.0.0.0 7banana.com
 0.0.0.0 achelous.mobi
 0.0.0.0 addlink.mobi
+0.0.0.0 b-qq.com
 0.0.0.0 beezzi.com
 0.0.0.0 contentdd.net
 0.0.0.0 fly2.me
+0.0.0.0 funspaz.com
 0.0.0.0 gangzaa.net
 0.0.0.0 gizmobi.mobi
 0.0.0.0 larnload.com
@@ -30,6 +32,7 @@
 0.0.0.0 zigifun.com
 
 #Generic
+0.0.0.0 bqm1.b-qq.com
 0.0.0.0 c.beezzi.com
 0.0.0.0 corellinet.beezzi.com
 0.0.0.0 corellinet.beezzi.com:8080
@@ -37,6 +40,7 @@
 0.0.0.0 g.zm.my
 0.0.0.0 lp.contentdd.net
 0.0.0.0 lps.mobindy.com
+0.0.0.0 m.b-qq.com
 0.0.0.0 m.gangzaa.net
 0.0.0.0 m.mono-mobile.com
 0.0.0.0 m.vstyle4u.com
