@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706040824
+# Version: 201706041404
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -53,6 +53,7 @@
 0.0.0.0 seaman2u.com
 0.0.0.0 snapp.asia
 0.0.0.0 thaifun4u.com
+0.0.0.0 thumbsms.com
 0.0.0.0 videowap.net
 0.0.0.0 vstyle4u.com
 0.0.0.0 zigifun.com
