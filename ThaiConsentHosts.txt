@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706041404
+# Version: 201706042022
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -12,6 +12,7 @@
 0.0.0.0 ss3.mobilelife.co.th
 
 # TLD
+0.0.0.0 1mov.co
 0.0.0.0 7banana.com
 0.0.0.0 8086.com.tw
 0.0.0.0 achelous.mobi
@@ -83,6 +84,7 @@
 0.0.0.0 m.sabver.com
 0.0.0.0 m.vstyle4u.com
 0.0.0.0 m.zigifun.com
+0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.seaman2u.com
 0.0.0.0 p1.maejaow.com
@@ -90,6 +92,7 @@
 0.0.0.0 p3.maejaow.com
 0.0.0.0 play.redlight.th.contentbox.stream
 0.0.0.0 th.contentbox.stream
+0.0.0.0 th.mt.1mov.co
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 w.vstyle4u.com
