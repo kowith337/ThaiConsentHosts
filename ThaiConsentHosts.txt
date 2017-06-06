@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706051634
+# Version: 201706051630
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -19,6 +19,8 @@
 0.0.0.0 ad5network.com
 0.0.0.0 addlink.mobi
 0.0.0.0 amkomobile.com
+0.0.0.0 analog.mobi
+0.0.0.0 androidappsfree.mobi
 0.0.0.0 b-qq.com
 0.0.0.0 beezzi.com
 0.0.0.0 bigolives.tv
@@ -30,6 +32,7 @@
 0.0.0.0 eskimi.com
 0.0.0.0 fly2.me
 0.0.0.0 fly2me.com
+0.0.0.0 freezone.mobi
 0.0.0.0 fun-club.mobi
 0.0.0.0 funspaz.com
 0.0.0.0 funster.mobi
@@ -41,6 +44,8 @@
 0.0.0.0 larnload.com
 0.0.0.0 letgomobile.com
 0.0.0.0 maejaow.com
+0.0.0.0 magikmobile.mobi
+0.0.0.0 mastermovie-hd.mobi
 0.0.0.0 mobico.my
 0.0.0.0 mobilejmp.com
 0.0.0.0 mobindy.com
@@ -56,8 +61,10 @@
 0.0.0.0 snapp.asia
 0.0.0.0 thaifun4u.com
 0.0.0.0 thumbsms.com
+0.0.0.0 vdocutesexy.mobi
 0.0.0.0 videowap.net
 0.0.0.0 vstyle4u.com
+0.0.0.0 waphub.mobi
 0.0.0.0 zigifun.com
 
 #Generic
@@ -71,6 +78,7 @@
 0.0.0.0 facabooks.com
 0.0.0.0 free.gangzaa.net
 0.0.0.0 g.zm.my
+0.0.0.0 gameroom.magikmobile.mobi
 0.0.0.0 hito.co.vu
 0.0.0.0 lp.contentdd.net
 0.0.0.0 lps.mobindy.com
@@ -94,6 +102,7 @@
 0.0.0.0 play.redlight.th.contentbox.stream
 0.0.0.0 th.contentbox.stream
 0.0.0.0 th.mt.1mov.co
+0.0.0.0 th.waphub.mobi
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 w.vstyle4u.com
@@ -110,6 +119,7 @@
 0.0.0.0 www.achelous.mobi
 0.0.0.0 www.ad5network.com
 0.0.0.0 www.amkomobile.com
+0.0.0.0 www.androidappsfree.mobi
 0.0.0.0 www.app1.datapremium.net
 0.0.0.0 www.app2.datapremium.net
 0.0.0.0 www.app3.datapremium.net
