@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706062156
+# Version: 201706090141
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -10,6 +10,9 @@
 0.0.0.0 ss1.mobilelife.co.th
 0.0.0.0 ss2.mobilelife.co.th
 0.0.0.0 ss3.mobilelife.co.th
+
+# IP Address
+0.0.0.0 43.231.124.161
 
 # TLD
 0.0.0.0 1mov.co
@@ -27,6 +30,7 @@
 0.0.0.0 bigolives.tv
 0.0.0.0 cheesemobile.com
 0.0.0.0 c1dovw6eef5jop8apwjkqy5ro5mlafkc.com
+0.0.0.0 centili.com
 0.0.0.0 clickmlife.com
 0.0.0.0 contentdd.net
 0.0.0.0 datapremium.net
@@ -80,11 +84,13 @@
 #Generic
 0.0.0.0 a.n-d.bz
 0.0.0.0 aff.letgomobile.com
+0.0.0.0 api.centili.com
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 c.beezzi.com
 0.0.0.0 content.eskimi.com
 0.0.0.0 corellinet.beezzi.com
 0.0.0.0 corellinet.beezzi.com:8080
+0.0.0.0 dev.centili.com
 0.0.0.0 dev.magikmobile.mobi
 0.0.0.0 free.gangzaa.net
 0.0.0.0 g.zm.my
@@ -142,6 +148,7 @@
 0.0.0.0 www.app2.datapremium.net
 0.0.0.0 www.app3.datapremium.net
 0.0.0.0 www.c1dovw6eef5jop8apwjkqy5ro5mlafkc.com
+0.0.0.0 www.centili.com
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
 0.0.0.0 www.fylitcl7pf7kjqdduolqouaxtxbj5ing.com
