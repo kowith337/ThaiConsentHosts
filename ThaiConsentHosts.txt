@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706091004
+# Version: 201706091030
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -30,8 +30,9 @@
 0.0.0.0 b-qq.com
 0.0.0.0 beezzi.com
 0.0.0.0 bigolives.tv
-0.0.0.0 cheesemobile.com
 0.0.0.0 c1dovw6eef5jop8apwjkqy5ro5mlafkc.com
+0.0.0.0 cheesemobile.com
+0.0.0.0 chz.mobi
 0.0.0.0 centili.com
 0.0.0.0 clickmlife.com
 0.0.0.0 contentdd.net
@@ -51,7 +52,9 @@
 0.0.0.0 getclick.mobi
 0.0.0.0 gigth.com
 0.0.0.0 gizmobi.mobi
+0.0.0.0 iamzaa.com
 0.0.0.0 instantbabes.mobi
+0.0.0.0 isport.co.th
 0.0.0.0 kodfin.com
 0.0.0.0 larnload.com
 0.0.0.0 letgomobile.com
