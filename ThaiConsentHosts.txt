@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706090141
+# Version: 201706091004
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -13,6 +13,8 @@
 
 # IP Address
 0.0.0.0 43.231.124.161
+0.0.0.0 52.76.242.20
+0.0.0.0 52.220.167.186
 
 # TLD
 0.0.0.0 1mov.co
