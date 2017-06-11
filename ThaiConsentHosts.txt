@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706111218
+# Version: 201706111806
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -122,6 +122,8 @@
 0.0.0.0 m.sabver.com
 0.0.0.0 m.vstyle4u.com
 0.0.0.0 m.zigifun.com
+0.0.0.0 mes.etracker.cc
+0.0.0.0 mis.etracker.cc
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.seaman2u.com
