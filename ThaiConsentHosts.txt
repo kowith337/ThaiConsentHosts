@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706091030
+# Version: 201706111218
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -38,6 +38,7 @@
 0.0.0.0 contentdd.net
 0.0.0.0 datapremium.net
 0.0.0.0 eskimi.com
+0.0.0.0 etracker.cc 
 0.0.0.0 facabooks.com
 0.0.0.0 fly2.me
 0.0.0.0 fly2me.com
@@ -92,11 +93,17 @@
 0.0.0.0 api.centili.com
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 c.beezzi.com
+0.0.0.0 caportal.etracker.cc
+0.0.0.0 clientreports.etracker.cc
 0.0.0.0 content.eskimi.com
+0.0.0.0 console.etracker.cc
 0.0.0.0 corellinet.beezzi.com
 0.0.0.0 corellinet.beezzi.com:8080
 0.0.0.0 dev.centili.com
 0.0.0.0 dev.magikmobile.mobi
+0.0.0.0 e-mes.etracker.cc
+0.0.0.0 e-mis.etracker.cc
+0.0.0.0 e-reporting.etracker.cc
 0.0.0.0 free.gangzaa.net
 0.0.0.0 g.zm.my
 0.0.0.0 gameroom.magikmobile.mobi
@@ -122,12 +129,14 @@
 0.0.0.0 p2.maejaow.com
 0.0.0.0 p3.maejaow.com
 0.0.0.0 play.redlight.th.contentbox.stream
+0.0.0.0 star.etracker.cc 
 0.0.0.0 th.contentbox.stream
 0.0.0.0 th.instantbabes.mobi
 0.0.0.0 th.mt.1mov.co
 0.0.0.0 th.n-mobile.net
 0.0.0.0 th.waphub.mobi
 0.0.0.0 th1.music.playclub.me
+0.0.0.0 uat.caportal.etracker.cc
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 w.vstyle4u.com
 0.0.0.0 wap.7banana.com
@@ -154,6 +163,7 @@
 0.0.0.0 www.app3.datapremium.net
 0.0.0.0 www.c1dovw6eef5jop8apwjkqy5ro5mlafkc.com
 0.0.0.0 www.centili.com
+0.0.0.0 www.etracker.cc 
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
 0.0.0.0 www.fylitcl7pf7kjqdduolqouaxtxbj5ing.com
