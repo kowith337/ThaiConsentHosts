@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706111806
+# Version: 201706121254
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -24,7 +24,7 @@
 0.0.0.0 ad5network.com
 0.0.0.0 addlink.mobi
 0.0.0.0 amkomobile.com
-0.0.0.0 analog.mobi
+0.0.0.0 anolog.mobi
 0.0.0.0 androidappsfree.mobi
 0.0.0.0 aplaydigital.com
 0.0.0.0 b-qq.com
@@ -70,6 +70,7 @@
 0.0.0.0 mono-mobile.com
 0.0.0.0 myscoobi.com
 0.0.0.0 n-mobile.net
+0.0.0.0 newsplus.me
 0.0.0.0 playclub.me
 0.0.0.0 rushvip.net
 0.0.0.0 sabver.com
@@ -159,6 +160,7 @@
 0.0.0.0 www.ad5network.com
 0.0.0.0 www.amkomobile.com
 0.0.0.0 www.androidappsfree.mobi
+0.0.0.0 www.anolog.mobi
 0.0.0.0 www.aplaydigital.com
 0.0.0.0 www.app1.datapremium.net
 0.0.0.0 www.app2.datapremium.net
