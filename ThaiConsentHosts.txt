@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706121254
+# Version: 201706140250
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -16,7 +16,7 @@
 0.0.0.0 52.76.242.20
 0.0.0.0 52.220.167.186
 
-# TLD
+# Base Domain
 0.0.0.0 1mov.co
 0.0.0.0 7banana.com
 0.0.0.0 8086.com.tw
@@ -63,6 +63,7 @@
 0.0.0.0 magikmobile.mobi
 0.0.0.0 mastermovie-hd.mobi
 0.0.0.0 mobico.my
+0.0.0.0 mobifunz.com
 0.0.0.0 mobilejmp.com
 0.0.0.0 mobindy.com
 0.0.0.0 mobixing.com
@@ -73,6 +74,7 @@
 0.0.0.0 newsplus.me
 0.0.0.0 playclub.me
 0.0.0.0 rushvip.net
+0.0.0.0 sabai5555.com
 0.0.0.0 sabver.com
 0.0.0.0 sanookde.com
 0.0.0.0 seaman2u.com
@@ -88,7 +90,7 @@
 0.0.0.0 waphub.mobi
 0.0.0.0 zigifun.com
 
-#Generic
+# Variant
 0.0.0.0 a.n-d.bz
 0.0.0.0 aff.letgomobile.com
 0.0.0.0 api.centili.com
@@ -174,7 +176,9 @@
 0.0.0.0 www.getclick.mobi
 0.0.0.0 www.gigth.com
 0.0.0.0 www.mobico.my
+0.0.0.0 www.mobifunz.com
 0.0.0.0 www.mobilejmp.com
+0.0.0.0 www.sabai5555.com
 0.0.0.0 www.seaman2u.com
 0.0.0.0 www.seaman2u.com:8080
 0.0.0.0 www.snapp.asia
