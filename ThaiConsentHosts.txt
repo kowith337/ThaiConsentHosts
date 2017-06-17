@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706171812
+# Version: 201706172314
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -70,6 +70,7 @@
 0.0.0.0 mastermovie-hd.mobi
 0.0.0.0 mobico.my
 0.0.0.0 mobifunz.com
+0.0.0.0 mobihibiz.com
 0.0.0.0 mobilejmp.com
 0.0.0.0 mobindy.com
 0.0.0.0 mobixing.com
@@ -100,11 +101,13 @@
 0.0.0.0 waphub.mobi
 0.0.0.0 wifistudy.com
 0.0.0.0 zigifun.com
+0.0.0.0 zomobie.com
 
 # Variant
 0.0.0.0 a.n-d.bz
 0.0.0.0 aff.letgomobile.com
 0.0.0.0 api.centili.com
+0.0.0.0 bd.zomobie.com
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 c.beezzi.com
 0.0.0.0 caportal.etracker.cc
@@ -198,6 +201,7 @@
 0.0.0.0 www.gigth.com
 0.0.0.0 www.mobico.my
 0.0.0.0 www.mobifunz.com
+0.0.0.0 www.mobihibiz.com
 0.0.0.0 www.mobilejmp.com
 0.0.0.0 www.picwall.mobi
 0.0.0.0 www.sabai5555.com
