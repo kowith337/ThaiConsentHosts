@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706191143
+# Version: 201706191431
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -96,6 +96,7 @@
 0.0.0.0 snapp.asia
 0.0.0.0 sosmob.mobi
 0.0.0.0 sunmob.net
+0.0.0.0 sunnygames.club
 0.0.0.0 tdedlove.com
 0.0.0.0 thaifun4u.com
 0.0.0.0 thaiza.com
@@ -171,11 +172,13 @@
 0.0.0.0 th.mobgkt.com
 0.0.0.0 th.mt.1mov.co
 0.0.0.0 th.n-mobile.net
+0.0.0.0 th.sunnygames.club
 0.0.0.0 th.waphub.mobi
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 uat.caportal.etracker.cc
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 w.vstyle4u.com
+0.0.0.0 wallpaper.vstyle4u.com
 0.0.0.0 wap.7banana.com
 0.0.0.0 wap.amkomobile.com
 0.0.0.0 wap.getcools.com
