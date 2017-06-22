@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706201304
+# Version: 201706230018
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -12,6 +12,7 @@
 0.0.0.0 ss3.mobilelife.co.th
 
 # IP Address
+0.0.0.0 27.100.44.214
 0.0.0.0 43.231.124.161
 0.0.0.0 52.76.242.20
 0.0.0.0 52.220.167.186
@@ -23,6 +24,7 @@
 
 # Base Domain
 0.0.0.0 1mov.co
+0.0.0.0 5sys.com
 0.0.0.0 7banana.com
 0.0.0.0 8086.com.tw
 0.0.0.0 achelous.mobi
@@ -174,6 +176,7 @@
 0.0.0.0 p3.maejaow.com
 0.0.0.0 play.redlight.th.contentbox.stream
 0.0.0.0 rbt.getcools.com
+0.0.0.0 s.5sys.com
 0.0.0.0 star.etracker.cc
 0.0.0.0 th.contentbox.stream
 0.0.0.0 th.instantbabes.mobi
@@ -202,6 +205,7 @@
 0.0.0.0 wap3.cheesemobile.com
 0.0.0.0 wap3.sanookde.com
 0.0.0.0 wifi.mobindy.com
+0.0.0.0 www.5sys.com
 0.0.0.0 www.8086.com.tw
 0.0.0.0 www.achelous.mobi
 0.0.0.0 www.ad5network.com
