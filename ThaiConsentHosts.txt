@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706271450
+# Version: 201706272151
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -263,3 +263,106 @@
 0.0.0.0 www.tweetsms.com.my
 0.0.0.0 www.waplog.com
 0.0.0.0 zeed.bigolives.tv
+
+# What the heck of these domains!?
+0.0.0.0 woaifanyi.com
+0.0.0.0 www.woaifanyi.com
+0.0.0.0 www1.woaifanyi.com
+0.0.0.0 www2.woaifanyi.com
+0.0.0.0 www3.woaifanyi.com
+0.0.0.0 www4.woaifanyi.com
+0.0.0.0 www5.woaifanyi.com
+0.0.0.0 www6.woaifanyi.com
+0.0.0.0 www7.woaifanyi.com
+0.0.0.0 www8.woaifanyi.com
+0.0.0.0 www9.woaifanyi.com
+0.0.0.0 www10.woaifanyi.com
+0.0.0.0 www11.woaifanyi.com
+0.0.0.0 www12.woaifanyi.com
+0.0.0.0 www13.woaifanyi.com
+0.0.0.0 www14.woaifanyi.com
+0.0.0.0 www15.woaifanyi.com
+0.0.0.0 www16.woaifanyi.com
+0.0.0.0 www17.woaifanyi.com
+0.0.0.0 www18.woaifanyi.com
+0.0.0.0 www19.woaifanyi.com
+0.0.0.0 www20.woaifanyi.com
+0.0.0.0 www21.woaifanyi.com
+0.0.0.0 www22.woaifanyi.com
+0.0.0.0 www23.woaifanyi.com
+0.0.0.0 www24.woaifanyi.com
+0.0.0.0 www25.woaifanyi.com
+0.0.0.0 www26.woaifanyi.com
+0.0.0.0 www27.woaifanyi.com
+0.0.0.0 www28.woaifanyi.com
+0.0.0.0 www29.woaifanyi.com
+0.0.0.0 www30.woaifanyi.com
+0.0.0.0 www31.woaifanyi.com
+0.0.0.0 www32.woaifanyi.com
+0.0.0.0 www33.woaifanyi.com
+0.0.0.0 www34.woaifanyi.com
+0.0.0.0 www35.woaifanyi.com
+0.0.0.0 www36.woaifanyi.com
+0.0.0.0 www37.woaifanyi.com
+0.0.0.0 www38.woaifanyi.com
+0.0.0.0 www39.woaifanyi.com
+0.0.0.0 www40.woaifanyi.com
+0.0.0.0 www41.woaifanyi.com
+0.0.0.0 www42.woaifanyi.com
+0.0.0.0 www43.woaifanyi.com
+0.0.0.0 www44.woaifanyi.com
+0.0.0.0 www45.woaifanyi.com
+0.0.0.0 www46.woaifanyi.com
+0.0.0.0 www47.woaifanyi.com
+0.0.0.0 www48.woaifanyi.com
+0.0.0.0 www49.woaifanyi.com
+0.0.0.0 www50.woaifanyi.com
+0.0.0.0 www51.woaifanyi.com
+0.0.0.0 www52.woaifanyi.com
+0.0.0.0 www53.woaifanyi.com
+0.0.0.0 www54.woaifanyi.com
+0.0.0.0 www55.woaifanyi.com
+0.0.0.0 www56.woaifanyi.com
+0.0.0.0 www57.woaifanyi.com
+0.0.0.0 www58.woaifanyi.com
+0.0.0.0 www59.woaifanyi.com
+0.0.0.0 www60.woaifanyi.com
+0.0.0.0 www61.woaifanyi.com
+0.0.0.0 www62.woaifanyi.com
+0.0.0.0 www63.woaifanyi.com
+0.0.0.0 www64.woaifanyi.com
+0.0.0.0 www65.woaifanyi.com
+0.0.0.0 www66.woaifanyi.com
+0.0.0.0 www67.woaifanyi.com
+0.0.0.0 www68.woaifanyi.com
+0.0.0.0 www69.woaifanyi.com
+0.0.0.0 www70.woaifanyi.com
+0.0.0.0 www71.woaifanyi.com
+0.0.0.0 www72.woaifanyi.com
+0.0.0.0 www73.woaifanyi.com
+0.0.0.0 www74.woaifanyi.com
+0.0.0.0 www75.woaifanyi.com
+0.0.0.0 www76.woaifanyi.com
+0.0.0.0 www77.woaifanyi.com
+0.0.0.0 www78.woaifanyi.com
+0.0.0.0 www79.woaifanyi.com
+0.0.0.0 www80.woaifanyi.com
+0.0.0.0 www81.woaifanyi.com
+0.0.0.0 www82.woaifanyi.com
+0.0.0.0 www83.woaifanyi.com
+0.0.0.0 www84.woaifanyi.com
+0.0.0.0 www85.woaifanyi.com
+0.0.0.0 www86.woaifanyi.com
+0.0.0.0 www87.woaifanyi.com
+0.0.0.0 www88.woaifanyi.com
+0.0.0.0 www89.woaifanyi.com
+0.0.0.0 www90.woaifanyi.com
+0.0.0.0 www91.woaifanyi.com
+0.0.0.0 www92.woaifanyi.com
+0.0.0.0 www93.woaifanyi.com
+0.0.0.0 www94.woaifanyi.com
+0.0.0.0 www95.woaifanyi.com
+0.0.0.0 www96.woaifanyi.com
+0.0.0.0 www97.woaifanyi.com
+0.0.0.0 www98.woaifanyi.com
+0.0.0.0 www99.woaifanyi.com
