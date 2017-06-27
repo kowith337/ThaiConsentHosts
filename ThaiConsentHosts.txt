@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706271427
+# Version: 201706271450
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -68,6 +68,7 @@
 0.0.0.0 getclick.mobi
 0.0.0.0 gigth.com
 0.0.0.0 gizmobi.mobi
+0.0.0.0 gmpmobi.com
 0.0.0.0 hito.co.vu
 0.0.0.0 iamzaa.com
 0.0.0.0 instantbabes.mobi
@@ -156,7 +157,9 @@
 0.0.0.0 img3.picwall.mobi
 0.0.0.0 img4.picwall.mobi
 0.0.0.0 img5.picwall.mobi
+0.0.0.0 l.vstyle4u.com
 0.0.0.0 lp.contentdd.net
+0.0.0.0 lp.gmpmobi.com
 0.0.0.0 lps.mobindy.com
 0.0.0.0 m.amkomobile.com
 0.0.0.0 m.arco.co.th
@@ -186,6 +189,7 @@
 0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 star.etracker.cc
 0.0.0.0 stream.cdnfiber.com
+0.0.0.0 t.vstyle4u.com
 0.0.0.0 th.contentbox.stream
 0.0.0.0 th.instantbabes.mobi
 0.0.0.0 th.mobgkt.com
@@ -195,6 +199,7 @@
 0.0.0.0 th.waphub.mobi
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 uat.caportal.etracker.cc
+0.0.0.0 v.vstyle4u.com
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 w.vstyle4u.com
 0.0.0.0 wallpaper.vstyle4u.com
