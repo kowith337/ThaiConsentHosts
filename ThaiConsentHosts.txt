@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706230018
+# Version: 201706271427
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -30,6 +30,7 @@
 0.0.0.0 achelous.mobi
 0.0.0.0 ad5network.com
 0.0.0.0 addlink.mobi
+0.0.0.0 alpha-mobi.com
 0.0.0.0 amkomobile.com
 0.0.0.0 androidappsfree.mobi
 0.0.0.0 anolog.mobi
@@ -39,7 +40,9 @@
 0.0.0.0 b-qq.com
 0.0.0.0 beezzi.com
 0.0.0.0 bigolives.tv
+0.0.0.0 breathing-love.com
 0.0.0.0 c1dovw6eef5jop8apwjkqy5ro5mlafkc.com
+0.0.0.0 cdnfiber.com
 0.0.0.0 centili.com
 0.0.0.0 cheesemobile.com
 0.0.0.0 chz.mobi
@@ -47,6 +50,7 @@
 0.0.0.0 contentdd.net
 0.0.0.0 datapremium.com
 0.0.0.0 datapremium.net
+0.0.0.0 dlxxxvip.com
 0.0.0.0 eskimi.com
 0.0.0.0 etracker.cc 
 0.0.0.0 facabooks.com
@@ -84,6 +88,7 @@
 0.0.0.0 mobilejmp.com
 0.0.0.0 mobindy.com
 0.0.0.0 mobixing.com
+0.0.0.0 mobplanner.com
 0.0.0.0 mobl-apps.com
 0.0.0.0 mono-mobile.com
 0.0.0.0 myscoobi.com
@@ -100,6 +105,7 @@
 0.0.0.0 sabver.com
 0.0.0.0 sanookde.com
 0.0.0.0 seaman2u.com
+0.0.0.0 skype4mobile.com
 0.0.0.0 snapp.asia
 0.0.0.0 sosmob.mobi
 0.0.0.0 sunmob.net
@@ -177,7 +183,9 @@
 0.0.0.0 play.redlight.th.contentbox.stream
 0.0.0.0 rbt.getcools.com
 0.0.0.0 s.5sys.com
+0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 star.etracker.cc
+0.0.0.0 stream.cdnfiber.com
 0.0.0.0 th.contentbox.stream
 0.0.0.0 th.instantbabes.mobi
 0.0.0.0 th.mobgkt.com
@@ -209,6 +217,7 @@
 0.0.0.0 www.8086.com.tw
 0.0.0.0 www.achelous.mobi
 0.0.0.0 www.ad5network.com
+0.0.0.0 www.alpha-mobi.com
 0.0.0.0 www.amkomobile.com
 0.0.0.0 www.androidappsfree.mobi
 0.0.0.0 www.anolog.mobi
@@ -217,6 +226,7 @@
 0.0.0.0 www.app1.datapremium.net
 0.0.0.0 www.app2.datapremium.net
 0.0.0.0 www.app3.datapremium.net
+0.0.0.0 www.breathing-love.com
 0.0.0.0 www.c1dovw6eef5jop8apwjkqy5ro5mlafkc.com
 0.0.0.0 www.centili.com
 0.0.0.0 www.etracker.cc 
@@ -231,6 +241,7 @@
 0.0.0.0 www.mobifunz.com
 0.0.0.0 www.mobihibiz.com
 0.0.0.0 www.mobilejmp.com
+0.0.0.0 www.mobplanner.com
 0.0.0.0 www.n-content.com
 0.0.0.0 www.ncontentmobile.com
 0.0.0.0 www.ncontentmv.com
@@ -239,6 +250,7 @@
 0.0.0.0 www.sabai5555.com
 0.0.0.0 www.seaman2u.com
 0.0.0.0 www.seaman2u.com:8080
+0.0.0.0 www.skype4mobile.com
 0.0.0.0 www.snapp.asia
 0.0.0.0 www.tdedlove.com
 0.0.0.0 www.thumbr.com
