@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706272151
+# Version: 201706282120
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -45,6 +45,7 @@
 0.0.0.0 cdnfiber.com
 0.0.0.0 centili.com
 0.0.0.0 cheesemobile.com
+0.0.0.0 chickyclub.net
 0.0.0.0 chz.mobi
 0.0.0.0 clickmlife.com
 0.0.0.0 contentdd.net
@@ -148,19 +149,26 @@
 0.0.0.0 e-mes.etracker.cc
 0.0.0.0 e-mis.etracker.cc
 0.0.0.0 e-reporting.etracker.cc
+0.0.0.0 f1.chickyclub.net
+0.0.0.0 f2.chickyclub.net
+0.0.0.0 f3.chickyclub.net
+0.0.0.0 free.chickyclub.net
 0.0.0.0 free.gangzaa.net
 0.0.0.0 g.zm.my
 0.0.0.0 gk.wifistudy.com
 0.0.0.0 gameroom.magikmobile.mobi
+0.0.0.0 hot.chickyclub.net
 0.0.0.0 img1.picwall.mobi
 0.0.0.0 img2.picwall.mobi
 0.0.0.0 img3.picwall.mobi
 0.0.0.0 img4.picwall.mobi
 0.0.0.0 img5.picwall.mobi
+0.0.0.0 ivas.chickyclub.net
 0.0.0.0 l.vstyle4u.com
 0.0.0.0 lp.contentdd.net
 0.0.0.0 lp.gmpmobi.com
 0.0.0.0 lps.mobindy.com
+0.0.0.0 lunla.chickyclub.net
 0.0.0.0 m.amkomobile.com
 0.0.0.0 m.arco.co.th
 0.0.0.0 m.b-qq.com
@@ -177,12 +185,14 @@
 0.0.0.0 m.zigifun.com
 0.0.0.0 mes.etracker.cc
 0.0.0.0 mis.etracker.cc
+0.0.0.0 mobile.chickyclub.net
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.seaman2u.com
 0.0.0.0 p1.maejaow.com
 0.0.0.0 p2.maejaow.com
 0.0.0.0 p3.maejaow.com
+0.0.0.0 pcs.chickyclub.net
 0.0.0.0 play.redlight.th.contentbox.stream
 0.0.0.0 rbt.getcools.com
 0.0.0.0 s.5sys.com
@@ -203,8 +213,10 @@
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 w.vstyle4u.com
 0.0.0.0 wallpaper.vstyle4u.com
+0.0.0.0 wap.ananda.chickyclub.net
 0.0.0.0 wap.7banana.com
 0.0.0.0 wap.amkomobile.com
+0.0.0.0 wap.free.chickyclub.net
 0.0.0.0 wap.getcools.com
 0.0.0.0 wap.iamzaa.com
 0.0.0.0 wap.isport.co.th
@@ -217,6 +229,7 @@
 0.0.0.0 wap2.sanookde.com
 0.0.0.0 wap3.cheesemobile.com
 0.0.0.0 wap3.sanookde.com
+0.0.0.0 web.chickyclub.net
 0.0.0.0 wifi.mobindy.com
 0.0.0.0 www.5sys.com
 0.0.0.0 www.8086.com.tw
@@ -234,6 +247,7 @@
 0.0.0.0 www.breathing-love.com
 0.0.0.0 www.c1dovw6eef5jop8apwjkqy5ro5mlafkc.com
 0.0.0.0 www.centili.com
+0.0.0.0 www.chickyclub.net
 0.0.0.0 www.etracker.cc 
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
