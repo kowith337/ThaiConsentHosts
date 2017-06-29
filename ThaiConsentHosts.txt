@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706291056
+# Version: 201706292312
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -83,6 +83,7 @@
 0.0.0.0 magikmobile.mobi
 0.0.0.0 mastermovie-hd.mobi
 0.0.0.0 may91.vn
+0.0.0.0 mcommsg.com
 0.0.0.0 mobgkt.com
 0.0.0.0 mobico.my
 0.0.0.0 mobidevil.com
@@ -94,6 +95,7 @@
 0.0.0.0 mobplanner.com
 0.0.0.0 mobl-apps.com
 0.0.0.0 mono-mobile.com
+0.0.0.0 movilfun4u.com
 0.0.0.0 myscoobi.com
 0.0.0.0 n-content.com
 0.0.0.0 n-mobile.net
@@ -166,6 +168,7 @@
 0.0.0.0 img5.picwall.mobi
 0.0.0.0 ivas.chickyclub.net
 0.0.0.0 l.vstyle4u.com
+0.0.0.0 landing.mcommsg.com
 0.0.0.0 lp.contentdd.net
 0.0.0.0 lp.gmpmobi.com
 0.0.0.0 lps.mobindy.com
@@ -187,6 +190,7 @@
 0.0.0.0 mes.etracker.cc
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mobile.chickyclub.net
+0.0.0.0 mstore.mcommsg.com
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.seaman2u.com
@@ -212,6 +216,7 @@
 0.0.0.0 uat.caportal.etracker.cc
 0.0.0.0 v.vstyle4u.com
 0.0.0.0 vas.dtac.co.th
+0.0.0.0 w.mcommsg.com
 0.0.0.0 w.vstyle4u.com
 0.0.0.0 wallpaper.vstyle4u.com
 0.0.0.0 wap.ananda.chickyclub.net
@@ -256,12 +261,14 @@
 0.0.0.0 www.getclick.mobi
 0.0.0.0 www.gigth.com
 0.0.0.0 www.kodporno.com
+0.0.0.0 www.mcommsg.com
 0.0.0.0 www.mobgkt.com
 0.0.0.0 www.mobico.my
 0.0.0.0 www.mobifunz.com
 0.0.0.0 www.mobihibiz.com
 0.0.0.0 www.mobilejmp.com
 0.0.0.0 www.mobplanner.com
+0.0.0.0 www.movilfun4u.com
 0.0.0.0 www.n-content.com
 0.0.0.0 www.ncontentmobile.com
 0.0.0.0 www.ncontentmv.com
