@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707031342
+# Version: 201707031924
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -97,6 +97,7 @@
 0.0.0.0 mobl-apps.com
 0.0.0.0 mono-mobile.com
 0.0.0.0 movilfun4u.com
+0.0.0.0 mp3-shared.com
 0.0.0.0 myscoobi.com
 0.0.0.0 n-content.com
 0.0.0.0 n-mobile.net
@@ -275,6 +276,7 @@
 0.0.0.0 www.mobilejmp.com
 0.0.0.0 www.mobplanner.com
 0.0.0.0 www.movilfun4u.com
+0.0.0.0 www.mp3-shared.com
 0.0.0.0 www.n-content.com
 0.0.0.0 www.ncontentmobile.com
 0.0.0.0 www.ncontentmv.com
