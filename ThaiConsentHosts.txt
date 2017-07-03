@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201706292320
+# Version: 201707031342
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -72,6 +72,7 @@
 0.0.0.0 gmpmobi.com
 0.0.0.0 hito.co.vu
 0.0.0.0 iamzaa.com
+0.0.0.0 innnews.co.th
 0.0.0.0 instantbabes.mobi
 0.0.0.0 isport.co.th
 0.0.0.0 kangped.com
@@ -133,6 +134,7 @@
 0.0.0.0 zomobie.com
 
 # Variant
+0.0.0.0 a.innnews.co.th
 0.0.0.0 a.n-d.bz
 0.0.0.0 aff.letgomobile.com
 0.0.0.0 api.centili.com
@@ -180,6 +182,7 @@
 0.0.0.0 m.clickmlife.com
 0.0.0.0 m.fun2u.biz
 0.0.0.0 m.gangzaa.net
+0.0.0.0 m.innnews.co.th
 0.0.0.0 m.kangped.com
 0.0.0.0 m.kodfin.com
 0.0.0.0 m.mobindy.com
@@ -262,6 +265,7 @@
 0.0.0.0 www.fylitcl7pf7kjqdduolqouaxtxbj5ing.com
 0.0.0.0 www.getclick.mobi
 0.0.0.0 www.gigth.com
+0.0.0.0 www.innnews.co.th
 0.0.0.0 www.kodporno.com
 0.0.0.0 www.mcommsg.com
 0.0.0.0 www.mobgkt.com
