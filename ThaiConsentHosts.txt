@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707031924
+# Version: 201707061115
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -12,6 +12,7 @@
 0.0.0.0 ss3.mobilelife.co.th
 
 # IP Address
+0.0.0.0 10.104.143.133
 0.0.0.0 27.100.44.214
 0.0.0.0 43.231.124.161
 0.0.0.0 52.76.242.20
@@ -95,6 +96,7 @@
 0.0.0.0 mobixing.com
 0.0.0.0 mobplanner.com
 0.0.0.0 mobl-apps.com
+0.0.0.0 momoga.com
 0.0.0.0 mono-mobile.com
 0.0.0.0 movilfun4u.com
 0.0.0.0 mp3-shared.com
@@ -112,6 +114,7 @@
 0.0.0.0 sabver.com
 0.0.0.0 sanookde.com
 0.0.0.0 seaman2u.com
+0.0.0.0 shinee.com
 0.0.0.0 skype4mobile.com
 0.0.0.0 snapp.asia
 0.0.0.0 sosmob.mobi
@@ -147,7 +150,6 @@
 0.0.0.0 console.etracker.cc
 0.0.0.0 content.eskimi.com
 0.0.0.0 corellinet.beezzi.com
-0.0.0.0 corellinet.beezzi.com:8080
 0.0.0.0 d.sunmob.net
 0.0.0.0 datapremium.com.ve
 0.0.0.0 dev.centili.com
@@ -196,6 +198,7 @@
 0.0.0.0 mes.etracker.cc
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mobile.chickyclub.net
+0.0.0.0 mobile.shinee.com
 0.0.0.0 mstore.mcommsg.com
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
@@ -222,6 +225,7 @@
 0.0.0.0 uat.caportal.etracker.cc
 0.0.0.0 v.vstyle4u.com
 0.0.0.0 vas.dtac.co.th
+0.0.0.0 vdo.bigolives.tv
 0.0.0.0 w.mcommsg.com
 0.0.0.0 w.vstyle4u.com
 0.0.0.0 wallpaper.vstyle4u.com
@@ -284,7 +288,7 @@
 0.0.0.0 www.s-onetelecom.com
 0.0.0.0 www.sabai5555.com
 0.0.0.0 www.seaman2u.com
-0.0.0.0 www.seaman2u.com:8080
+0.0.0.0 www.shinee.com
 0.0.0.0 www.skype4mobile.com
 0.0.0.0 www.snapp.asia
 0.0.0.0 www.tdedlove.com
