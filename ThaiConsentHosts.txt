@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707081501
+# Version: 201707082130
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -51,6 +51,7 @@
 0.0.0.0 chickyclub.net
 0.0.0.0 chz.mobi
 0.0.0.0 clickmlife.com
+0.0.0.0 clip.vu
 0.0.0.0 contentdd.net
 0.0.0.0 datapremium.com
 0.0.0.0 datapremium.net
