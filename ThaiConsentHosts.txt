@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707061510
+# Version: 201707081230
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -81,6 +81,7 @@
 0.0.0.0 kodporno.com
 0.0.0.0 larnload.com
 0.0.0.0 letgomobile.com
+0.0.0.0 lustzy.com
 0.0.0.0 maejaow.com
 0.0.0.0 magikmobile.mobi
 0.0.0.0 mastermovie-hd.mobi
@@ -205,6 +206,7 @@
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.seaman2u.com
+0.0.0.0 p.lustzy.com
 0.0.0.0 p1.maejaow.com
 0.0.0.0 p2.maejaow.com
 0.0.0.0 p3.maejaow.com
@@ -275,6 +277,7 @@
 0.0.0.0 www.gigth.com
 0.0.0.0 www.innnews.co.th
 0.0.0.0 www.kodporno.com
+0.0.0.0 www.lustzy.com
 0.0.0.0 www.mcommsg.com
 0.0.0.0 www.mobgkt.com
 0.0.0.0 www.mobico.my
