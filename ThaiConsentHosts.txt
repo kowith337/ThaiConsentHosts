@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707082130
+# Version: 201707091158
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -135,6 +135,7 @@
 0.0.0.0 thumbr.com
 0.0.0.0 thumbsms.com
 0.0.0.0 toon-land.com
+0.0.0.0 trackmeplease.com
 0.0.0.0 tweetsms.com.my
 0.0.0.0 vcgbtlktbagb.com
 0.0.0.0 vdocutesexy.mobi
@@ -321,6 +322,7 @@
 0.0.0.0 www.tdedlove.com
 0.0.0.0 www.thumbr.com
 0.0.0.0 www.toon-land.com
+0.0.0.0 www.trackmeplease.com
 0.0.0.0 www.tweetsms.com.my
 0.0.0.0 www.waplog.com
 0.0.0.0 zeed.bigolives.tv
