@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707091158
+# Version: 201707091626
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -76,6 +76,7 @@
 0.0.0.0 gmpmobi.com
 0.0.0.0 halocell.com
 0.0.0.0 hito.co.vu
+0.0.0.0 horoworld.com
 0.0.0.0 iamzaa.com
 0.0.0.0 innnews.co.th
 0.0.0.0 instantbabes.mobi
@@ -113,6 +114,7 @@
 0.0.0.0 ncontentmobile.com
 0.0.0.0 ncontentmv.com
 0.0.0.0 newsplus.me
+0.0.0.0 optsearch.net
 0.0.0.0 phubbers.com
 0.0.0.0 picwall.mobi
 0.0.0.0 playclub.me
@@ -126,6 +128,7 @@
 0.0.0.0 skype4mobile.com
 0.0.0.0 snapp.asia
 0.0.0.0 sosmob.mobi
+0.0.0.0 spak.me
 0.0.0.0 sswap.mobi
 0.0.0.0 sunmob.net
 0.0.0.0 sunnygames.club
@@ -196,6 +199,7 @@
 0.0.0.0 ivas.chickyclub.net
 0.0.0.0 l.vstyle4u.com
 0.0.0.0 landing.mcommsg.com
+0.0.0.0 lotto.thaiza.com
 0.0.0.0 lp.contentdd.net
 0.0.0.0 lp.gmpmobi.com
 0.0.0.0 lp.mobindy.com
@@ -234,9 +238,11 @@
 0.0.0.0 play.redlight.th.contentbox.stream
 0.0.0.0 rbt.getcools.com
 0.0.0.0 s.5sys.com
+0.0.0.0 service.horoworld.com
 0.0.0.0 shineeweb.shinee.com
 0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 star.etracker.cc
+0.0.0.0 stats.optsearch.net
 0.0.0.0 stream.cdnfiber.com
 0.0.0.0 t.vstyle4u.com
 0.0.0.0 th.contentbox.stream
