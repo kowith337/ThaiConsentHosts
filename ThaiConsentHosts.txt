@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707091626
+# Version: 201707101244
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -132,6 +132,7 @@
 0.0.0.0 sswap.mobi
 0.0.0.0 sunmob.net
 0.0.0.0 sunnygames.club
+0.0.0.0 symbioticinfo.com
 0.0.0.0 tdedlove.com
 0.0.0.0 thaifun4u.com
 0.0.0.0 thaiza.com
@@ -197,6 +198,7 @@
 0.0.0.0 img4.picwall.mobi
 0.0.0.0 img5.picwall.mobi
 0.0.0.0 ivas.chickyclub.net
+0.0.0.0 iwap.symbioticinfo.com
 0.0.0.0 l.vstyle4u.com
 0.0.0.0 landing.mcommsg.com
 0.0.0.0 lotto.thaiza.com
@@ -270,6 +272,7 @@
 0.0.0.0 wap.isport.co.th
 0.0.0.0 wap.mobgkt.com
 0.0.0.0 wap.shinee.com
+0.0.0.0 wap.symbioticinfo.com
 0.0.0.0 wap.thaiza.com
 0.0.0.0 wap1.cheesemobile.com
 0.0.0.0 wap1.sanookde.com
@@ -325,6 +328,7 @@
 0.0.0.0 www.shinee.com
 0.0.0.0 www.skype4mobile.com
 0.0.0.0 www.snapp.asia
+0.0.0.0 www.symbioticinfo.com
 0.0.0.0 www.tdedlove.com
 0.0.0.0 www.thumbr.com
 0.0.0.0 www.toon-land.com
