@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707151854
+# Version: 201707160836
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -27,6 +27,7 @@
 # Base Domain
 0.0.0.0 1mov.co
 0.0.0.0 5sys.com
+0.0.0.0 6988fa.com
 0.0.0.0 7banana.com
 0.0.0.0 7me.co
 0.0.0.0 8086.com.tw
@@ -127,6 +128,7 @@
 0.0.0.0 phubbers.com
 0.0.0.0 picwall.mobi
 0.0.0.0 playclub.me
+0.0.0.0 raptorads.net
 0.0.0.0 rushvip.net
 0.0.0.0 s-onetelecom.com
 0.0.0.0 sabai5555.com
@@ -221,6 +223,7 @@
 0.0.0.0 lp.contentdd.net
 0.0.0.0 lp.gmpmobi.com
 0.0.0.0 lp.mobindy.com
+0.0.0.0 lp.raptorads.net
 0.0.0.0 lps.mobindy.com
 0.0.0.0 lunla.chickyclub.net
 0.0.0.0 m.amkomobile.com
