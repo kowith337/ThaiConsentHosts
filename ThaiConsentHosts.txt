@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707180042
+# Version: 201707182322
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -163,6 +163,7 @@
 0.0.0.0 toon-land.com
 0.0.0.0 trackmeplease.com
 0.0.0.0 tweetsms.com.my
+0.0.0.0 vassolution.com
 0.0.0.0 vcgbtlktbagb.com
 0.0.0.0 vdocutesexy.mobi
 0.0.0.0 video-wrld.com
@@ -322,6 +323,7 @@
 0.0.0.0 wap.shinee.com
 0.0.0.0 wap.symbioticinfo.com
 0.0.0.0 wap.thaiza.com
+0.0.0.0 wap.vassolution.com
 0.0.0.0 wap1.cheesemobile.com
 0.0.0.0 wap1.sanookde.com
 0.0.0.0 wap2.cheesemobile.com
@@ -387,6 +389,7 @@
 0.0.0.0 www.toon-land.com
 0.0.0.0 www.trackmeplease.com
 0.0.0.0 www.tweetsms.com.my
+0.0.0.0 www.vassolution.com
 0.0.0.0 www.waplog.com
 0.0.0.0 zeed.bigolives.tv
 
