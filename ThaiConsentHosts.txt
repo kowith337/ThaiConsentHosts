@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707231333
+# Version: 201707231957
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -23,6 +23,8 @@
 0.0.0.0 203.146.249.21
 0.0.0.0 203.151.206.102
 0.0.0.0 203.223.159.245
+0.0.0.0 223.25.242.68
+0.0.0.0 223.25.242.69
 0.0.0.0 223.25.242.95
 
 # Base Domain
@@ -34,6 +36,7 @@
 0.0.0.0 8086.com.tw
 0.0.0.0 9v8p.com
 0.0.0.0 a1n.in
+0.0.0.0 a81.me
 0.0.0.0 achelous.mobi
 0.0.0.0 ad5network.com
 0.0.0.0 addlink.mobi
@@ -88,6 +91,7 @@
 0.0.0.0 globocom.co.in
 0.0.0.0 gogameportal.com
 0.0.0.0 gmpmobi.com
+0.0.0.0 gw2cloud.com
 0.0.0.0 halocell.com
 0.0.0.0 hito.co.vu
 0.0.0.0 horoworld.com
@@ -118,6 +122,7 @@
 0.0.0.0 mobifunz.com
 0.0.0.0 mobihibiz.com
 0.0.0.0 mobileacademy.com
+0.0.0.0 mobilegameblast.com
 0.0.0.0 mobilejmp.com
 0.0.0.0 mobindy.com
 0.0.0.0 mobiteacher.com
@@ -262,6 +267,7 @@
 0.0.0.0 m.vstyle4u.com
 0.0.0.0 m.zigifun.com
 0.0.0.0 mes.etracker.cc
+0.0.0.0 mgm.gw2cloud.com
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mobile.chickyclub.net
 0.0.0.0 mobile.gmpmobi.com
@@ -285,6 +291,7 @@
 0.0.0.0 play.vipgames.me
 0.0.0.0 rbt.getcools.com
 0.0.0.0 s.5sys.com
+0.0.0.0 sd.gw2cloud.com
 0.0.0.0 service.horoworld.com
 0.0.0.0 shineeweb.shinee.com
 0.0.0.0 sms.dlxxxvip.com
@@ -298,6 +305,7 @@
 0.0.0.0 th.gogameportal.com
 0.0.0.0 th.instantbabes.mobi
 0.0.0.0 th.mobgkt.com
+0.0.0.0 th.mobilegameblast.com
 0.0.0.0 th.mt.1mov.co
 0.0.0.0 th.n-mobile.net
 0.0.0.0 th.panshimob.com
