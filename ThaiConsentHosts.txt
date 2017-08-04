@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201707272218
+# Version: 201708041806
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -164,6 +164,7 @@
 0.0.0.0 sswap.mobi
 0.0.0.0 sunmob.net
 0.0.0.0 sunnygames.club
+0.0.0.0 surfto.mobi
 0.0.0.0 symbioticinfo.com
 0.0.0.0 tdedlove.com
 0.0.0.0 thaifun4u.com
@@ -234,6 +235,7 @@
 0.0.0.0 gk.wifistudy.com
 0.0.0.0 home.house365.com
 0.0.0.0 hot.chickyclub.net
+0.0.0.0 id.surfto.mobi
 0.0.0.0 img1.picwall.mobi
 0.0.0.0 img2.picwall.mobi
 0.0.0.0 img3.picwall.mobi
@@ -286,6 +288,7 @@
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.seaman2u.com
+0.0.0.0 my.surfto.mobi
 0.0.0.0 p.lustzy.com
 0.0.0.0 p1.maejaow.com
 0.0.0.0 p2.maejaow.com
@@ -319,6 +322,7 @@
 0.0.0.0 th.panshimob.com
 0.0.0.0 th.sswap.mobi
 0.0.0.0 th.sunnygames.club
+0.0.0.0 th.surfto.mobi
 0.0.0.0 th.waphub.mobi
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 uat.caportal.etracker.cc
@@ -335,6 +339,7 @@
 0.0.0.0 wap.ananda.chickyclub.net
 0.0.0.0 wap.ddzey.com
 0.0.0.0 wap.free.chickyclub.net
+0.0.0.0 wap.funspaz.com
 0.0.0.0 wap.getcools.com
 0.0.0.0 wap.globocom.co.in
 0.0.0.0 wap.gmpmobi.com
