@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201708041806
+# Version: 201708061354
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -136,6 +136,7 @@
 0.0.0.0 mobplanner.com
 0.0.0.0 momoga.com
 0.0.0.0 mono-mobile.com
+0.0.0.0 monogame.in.th
 0.0.0.0 movilfun4u.com
 0.0.0.0 mp3-shared.com
 0.0.0.0 myscoobi.com
@@ -149,6 +150,7 @@
 0.0.0.0 phubbers.com
 0.0.0.0 picwall.mobi
 0.0.0.0 playclub.me
+0.0.0.0 playplay.in.th
 0.0.0.0 raptorads.net
 0.0.0.0 rushvip.net
 0.0.0.0 s-onetelecom.com
@@ -270,6 +272,7 @@
 0.0.0.0 m.mobixing.com
 0.0.0.0 m.mobiz.guru
 0.0.0.0 m.mono-mobile.com
+0.0.0.0 m.monogame.in.th
 0.0.0.0 m.n-content.com
 0.0.0.0 m.sabver.com
 0.0.0.0 m.umobi.biz
@@ -406,6 +409,7 @@
 0.0.0.0 www.ncontentmv.com
 0.0.0.0 www.phubbers.com
 0.0.0.0 www.picwall.mobi
+0.0.0.0 www.playplay.in.th
 0.0.0.0 www.s-onetelecom.com
 0.0.0.0 www.sabai5555.com
 0.0.0.0 www.seaman2u.com
