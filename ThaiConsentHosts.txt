@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201708091230
+# Version: 201708172223
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -363,6 +363,7 @@
 0.0.0.0 wap3.sanookde.com
 0.0.0.0 web.chickyclub.net
 0.0.0.0 wifi.mobindy.com
+0.0.0.0 ws.n-content.com
 0.0.0.0 www.5sys.com
 0.0.0.0 www.8086.com.tw
 0.0.0.0 www.9v8p.com
