@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201708172223
+# Version: 201708241049
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -129,6 +129,7 @@
 0.0.0.0 mobileacademy.com
 0.0.0.0 mobilegameblast.com
 0.0.0.0 mobilejmp.com
+0.0.0.0 mobifan.com
 0.0.0.0 mobindy.com
 0.0.0.0 mobiteacher.com
 0.0.0.0 mobiteacher.me
@@ -270,6 +271,7 @@
 0.0.0.0 m.innnews.co.th
 0.0.0.0 m.kangped.com
 0.0.0.0 m.kodfin.com
+0.0.0.0 m.mobifan.com
 0.0.0.0 m.mobindy.com
 0.0.0.0 m.mobixing.com
 0.0.0.0 m.mobiz.guru
@@ -401,6 +403,7 @@
 0.0.0.0 www.mexcomm.net
 0.0.0.0 www.mobgkt.com
 0.0.0.0 www.mobico.my
+0.0.0.0 www.mobifan.com
 0.0.0.0 www.mobifunz.com
 0.0.0.0 www.mobihibiz.com
 0.0.0.0 www.mobilejmp.com
