@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201708241049
+# Version: 201708261440
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -295,6 +295,7 @@
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.seaman2u.com
+0.0.0.0 music.playclub.me
 0.0.0.0 my.surfto.mobi
 0.0.0.0 p.lustzy.com
 0.0.0.0 p1.maejaow.com
@@ -331,12 +332,14 @@
 0.0.0.0 th.sunnygames.club
 0.0.0.0 th.surfto.mobi
 0.0.0.0 th.waphub.mobi
+0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 uat.caportal.etracker.cc
 0.0.0.0 v.9v8p.com
 0.0.0.0 v.vstyle4u.com
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 vdo.bigolives.tv
+0.0.0.0 vidxx.playclub.me
 0.0.0.0 vplus.ais.co.th
 0.0.0.0 w.mcommsg.com
 0.0.0.0 w.vstyle4u.com
