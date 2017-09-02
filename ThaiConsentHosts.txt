@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201708261440
+# Version: 201709021920
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -91,6 +91,7 @@
 0.0.0.0 gangzaa.net
 0.0.0.0 getclick.mobi
 0.0.0.0 gigth.com
+0.0.0.0 girl18plus.sexy-here.com
 0.0.0.0 gizmobi.mobi
 0.0.0.0 globocom.co.in
 0.0.0.0 gmpmobi.com
@@ -161,6 +162,7 @@
 0.0.0.0 sabver.com
 0.0.0.0 sanookde.com
 0.0.0.0 seaman2u.com
+0.0.0.0 sexy-here.com
 0.0.0.0 shinee.com
 0.0.0.0 skype4mobile.com
 0.0.0.0 snapp.asia
@@ -310,6 +312,9 @@
 0.0.0.0 play.vipgames.me
 0.0.0.0 rbt.getcools.com
 0.0.0.0 s.5sys.com
+0.0.0.0 s1.mono-mobile.com
+0.0.0.0 s2.mono-mobile.com
+0.0.0.0 s3.mono-mobile.com
 0.0.0.0 sd.gw2cloud.com
 0.0.0.0 service.horoworld.com
 0.0.0.0 shineeweb.shinee.com
