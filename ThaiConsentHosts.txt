@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201709021920
+# Version: 201709022001
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -54,7 +54,7 @@
 0.0.0.0 beezzi.com
 0.0.0.0 bigolives.tv
 0.0.0.0 breathing-love.com
-0.0.0.0 c1dovw6eef5jop8apwjkqy5ro5mlafkc.com
+0.0.0.0 clickmultimedia.co.th
 0.0.0.0 cdnfiber.com
 0.0.0.0 centili.com
 0.0.0.0 cheesemobile.com
@@ -86,7 +86,6 @@
 0.0.0.0 fungame.mobi
 0.0.0.0 funspaz.com
 0.0.0.0 funster.mobi
-0.0.0.0 fylitcl7pf7kjqdduolqouaxtxbj5ing.com
 0.0.0.0 gamepanda.me
 0.0.0.0 gangzaa.net
 0.0.0.0 getclick.mobi
@@ -389,7 +388,7 @@
 0.0.0.0 www.app3.datapremium.net
 0.0.0.0 www.appsilike.mobi
 0.0.0.0 www.breathing-love.com
-0.0.0.0 www.c1dovw6eef5jop8apwjkqy5ro5mlafkc.com
+0.0.0.0 www.clickmultimedia.co.th
 0.0.0.0 www.centili.com
 0.0.0.0 www.chickyclub.net
 0.0.0.0 www.ddzey.com
@@ -397,7 +396,6 @@
 0.0.0.0 www.etracker.cc 
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
-0.0.0.0 www.fylitcl7pf7kjqdduolqouaxtxbj5ing.com
 0.0.0.0 www.getclick.mobi
 0.0.0.0 www.gigth.com
 0.0.0.0 www.gmpmobi.com
