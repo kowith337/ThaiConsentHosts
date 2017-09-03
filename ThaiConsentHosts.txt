@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201709022001
+# Version: 201709031128
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -19,6 +19,7 @@
 0.0.0.0 43.231.124.161
 0.0.0.0 52.220.167.186
 0.0.0.0 52.76.242.20
+0.0.0.0 56.76.86.177
 0.0.0.0 58.181.206.44
 0.0.0.0 65.49.33.31
 0.0.0.0 124.158.4.91
@@ -124,6 +125,7 @@
 0.0.0.0 mobgkt.com
 0.0.0.0 mobico.my
 0.0.0.0 mobidevil.com
+0.0.0.0 mobifun4u.com
 0.0.0.0 mobifunz.com
 0.0.0.0 mobihibiz.com
 0.0.0.0 mobileacademy.com
