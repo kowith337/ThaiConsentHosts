@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201709051255
+# Version: 201709072013
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -166,6 +166,7 @@
 0.0.0.0 seaman2u.com
 0.0.0.0 sexy-here.com
 0.0.0.0 shinee.com
+0.0.0.0 shoopadoo.com
 0.0.0.0 skype4mobile.com
 0.0.0.0 smsgateway.cc
 0.0.0.0 snapp.asia
@@ -223,6 +224,7 @@
 0.0.0.0 c9.ltvperf.com
 0.0.0.0 caportal.etracker.cc
 0.0.0.0 cdn.globocom.co.in
+0.0.0.0 cell.th.shoopadoo.com
 0.0.0.0 clientreports.etracker.cc
 0.0.0.0 console.etracker.cc
 0.0.0.0 content.eskimi.com
@@ -272,6 +274,7 @@
 0.0.0.0 m.arco.co.th
 0.0.0.0 m.b-qq.com
 0.0.0.0 m.clickmlife.com
+0.0.0.0 m.dk.shoopadoo.com
 0.0.0.0 m.eskimi.com
 0.0.0.0 m.fun2u.biz
 0.0.0.0 m.gangzaa.net
@@ -286,6 +289,7 @@
 0.0.0.0 m.monogame.in.th
 0.0.0.0 m.n-content.com
 0.0.0.0 m.sabver.com
+0.0.0.0 m.th.shoopadoo.com
 0.0.0.0 m.umobi.biz
 0.0.0.0 m.vipgames.me
 0.0.0.0 m.vstyle4u.com
@@ -436,6 +440,7 @@
 0.0.0.0 www.sabai5555.com
 0.0.0.0 www.seaman2u.com
 0.0.0.0 www.shinee.com
+0.0.0.0 www.shoopadoo.com
 0.0.0.0 www.skype4mobile.com
 0.0.0.0 www.snapp.asia
 0.0.0.0 www.symbioticinfo.com
