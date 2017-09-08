@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201709072013
+# Version: 201709082012
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -59,6 +59,7 @@
 0.0.0.0 cdnfiber.com
 0.0.0.0 centili.com
 0.0.0.0 cheesemobile.com
+0.0.0.0 cherryzone.com.ph
 0.0.0.0 chickyclub.net
 0.0.0.0 chz.mobi
 0.0.0.0 ckwizard.com
@@ -273,6 +274,7 @@
 0.0.0.0 m.amkomobile.com
 0.0.0.0 m.arco.co.th
 0.0.0.0 m.b-qq.com
+0.0.0.0 m.cherryzone.com.ph
 0.0.0.0 m.clickmlife.com
 0.0.0.0 m.dk.shoopadoo.com
 0.0.0.0 m.eskimi.com
