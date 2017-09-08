@@ -1,16 +1,19 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201709082012
+# Version: 201709082354
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
 
-# Operator Prompt
+# Operator
 0.0.0.0 comenu.ais.co.th
 0.0.0.0 consentprt.dtac.co.th
+0.0.0.0 srf.ais.co.th
 0.0.0.0 ss1.mobilelife.co.th
 0.0.0.0 ss2.mobilelife.co.th
 0.0.0.0 ss3.mobilelife.co.th
+0.0.0.0 vas.dtac.co.th
+0.0.0.0 wap.dtac.co.th
 
 # IP Address
 0.0.0.0 10.104.143.133
@@ -355,7 +358,6 @@
 0.0.0.0 uat.caportal.etracker.cc
 0.0.0.0 v.9v8p.com
 0.0.0.0 v.vstyle4u.com
-0.0.0.0 vas.dtac.co.th
 0.0.0.0 vdo.bigolives.tv
 0.0.0.0 vidxx.playclub.me
 0.0.0.0 vplus.ais.co.th
@@ -366,7 +368,6 @@
 0.0.0.0 wap.amkomobile.com
 0.0.0.0 wap.ananda.chickyclub.net
 0.0.0.0 wap.ddzey.com
-0.0.0.0 wap.dtac.co.th
 0.0.0.0 wap.free.chickyclub.net
 0.0.0.0 wap.funspaz.com
 0.0.0.0 wap.getcools.com
