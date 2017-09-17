@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201709180114
+# Version: 201709180121
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -112,6 +112,7 @@
 0.0.0.0 house365.com
 0.0.0.0 i-link.co
 0.0.0.0 iamzaa.com
+0.0.0.0 idgame.net
 0.0.0.0 innnews.co.th
 0.0.0.0 instantbabes.mobi
 0.0.0.0 iqwmxn.com
@@ -167,6 +168,7 @@
 0.0.0.0 playclub.me
 0.0.0.0 playplay.in.th
 0.0.0.0 raptorads.net
+0.0.0.0 ringtoneth.com
 0.0.0.0 rushvip.net
 0.0.0.0 s-onetelecom.com
 0.0.0.0 sabai5555.com
@@ -193,6 +195,7 @@
 0.0.0.0 thmobi.com
 0.0.0.0 thumbr.com
 0.0.0.0 thumbsms.com
+0.0.0.0 thvideo.net
 0.0.0.0 toon-land.com
 0.0.0.0 trackmeplease.com
 0.0.0.0 tweetsms.com.my
@@ -203,12 +206,16 @@
 0.0.0.0 vedaapp.com
 0.0.0.0 video-wrld.com
 0.0.0.0 videowap.net
+0.0.0.0 videosthai.com
+0.0.0.0 vilangames.xyz
 0.0.0.0 vipgames.me
 0.0.0.0 viral-mix.com
 0.0.0.0 vstyle4u.com
 0.0.0.0 waphub.mobi
 0.0.0.0 waplog.com
 0.0.0.0 wifistudy.com
+0.0.0.0 wppbbm.com
+0.0.0.0 wpwhatsappplus.com
 0.0.0.0 youlaugh.online
 0.0.0.0 zigifun.com
 0.0.0.0 zomobie.com
@@ -426,6 +433,7 @@
 0.0.0.0 www.gmpmobi.com
 0.0.0.0 www.gogameportal.com
 0.0.0.0 www.i-link.co
+0.0.0.0 www.idgame.net
 0.0.0.0 www.innnews.co.th
 0.0.0.0 www.iqwmxn.com
 0.0.0.0 www.kodporno.com
