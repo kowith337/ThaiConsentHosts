@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201709170019
+# Version: 201709180114
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -26,6 +26,7 @@
 0.0.0.0 58.181.206.44
 0.0.0.0 65.49.33.31
 0.0.0.0 124.158.4.91
+0.0.0.0 139.162.57.169
 0.0.0.0 203.146.249.21
 0.0.0.0 203.151.206.102
 0.0.0.0 203.223.147.133
@@ -69,6 +70,7 @@
 0.0.0.0 clickmultimedia.co.th
 0.0.0.0 clickstk.com
 0.0.0.0 clip.vu
+0.0.0.0 clipcute.info
 0.0.0.0 contentbox.stream
 0.0.0.0 contentdd.net
 0.0.0.0 coolzee.net
@@ -93,6 +95,7 @@
 0.0.0.0 funspaz.com
 0.0.0.0 funster.mobi
 0.0.0.0 gamepanda.me
+0.0.0.0 gameth.net
 0.0.0.0 gangzaa.net
 0.0.0.0 getclick.mobi
 0.0.0.0 getcools.com
