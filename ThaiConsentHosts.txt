@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201709192117
+# Version: 201709232200
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -169,6 +169,7 @@
 0.0.0.0 playplay.in.th
 0.0.0.0 raptorads.net
 0.0.0.0 ringtoneth.com
+0.0.0.0 rockymobi.com
 0.0.0.0 rushvip.net
 0.0.0.0 s-onetelecom.com
 0.0.0.0 sabai5555.com
@@ -205,8 +206,9 @@
 0.0.0.0 vdocutesexy.mobi
 0.0.0.0 vedaapp.com
 0.0.0.0 video-wrld.com
-0.0.0.0 videowap.net
+0.0.0.0 videopaper.win
 0.0.0.0 videosthai.com
+0.0.0.0 videowap.net
 0.0.0.0 vilangames.xyz
 0.0.0.0 vipgames.me
 0.0.0.0 viral-mix.com
@@ -321,6 +323,7 @@
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mobile.chickyclub.net
 0.0.0.0 mobile.gmpmobi.com
+0.0.0.0 mobile.rockymobi.com
 0.0.0.0 mobile.shinee.com
 0.0.0.0 mone-analytics.mobileacademy.com
 0.0.0.0 moviemaster.vipgames.me
@@ -351,6 +354,7 @@
 0.0.0.0 shineeweb.shinee.com
 0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 srb.9v8p.com
+0.0.0.0 stage.centili.com
 0.0.0.0 star.etracker.cc
 0.0.0.0 stats.optsearch.net
 0.0.0.0 stream.cdnfiber.com
@@ -375,6 +379,7 @@
 0.0.0.0 v.9v8p.com
 0.0.0.0 v.vstyle4u.com
 0.0.0.0 vdo.bigolives.tv
+0.0.0.0 video.videopaper.win
 0.0.0.0 vidxx.playclub.me
 0.0.0.0 vplus.ais.co.th
 0.0.0.0 w.mcommsg.com
@@ -454,9 +459,11 @@
 0.0.0.0 www.ncontentmobile.com
 0.0.0.0 www.ncontentmv.com
 0.0.0.0 www.nmpcenter.com
+0.0.0.0 www.panshimob.com
 0.0.0.0 www.phubbers.com
 0.0.0.0 www.picwall.mobi
 0.0.0.0 www.playplay.in.th
+0.0.0.0 www.rockymobi.com
 0.0.0.0 www.s-onetelecom.com
 0.0.0.0 www.sabai5555.com
 0.0.0.0 www.seaman2u.com
@@ -471,6 +478,7 @@
 0.0.0.0 www.trackmeplease.com
 0.0.0.0 www.tweetsms.com.my
 0.0.0.0 www.vassolution.com
+0.0.0.0 www.videopaper.win
 0.0.0.0 www.viral-mix.com
 0.0.0.0 www.waplog.com
 0.0.0.0 zeed.bigolives.tv
