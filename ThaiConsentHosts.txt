@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201709232200
+# Version: 201710062326
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -66,6 +66,7 @@
 0.0.0.0 chickyclub.net
 0.0.0.0 chz.mobi
 0.0.0.0 ckwizard.com
+0.0.0.0 clausiafze.com
 0.0.0.0 clickmlife.com
 0.0.0.0 clickmultimedia.co.th
 0.0.0.0 clickstk.com
@@ -219,6 +220,8 @@
 0.0.0.0 wppbbm.com
 0.0.0.0 wpwhatsappplus.com
 0.0.0.0 youlaugh.online
+0.0.0.0 yuppytv.com
+0.0.0.0 yuppyuppytv.com
 0.0.0.0 zigifun.com
 0.0.0.0 zomobie.com
 
@@ -230,6 +233,7 @@
 0.0.0.0 alchemy.n-d.bz
 0.0.0.0 aoc-ic.smsgateway.cc
 0.0.0.0 api.centili.com
+0.0.0.0 az.yuppyuppytv.com
 0.0.0.0 bd.zomobie.com
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 c.beezzi.com
@@ -258,6 +262,8 @@
 0.0.0.0 e-mes.etracker.cc
 0.0.0.0 e-mis.etracker.cc
 0.0.0.0 e-reporting.etracker.cc
+0.0.0.0 eg.yuppyuppytv.com
+0.0.0.0 eg.yuppyuppytv.com
 0.0.0.0 extern.espabit.net
 0.0.0.0 f.deepbluetech.biz
 0.0.0.0 f1.chickyclub.net
@@ -372,6 +378,8 @@
 0.0.0.0 th.sunnygames.club
 0.0.0.0 th.surfto.mobi
 0.0.0.0 th.waphub.mobi
+0.0.0.0 th.yuppytv.com
+0.0.0.0 th.yuppyuppytv.com
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 tha.youlaugh.online
@@ -428,6 +436,7 @@
 0.0.0.0 www.breathing-love.com
 0.0.0.0 www.centili.com
 0.0.0.0 www.chickyclub.net
+0.0.0.0 www.clausiafze.com
 0.0.0.0 www.clickmultimedia.co.th
 0.0.0.0 www.ddzey.com
 0.0.0.0 www.deepbluetech.biz
