@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201710062326
+# Version: 201710091946
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -108,6 +108,7 @@
 0.0.0.0 gogameportal.com
 0.0.0.0 gw2cloud.com
 0.0.0.0 halocell.com
+0.0.0.0 hayhaa.com
 0.0.0.0 hito.co.vu
 0.0.0.0 horoworld.com
 0.0.0.0 house365.com
@@ -258,6 +259,7 @@
 0.0.0.0 d.sunmob.net
 0.0.0.0 datapremium.com.ve
 0.0.0.0 dev.centili.com
+0.0.0.0 dev.hayhaa.com
 0.0.0.0 dev.magikmobile.mobi
 0.0.0.0 e-mes.etracker.cc
 0.0.0.0 e-mis.etracker.cc
@@ -307,6 +309,7 @@
 0.0.0.0 m.eskimi.com
 0.0.0.0 m.fun2u.biz
 0.0.0.0 m.gangzaa.net
+0.0.0.0 m.hayhaa.com
 0.0.0.0 m.innnews.co.th
 0.0.0.0 m.kangped.com
 0.0.0.0 m.kodfin.com
