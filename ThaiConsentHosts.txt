@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201710091946
+# Version: 201710292121
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -48,6 +48,8 @@
 0.0.0.0 achelous.mobi
 0.0.0.0 ad5network.com
 0.0.0.0 addlink.mobi
+0.0.0.0 adfries.net
+0.0.0.0 adfrigate.com
 0.0.0.0 alpha-mobi.com
 0.0.0.0 amkomobile.com
 0.0.0.0 androidappsfree.mobi
@@ -251,6 +253,7 @@
 0.0.0.0 caportal.etracker.cc
 0.0.0.0 cdn.globocom.co.in
 0.0.0.0 cell.th.shoopadoo.com
+0.0.0.0 click.adfries.net
 0.0.0.0 clientreports.etracker.cc
 0.0.0.0 console.etracker.cc
 0.0.0.0 content.eskimi.com
