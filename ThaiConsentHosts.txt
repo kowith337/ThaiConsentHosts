@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201710292124
+# Version: 201711031916
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -198,6 +198,7 @@
 0.0.0.0 tdedlove.com
 0.0.0.0 thaifun4u.com
 0.0.0.0 thaiza.com
+0.0.0.0 thinksmart.co.th
 0.0.0.0 thmobi.com
 0.0.0.0 thumbr.com
 0.0.0.0 thumbsms.com
@@ -230,7 +231,10 @@
 0.0.0.0 zomobie.com
 
 # Variant
+0.0.0.0 1678.thinksmart.co.th
 0.0.0.0 2048kg.findgit.com
+0.0.0.0 2222.thinksmart.co.th
+0.0.0.0 888.thinksmart.co.th
 0.0.0.0 a.innnews.co.th
 0.0.0.0 a.n-d.bz
 0.0.0.0 aff.letgomobile.com
@@ -257,15 +261,19 @@
 0.0.0.0 click.adfries.net
 0.0.0.0 click.hypermobiworld.com
 0.0.0.0 clientreports.etracker.cc
+0.0.0.0 cms.thinksmart.co.th
 0.0.0.0 console.etracker.cc
 0.0.0.0 content.eskimi.com
 0.0.0.0 content.momoga.com
 0.0.0.0 corellinet.beezzi.com
 0.0.0.0 d.sunmob.net
 0.0.0.0 datapremium.com.ve
+0.0.0.0 deezer.thinksmart.co.th
 0.0.0.0 dev.centili.com
 0.0.0.0 dev.hayhaa.com
 0.0.0.0 dev.magikmobile.mobi
+0.0.0.0 dev3.thinksmart.co.th
+0.0.0.0 dtplay-web.thinksmart.co.th
 0.0.0.0 e-mes.etracker.cc
 0.0.0.0 e-mis.etracker.cc
 0.0.0.0 e-reporting.etracker.cc
@@ -333,6 +341,7 @@
 0.0.0.0 m.zigifun.com
 0.0.0.0 media.smsgateway.cc
 0.0.0.0 mes.etracker.cc
+0.0.0.0 mfadmin.thinksmart.co.th
 0.0.0.0 mgm.gw2cloud.com
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mobile.chickyclub.net
@@ -347,6 +356,8 @@
 0.0.0.0 mt.seaman2u.com
 0.0.0.0 music.playclub.me
 0.0.0.0 my.surfto.mobi
+0.0.0.0 nbc.thinksmart.co.th
+0.0.0.0 onads.thinksmart.co.th
 0.0.0.0 p.lustzy.com
 0.0.0.0 p1.maejaow.com
 0.0.0.0 p2.maejaow.com
@@ -366,6 +377,7 @@
 0.0.0.0 sd.gw2cloud.com
 0.0.0.0 service.horoworld.com
 0.0.0.0 shineeweb.shinee.com
+0.0.0.0 smrtads-app.thinksmart.co.th
 0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 srb.9v8p.com
 0.0.0.0 stage.centili.com
@@ -490,6 +502,7 @@
 0.0.0.0 www.snapp.asia
 0.0.0.0 www.symbioticinfo.com
 0.0.0.0 www.tdedlove.com
+0.0.0.0 www.thinksmart.co.th
 0.0.0.0 www.thumbr.com
 0.0.0.0 www.toon-land.com
 0.0.0.0 www.trackmeplease.com
