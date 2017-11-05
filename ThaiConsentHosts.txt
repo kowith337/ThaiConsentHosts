@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201711031916
+# Version: 201711051156
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -105,6 +105,7 @@
 0.0.0.0 gigth.com
 0.0.0.0 girl18plus.sexy-here.com
 0.0.0.0 gizmobi.mobi
+0.0.0.0 gktmobi.com
 0.0.0.0 globocom.co.in
 0.0.0.0 gmpmobi.com
 0.0.0.0 gogameportal.com
@@ -420,6 +421,7 @@
 0.0.0.0 wap.free.chickyclub.net
 0.0.0.0 wap.funspaz.com
 0.0.0.0 wap.getcools.com
+0.0.0.0 wap.gktmobi.com
 0.0.0.0 wap.globocom.co.in
 0.0.0.0 wap.gmpmobi.com
 0.0.0.0 wap.iamzaa.com
