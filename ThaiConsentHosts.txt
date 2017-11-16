@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201711081916
+# Version: 201711161408
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -178,6 +178,7 @@
 0.0.0.0 picwall.mobi
 0.0.0.0 playclub.me
 0.0.0.0 playplay.in.th
+0.0.0.0 puteez.com
 0.0.0.0 raptorads.net
 0.0.0.0 ringtoneth.com
 0.0.0.0 rockymobi.com
@@ -245,6 +246,7 @@
 0.0.0.0 a.n-d.bz
 0.0.0.0 aff.letgomobile.com
 0.0.0.0 alchemy.n-d.bz
+0.0.0.0 antivirus2017pro.m.puteez.com
 0.0.0.0 aoc-ic.smsgateway.cc
 0.0.0.0 api.centili.com
 0.0.0.0 az.yuppyuppytv.com
@@ -311,6 +313,7 @@
 0.0.0.0 l.clickstk.com
 0.0.0.0 l.vstyle4u.com
 0.0.0.0 landing.mcommsg.com
+0.0.0.0 landing.puteez.com
 0.0.0.0 live.gamepanda.me
 0.0.0.0 live.vipgames.me
 0.0.0.0 lotto.thaiza.com
@@ -344,6 +347,7 @@
 0.0.0.0 m.mono-mobile.com
 0.0.0.0 m.monogame.in.th
 0.0.0.0 m.n-content.com
+0.0.0.0 m.puteez.com
 0.0.0.0 m.sabver.com
 0.0.0.0 m.th.shoopadoo.com
 0.0.0.0 m.umobi.biz
