@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201711161408
+# Version: 201711182137
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -67,6 +67,7 @@
 0.0.0.0 centili.com
 0.0.0.0 cheesemobile.com
 0.0.0.0 cherryzone.com.ph
+0.0.0.0 chickcell.com
 0.0.0.0 chickyclub.net
 0.0.0.0 chz.mobi
 0.0.0.0 ckwizard.com
@@ -134,6 +135,7 @@
 0.0.0.0 letgomobile.com
 0.0.0.0 ltvperf.com
 0.0.0.0 lustzy.com
+0.0.0.0 m228.net
 0.0.0.0 ma3.co
 0.0.0.0 maejaow.com
 0.0.0.0 magikmobile.mobi
@@ -249,6 +251,7 @@
 0.0.0.0 antivirus2017pro.m.puteez.com
 0.0.0.0 aoc-ic.smsgateway.cc
 0.0.0.0 api.centili.com
+0.0.0.0 app.chickcell.com
 0.0.0.0 az.yuppyuppytv.com
 0.0.0.0 bd.zomobie.com
 0.0.0.0 bqm1.b-qq.com
@@ -401,6 +404,7 @@
 0.0.0.0 stream.cdnfiber.com
 0.0.0.0 t.vstyle4u.com
 0.0.0.0 th.9v8p.com
+0.0.0.0 th.chickcell.com
 0.0.0.0 th.contentbox.stream
 0.0.0.0 th.gogameportal.com
 0.0.0.0 th.instantbabes.mobi
@@ -418,9 +422,11 @@
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 tha.youlaugh.online
+0.0.0.0 thwpaper.m228.net
 0.0.0.0 uat.caportal.etracker.cc
 0.0.0.0 v.9v8p.com
 0.0.0.0 v.vstyle4u.com
+0.0.0.0 vc.mocomecome.com
 0.0.0.0 vdo.bigolives.tv
 0.0.0.0 video.videopaper.win
 0.0.0.0 vidxx.playclub.me
@@ -473,6 +479,7 @@
 0.0.0.0 www.appsilike.mobi
 0.0.0.0 www.breathing-love.com
 0.0.0.0 www.centili.com
+0.0.0.0 www.chickcell.com
 0.0.0.0 www.chickyclub.net
 0.0.0.0 www.clausiafze.com
 0.0.0.0 www.clickmultimedia.co.th
