@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201711182137
+# Version: 201711240833
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -251,6 +251,7 @@
 0.0.0.0 antivirus2017pro.m.puteez.com
 0.0.0.0 aoc-ic.smsgateway.cc
 0.0.0.0 api.centili.com
+0.0.0.0 api.mobgkt.com
 0.0.0.0 app.chickcell.com
 0.0.0.0 az.yuppyuppytv.com
 0.0.0.0 bd.zomobie.com
