@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201711261312
+# Version: 201711281119
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -22,6 +22,7 @@
 0.0.0.0 43.231.124.161
 0.0.0.0 52.220.167.186
 0.0.0.0 52.76.242.20
+0.0.0.0 54.169.240.216
 0.0.0.0 56.76.86.177
 0.0.0.0 58.181.206.44
 0.0.0.0 65.49.33.31
@@ -85,6 +86,7 @@
 0.0.0.0 datapremium.net
 0.0.0.0 ddzey.com
 0.0.0.0 deepbluetech.biz
+0.0.0.0 dindo.co.th
 0.0.0.0 dlxxxvip.com
 0.0.0.0 eggdigital.com
 0.0.0.0 eskimi.com
@@ -152,6 +154,7 @@
 0.0.0.0 mobifun4u.com
 0.0.0.0 mobifunz.com
 0.0.0.0 mobihibiz.com
+0.0.0.0 mobilart.in
 0.0.0.0 mobileacademy.com
 0.0.0.0 mobilegameblast.com
 0.0.0.0 mobilejmp.com
@@ -174,6 +177,7 @@
 0.0.0.0 ncontentmv.com
 0.0.0.0 newsplus.me
 0.0.0.0 nmpcenter.com
+0.0.0.0 nowportal.net
 0.0.0.0 optsearch.net
 0.0.0.0 panshimob.com
 0.0.0.0 phubbers.com
@@ -245,6 +249,7 @@
 0.0.0.0 2222.thinksmart.co.th
 0.0.0.0 888.thinksmart.co.th
 0.0.0.0 a.innnews.co.th
+0.0.0.0 a.mobilart.in
 0.0.0.0 a.n-d.bz
 0.0.0.0 aff.letgomobile.com
 0.0.0.0 alchemy.n-d.bz
@@ -302,6 +307,7 @@
 0.0.0.0 free.gangzaa.net
 0.0.0.0 g.zm.my
 0.0.0.0 gameroom.magikmobile.mobi
+0.0.0.0 games.nowportal.net
 0.0.0.0 gk.wifistudy.com
 0.0.0.0 home.house365.com
 0.0.0.0 hot.chickyclub.net
@@ -345,6 +351,7 @@
 0.0.0.0 m.kangped.com
 0.0.0.0 m.kodfin.com
 0.0.0.0 m.mobifan.com
+0.0.0.0 m.mobilart.in
 0.0.0.0 m.mobindy.com
 0.0.0.0 m.mobixing.com
 0.0.0.0 m.mobiz.guru
@@ -376,6 +383,7 @@
 0.0.0.0 music.playclub.me
 0.0.0.0 my.surfto.mobi
 0.0.0.0 nbc.thinksmart.co.th
+0.0.0.0 neomobilesestatic.azureedge.net
 0.0.0.0 onads.thinksmart.co.th
 0.0.0.0 p.lustzy.com
 0.0.0.0 p1.maejaow.com
@@ -403,6 +411,7 @@
 0.0.0.0 star.etracker.cc
 0.0.0.0 stats.optsearch.net
 0.0.0.0 stream.cdnfiber.com
+0.0.0.0 t.mobilart.in
 0.0.0.0 t.vstyle4u.com
 0.0.0.0 th.9v8p.com
 0.0.0.0 th.chickcell.com
@@ -424,6 +433,7 @@
 0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 tha.youlaugh.online
 0.0.0.0 thwpaper.m228.net
+0.0.0.0 u.mobilart.in
 0.0.0.0 uat.caportal.etracker.cc
 0.0.0.0 v.9v8p.com
 0.0.0.0 v.vstyle4u.com
@@ -486,6 +496,7 @@
 0.0.0.0 www.clickmultimedia.co.th
 0.0.0.0 www.ddzey.com
 0.0.0.0 www.deepbluetech.biz
+0.0.0.0 www.dindo.co.th
 0.0.0.0 www.etracker.cc 
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
@@ -515,6 +526,7 @@
 0.0.0.0 www.ncontentmobile.com
 0.0.0.0 www.ncontentmv.com
 0.0.0.0 www.nmpcenter.com
+0.0.0.0 www.nowportal.net
 0.0.0.0 www.panshimob.com
 0.0.0.0 www.phubbers.com
 0.0.0.0 www.picwall.mobi
