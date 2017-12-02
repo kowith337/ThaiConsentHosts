@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201711282222
+# Version: 201712022003
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -25,9 +25,11 @@
 0.0.0.0 54.169.240.216
 0.0.0.0 56.76.86.177
 0.0.0.0 58.181.206.44
+0.0.0.0 61.91.6.131
 0.0.0.0 65.49.33.31
 0.0.0.0 124.158.4.91
 0.0.0.0 139.162.57.169
+0.0.0.0 202.9.104.118
 0.0.0.0 203.146.249.21
 0.0.0.0 203.146.251.229
 0.0.0.0 203.151.206.102
@@ -38,6 +40,7 @@
 0.0.0.0 223.25.242.95
 
 # Base Domain
+0.0.0.0 181818.com.my
 0.0.0.0 1mov.co
 0.0.0.0 321load.com
 0.0.0.0 5sys.com
@@ -53,6 +56,7 @@
 0.0.0.0 addlink.mobi
 0.0.0.0 adfries.net
 0.0.0.0 adfrigate.com
+0.0.0.0 affmoney.top
 0.0.0.0 alpha-mobi.com
 0.0.0.0 amkomobile.com
 0.0.0.0 androidappsfree.mobi
@@ -71,6 +75,8 @@
 0.0.0.0 cherryzone.com.ph
 0.0.0.0 chickcell.com
 0.0.0.0 chickyclub.net
+0.0.0.0 chilliclubs.com
+0.0.0.0 chocoboard.com
 0.0.0.0 chz.mobi
 0.0.0.0 ckwizard.com
 0.0.0.0 clausiafze.com
@@ -83,10 +89,13 @@
 0.0.0.0 contentbox.stream
 0.0.0.0 contentdd.net
 0.0.0.0 coolzee.net
+0.0.0.0 cutties.net
 0.0.0.0 datapremium.com
 0.0.0.0 datapremium.net
+0.0.0.0 datinggirls.info
 0.0.0.0 ddzey.com
 0.0.0.0 deepbluetech.biz
+0.0.0.0 digi.com.my
 0.0.0.0 dindo.co.th
 0.0.0.0 dlxxxvip.com
 0.0.0.0 eggdigital.com
@@ -94,6 +103,7 @@
 0.0.0.0 espabit.net
 0.0.0.0 etracker.cc 
 0.0.0.0 facabooks.com
+0.0.0.0 fblives.net
 0.0.0.0 findgit.com
 0.0.0.0 fly2.me
 0.0.0.0 fly2me.com
@@ -103,6 +113,7 @@
 0.0.0.0 fun-club.mobi
 0.0.0.0 fun2u.biz
 0.0.0.0 fungame.mobi
+0.0.0.0 funsexy.info
 0.0.0.0 funspaz.com
 0.0.0.0 funster.mobi
 0.0.0.0 gamepanda.me
@@ -131,6 +142,7 @@
 0.0.0.0 instantbabes.mobi
 0.0.0.0 iqwmxn.com
 0.0.0.0 isport.co.th
+0.0.0.0 jmtt.co.th
 0.0.0.0 kangped.com
 0.0.0.0 kodfin.com
 0.0.0.0 kodporno.com
@@ -162,6 +174,7 @@
 0.0.0.0 mobindy.com
 0.0.0.0 mobiteacher.com
 0.0.0.0 mobiteacher.me
+0.0.0.0 mobivite.net
 0.0.0.0 mobixing.com
 0.0.0.0 mobiz.guru
 0.0.0.0 mobl-apps.com
@@ -171,6 +184,7 @@
 0.0.0.0 monogame.in.th
 0.0.0.0 movilfun4u.com
 0.0.0.0 mp3-shared.com
+0.0.0.0 mtouche.com
 0.0.0.0 myscoobi.com
 0.0.0.0 n-content.com
 0.0.0.0 n-mobile.net
@@ -184,9 +198,11 @@
 0.0.0.0 phubbers.com
 0.0.0.0 picwall.mobi
 0.0.0.0 playclub.me
+0.0.0.0 playinvaders.com
 0.0.0.0 playplay.in.th
 0.0.0.0 puteez.com
 0.0.0.0 raptorads.net
+0.0.0.0 redporntube.xyz
 0.0.0.0 ringtoneth.com
 0.0.0.0 rockymobi.com
 0.0.0.0 rushvip.net
@@ -204,6 +220,7 @@
 0.0.0.0 sosmob.mobi
 0.0.0.0 spak.me
 0.0.0.0 sswap.mobi
+0.0.0.0 stream-flix.mobi
 0.0.0.0 streamflix.mobi
 0.0.0.0 sunmob.net
 0.0.0.0 sunnygames.club
@@ -212,14 +229,17 @@
 0.0.0.0 tdedlove.com
 0.0.0.0 thaifun4u.com
 0.0.0.0 thaiza.com
+0.0.0.0 thepind.mobi
 0.0.0.0 thinksmart.co.th
 0.0.0.0 thmobi.com
 0.0.0.0 thumbr.com
 0.0.0.0 thumbsms.com
 0.0.0.0 thvideo.net
+0.0.0.0 tomlekded.com
 0.0.0.0 tomyamclub.com
 0.0.0.0 toon-land.com
 0.0.0.0 trackmeplease.com
+0.0.0.0 tubecorporate.com
 0.0.0.0 tweetsms.com.my
 0.0.0.0 umobi.biz
 0.0.0.0 vassolution.com
@@ -250,6 +270,7 @@
 0.0.0.0 2048kg.findgit.com
 0.0.0.0 2222.thinksmart.co.th
 0.0.0.0 888.thinksmart.co.th
+0.0.0.0 8gua.chocoboard.com
 0.0.0.0 a.innnews.co.th
 0.0.0.0 a.mobilart.in
 0.0.0.0 a.n-d.bz
@@ -261,6 +282,8 @@
 0.0.0.0 api.mobgkt.com
 0.0.0.0 app.chickcell.com
 0.0.0.0 az.yuppyuppytv.com
+0.0.0.0 b2b.mtouche.com
+0.0.0.0 b2bmy.mtouche.com
 0.0.0.0 bd.zomobie.com
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 c.beezzi.com
@@ -276,7 +299,11 @@
 0.0.0.0 c9.ltvperf.com
 0.0.0.0 caportal.etracker.cc
 0.0.0.0 cdn.globocom.co.in
+0.0.0.0 cdn.lustzy.com
+0.0.0.0 cdn.mobivite.net
+0.0.0.0 cdn.static.mobgkt.com
 0.0.0.0 cell.th.shoopadoo.com
+0.0.0.0 cheras.mtouche.com
 0.0.0.0 click.adfries.net
 0.0.0.0 click.hypermobiworld.com
 0.0.0.0 clientreports.etracker.cc
@@ -287,6 +314,8 @@
 0.0.0.0 content.momoga.com
 0.0.0.0 corellinet.beezzi.com
 0.0.0.0 d.sunmob.net
+0.0.0.0 d22ndsbwwggzum.cloudfront.net
+0.0.0.0 data-4d-2.monitoringservice.co
 0.0.0.0 datapremium.com.ve
 0.0.0.0 deezer.thinksmart.co.th
 0.0.0.0 dev.centili.com
@@ -304,6 +333,7 @@
 0.0.0.0 f1.chickyclub.net
 0.0.0.0 f2.chickyclub.net
 0.0.0.0 f3.chickyclub.net
+0.0.0.0 faq.chocoboard.com
 0.0.0.0 fc.mobiteacher.me
 0.0.0.0 free.chickyclub.net
 0.0.0.0 free.gangzaa.net
@@ -311,17 +341,21 @@
 0.0.0.0 gameroom.magikmobile.mobi
 0.0.0.0 games.nowportal.net
 0.0.0.0 gk.wifistudy.com
+0.0.0.0 gsc.1mov.co
 0.0.0.0 home.house365.com
 0.0.0.0 hot.chickyclub.net
 0.0.0.0 id.surfto.mobi
+0.0.0.0 img.redporntube.xyz
 0.0.0.0 img1.picwall.mobi
 0.0.0.0 img2.picwall.mobi
 0.0.0.0 img3.picwall.mobi
 0.0.0.0 img4.picwall.mobi
 0.0.0.0 img5.picwall.mobi
+0.0.0.0 in.tubecorporate.com
 0.0.0.0 ivas.chickyclub.net
 0.0.0.0 ivr.eggdigital.com
 0.0.0.0 iwap.symbioticinfo.com
+0.0.0.0 kmlpg.adsbtrack.com
 0.0.0.0 l.clickstk.com
 0.0.0.0 l.vstyle4u.com
 0.0.0.0 landing.mcommsg.com
@@ -375,6 +409,7 @@
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mobile.chickyclub.net
 0.0.0.0 mobile.gmpmobi.com
+0.0.0.0 mobile.mthai.com
 0.0.0.0 mobile.rockymobi.com
 0.0.0.0 mobile.shinee.com
 0.0.0.0 mone-analytics.mobileacademy.com
@@ -397,9 +432,11 @@
 0.0.0.0 pages.mli.me
 0.0.0.0 pages.mobiteacher.com
 0.0.0.0 pages.vipgames.me
+0.0.0.0 pay.gmpmobi.com
 0.0.0.0 pcs.chickyclub.net
 0.0.0.0 play.redlight.th.contentbox.stream
 0.0.0.0 play.vipgames.me
+0.0.0.0 private.playinvaders.com
 0.0.0.0 rbt.getcools.com
 0.0.0.0 s.5sys.com
 0.0.0.0 s1.mono-mobile.com
@@ -407,12 +444,19 @@
 0.0.0.0 s3.mono-mobile.com
 0.0.0.0 sd.gw2cloud.com
 0.0.0.0 service.horoworld.com
+0.0.0.0 sg.affmoney.top
+0.0.0.0 sg.datinggirls.info
 0.0.0.0 shineeweb.shinee.com
 0.0.0.0 smrtads-app.thinksmart.co.th
 0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 srb.9v8p.com
 0.0.0.0 stage.centili.com
 0.0.0.0 star.etracker.cc
+0.0.0.0 static.chilliclubs.com
+0.0.0.0 static.chocoboard.com
+0.0.0.0 static.mobgkt.com
+0.0.0.0 static.mobivite.net
+0.0.0.0 static.mtouche.com
 0.0.0.0 stats.optsearch.net
 0.0.0.0 stream.cdnfiber.com
 0.0.0.0 t.mobilart.in
@@ -437,6 +481,7 @@
 0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 tha.youlaugh.online
 0.0.0.0 thwpaper.m228.net
+0.0.0.0 transcodedmedia.mobivite.net
 0.0.0.0 u.mobilart.in
 0.0.0.0 uat.caportal.etracker.cc
 0.0.0.0 v.9v8p.com
@@ -446,9 +491,11 @@
 0.0.0.0 video.videopaper.win
 0.0.0.0 vidxx.playclub.me
 0.0.0.0 vplus.ais.co.th
+0.0.0.0 w.chilliclubs.com
 0.0.0.0 w.mcommsg.com
 0.0.0.0 w.vstyle4u.com
 0.0.0.0 wallpaper.vstyle4u.com
+0.0.0.0 wap-cpa.digi.com.my
 0.0.0.0 wap.321load.com
 0.0.0.0 wap.7banana.com
 0.0.0.0 wap.amkomobile.com
@@ -479,6 +526,8 @@
 0.0.0.0 wifi.mobicute.com
 0.0.0.0 wifi.mobindy.com
 0.0.0.0 ws.n-content.com
+0.0.0.0 ww1.funsexy.info
+0.0.0.0 www.181818.com.my
 0.0.0.0 www.5sys.com
 0.0.0.0 www.8086.com.tw
 0.0.0.0 www.9v8p.com
@@ -498,12 +547,16 @@
 0.0.0.0 www.centili.com
 0.0.0.0 www.chickcell.com
 0.0.0.0 www.chickyclub.net
+0.0.0.0 www.chilliclubs.com
+0.0.0.0 www.chocoboard.com
 0.0.0.0 www.clausiafze.com
 0.0.0.0 www.clickmultimedia.co.th
+0.0.0.0 www.cutties.net
 0.0.0.0 www.ddzey.com
 0.0.0.0 www.deepbluetech.biz
 0.0.0.0 www.dindo.co.th
 0.0.0.0 www.etracker.cc 
+0.0.0.0 www.fblives.net
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
 0.0.0.0 www.getclick.mobi
@@ -515,6 +568,7 @@
 0.0.0.0 www.idgame.net
 0.0.0.0 www.innnews.co.th
 0.0.0.0 www.iqwmxn.com
+0.0.0.0 www.jmtt.co.th
 0.0.0.0 www.kodporno.com
 0.0.0.0 www.lustzy.com
 0.0.0.0 www.mcommsg.com
@@ -525,9 +579,12 @@
 0.0.0.0 www.mobifunz.com
 0.0.0.0 www.mobihibiz.com
 0.0.0.0 www.mobilejmp.com
+0.0.0.0 www.mobivite.net
 0.0.0.0 www.mobplanner.com
+0.0.0.0 www.mono-mobile.com
 0.0.0.0 www.movilfun4u.com
 0.0.0.0 www.mp3-shared.com
+0.0.0.0 www.mtouche.com
 0.0.0.0 www.n-content.com
 0.0.0.0 www.ncontentmobile.com
 0.0.0.0 www.ncontentmv.com
@@ -549,6 +606,7 @@
 0.0.0.0 www.tdedlove.com
 0.0.0.0 www.thinksmart.co.th
 0.0.0.0 www.thumbr.com
+0.0.0.0 www.tomlekded.com
 0.0.0.0 www.tomyamclub.com
 0.0.0.0 www.toon-land.com
 0.0.0.0 www.trackmeplease.com
@@ -558,106 +616,3 @@
 0.0.0.0 www.viral-mix.com
 0.0.0.0 www.waplog.com
 0.0.0.0 zeed.bigolives.tv
-
-# What the heck of these domains!?
-0.0.0.0 woaifanyi.com
-0.0.0.0 www.woaifanyi.com
-0.0.0.0 www1.woaifanyi.com
-0.0.0.0 www2.woaifanyi.com
-0.0.0.0 www3.woaifanyi.com
-0.0.0.0 www4.woaifanyi.com
-0.0.0.0 www5.woaifanyi.com
-0.0.0.0 www6.woaifanyi.com
-0.0.0.0 www7.woaifanyi.com
-0.0.0.0 www8.woaifanyi.com
-0.0.0.0 www9.woaifanyi.com
-0.0.0.0 www10.woaifanyi.com
-0.0.0.0 www11.woaifanyi.com
-0.0.0.0 www12.woaifanyi.com
-0.0.0.0 www13.woaifanyi.com
-0.0.0.0 www14.woaifanyi.com
-0.0.0.0 www15.woaifanyi.com
-0.0.0.0 www16.woaifanyi.com
-0.0.0.0 www17.woaifanyi.com
-0.0.0.0 www18.woaifanyi.com
-0.0.0.0 www19.woaifanyi.com
-0.0.0.0 www20.woaifanyi.com
-0.0.0.0 www21.woaifanyi.com
-0.0.0.0 www22.woaifanyi.com
-0.0.0.0 www23.woaifanyi.com
-0.0.0.0 www24.woaifanyi.com
-0.0.0.0 www25.woaifanyi.com
-0.0.0.0 www26.woaifanyi.com
-0.0.0.0 www27.woaifanyi.com
-0.0.0.0 www28.woaifanyi.com
-0.0.0.0 www29.woaifanyi.com
-0.0.0.0 www30.woaifanyi.com
-0.0.0.0 www31.woaifanyi.com
-0.0.0.0 www32.woaifanyi.com
-0.0.0.0 www33.woaifanyi.com
-0.0.0.0 www34.woaifanyi.com
-0.0.0.0 www35.woaifanyi.com
-0.0.0.0 www36.woaifanyi.com
-0.0.0.0 www37.woaifanyi.com
-0.0.0.0 www38.woaifanyi.com
-0.0.0.0 www39.woaifanyi.com
-0.0.0.0 www40.woaifanyi.com
-0.0.0.0 www41.woaifanyi.com
-0.0.0.0 www42.woaifanyi.com
-0.0.0.0 www43.woaifanyi.com
-0.0.0.0 www44.woaifanyi.com
-0.0.0.0 www45.woaifanyi.com
-0.0.0.0 www46.woaifanyi.com
-0.0.0.0 www47.woaifanyi.com
-0.0.0.0 www48.woaifanyi.com
-0.0.0.0 www49.woaifanyi.com
-0.0.0.0 www50.woaifanyi.com
-0.0.0.0 www51.woaifanyi.com
-0.0.0.0 www52.woaifanyi.com
-0.0.0.0 www53.woaifanyi.com
-0.0.0.0 www54.woaifanyi.com
-0.0.0.0 www55.woaifanyi.com
-0.0.0.0 www56.woaifanyi.com
-0.0.0.0 www57.woaifanyi.com
-0.0.0.0 www58.woaifanyi.com
-0.0.0.0 www59.woaifanyi.com
-0.0.0.0 www60.woaifanyi.com
-0.0.0.0 www61.woaifanyi.com
-0.0.0.0 www62.woaifanyi.com
-0.0.0.0 www63.woaifanyi.com
-0.0.0.0 www64.woaifanyi.com
-0.0.0.0 www65.woaifanyi.com
-0.0.0.0 www66.woaifanyi.com
-0.0.0.0 www67.woaifanyi.com
-0.0.0.0 www68.woaifanyi.com
-0.0.0.0 www69.woaifanyi.com
-0.0.0.0 www70.woaifanyi.com
-0.0.0.0 www71.woaifanyi.com
-0.0.0.0 www72.woaifanyi.com
-0.0.0.0 www73.woaifanyi.com
-0.0.0.0 www74.woaifanyi.com
-0.0.0.0 www75.woaifanyi.com
-0.0.0.0 www76.woaifanyi.com
-0.0.0.0 www77.woaifanyi.com
-0.0.0.0 www78.woaifanyi.com
-0.0.0.0 www79.woaifanyi.com
-0.0.0.0 www80.woaifanyi.com
-0.0.0.0 www81.woaifanyi.com
-0.0.0.0 www82.woaifanyi.com
-0.0.0.0 www83.woaifanyi.com
-0.0.0.0 www84.woaifanyi.com
-0.0.0.0 www85.woaifanyi.com
-0.0.0.0 www86.woaifanyi.com
-0.0.0.0 www87.woaifanyi.com
-0.0.0.0 www88.woaifanyi.com
-0.0.0.0 www89.woaifanyi.com
-0.0.0.0 www90.woaifanyi.com
-0.0.0.0 www91.woaifanyi.com
-0.0.0.0 www92.woaifanyi.com
-0.0.0.0 www93.woaifanyi.com
-0.0.0.0 www94.woaifanyi.com
-0.0.0.0 www95.woaifanyi.com
-0.0.0.0 www96.woaifanyi.com
-0.0.0.0 www97.woaifanyi.com
-0.0.0.0 www98.woaifanyi.com
-0.0.0.0 www99.woaifanyi.com
