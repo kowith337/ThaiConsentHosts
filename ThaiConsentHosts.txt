@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712022003
+# Version: 201712051040
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -30,6 +30,7 @@
 0.0.0.0 124.158.4.91
 0.0.0.0 139.162.57.169
 0.0.0.0 202.9.104.118
+0.0.0.0 203.146.208.145
 0.0.0.0 203.146.249.21
 0.0.0.0 203.146.251.229
 0.0.0.0 203.151.206.102
@@ -59,6 +60,7 @@
 0.0.0.0 affmoney.top
 0.0.0.0 alpha-mobi.com
 0.0.0.0 amkomobile.com
+0.0.0.0 amkoonline.com
 0.0.0.0 androidappsfree.mobi
 0.0.0.0 anolog.mobi
 0.0.0.0 aplaydigital.com
@@ -185,6 +187,7 @@
 0.0.0.0 movilfun4u.com
 0.0.0.0 mp3-shared.com
 0.0.0.0 mtouche.com
+0.0.0.0 mygirlshow.com
 0.0.0.0 myscoobi.com
 0.0.0.0 n-content.com
 0.0.0.0 n-mobile.net
@@ -212,6 +215,7 @@
 0.0.0.0 sanookde.com
 0.0.0.0 seaman2u.com
 0.0.0.0 sexy-here.com
+0.0.0.0 shemaroo.com
 0.0.0.0 shinee.com
 0.0.0.0 shoopadoo.com
 0.0.0.0 skype4mobile.com
@@ -221,6 +225,7 @@
 0.0.0.0 spak.me
 0.0.0.0 sswap.mobi
 0.0.0.0 stream-flix.mobi
+0.0.0.0 stream-flixth.com
 0.0.0.0 streamflix.mobi
 0.0.0.0 sunmob.net
 0.0.0.0 sunnygames.club
@@ -257,6 +262,7 @@
 0.0.0.0 waphub.mobi
 0.0.0.0 waplog.com
 0.0.0.0 wifistudy.com
+0.0.0.0 worldgamespn.mobi
 0.0.0.0 wppbbm.com
 0.0.0.0 wpwhatsappplus.com
 0.0.0.0 youlaugh.online
@@ -372,6 +378,7 @@
 0.0.0.0 lps.mobindy.com
 0.0.0.0 lunla.chickyclub.net
 0.0.0.0 m.amkomobile.com
+0.0.0.0 m.amkoonline.com
 0.0.0.0 m.arco.co.th
 0.0.0.0 m.b-qq.com
 0.0.0.0 m.cherryzone.com.ph
@@ -396,12 +403,14 @@
 0.0.0.0 m.n-content.com
 0.0.0.0 m.puteez.com
 0.0.0.0 m.sabver.com
+0.0.0.0 m.shemaroo.com
 0.0.0.0 m.th.shoopadoo.com
 0.0.0.0 m.tomyamclub.com
 0.0.0.0 m.umobi.biz
 0.0.0.0 m.vipgames.me
 0.0.0.0 m.vstyle4u.com
 0.0.0.0 m.zigifun.com
+0.0.0.0 mc.waphub.mobi
 0.0.0.0 media.smsgateway.cc
 0.0.0.0 mes.etracker.cc
 0.0.0.0 mfadmin.thinksmart.co.th
@@ -487,6 +496,11 @@
 0.0.0.0 v.9v8p.com
 0.0.0.0 v.vstyle4u.com
 0.0.0.0 vc.mocomecome.com
+0.0.0.0 vd1.waphub.mobi
+0.0.0.0 vd2.waphub.mobi
+0.0.0.0 vd3.waphub.mobi
+0.0.0.0 vd4.waphub.mobi
+0.0.0.0 vd5.waphub.mobi
 0.0.0.0 vdo.bigolives.tv
 0.0.0.0 video.videopaper.win
 0.0.0.0 vidxx.playclub.me
@@ -499,6 +513,7 @@
 0.0.0.0 wap.321load.com
 0.0.0.0 wap.7banana.com
 0.0.0.0 wap.amkomobile.com
+0.0.0.0 wap.amkoonline.com
 0.0.0.0 wap.ananda.chickyclub.net
 0.0.0.0 wap.ddzey.com
 0.0.0.0 wap.free.chickyclub.net
@@ -535,6 +550,7 @@
 0.0.0.0 www.ad5network.com
 0.0.0.0 www.alpha-mobi.com
 0.0.0.0 www.amkomobile.com
+0.0.0.0 www.amkoonline.com
 0.0.0.0 www.androidappsfree.mobi
 0.0.0.0 www.anolog.mobi
 0.0.0.0 www.aplaydigital.com
