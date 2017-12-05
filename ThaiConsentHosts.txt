@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712051040
+# Version: 201712051216
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -118,6 +118,7 @@
 0.0.0.0 funsexy.info
 0.0.0.0 funspaz.com
 0.0.0.0 funster.mobi
+0.0.0.0 funzone.mobi
 0.0.0.0 gamepanda.me
 0.0.0.0 gameth.net
 0.0.0.0 gangzaa.net
@@ -313,6 +314,7 @@
 0.0.0.0 click.adfries.net
 0.0.0.0 click.hypermobiworld.com
 0.0.0.0 clientreports.etracker.cc
+0.0.0.0 club.funzone.mobi
 0.0.0.0 cms.thinksmart.co.th
 0.0.0.0 console.etracker.cc
 0.0.0.0 content.eskimi.com
@@ -575,6 +577,7 @@
 0.0.0.0 www.fblives.net
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
+0.0.0.0 www.funzone.mobi
 0.0.0.0 www.getclick.mobi
 0.0.0.0 www.gigth.com
 0.0.0.0 www.gmpmobi.com
