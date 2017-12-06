@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712051216
+# Version: 201712062131
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -121,6 +121,7 @@
 0.0.0.0 funzone.mobi
 0.0.0.0 gamepanda.me
 0.0.0.0 gameth.net
+0.0.0.0 gamezzone.me
 0.0.0.0 gangzaa.net
 0.0.0.0 getclick.mobi
 0.0.0.0 getcools.com
@@ -292,6 +293,7 @@
 0.0.0.0 b2b.mtouche.com
 0.0.0.0 b2bmy.mtouche.com
 0.0.0.0 bd.zomobie.com
+0.0.0.0 beta.gamezzone.me
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 c.beezzi.com
 0.0.0.0 c.ltvperf.com
@@ -578,6 +580,7 @@
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
 0.0.0.0 www.funzone.mobi
+0.0.0.0 www.gamezzone.me
 0.0.0.0 www.getclick.mobi
 0.0.0.0 www.gigth.com
 0.0.0.0 www.gmpmobi.com
