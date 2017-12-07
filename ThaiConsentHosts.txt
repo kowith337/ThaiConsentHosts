@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712062326
+# Version: 201712071321
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -339,7 +339,6 @@
 0.0.0.0 e-mis.etracker.cc
 0.0.0.0 e-reporting.etracker.cc
 0.0.0.0 eg.yuppyuppytv.com
-0.0.0.0 eg.yuppyuppytv.com
 0.0.0.0 extern.espabit.net
 0.0.0.0 f.deepbluetech.biz
 0.0.0.0 f1.chickyclub.net
@@ -350,6 +349,7 @@
 0.0.0.0 free.chickyclub.net
 0.0.0.0 free.gangzaa.net
 0.0.0.0 g.zm.my
+0.0.0.0 game.mono-mobile.com
 0.0.0.0 gameroom.magikmobile.mobi
 0.0.0.0 games.nowportal.net
 0.0.0.0 gk.wifistudy.com
@@ -455,6 +455,7 @@
 0.0.0.0 play.vipgames.me
 0.0.0.0 private.playinvaders.com
 0.0.0.0 rbt.getcools.com
+0.0.0.0 rushvip.mono-mobile.com
 0.0.0.0 s.5sys.com
 0.0.0.0 s1.mono-mobile.com
 0.0.0.0 s2.mono-mobile.com
