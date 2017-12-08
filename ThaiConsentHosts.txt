@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712081302
+# Version: 201712082310
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -100,6 +100,7 @@
 0.0.0.0 digi.com.my
 0.0.0.0 dindo.co.th
 0.0.0.0 dlxxxvip.com
+0.0.0.0 downloadhub.me
 0.0.0.0 eggdigital.com
 0.0.0.0 eskimi.com
 0.0.0.0 espabit.net
@@ -115,11 +116,13 @@
 0.0.0.0 fun-clix.com
 0.0.0.0 fun-club.mobi
 0.0.0.0 fun2u.biz
+0.0.0.0 fun4u.co
 0.0.0.0 fungame.mobi
 0.0.0.0 funsexy.info
 0.0.0.0 funspaz.com
 0.0.0.0 funster.mobi
 0.0.0.0 funzone.mobi
+0.0.0.0 gameloft.co.th
 0.0.0.0 gamepanda.me
 0.0.0.0 gameth.net
 0.0.0.0 gamezzone.me
@@ -300,6 +303,7 @@
 0.0.0.0 b2bmy.mtouche.com
 0.0.0.0 bd.zomobie.com
 0.0.0.0 beta.gamezzone.me
+0.0.0.0 blog.gameloft.co.th
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 c.beezzi.com
 0.0.0.0 c.ltvperf.com
@@ -382,6 +386,7 @@
 0.0.0.0 lotto.thaiza.com
 0.0.0.0 lp.contentdd.net
 0.0.0.0 lp.coolzee.net
+0.0.0.0 lp.downloadhub.me
 0.0.0.0 lp.gmpmobi.com
 0.0.0.0 lp.mobicute.com
 0.0.0.0 lp.mobindy.com
@@ -587,10 +592,12 @@
 0.0.0.0 www.ddzey.com
 0.0.0.0 www.deepbluetech.biz
 0.0.0.0 www.dindo.co.th
+0.0.0.0 www.downloadhub.me
 0.0.0.0 www.etracker.cc 
 0.0.0.0 www.fblives.net
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
+0.0.0.0 www.funspaz.com
 0.0.0.0 www.funzone.mobi
 0.0.0.0 www.gamezzone.me
 0.0.0.0 www.getclick.mobi
@@ -605,6 +612,7 @@
 0.0.0.0 www.innnews.co.th
 0.0.0.0 www.iqwmxn.com
 0.0.0.0 www.jmtt.co.th
+0.0.0.0 www.kangped.com
 0.0.0.0 www.kodporno.com
 0.0.0.0 www.lustzy.com
 0.0.0.0 www.mcommsg.com
@@ -642,6 +650,7 @@
 0.0.0.0 www.tdedlove.com
 0.0.0.0 www.thinksmart.co.th
 0.0.0.0 www.thumbr.com
+0.0.0.0 www.thumbsms.com
 0.0.0.0 www.tomlekded.com
 0.0.0.0 www.tomyamclub.com
 0.0.0.0 www.toon-land.com
@@ -649,6 +658,7 @@
 0.0.0.0 www.tweetsms.com.my
 0.0.0.0 www.vassolution.com
 0.0.0.0 www.videopaper.win
+0.0.0.0 www.videowap.net
 0.0.0.0 www.viral-mix.com
 0.0.0.0 www.vovivooo.com
 0.0.0.0 www.waplog.com
