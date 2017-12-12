@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712111941
+# Version: 201712120758
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -103,6 +103,7 @@
 0.0.0.0 dindo.co.th
 0.0.0.0 dlxxxvip.com
 0.0.0.0 downloadhub.me
+0.0.0.0 e668ou.com
 0.0.0.0 eggdigital.com
 0.0.0.0 eskimi.com
 0.0.0.0 espabit.net
@@ -501,6 +502,7 @@
 0.0.0.0 th.9v8p.com
 0.0.0.0 th.chickcell.com
 0.0.0.0 th.contentbox.stream
+0.0.0.0 th.e668ou.com
 0.0.0.0 th.gogameportal.com
 0.0.0.0 th.instantbabes.mobi
 0.0.0.0 th.mobgkt.com
