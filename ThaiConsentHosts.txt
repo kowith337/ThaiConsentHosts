@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712122214
+# Version: 201712142002
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -58,6 +58,7 @@
 0.0.0.0 addlink.mobi
 0.0.0.0 adfries.net
 0.0.0.0 adfrigate.com
+0.0.0.0 affichaos.com
 0.0.0.0 affmoney.top
 0.0.0.0 alpha-mobi.com
 0.0.0.0 amkomobile.com
@@ -145,6 +146,7 @@
 0.0.0.0 globocom.co.in
 0.0.0.0 gmpmobi.com
 0.0.0.0 gogameportal.com
+0.0.0.0 goohd.tv
 0.0.0.0 gotd.mobi
 0.0.0.0 gw2cloud.com
 0.0.0.0 halocell.com
@@ -163,6 +165,7 @@
 0.0.0.0 iqwmxn.com
 0.0.0.0 isport.co.th
 0.0.0.0 izenmobi.com
+0.0.0.0 jibhd.com
 0.0.0.0 jmtt.co.th
 0.0.0.0 kaka-games.com
 0.0.0.0 kangped.com
@@ -315,6 +318,7 @@
 0.0.0.0 a.innnews.co.th
 0.0.0.0 a.mobilart.in
 0.0.0.0 a.n-d.bz
+0.0.0.0 ads.mobindy.com
 0.0.0.0 ae.sunnygames.club
 0.0.0.0 aff.letgomobile.com
 0.0.0.0 alchemy.n-d.bz
@@ -359,8 +363,11 @@
 0.0.0.0 cdn.mobivite.net
 0.0.0.0 cdn.static.mobgkt.com
 0.0.0.0 cell.th.shoopadoo.com
+0.0.0.0 central.dddd.jibhd.com
+0.0.0.0 central.jibhd.com
 0.0.0.0 cf.fun-clix.com
 0.0.0.0 ch.sunnygames.club
+0.0.0.0 channel.jibhd.com
 0.0.0.0 cheras.mtouche.com
 0.0.0.0 choose.txtnation.com
 0.0.0.0 cl.clubxzone.com
@@ -382,6 +389,7 @@
 0.0.0.0 d22ndsbwwggzum.cloudfront.net
 0.0.0.0 data-4d-2.monitoringservice.co
 0.0.0.0 datapremium.com.ve
+0.0.0.0 dddd.jibhd.com
 0.0.0.0 de.kaka-games.com
 0.0.0.0 de.sunnygames.club
 0.0.0.0 deezer.thinksmart.co.th
@@ -390,6 +398,7 @@
 0.0.0.0 dev.magikmobile.mobi
 0.0.0.0 dev3.thinksmart.co.th
 0.0.0.0 dk.sunnygames.club
+0.0.0.0 dtac.mobindy.com
 0.0.0.0 dtplay-web.thinksmart.co.th
 0.0.0.0 e-mes.etracker.cc
 0.0.0.0 e-mis.etracker.cc
@@ -658,6 +667,7 @@
 0.0.0.0 thwpaper.m228.net
 0.0.0.0 tk.ctrackz.net
 0.0.0.0 tn.sunnygames.club
+0.0.0.0 tracker.mobindy.com
 0.0.0.0 transcodedmedia.mobivite.net
 0.0.0.0 tw.fun-clix.com
 0.0.0.0 u.mobilart.in
@@ -722,6 +732,7 @@
 0.0.0.0 wifi.mobindy.com
 0.0.0.0 wiki.txtnation.com
 0.0.0.0 ws.n-content.com
+0.0.0.0 ww.mobindy.com
 0.0.0.0 ww1.funsexy.info
 0.0.0.0 www.181818.com.my
 0.0.0.0 www.5rio.com
@@ -730,6 +741,7 @@
 0.0.0.0 www.9v8p.com
 0.0.0.0 www.achelous.mobi
 0.0.0.0 www.ad5network.com
+0.0.0.0 www.affichaos.com
 0.0.0.0 www.alpha-mobi.com
 0.0.0.0 www.amkomobile.com
 0.0.0.0 www.amkoonline.com
