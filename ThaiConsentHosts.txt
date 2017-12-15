@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712142119
+# Version: 201712152325
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -630,6 +630,7 @@
 0.0.0.0 sk.sunnygames.club
 0.0.0.0 smrtads-app.thinksmart.co.th
 0.0.0.0 sms.dlxxxvip.com
+0.0.0.0 sms.gameloft.com
 0.0.0.0 srb.9v8p.com
 0.0.0.0 st.at2010.net
 0.0.0.0 stage.centili.com
@@ -730,6 +731,7 @@
 0.0.0.0 wap2.sanookde.com
 0.0.0.0 wap3.cheesemobile.com
 0.0.0.0 wap3.sanookde.com
+0.0.0.0 wapshop.gameloft.com
 0.0.0.0 web.chickyclub.net
 0.0.0.0 web.fun-clix.com
 0.0.0.0 web.fun-club.mobi
@@ -785,9 +787,12 @@
 0.0.0.0 www.fun-clix.com
 0.0.0.0 www.funspaz.com
 0.0.0.0 www.funzone.mobi
+0.0.0.0 www.gameloft.co.th
+0.0.0.0 www.gameloft.com
 0.0.0.0 www.gamezzone.me
 0.0.0.0 www.getclick.mobi
 0.0.0.0 www.gigth.com
+0.0.0.0 www.globocom.co.in
 0.0.0.0 www.gmpmobi.com
 0.0.0.0 www.gogameportal.com
 0.0.0.0 www.gotd.mobi
