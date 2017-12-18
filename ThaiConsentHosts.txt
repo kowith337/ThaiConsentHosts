@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712152325
+# Version: 201712181048
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -274,6 +274,7 @@
 0.0.0.0 thumbr.com
 0.0.0.0 thumbsms.com
 0.0.0.0 thvideo.net
+0.0.0.0 tksm.mobi
 0.0.0.0 tomlekded.com
 0.0.0.0 tomyamclub.com
 0.0.0.0 toon-land.com
@@ -446,6 +447,7 @@
 0.0.0.0 gr.kaka-games.com
 0.0.0.0 gr.sunnygames.club
 0.0.0.0 gsc.1mov.co
+0.0.0.0 happykr.tksm.mobi
 0.0.0.0 home.house365.com
 0.0.0.0 hot.chickyclub.net
 0.0.0.0 hs.fun-clix.com
@@ -739,6 +741,7 @@
 0.0.0.0 wifi.mobicute.com
 0.0.0.0 wifi.mobindy.com
 0.0.0.0 wiki.txtnation.com
+0.0.0.0 wowclip.tksm.mobi
 0.0.0.0 ws.n-content.com
 0.0.0.0 ww.mobindy.com
 0.0.0.0 ww1.funsexy.info
