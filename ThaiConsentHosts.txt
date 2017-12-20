@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712182344
+# Version: 201712201737
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -25,6 +25,7 @@
 0.0.0.0 54.169.240.216
 0.0.0.0 56.76.86.177
 0.0.0.0 58.181.206.44
+0.0.0.0 61.47.40.132
 0.0.0.0 61.91.6.131
 0.0.0.0 65.49.33.31
 0.0.0.0 124.158.4.91
@@ -77,6 +78,7 @@
 0.0.0.0 beezzi.com
 0.0.0.0 bigolives.tv
 0.0.0.0 breathing-love.com
+0.0.0.0 callingsticker.com
 0.0.0.0 cdnfiber.com
 0.0.0.0 centili.com
 0.0.0.0 cheesemobile.com
@@ -138,6 +140,7 @@
 0.0.0.0 gameloft.co.th
 0.0.0.0 gamepanda.me
 0.0.0.0 gameth.net
+0.0.0.0 gameziz.com
 0.0.0.0 gamezzone.me
 0.0.0.0 gangzaa.net
 0.0.0.0 getclick.mobi
@@ -236,6 +239,7 @@
 0.0.0.0 playclub.me
 0.0.0.0 playinvaders.com
 0.0.0.0 playplay.in.th
+0.0.0.0 playwork.co.th
 0.0.0.0 pluckyaff.com
 0.0.0.0 privatebay.tv
 0.0.0.0 privatewow.tv
@@ -311,6 +315,7 @@
 0.0.0.0 wakau.in
 0.0.0.0 waphub.mobi
 0.0.0.0 waplog.com
+0.0.0.0 waremode.com
 0.0.0.0 wealthclick.net
 0.0.0.0 wifistudy.com
 0.0.0.0 worldgamespn.mobi
@@ -338,12 +343,14 @@
 0.0.0.0 ads.xn--42c8cmgk9dvfyd.com
 0.0.0.0 ae.sunnygames.club
 0.0.0.0 aff.letgomobile.com
+0.0.0.0 ais.waremode.com
 0.0.0.0 alchemy.n-d.bz
 0.0.0.0 antivirus2017pro.m.puteez.com
 0.0.0.0 aoc-ic.smsgateway.cc
 0.0.0.0 api.centili.com
 0.0.0.0 api.mobgkt.com
 0.0.0.0 app.chickcell.com
+0.0.0.0 apps.waremode.com
 0.0.0.0 ar.chickcell.com
 0.0.0.0 ar.clubxzone.com
 0.0.0.0 asia.gw2cloud.com
@@ -514,10 +521,13 @@
 0.0.0.0 lt.sunnygames.club
 0.0.0.0 lunla.chickyclub.net
 0.0.0.0 lv.sunnygames.club
+0.0.0.0 m-online.gameziz.com
+0.0.0.0 m.7banana.com
 0.0.0.0 m.amkomobile.com
 0.0.0.0 m.amkoonline.com
 0.0.0.0 m.arco.co.th
 0.0.0.0 m.b-qq.com
+0.0.0.0 m.callingsticker.com
 0.0.0.0 m.cherryzone.com.ph
 0.0.0.0 m.clickmlife.com
 0.0.0.0 m.clubmmobile.com
@@ -531,6 +541,7 @@
 0.0.0.0 m.eskimi.com
 0.0.0.0 m.fun-club.mobi
 0.0.0.0 m.fun2u.biz
+0.0.0.0 m.gameziz.com
 0.0.0.0 m.gangzaa.net
 0.0.0.0 m.handysms.com
 0.0.0.0 m.hayhaa.com
@@ -568,6 +579,9 @@
 0.0.0.0 m.vstyle4u.com
 0.0.0.0 m.xn--42c8cmgk9dvfyd.com
 0.0.0.0 m.zigifun.com
+0.0.0.0 m1.7banana.com
+0.0.0.0 m2.7banana.com
+0.0.0.0 m3.7banana.com
 0.0.0.0 mc.waphub.mobi
 0.0.0.0 media.smsgateway.cc
 0.0.0.0 mes.etracker.cc
@@ -749,6 +763,7 @@
 0.0.0.0 wap.tomyamclub.com
 0.0.0.0 wap.trend-tech.net
 0.0.0.0 wap.vassolution.com
+0.0.0.0 wap.waremode.com
 0.0.0.0 wap.xn--42c8cmgk9dvfyd.com
 0.0.0.0 wap1.cheesemobile.com
 0.0.0.0 wap1.sanookde.com
