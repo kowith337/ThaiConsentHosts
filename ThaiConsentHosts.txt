@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712201737
+# Version: 201712211159
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -154,6 +154,7 @@
 0.0.0.0 gogameportal.com
 0.0.0.0 goohd.tv
 0.0.0.0 gotd.mobi
+0.0.0.0 grabmobitraffic.com
 0.0.0.0 gw2cloud.com
 0.0.0.0 halocell.com
 0.0.0.0 handysms.com
@@ -382,6 +383,7 @@
 0.0.0.0 caportal.etracker.cc
 0.0.0.0 cdn.fun2u.biz
 0.0.0.0 cdn.globocom.co.in
+0.0.0.0 cdn.grabmobitraffic.com
 0.0.0.0 cdn.ilovemobi.com
 0.0.0.0 cdn.lustzy.com
 0.0.0.0 cdn.mobivite.net
