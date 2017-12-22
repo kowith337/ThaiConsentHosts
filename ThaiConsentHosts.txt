@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712221029
+# Version: 201712222302
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -77,6 +77,7 @@
 0.0.0.0 b-qq.com
 0.0.0.0 beezzi.com
 0.0.0.0 bigolives.tv
+0.0.0.0 bmobil.net
 0.0.0.0 breathing-love.com
 0.0.0.0 callingsticker.com
 0.0.0.0 cdnfiber.com
@@ -813,6 +814,7 @@
 0.0.0.0 www.ar.clubxzone.com
 0.0.0.0 www.atmail.nl
 0.0.0.0 www.au.clubxzone.com
+0.0.0.0 www.bmobil.net
 0.0.0.0 www.breathing-love.com
 0.0.0.0 www.centili.com
 0.0.0.0 www.chickcell.com
