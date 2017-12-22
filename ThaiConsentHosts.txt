@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712211159
+# Version: 201712221029
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -708,6 +708,7 @@
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 tha.youlaugh.online
+0.0.0.0 thegirl.sexy-here.com
 0.0.0.0 thwpaper.m228.net
 0.0.0.0 tk.ctrackz.net
 0.0.0.0 tk.pluckyaff.com
