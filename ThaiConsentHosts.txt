@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712222302
+# Version: 201712231857
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -194,6 +194,7 @@
 0.0.0.0 may91.vn
 0.0.0.0 mcommsg.com
 0.0.0.0 mexcomm.net
+0.0.0.0 mfunz.mobi
 0.0.0.0 mli.me
 0.0.0.0 mobgkt.com
 0.0.0.0 mobico.my
@@ -329,7 +330,7 @@
 0.0.0.0 yuppytv.com
 0.0.0.0 yuppyuppytv.com
 0.0.0.0 zigifun.com
-0.0.0.0 zomobie.com
+0.0.0.0 zomobie.
 
 # Variant
 0.0.0.0 1678.thinksmart.co.th
@@ -759,6 +760,7 @@
 0.0.0.0 wap.iamzaa.com
 0.0.0.0 wap.isport.co.th
 0.0.0.0 wap.izenmobi.com
+0.0.0.0 wap.mfunz.mobi
 0.0.0.0 wap.mobgkt.com
 0.0.0.0 wap.retromedya.com
 0.0.0.0 wap.shinee.com
@@ -864,6 +866,7 @@
 0.0.0.0 www.lustzy.com
 0.0.0.0 www.mcommsg.com
 0.0.0.0 www.mexcomm.net
+0.0.0.0 www.mfunz.mobi
 0.0.0.0 www.mobgkt.com
 0.0.0.0 www.mobico.my
 0.0.0.0 www.mobifan.com
