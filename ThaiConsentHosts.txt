@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712231857
+# Version: 201712232037
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -266,11 +266,13 @@
 0.0.0.0 shoopadoo.com
 0.0.0.0 skype4mobile.com
 0.0.0.0 smartoffer.site
+0.0.0.0 smarttelebiz.com
 0.0.0.0 smsgateway.cc
 0.0.0.0 snapp.asia
 0.0.0.0 sosmob.mobi
 0.0.0.0 spak.me
 0.0.0.0 sswap.mobi
+0.0.0.0 stackpathdns.com
 0.0.0.0 stream-flix.mobi
 0.0.0.0 stream-flixth.com
 0.0.0.0 streamflix.mobi
@@ -330,7 +332,7 @@
 0.0.0.0 yuppytv.com
 0.0.0.0 yuppyuppytv.com
 0.0.0.0 zigifun.com
-0.0.0.0 zomobie.
+0.0.0.0 zomobie.com
 
 # Variant
 0.0.0.0 1678.thinksmart.co.th
@@ -472,6 +474,7 @@
 0.0.0.0 gr.kaka-games.com
 0.0.0.0 gr.sunnygames.club
 0.0.0.0 gsc.1mov.co
+0.0.0.0 halocell-com-pl89g1ago.stackpathdns.com
 0.0.0.0 happykr.tksm.mobi
 0.0.0.0 home.house365.com
 0.0.0.0 hot.chickyclub.net
@@ -901,6 +904,7 @@
 0.0.0.0 www.shinee.com
 0.0.0.0 www.shoopadoo.com
 0.0.0.0 www.skype4mobile.com
+0.0.0.0 www.smarttelebiz.com
 0.0.0.0 www.snapp.asia
 0.0.0.0 www.symbioticinfo.com
 0.0.0.0 www.tdedlove.com
