@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712251338
+# Version: 201712281329
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -121,6 +121,7 @@
 0.0.0.0 cdnfiber.com
 0.0.0.0 celeryleek.com
 0.0.0.0 centili.com
+0.0.0.0 chatded.com
 0.0.0.0 cheesemobile.com
 0.0.0.0 cherryzone.com.ph
 0.0.0.0 chickcell.com
@@ -254,7 +255,9 @@
 0.0.0.0 link-boost.com
 0.0.0.0 linkbooster.xyz
 0.0.0.0 linkingclicks.com
+0.0.0.0 loadded.com
 0.0.0.0 lovehoro.space
+0.0.0.0 lovehoro2561.com
 0.0.0.0 ltvperf.com
 0.0.0.0 lucky6lucky.club
 0.0.0.0 lustzy.com
@@ -683,6 +686,7 @@
 0.0.0.0 lightbox.th.contentbox.stream
 0.0.0.0 live.gamepanda.me
 0.0.0.0 live.vipgames.me
+0.0.0.0 lotto.loadded.com
 0.0.0.0 lotto.thaiza.com
 0.0.0.0 lp.contentdd.net
 0.0.0.0 lp.coolzee.net
@@ -1087,6 +1091,7 @@
 0.0.0.0 www.boos.vuclip.com
 0.0.0.0 www.breathing-love.com
 0.0.0.0 www.centili.com
+0.0.0.0 www.chatded.com
 0.0.0.0 www.chickcell.com
 0.0.0.0 www.chickyclub.net
 0.0.0.0 www.chilliclubs.com
@@ -1138,6 +1143,8 @@
 0.0.0.0 www.kodporno.com
 0.0.0.0 www.lalamobi.com
 0.0.0.0 www.letgomobile.com
+0.0.0.0 www.loadded.com
+0.0.0.0 www.lovehoro2561.com
 0.0.0.0 www.lustzy.com
 0.0.0.0 www.mcommsg.com
 0.0.0.0 www.mexcomm.net
