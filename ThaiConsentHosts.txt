@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712281329
+# Version: 201712301207
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -203,6 +203,7 @@
 0.0.0.0 gamezzone.me
 0.0.0.0 gamzones.com
 0.0.0.0 gangzaa.net
+0.0.0.0 gcvw.mobi
 0.0.0.0 getclick.mobi
 0.0.0.0 getcools.com
 0.0.0.0 gigth.com
@@ -246,6 +247,7 @@
 0.0.0.0 jtsws.com
 0.0.0.0 kaka-games.com
 0.0.0.0 kangped.com
+0.0.0.0 klinikasmara.com
 0.0.0.0 kodfin.com
 0.0.0.0 kodporno.com
 0.0.0.0 lalamobi.com
@@ -1140,6 +1142,7 @@
 0.0.0.0 www.jtsws.com
 0.0.0.0 www.kaka-games.com
 0.0.0.0 www.kangped.com
+0.0.0.0 www.klinikasmara.com
 0.0.0.0 www.kodporno.com
 0.0.0.0 www.lalamobi.com
 0.0.0.0 www.letgomobile.com
