@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712301207
+# Version: 201712312300
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -438,6 +438,7 @@
 0.0.0.0 vuclip.com
 0.0.0.0 vuclipgamesat.com
 0.0.0.0 wakau.in
+0.0.0.0 wallpapers-girls.com
 0.0.0.0 waphub.mobi
 0.0.0.0 waplog.com
 0.0.0.0 waremode.com
@@ -1225,6 +1226,7 @@
 0.0.0.0 www.viral-mix.com
 0.0.0.0 www.vovivooo.com
 0.0.0.0 www.wakau.in
+0.0.0.0 www.wallpapers-girls.com
 0.0.0.0 www.waplog.com
 0.0.0.0 www.waptrick.vuclip.com
 0.0.0.0 www.wathspap.com
