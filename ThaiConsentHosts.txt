@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201712312300
+# Version: 201801012007
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -307,6 +307,7 @@
 0.0.0.0 mobplus.net
 0.0.0.0 mobrain.xyz
 0.0.0.0 mobusi.com
+0.0.0.0 mobzeed.com
 0.0.0.0 momoga.com
 0.0.0.0 momozaap.com
 0.0.0.0 moneymak3rstrack.com
@@ -686,6 +687,7 @@
 0.0.0.0 landing.puteez.com
 0.0.0.0 lb.sunnygames.club
 0.0.0.0 lb.th.redlight.contentbox.stream
+0.0.0.0 ldp.mobindy.com
 0.0.0.0 lightbox.th.contentbox.stream
 0.0.0.0 live.gamepanda.me
 0.0.0.0 live.vipgames.me
@@ -845,6 +847,7 @@
 0.0.0.0 qa.sunnygames.club
 0.0.0.0 qublquv.vuclip.com
 0.0.0.0 r.leadzuaf.com
+0.0.0.0 r.mobindy.com
 0.0.0.0 r620.buddycode.net
 0.0.0.0 rbt.getcools.com
 0.0.0.0 redirect.consested-opplyield.com
@@ -953,6 +956,7 @@
 0.0.0.0 track.regaming.com
 0.0.0.0 track.turbob.mobi
 0.0.0.0 tracker.mobindy.com
+0.0.0.0 tracker.mobzeed.com
 0.0.0.0 tracker.xn--42c8cmgk9dvfyd.com
 0.0.0.0 tracking.4v4jfe79erfxfu8z8.com
 0.0.0.0 tracking.addictiveads.com
