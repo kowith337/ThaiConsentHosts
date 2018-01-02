@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201801012007
+# Version: 201801021231
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -120,6 +120,7 @@
 0.0.0.0 callingsticker.com
 0.0.0.0 cdnfiber.com
 0.0.0.0 celeryleek.com
+0.0.0.0 cellvidz.com
 0.0.0.0 centili.com
 0.0.0.0 chatded.com
 0.0.0.0 cheesemobile.com
@@ -137,6 +138,7 @@
 0.0.0.0 clickstk.com
 0.0.0.0 clip.vu
 0.0.0.0 clipcute.info
+0.0.0.0 cloudify.cc
 0.0.0.0 clubmmobile.com
 0.0.0.0 clubxzone.com
 0.0.0.0 consested-opplyield.com
@@ -250,6 +252,7 @@
 0.0.0.0 klinikasmara.com
 0.0.0.0 kodfin.com
 0.0.0.0 kodporno.com
+0.0.0.0 kwizu.club
 0.0.0.0 lalamobi.com
 0.0.0.0 larnload.com
 0.0.0.0 leadzuaf.com
@@ -272,6 +275,7 @@
 0.0.0.0 may91.vn
 0.0.0.0 mayrondigital.com
 0.0.0.0 mcommsg.com
+0.0.0.0 media-bucket.com
 0.0.0.0 mexcomm.net
 0.0.0.0 mfunz.mobi
 0.0.0.0 mktrack.com
@@ -289,6 +293,7 @@
 0.0.0.0 mobileacademy.com
 0.0.0.0 mobilecontents.mobi
 0.0.0.0 mobilegameblast.com
+0.0.0.0 mobilegamepass.com
 0.0.0.0 mobilejmp.com
 0.0.0.0 mobileth.net
 0.0.0.0 mobilevol.com
@@ -439,6 +444,7 @@
 0.0.0.0 vuclip.com
 0.0.0.0 vuclipgamesat.com
 0.0.0.0 wakau.in
+0.0.0.0 walletfun.com
 0.0.0.0 wallpapers-girls.com
 0.0.0.0 waphub.mobi
 0.0.0.0 waplog.com
@@ -457,6 +463,7 @@
 0.0.0.0 yuppyuppytv.com
 0.0.0.0 yuqazate.com
 0.0.0.0 zigifun.com
+0.0.0.0 zmclick.com
 0.0.0.0 zog.link
 0.0.0.0 zomobie.com
 
@@ -472,6 +479,7 @@
 0.0.0.0 a.innnews.co.th
 0.0.0.0 a.mobilart.in
 0.0.0.0 a.n-d.bz
+0.0.0.0 aczepi.cloudify.cc
 0.0.0.0 ad.adschemist.com
 0.0.0.0 ad.gadmobe.com
 0.0.0.0 adext.vuclip.com
@@ -479,6 +487,7 @@
 0.0.0.0 ads.mobindy.com
 0.0.0.0 ads.pubmt.ch
 0.0.0.0 ads.xn--42c8cmgk9dvfyd.com
+0.0.0.0 ads.zmclick.com
 0.0.0.0 adstacks.fusetracking.com
 0.0.0.0 adts.btrkpro.com
 0.0.0.0 ae.sunnygames.club
@@ -549,6 +558,7 @@
 0.0.0.0 cheras.mtouche.com
 0.0.0.0 choose.txtnation.com
 0.0.0.0 cl.clubxzone.com
+0.0.0.0 cl.media-bucket.com
 0.0.0.0 click.adfries.net
 0.0.0.0 click.hypermobiworld.com
 0.0.0.0 click.startappservice.com
@@ -604,7 +614,9 @@
 0.0.0.0 f7.4219208.th.5rio.com
 0.0.0.0 faq.chocoboard.com
 0.0.0.0 fc.mobiteacher.me
+0.0.0.0 ff.media-bucket.com
 0.0.0.0 ffy.fun-clix.com
+0.0.0.0 fit.media-bucket.com
 0.0.0.0 fr.sunnygames.club
 0.0.0.0 free.chickyclub.net
 0.0.0.0 free.gangzaa.net
@@ -641,6 +653,15 @@
 0.0.0.0 gr.kaka-games.com
 0.0.0.0 gr.sunnygames.club
 0.0.0.0 gsc.1mov.co
+0.0.0.0 h1.walletfun.com
+0.0.0.0 h2.walletfun.com
+0.0.0.0 h3.walletfun.com
+0.0.0.0 h4.walletfun.com
+0.0.0.0 h5.walletfun.com
+0.0.0.0 h6.walletfun.com
+0.0.0.0 h7.walletfun.com
+0.0.0.0 h8.walletfun.com
+0.0.0.0 h9.walletfun.com
 0.0.0.0 halocell-com-pl89g1ago.stackpathdns.com
 0.0.0.0 happykr.tksm.mobi
 0.0.0.0 hello.aielber.com
@@ -829,6 +850,7 @@
 0.0.0.0 pcs.chickyclub.net
 0.0.0.0 pe.chickcell.com
 0.0.0.0 pe.clubxzone.com
+0.0.0.0 pf.media-bucket.com
 0.0.0.0 pl.chickcell.com
 0.0.0.0 pl.chickcell.com
 0.0.0.0 pl.clubxzone.com
@@ -847,11 +869,13 @@
 0.0.0.0 qa.sunnygames.club
 0.0.0.0 qublquv.vuclip.com
 0.0.0.0 r.leadzuaf.com
+0.0.0.0 r.leadzupc.com
 0.0.0.0 r.mobindy.com
 0.0.0.0 r620.buddycode.net
 0.0.0.0 rbt.getcools.com
 0.0.0.0 redirect.consested-opplyield.com
 0.0.0.0 redlight.th.contentbox.stream
+0.0.0.0 register.cloudify.cc
 0.0.0.0 reporting.etracker.cc
 0.0.0.0 ro.sunnygames.club
 0.0.0.0 rs.sunnygames.club
@@ -877,6 +901,7 @@
 0.0.0.0 sg.datinggirls.info
 0.0.0.0 sg.mobgkt.com
 0.0.0.0 shineeweb.shinee.com
+0.0.0.0 sin.media-bucket.com
 0.0.0.0 sk.sunnygames.club
 0.0.0.0 smart.brvaffs.com
 0.0.0.0 smart.mobopromo.biz
@@ -989,6 +1014,7 @@
 0.0.0.0 vn.mobgkt.com
 0.0.0.0 vn.sunnygames.club
 0.0.0.0 vplus.ais.co.th
+0.0.0.0 vs.media-bucket.com
 0.0.0.0 vu1.vuclip.com
 0.0.0.0 vu2.vuclip.com
 0.0.0.0 vu3.vuclip.com
@@ -1107,6 +1133,7 @@
 0.0.0.0 www.cl.clubxzone.com
 0.0.0.0 www.clausiafze.com
 0.0.0.0 www.clickmultimedia.co.th
+0.0.0.0 www.cloudify.cc
 0.0.0.0 www.clubxzone.com
 0.0.0.0 www.ctrackz.net
 0.0.0.0 www.cutties.net
@@ -1163,6 +1190,7 @@
 0.0.0.0 www.mobifunz.com
 0.0.0.0 www.mobihibiz.com
 0.0.0.0 www.mobilecontents.mobi
+0.0.0.0 www.mobilegamepass.com
 0.0.0.0 www.mobilejmp.com
 0.0.0.0 www.mobill.vuclip.com
 0.0.0.0 www.mobivite.net
@@ -1230,6 +1258,7 @@
 0.0.0.0 www.viral-mix.com
 0.0.0.0 www.vovivooo.com
 0.0.0.0 www.wakau.in
+0.0.0.0 www.walletfun.com
 0.0.0.0 www.wallpapers-girls.com
 0.0.0.0 www.waplog.com
 0.0.0.0 www.waptrick.vuclip.com
@@ -1237,6 +1266,7 @@
 0.0.0.0 www.web.vuclip.com
 0.0.0.0 www.xn--22c0bau8bor5ac4k7cc6g8a.net
 0.0.0.0 www.xn--42c8cmgk9dvfyd.com
+0.0.0.0 www.zmclick.com
 0.0.0.0 wytqaey.vuclip.com
 0.0.0.0 xiphfef.vuclip.com
 0.0.0.0 yapodur.vuclip.com
