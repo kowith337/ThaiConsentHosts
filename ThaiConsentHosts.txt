@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201801072207
+# Version: 201801122112
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -1167,6 +1167,7 @@
 0.0.0.0 vu7.vuclip.com
 0.0.0.0 vu8.vuclip.com
 0.0.0.0 vu9.vuclip.com
+0.0.0.0 vuclip.ais.co.th
 0.0.0.0 vzla.vuclip.com
 0.0.0.0 w.chilliclubs.com
 0.0.0.0 w.fun-club.mobi
