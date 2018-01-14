@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201801132353
+# Version: 201801151415
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -397,6 +397,7 @@
 0.0.0.0 ncontentmobile.com
 0.0.0.0 ncontentmv.com
 0.0.0.0 netmeds.com
+0.0.0.0 newgameeveryday.net
 0.0.0.0 newshunt.com
 0.0.0.0 newsplus.me
 0.0.0.0 nexg.tv
@@ -737,6 +738,7 @@
 0.0.0.0 game.mono-mobile.com
 0.0.0.0 gameroom.magikmobile.mobi
 0.0.0.0 games.nowportal.net
+0.0.0.0 games-live.s3.amazonaws.com
 0.0.0.0 gateway.txtnation.com
 0.0.0.0 gaussnetworks.go2cloud.org
 0.0.0.0 gb.sunnygames.club
