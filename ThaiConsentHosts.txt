@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201801151119
+# Version: 201801161259
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -463,6 +463,7 @@
 0.0.0.0 silk69.in
 0.0.0.0 skype4mobile.com
 0.0.0.0 slimcdn.com
+0.0.0.0 slypee.com
 0.0.0.0 smartadurl.com
 0.0.0.0 smartoffer.site
 0.0.0.0 smarttelebiz.com
@@ -772,6 +773,7 @@
 0.0.0.0 h1.walletfun.com
 0.0.0.0 h2.walletfun.com
 0.0.0.0 h3.walletfun.com
+0.0.0.0 h3i.slypee.com
 0.0.0.0 h4.walletfun.com
 0.0.0.0 h5.walletfun.com
 0.0.0.0 h6.walletfun.com
@@ -790,6 +792,7 @@
 0.0.0.0 hu.sunnygames.club
 0.0.0.0 id.contentbox.stream
 0.0.0.0 id.kaka-games.com
+0.0.0.0 id.slypee.com
 0.0.0.0 id.surfto.mobi
 0.0.0.0 idngames.blastoffgaming.com
 0.0.0.0 img.mobusi.com
@@ -816,6 +819,7 @@
 0.0.0.0 js.bulkhentai.com
 0.0.0.0 jump.aragontrack.com
 0.0.0.0 jump.link-boost.com
+0.0.0.0 jz.pk.slypee.com
 0.0.0.0 ke.sunnygames.club
 0.0.0.0 kenscio.go2cloud.org
 0.0.0.0 kmlpg.adsbtrack.com
@@ -826,6 +830,7 @@
 0.0.0.0 landing.mcommsg.com
 0.0.0.0 landing.mobusi.com
 0.0.0.0 landing.puteez.com
+0.0.0.0 latam.slypee.com
 0.0.0.0 lb.sunnygames.club
 0.0.0.0 lb.th.redlight.contentbox.stream
 0.0.0.0 ldp.mobindy.com
@@ -979,6 +984,9 @@
 0.0.0.0 pe.chickcell.com
 0.0.0.0 pe.clubxzone.com
 0.0.0.0 pf.media-bucket.com
+0.0.0.0 pk1.slypee.com
+0.0.0.0 pk2.slypee.com
+0.0.0.0 pk3.slypee.com
 0.0.0.0 pl.chickcell.com
 0.0.0.0 pl.chickcell.com
 0.0.0.0 pl.clubxzone.com
@@ -1012,6 +1020,7 @@
 0.0.0.0 register.cloudify.cc
 0.0.0.0 reporting.etracker.cc
 0.0.0.0 resources.bajajcapital.com
+0.0.0.0 ritmolatino.slypee.com
 0.0.0.0 ro.sunnygames.club
 0.0.0.0 rs.sunnygames.club
 0.0.0.0 rtb.mob-api.net
@@ -1092,6 +1101,7 @@
 0.0.0.0 th.mt.1mov.co
 0.0.0.0 th.n-mobile.net
 0.0.0.0 th.panshimob.com
+0.0.0.0 th.slypee.com
 0.0.0.0 th.sswap.mobi
 0.0.0.0 th.studiox-babes.com
 0.0.0.0 th.sunnygames.club
