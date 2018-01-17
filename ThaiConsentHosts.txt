@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201801161259
+# Version: 201801170951
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -1042,6 +1042,7 @@
 0.0.0.0 sexindian.vuclip.com
 0.0.0.0 sexjapanm.vuclip.com
 0.0.0.0 sexxxyy.vuclip.com
+0.0.0.0 sexyangel.sexy-here.com
 0.0.0.0 sexypron.vuclip.com
 0.0.0.0 sg.affmoney.top
 0.0.0.0 sg.datinggirls.info
