@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201801211429
+# Version: 201801212157
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -97,6 +97,7 @@
 0.0.0.0 7banana.com
 0.0.0.0 7me.co
 0.0.0.0 8086.com.tw
+0.0.0.0 9ep.cc
 0.0.0.0 9v8p.com
 0.0.0.0 a1n.in
 0.0.0.0 a81.me
@@ -824,6 +825,7 @@
 0.0.0.0 js.bulkhentai.com
 0.0.0.0 jump.aragontrack.com
 0.0.0.0 jump.link-boost.com
+0.0.0.0 justdownit.s3.amazonaws.com
 0.0.0.0 jz.pk.slypee.com
 0.0.0.0 ke.sunnygames.club
 0.0.0.0 kenscio.go2cloud.org
@@ -1303,6 +1305,7 @@
 0.0.0.0 www.clickmultimedia.co.th
 0.0.0.0 www.cloudify.cc
 0.0.0.0 www.clubxzone.com
+0.0.0.0 www.contentdd.net
 0.0.0.0 www.ctrackz.net
 0.0.0.0 www.cutties.net
 0.0.0.0 www.ddzey.com
