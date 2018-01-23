@@ -1,20 +1,25 @@
 ﻿## Hosts File ที่รวบรวม Domain ของเว็บที่ให้บริการสมัครบริการเสริม (โดยที่ไม่แจ้งผู้ใช้ให้ทราบ)
 
-*หรือที่เรียกว่า SMS กินเงิน / Content เสียเงิน / บริการอีแอบ*
+หรือที่เรียกว่า **SMS กินเงิน / Content เสียเงิน / บริการอีแอบ**
 
-#### สามารถประยุกต์ใช้ได้กับ
-**Hosts File**: เหมาะสำหรับผู้ใช้งานคอมพิวเตอร์ (PC หรือ Laptop) ที่แชร์อินเตอร์เน็ตจากฮ็อตสปอตมือถือ
+### สามารถประยุกต์ใช้ได้กับ
+**Windows Hosts File**: แนะนำให้ใช้กับ [HOSTS Manager (Windows)](https://github.com/henrypp/hostsmgr)
+> *ไม่แนะนำ [HostsMan](http://www.abelhadigital.com/hostsman) เนื่องจากยังไม่รองรับการ Hotlink Hosts File จาก GitHub Raw*
 
-**มือถือ Android ที่ Root แล้ว**: ใช้กับแอพฯ AdAway หรือแก้ไข Hosts File ใน `/data/etc/hosts`
+**มือถือ Android ที่ Root แล้ว**: ใช้กับแอพฯ [AdAway](https://github.com/AdAway/AdAway)
 
-**มือถือ Android ที่ไม่ได้ Root**: สามารถใช้ได้กับแอพฯ DNS66, NetGuard
+**มือถือ Android ที่ไม่ได้ Root**: สามารถใช้ได้กับแอพฯ [DNS66](https://github.com/julian-klode/dns66), [Blokada](https://github.com/blokadaorg/blokada)
+> [NetGuard](https://github.com/M66B/NetGuard) *(ไม่แนะนำ)*
 
-**โปรแกรม Web Browser**: สามารถใช้ได้กับ uBlock Origin และ uMatrix
+**โปรแกรม Web Browser**: สามารถใช้ได้กับ [uBlock Origin](https://github.com/gorhill/uBlock) และ [uMatrix](https://github.com/gorhill/uMatrix)
 
-> แนะนำสำหรับผู้ใช้ Android เพิ่มเติม:
-> ผู้ใช้สามารถติดตั้งส่วนเสริม uBlock Origin ได้ ภายในแอพฯ Firefox for Android หรือ Browser ที่คล้ายกัน (เช่น Fennec F-Droid, IceCat Mobile, Pale Moon)
+แนะนำเพิ่มเติมสำหรับผู้ใช้ Android:
 
-**หมายเหตุ**: Hosts File นี้ไม่สามารถแก้ปัญหาหรือป้องกันการสมัครโดยวิธีอื่น นอกเหนือจากการถูกโฆษณาประเภท Popunder และการถูก Redirect ไปยังเว็บไซท์เหล่านั้นโดยอัตโนมัติ
+ผู้ใช้สามารถติดตั้งส่วนเสริม uBlock Origin ได้ ภายในแอพฯ Firefox for Android หรือ Browser ที่คล้ายกัน (เช่น Fennec F-Droid, IceCat Mobile, Pale Moon)
+
+### หมายเหตุ
+
+Hosts File นี้ไม่สามารถแก้ปัญหาหรือป้องกันการสมัครโดยวิธีอื่น นอกเหนือจากการถูกโฆษณาประเภท Popunder และการถูก Redirect ไปยังเว็บไซท์เหล่านั้นโดยอัตโนมัติ
 
 เช่น การถูกสมัครโดยช่องทางการส่ง SMS โดยอัตโนมัติของแอพพลิเคชั่นที่ไม่พึงประสงค์ (ซึ่งส่วนมากมักมีโฆษณา และ/หรือ ขอสิทธิ์ในการเข้าถึงและส่งข้อความ SMS รวมถึงการโทรออก)
 
