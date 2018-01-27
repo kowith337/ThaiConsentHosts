@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201801271241
+# Version: 201801272229
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -531,6 +531,7 @@
 0.0.0.0 videopaper.win
 0.0.0.0 videosthai.com
 0.0.0.0 videowap.net
+0.0.0.0 vilandsoft.com
 0.0.0.0 vilangames.xyz
 0.0.0.0 vipgames.me
 0.0.0.0 viral-mix.com
@@ -740,6 +741,7 @@
 0.0.0.0 ff.media-bucket.com
 0.0.0.0 ffy.fun-clix.com
 0.0.0.0 fhjfs.voluumtrk.com
+0.0.0.0 filesub.vilandsoft.com
 0.0.0.0 fit.media-bucket.com
 0.0.0.0 fr.sunnygames.club
 0.0.0.0 free.chickyclub.net
