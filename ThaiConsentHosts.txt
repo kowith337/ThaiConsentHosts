@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201801272229
+# Version: 201801282226
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -265,6 +265,7 @@
 0.0.0.0 gizmobi.mobi
 0.0.0.0 gktmobi.com
 0.0.0.0 glimline.com
+0.0.0.0 glmtr4ck.net
 0.0.0.0 globocom.co.in
 0.0.0.0 glzelnk.com
 0.0.0.0 gmpmobi.com
