@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201802012330
+# Version: 201802021802
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -253,6 +253,7 @@
 0.0.0.0 gamepanda.me
 0.0.0.0 gamescentreom.com
 0.0.0.0 gameth.net
+0.0.0.0 gamezine.in
 0.0.0.0 gameziz.com
 0.0.0.0 gamezzone.me
 0.0.0.0 gammo.me
@@ -506,6 +507,7 @@
 0.0.0.0 thaiza.com
 0.0.0.0 thepind.mobi
 0.0.0.0 thinksmart.co.th
+0.0.0.0 thisilike.net
 0.0.0.0 thmobi.com
 0.0.0.0 thumbr.com
 0.0.0.0 thumbsms.com
@@ -1434,6 +1436,7 @@
 0.0.0.0 www.thai-iphone.com
 0.0.0.0 www.thai2mobi.com
 0.0.0.0 www.thinksmart.co.th
+0.0.0.0 www.thisilike.net
 0.0.0.0 www.thumbr.com
 0.0.0.0 www.thumbsms.com
 0.0.0.0 www.tomlekded.com
