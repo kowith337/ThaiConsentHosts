@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201802021802
+# Version: 201802070011
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -690,6 +690,7 @@
 0.0.0.0 click.startappservice.com
 0.0.0.0 clientreports.etracker.cc
 0.0.0.0 club.funzone.mobi
+0.0.0.0 cmms.cheesemobile.com
 0.0.0.0 cms.magent.my
 0.0.0.0 cms.thinksmart.co.th
 0.0.0.0 co.sunnygames.club
@@ -845,6 +846,7 @@
 0.0.0.0 kmlpg.adsbtrack.com
 0.0.0.0 kw.sunnygames.club
 0.0.0.0 kz.sunnygames.club
+0.0.0.0 l.chz.mobi
 0.0.0.0 l.clickstk.com
 0.0.0.0 l.vstyle4u.com
 0.0.0.0 landing.mcommsg.com
