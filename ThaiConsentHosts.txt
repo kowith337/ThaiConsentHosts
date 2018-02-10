@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201802070011
+# Version: 201802102057
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -675,6 +675,7 @@
 0.0.0.0 cdn2.mob-api.net
 0.0.0.0 cdn3.mob-api.net
 0.0.0.0 cell.th.shoopadoo.com
+0.0.0.0 cell.th.shoopadoo.com
 0.0.0.0 central.dddd.jibhd.com
 0.0.0.0 central.jibhd.com
 0.0.0.0 cf.fun-clix.com
@@ -1127,6 +1128,7 @@
 0.0.0.0 th.mt.1mov.co
 0.0.0.0 th.n-mobile.net
 0.0.0.0 th.panshimob.com
+0.0.0.0 th.shoopadoo.com
 0.0.0.0 th.slypee.com
 0.0.0.0 th.sswap.mobi
 0.0.0.0 th.studiox-babes.com
