@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201802102057
+# Version: 201802121157
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -487,7 +487,6 @@
 0.0.0.0 spak.me
 0.0.0.0 sptslmtrafms.com
 0.0.0.0 sswap.mobi
-0.0.0.0 stackpathdns.com
 0.0.0.0 startappservice.com
 0.0.0.0 stormobi.com
 0.0.0.0 stream-flix.mobi
