@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201802121157
+# Version: 201802121725
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -1265,6 +1265,7 @@
 0.0.0.0 wifi.xn--42c8cmgk9dvfyd.com
 0.0.0.0 wiki.txtnation.com
 0.0.0.0 wowclip.tksm.mobi
+0.0.0.0 ws-adv.ais.co.th
 0.0.0.0 ws.n-content.com
 0.0.0.0 ww.mobindy.com
 0.0.0.0 ww.vcdn.stream
