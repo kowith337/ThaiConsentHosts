@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201802121725
+# Version: 201802181134
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -224,6 +224,7 @@
 0.0.0.0 etracker.cc 
 0.0.0.0 exprtmb.com
 0.0.0.0 facabooks.com
+0.0.0.0 famobi.com
 0.0.0.0 fashionbunny.com
 0.0.0.0 fblives.net
 0.0.0.0 findgit.com
@@ -289,6 +290,7 @@
 0.0.0.0 hello1.in
 0.0.0.0 hfa.mobi
 0.0.0.0 hito.co.vu
+0.0.0.0 hm5.me
 0.0.0.0 horoworld.com
 0.0.0.0 hotstar.com
 0.0.0.0 house365.com
@@ -663,6 +665,7 @@
 0.0.0.0 c9.ltvperf.com
 0.0.0.0 campaign.nexg.tv
 0.0.0.0 caportal.etracker.cc
+0.0.0.0 cdn.famobi.com
 0.0.0.0 cdn.fun2u.biz
 0.0.0.0 cdn.globocom.co.in
 0.0.0.0 cdn.grabmobitraffic.com
@@ -760,6 +763,7 @@
 0.0.0.0 game.mono-mobile.com
 0.0.0.0 gameroom.magikmobile.mobi
 0.0.0.0 games-live.s3.amazonaws.com
+0.0.0.0 games.cdn.famobi.com
 0.0.0.0 games.nowportal.net
 0.0.0.0 gateway.txtnation.com
 0.0.0.0 gaussnetworks.go2cloud.org
@@ -1017,6 +1021,7 @@
 0.0.0.0 pl.kaka-games.com
 0.0.0.0 pl.mobgkt.com
 0.0.0.0 pl.sunnygames.club
+0.0.0.0 play.famobi.com
 0.0.0.0 play.leadzuaf.com
 0.0.0.0 play.mobistos.com
 0.0.0.0 play.outputfx.com
