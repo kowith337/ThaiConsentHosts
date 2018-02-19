@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201802181134
+# Version: 201802191548
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -281,6 +281,7 @@
 0.0.0.0 grabmobitraffic.com
 0.0.0.0 grandmobi.net
 0.0.0.0 gw2cloud.com
+0.0.0.0 gzazone.com
 0.0.0.0 halocell.com
 0.0.0.0 handysms.com
 0.0.0.0 havfun.mobi
@@ -308,6 +309,7 @@
 0.0.0.0 instantbabes.mobi
 0.0.0.0 iqwmxn.com
 0.0.0.0 isport.co.th
+0.0.0.0 ivalent.com
 0.0.0.0 izenmobi.com
 0.0.0.0 jibhd.com
 0.0.0.0 jmtt.co.th
@@ -1235,6 +1237,7 @@
 0.0.0.0 wap.gktmobi.com
 0.0.0.0 wap.globocom.co.in
 0.0.0.0 wap.gmpmobi.com
+0.0.0.0 wap.gzazone.com
 0.0.0.0 wap.iamzaa.com
 0.0.0.0 wap.isport.co.th
 0.0.0.0 wap.izenmobi.com
@@ -1367,6 +1370,7 @@
 0.0.0.0 www.ilovemobi.com
 0.0.0.0 www.innnews.co.th
 0.0.0.0 www.iqwmxn.com
+0.0.0.0 www.ivalent.com
 0.0.0.0 www.jmtt.co.th
 0.0.0.0 www.jmtt.co.th
 0.0.0.0 www.jtsws.com
