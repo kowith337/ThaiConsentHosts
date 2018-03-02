@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201802280948
+# Version: 201803020939
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -682,7 +682,6 @@
 0.0.0.0 cdn2.mob-api.net
 0.0.0.0 cdn3.mob-api.net
 0.0.0.0 cell.th.shoopadoo.com
-0.0.0.0 cell.th.shoopadoo.com
 0.0.0.0 central.dddd.jibhd.com
 0.0.0.0 central.jibhd.com
 0.0.0.0 cf.fun-clix.com
@@ -701,6 +700,7 @@
 0.0.0.0 cmms.cheesemobile.com
 0.0.0.0 cms.magent.my
 0.0.0.0 cms.thinksmart.co.th
+0.0.0.0 cmt-web.thinksmart.co.th
 0.0.0.0 co.sunnygames.club
 0.0.0.0 cobrand1.mobistarcorp.net
 0.0.0.0 cobrand2.mobistarcorp.net
@@ -1021,7 +1021,6 @@
 0.0.0.0 pk1.slypee.com
 0.0.0.0 pk2.slypee.com
 0.0.0.0 pk3.slypee.com
-0.0.0.0 pl.chickcell.com
 0.0.0.0 pl.chickcell.com
 0.0.0.0 pl.clubxzone.com
 0.0.0.0 pl.kaka-games.com
@@ -1375,7 +1374,6 @@
 0.0.0.0 www.innnews.co.th
 0.0.0.0 www.iqwmxn.com
 0.0.0.0 www.ivalent.com
-0.0.0.0 www.jmtt.co.th
 0.0.0.0 www.jmtt.co.th
 0.0.0.0 www.jtsws.com
 0.0.0.0 www.kaka-games.com
