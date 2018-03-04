@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201803020939
+# Version: 201803041316
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -240,6 +240,7 @@
 0.0.0.0 full-funny.com
 0.0.0.0 fun-clix.com
 0.0.0.0 fun-club.mobi
+0.0.0.0 fun-offer-th.com
 0.0.0.0 fun2u.biz
 0.0.0.0 fun4u.co
 0.0.0.0 fungame.mobi
@@ -252,6 +253,7 @@
 0.0.0.0 fusetracking.com
 0.0.0.0 g-mm.co
 0.0.0.0 gadmobe.com
+0.0.0.0 gamebuffet.mobi
 0.0.0.0 gameloft.co.th
 0.0.0.0 gamepanda.me
 0.0.0.0 gamescentreom.com
@@ -489,6 +491,7 @@
 0.0.0.0 smrtx.net
 0.0.0.0 smsgateway.cc
 0.0.0.0 snapp.asia
+0.0.0.0 socdm.com
 0.0.0.0 socialclip.mobi
 0.0.0.0 sosmob.mobi
 0.0.0.0 spak.me
@@ -515,6 +518,7 @@
 0.0.0.0 thinksmart.co.th
 0.0.0.0 thisilike.net
 0.0.0.0 thmobi.com
+0.0.0.0 thtrackingap.com
 0.0.0.0 thumbr.com
 0.0.0.0 thumbsms.com
 0.0.0.0 thvideo.net
@@ -602,6 +606,7 @@
 0.0.0.0 ad.gadmobe.com
 0.0.0.0 ad.smrtx.net
 0.0.0.0 adext.vuclip.com
+0.0.0.0 adgen.socdm.com
 0.0.0.0 admoustache.go2affise.com
 0.0.0.0 ads.mobindy.com
 0.0.0.0 ads.pubmt.ch
@@ -707,6 +712,7 @@
 0.0.0.0 cobrand3.mobistarcorp.net
 0.0.0.0 com.havfun.mobi
 0.0.0.0 console.etracker.cc
+0.0.0.0 cont.mcommsg.com
 0.0.0.0 content.eskimi.com
 0.0.0.0 content.mobicute.com
 0.0.0.0 content.momoga.com
@@ -730,6 +736,7 @@
 0.0.0.0 dev.hayhaa.com
 0.0.0.0 dev.magikmobile.mobi
 0.0.0.0 dev3.thinksmart.co.th
+0.0.0.0 dg.gamebuffet.mobi
 0.0.0.0 dk.sunnygames.club
 0.0.0.0 docs.veoo.com
 0.0.0.0 dtac.mobindy.com
@@ -1091,6 +1098,7 @@
 0.0.0.0 sms.gameloft.com
 0.0.0.0 smzhsjx.vuclip.com
 0.0.0.0 srb.9v8p.com
+0.0.0.0 ssl.socdm.com
 0.0.0.0 st.at2010.net
 0.0.0.0 st.tubecorporate.com
 0.0.0.0 stage.centili.com
@@ -1352,6 +1360,7 @@
 0.0.0.0 www.flyrlk.com
 0.0.0.0 www.free8888content.com
 0.0.0.0 www.fun-clix.com
+0.0.0.0 www.fun-offer-th.com
 0.0.0.0 www.funspaz.com
 0.0.0.0 www.funzone.mobi
 0.0.0.0 www.gameloft.co.th
@@ -1452,6 +1461,7 @@
 0.0.0.0 www.thai2mobi.com
 0.0.0.0 www.thinksmart.co.th
 0.0.0.0 www.thisilike.net
+0.0.0.0 www.thtrackingap.com
 0.0.0.0 www.thumbr.com
 0.0.0.0 www.thumbsms.com
 0.0.0.0 www.tomlekded.com
