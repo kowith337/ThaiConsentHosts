@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201803041316
+# Version: 201803231019
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -85,6 +85,7 @@
 0.0.0.0 100000freecontent.com
 0.0.0.0 12mob.com
 0.0.0.0 181818.com.my
+0.0.0.0 1bet2uthai.net
 0.0.0.0 1mov.co
 0.0.0.0 321load.com
 0.0.0.0 4mobilefunz.com
@@ -1306,6 +1307,7 @@
 0.0.0.0 www.100000freecontent.com
 0.0.0.0 www.12mob.com
 0.0.0.0 www.181818.com.my
+0.0.0.0 www.1bet2uthai.net
 0.0.0.0 www.4mobilefunz.com
 0.0.0.0 www.55555getcontent.com
 0.0.0.0 www.5rio.com
