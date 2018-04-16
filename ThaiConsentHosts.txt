@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201804112116
+# Version: 201804161040
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -543,6 +543,7 @@
 0.0.0.0 trend-tech.net
 0.0.0.0 tubecorporate.com
 0.0.0.0 turbob.mobi
+0.0.0.0 tvplanet.co
 0.0.0.0 tweetsms.com.my
 0.0.0.0 txtnation.com
 0.0.0.0 u-nee.com
@@ -898,6 +899,7 @@
 0.0.0.0 lp.mobicute.com
 0.0.0.0 lp.mobindy.com
 0.0.0.0 lp.raptorads.net
+0.0.0.0 lp.tvplanet.co
 0.0.0.0 lp.xn--42c8cmgk9dvfyd.com
 0.0.0.0 lpo.perfonspot.com
 0.0.0.0 lps.mobindy.com
@@ -1050,6 +1052,7 @@
 0.0.0.0 play.mobistos.com
 0.0.0.0 play.outputfx.com
 0.0.0.0 play.redlight.th.contentbox.stream
+0.0.0.0 play.tvplanet.co
 0.0.0.0 play.vipgames.me
 0.0.0.0 pokktperformance.go2cloud.org
 0.0.0.0 portal.veoo.com
