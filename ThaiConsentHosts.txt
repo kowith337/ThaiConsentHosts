@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201804172027
+# Version: 201804182145
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -298,6 +298,7 @@
 0.0.0.0 hayhaa.com
 0.0.0.0 hclips.net
 0.0.0.0 hd0y.com
+0.0.0.0 hehemobi.com
 0.0.0.0 hello1.in
 0.0.0.0 hfa.mobi
 0.0.0.0 hito.co.vu
@@ -588,6 +589,7 @@
 0.0.0.0 wrtual.com
 0.0.0.0 xn--22c0bau8bor5ac4k7cc6g8a.net
 0.0.0.0 xn--42c8cmgk9dvfyd.com
+0.0.0.0 yasune360.com
 0.0.0.0 youlaugh.online
 0.0.0.0 yuppytv.com
 0.0.0.0 yuppyuppytv.com
@@ -730,6 +732,7 @@
 0.0.0.0 content.eskimi.com
 0.0.0.0 content.mobicute.com
 0.0.0.0 content.momoga.com
+0.0.0.0 content.yasune360.com
 0.0.0.0 corellinet.beezzi.com
 0.0.0.0 ct.mobi2u.mobi
 0.0.0.0 cy.chickcell.com
@@ -1121,6 +1124,7 @@
 0.0.0.0 star.etracker.cc
 0.0.0.0 static.chilliclubs.com
 0.0.0.0 static.chocoboard.com
+0.0.0.0 static.content.yasune360.com
 0.0.0.0 static.funstar.mobi
 0.0.0.0 static.mobgkt.com
 0.0.0.0 static.mobivite.net
@@ -1282,6 +1286,7 @@
 0.0.0.0 wap.vassolution.com
 0.0.0.0 wap.waremode.com
 0.0.0.0 wap.xn--42c8cmgk9dvfyd.com
+0.0.0.0 wap.yasune360.com
 0.0.0.0 wap1.cheesemobile.com
 0.0.0.0 wap1.sanookde.com
 0.0.0.0 wap2.cheesemobile.com
@@ -1399,6 +1404,7 @@
 0.0.0.0 www.gomasti.in
 0.0.0.0 www.gotd.mobi
 0.0.0.0 www.handysms.com
+0.0.0.0 www.hehemobi.com
 0.0.0.0 www.hotstar.com
 0.0.0.0 www.i-link.co
 0.0.0.0 www.iamzaa.com
