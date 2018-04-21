@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201804182145
+# Version: 201804211245
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -217,6 +217,7 @@
 0.0.0.0 digi.com.my
 0.0.0.0 digitalmerkat.com
 0.0.0.0 digitalngo.com
+0.0.0.0 digitalzoneng.com
 0.0.0.0 dindo.co.th
 0.0.0.0 dittolite.com
 0.0.0.0 dlxxxvip.com
@@ -254,6 +255,7 @@
 0.0.0.0 funstar.mobi
 0.0.0.0 funster.mobi
 0.0.0.0 funzone.mobi
+0.0.0.0 funzytv.com
 0.0.0.0 fusetracking.com
 0.0.0.0 g-mm.co
 0.0.0.0 gadmobe.com
@@ -309,6 +311,7 @@
 0.0.0.0 hurvewa.com
 0.0.0.0 hypermobiworld.com
 0.0.0.0 hyptas.com
+0.0.0.0 hyvesdp.com
 0.0.0.0 i-link.co
 0.0.0.0 iamzaa.com
 0.0.0.0 ibwin68.net
@@ -355,6 +358,7 @@
 0.0.0.0 magent.my
 0.0.0.0 magikmobile.mobi
 0.0.0.0 mastermovie-hd.mobi
+0.0.0.0 matchme.com.ng
 0.0.0.0 maxforecast.com
 0.0.0.0 may91.vn
 0.0.0.0 mayrondigital.com
@@ -502,6 +506,7 @@
 0.0.0.0 smrtx.net
 0.0.0.0 smsgateway.cc
 0.0.0.0 snapp.asia
+0.0.0.0 soccerchamp.ng
 0.0.0.0 socdm.com
 0.0.0.0 socialclip.mobi
 0.0.0.0 sosmob.mobi
@@ -521,6 +526,7 @@
 0.0.0.0 t3mobileadvertising.xyz
 0.0.0.0 tc-clicks.com
 0.0.0.0 tdedlove.com
+0.0.0.0 terragonbase.com
 0.0.0.0 thai-iphone.com
 0.0.0.0 thai2mobi.com
 0.0.0.0 thaifun4u.com
@@ -1005,6 +1011,7 @@
 0.0.0.0 mone-analytics.mobileacademy.com
 0.0.0.0 moviemaster.vipgames.me
 0.0.0.0 ms.mktrack.com
+0.0.0.0 msisdn.terragonbase.com
 0.0.0.0 mstatic.tomyamclub.com
 0.0.0.0 mstore.mcommsg.com
 0.0.0.0 mt.1mov.co
@@ -1212,6 +1219,7 @@
 0.0.0.0 transcodedmedia.mobivite.net
 0.0.0.0 trk.mobilevol.com
 0.0.0.0 trk.traffikflow.com
+0.0.0.0 tv.funzytv.com
 0.0.0.0 tw.fun-clix.com
 0.0.0.0 u.mobilart.in
 0.0.0.0 uat.caportal.etracker.cc
@@ -1392,6 +1400,7 @@
 0.0.0.0 www.fun-offer-th.com
 0.0.0.0 www.funspaz.com
 0.0.0.0 www.funzone.mobi
+0.0.0.0 www.funzytv.com
 0.0.0.0 www.gameloft.co.th
 0.0.0.0 www.gameloft.com
 0.0.0.0 www.gamescentreom.com
@@ -1426,6 +1435,7 @@
 0.0.0.0 www.lovehoro2561.com
 0.0.0.0 www.lustzy.com
 0.0.0.0 www.magent.my
+0.0.0.0 www.matchme.com.ng
 0.0.0.0 www.mcommsg.com
 0.0.0.0 www.mexcomm.net
 0.0.0.0 www.mfunz.mobi
