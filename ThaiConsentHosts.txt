@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201804211245
+# Version: 201805102106
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -206,6 +206,7 @@
 0.0.0.0 cutties.net
 0.0.0.0 cypher-sys.com
 0.0.0.0 damneddevastator.com
+0.0.0.0 dangduter.com
 0.0.0.0 datapremium.com
 0.0.0.0 datapremium.net
 0.0.0.0 datinggirls.info
@@ -556,6 +557,7 @@
 0.0.0.0 txtnation.com
 0.0.0.0 u-nee.com
 0.0.0.0 umobi.biz
+0.0.0.0 vasgn.com
 0.0.0.0 vassolution.com
 0.0.0.0 vcdn.stream
 0.0.0.0 vcgbtlktbagb.com
@@ -756,6 +758,7 @@
 0.0.0.0 deezer.thinksmart.co.th
 0.0.0.0 delivery.glzelnk.com
 0.0.0.0 dev.centili.com
+0.0.0.0 dev.dangduter.com
 0.0.0.0 dev.hayhaa.com
 0.0.0.0 dev.magikmobile.mobi
 0.0.0.0 dev3.thinksmart.co.th
@@ -1382,6 +1385,7 @@
 0.0.0.0 www.contentdd.net
 0.0.0.0 www.ctrackz.net
 0.0.0.0 www.cutties.net
+0.0.0.0 www.dangduter.com
 0.0.0.0 www.ddzey.com
 0.0.0.0 www.deepbluetech.biz
 0.0.0.0 www.digitalngo.com
