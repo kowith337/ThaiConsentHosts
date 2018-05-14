@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201805102106
+# Version: 201805141153
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -358,6 +358,7 @@
 0.0.0.0 maejaow.com
 0.0.0.0 magent.my
 0.0.0.0 magikmobile.mobi
+0.0.0.0 manymy.com
 0.0.0.0 mastermovie-hd.mobi
 0.0.0.0 matchme.com.ng
 0.0.0.0 maxforecast.com
@@ -497,6 +498,7 @@
 0.0.0.0 siamfun4u.com
 0.0.0.0 silk69.in
 0.0.0.0 silverlines.info
+0.0.0.0 sinocoo.com
 0.0.0.0 skype4mobile.com
 0.0.0.0 slimcdn.com
 0.0.0.0 slypee.com
@@ -858,6 +860,7 @@
 0.0.0.0 id.slypee.com
 0.0.0.0 id.surfto.mobi
 0.0.0.0 idngames.blastoffgaming.com
+0.0.0.0 img.manymy.com
 0.0.0.0 img.mobusi.com
 0.0.0.0 img.redporntube.xyz
 0.0.0.0 img1.picwall.mobi
@@ -1127,6 +1130,7 @@
 0.0.0.0 sms.gameloft.com
 0.0.0.0 smzhsjx.vuclip.com
 0.0.0.0 srb.9v8p.com
+0.0.0.0 ss.sinocoo.com
 0.0.0.0 ssl.socdm.com
 0.0.0.0 st.at2010.net
 0.0.0.0 st.tubecorporate.com
