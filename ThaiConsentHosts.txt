@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201805141153
+# Version: 201805161231
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -1464,6 +1464,7 @@
 0.0.0.0 www.mobusi.com
 0.0.0.0 www.momozaap.com
 0.0.0.0 www.mono-mobile.com
+0.0.0.0 www.monogame.in.th
 0.0.0.0 www.monozone.com
 0.0.0.0 www.movilfun4u.com
 0.0.0.0 www.mp3-shared.com
