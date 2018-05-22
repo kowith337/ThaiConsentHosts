@@ -1,9 +1,9 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201805170926
+# Version: 201805221426
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
-# Expires: 2 days
+# Expires: 1 day
 
 # Operator
 0.0.0.0 comenu.ais.co.th
@@ -741,6 +741,7 @@
 0.0.0.0 console.etracker.cc
 0.0.0.0 cont.mcommsg.com
 0.0.0.0 content.eskimi.com
+0.0.0.0 content.gmpmobi.com
 0.0.0.0 content.mobicute.com
 0.0.0.0 content.momoga.com
 0.0.0.0 content.yasune360.com
