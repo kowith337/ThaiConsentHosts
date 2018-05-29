@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201805221426
+# Version: 201805292020
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -94,6 +94,7 @@
 0.0.0.0 55555getcontent.com
 0.0.0.0 5rio.com
 0.0.0.0 5sys.com
+0.0.0.0 6969jp.xyz
 0.0.0.0 6988fa.com
 0.0.0.0 6f76b4c82656094f26.com
 0.0.0.0 7banana.com
