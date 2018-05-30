@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201805292020
+# Version: 201805301133
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -354,7 +354,7 @@
 0.0.0.0 ltvperf.com
 0.0.0.0 lucky6lucky.club
 0.0.0.0 lustzy.com
-0.0.0.0 m228.net
+0.0.0.0 m2888.net
 0.0.0.0 ma3.co
 0.0.0.0 maejaow.com
 0.0.0.0 magent.my
@@ -1199,7 +1199,7 @@
 0.0.0.0 thai.blastoffgaming.com
 0.0.0.0 thegirl.sexy-here.com
 0.0.0.0 three.vuclip.com
-0.0.0.0 thwpaper.m228.net
+0.0.0.0 thwpaper.m2888.net
 0.0.0.0 tk.ctrackz.net
 0.0.0.0 tk.pluckyaff.com
 0.0.0.0 tn.sunnygames.club
