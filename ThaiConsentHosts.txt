@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201806160715
+# Version: 201806211930
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -355,6 +355,7 @@
 0.0.0.0 linkbooster.xyz
 0.0.0.0 linkingclicks.com
 0.0.0.0 loadded.com
+0.0.0.0 loadmuns.com
 0.0.0.0 looke.mobi
 0.0.0.0 lovehoro.space
 0.0.0.0 lovehoro2561.com
@@ -1457,6 +1458,7 @@
 0.0.0.0 www.lalamobi.com
 0.0.0.0 www.letgomobile.com
 0.0.0.0 www.loadded.com
+0.0.0.0 www.loadmuns.com
 0.0.0.0 www.looke.mobi
 0.0.0.0 www.lovehoro2561.com
 0.0.0.0 www.lustzy.com
