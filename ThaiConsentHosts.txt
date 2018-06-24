@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201806211935
+# Version: 201806241008
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -480,6 +480,7 @@
 0.0.0.0 privatebay.tv
 0.0.0.0 privatewow.tv
 0.0.0.0 pubmt.ch
+0.0.0.0 pure-babe.com
 0.0.0.0 puteez.com
 0.0.0.0 questionfly.com
 0.0.0.0 radio.in.th
@@ -677,6 +678,7 @@
 0.0.0.0 ar.clubxzone.com
 0.0.0.0 as.exprtmb.com
 0.0.0.0 asia.gw2cloud.com
+0.0.0.0 assets.pure-babe.com
 0.0.0.0 at.sunnygames.club
 0.0.0.0 au.clubxzone.com
 0.0.0.0 az.yuppyuppytv.com
