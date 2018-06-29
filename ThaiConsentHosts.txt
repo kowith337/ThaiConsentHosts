@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201806291136
+# Version: 201806291154
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -546,6 +546,7 @@
 0.0.0.0 t3mobileadvertising.xyz
 0.0.0.0 tc-clicks.com
 0.0.0.0 tdedlove.com
+0.0.0.0 tech-vault.com
 0.0.0.0 terragonbase.com
 0.0.0.0 thai-iphone.com
 0.0.0.0 thai2mobi.com
@@ -1093,6 +1094,7 @@
 0.0.0.0 play.mobistos.com
 0.0.0.0 play.outputfx.com
 0.0.0.0 play.redlight.th.contentbox.stream
+0.0.0.0 play.tech-vault.com
 0.0.0.0 play.tvplanet.co
 0.0.0.0 play.vipgames.me
 0.0.0.0 pokktperformance.go2cloud.org
@@ -1320,6 +1322,7 @@
 0.0.0.0 wap.retromedya.com
 0.0.0.0 wap.shinee.com
 0.0.0.0 wap.symbioticinfo.com
+0.0.0.0 wap.tech-vault.com
 0.0.0.0 wap.thaiza.com
 0.0.0.0 wap.tomyamclub.com
 0.0.0.0 wap.trend-tech.net
