@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201806281500
+# Version: 201806291136
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -1524,6 +1524,7 @@
 0.0.0.0 www.sabai5555.com
 0.0.0.0 www.seaman2u.com
 0.0.0.0 www.sec.vuclip.com
+0.0.0.0 www.sexy-here.com
 0.0.0.0 www.sexypron.vuclip.com
 0.0.0.0 www.shinee.com
 0.0.0.0 www.shoopadoo.com
