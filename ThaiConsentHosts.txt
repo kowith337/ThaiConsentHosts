@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201806291154
+# Version: 201807061939
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -35,6 +35,7 @@
 0.0.0.0 56.76.86.177
 0.0.0.0 58.181.206.44
 0.0.0.0 61.16.174.219
+0.0.0.0 61.19.249.34
 0.0.0.0 61.47.40.132
 0.0.0.0 61.91.6.131
 0.0.0.0 65.49.33.31
@@ -324,6 +325,7 @@
 0.0.0.0 hyptas.com
 0.0.0.0 hyvesdp.com
 0.0.0.0 i-link.co
+0.0.0.0 i-walkernet.com
 0.0.0.0 iamzaa.com
 0.0.0.0 ibwin68.net
 0.0.0.0 icubemobile.com
@@ -1454,6 +1456,7 @@
 0.0.0.0 www.hehemobi.com
 0.0.0.0 www.hotstar.com
 0.0.0.0 www.i-link.co
+0.0.0.0 www.i-walkernet.com
 0.0.0.0 www.iamzaa.com
 0.0.0.0 www.idgame.net
 0.0.0.0 www.ilovemobi.com
