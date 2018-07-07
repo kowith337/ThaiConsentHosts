@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201807061939
+# Version: 201807071517
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -132,6 +132,7 @@
 0.0.0.0 afftrack-data.com
 0.0.0.0 afftrack.com
 0.0.0.0 aielber.com
+0.0.0.0 akazoo.com
 0.0.0.0 alpha-mobi.com
 0.0.0.0 amkomobile.com
 0.0.0.0 amkoonline.com
@@ -1050,6 +1051,7 @@
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.seaman2u.com
+0.0.0.0 mtn.akazoo.com
 0.0.0.0 mu.vuclip.com
 0.0.0.0 music.playclub.me
 0.0.0.0 musica.fun-club.mobi
@@ -1068,6 +1070,7 @@
 0.0.0.0 no.sunnygames.club
 0.0.0.0 odiamovies.vuclip.com
 0.0.0.0 onads.thinksmart.co.th
+0.0.0.0 orange.akazoo.com
 0.0.0.0 oqg84co2z.bkt.clouddn.com
 0.0.0.0 p.lustzy.com
 0.0.0.0 p1.maejaow.com
@@ -1386,6 +1389,7 @@
 0.0.0.0 www.achelous.mobi
 0.0.0.0 www.ad5network.com
 0.0.0.0 www.affichaos.com
+0.0.0.0 www.akazoo.com
 0.0.0.0 www.alpha-mobi.com
 0.0.0.0 www.amkomobile.com
 0.0.0.0 www.amkoonline.com
