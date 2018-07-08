@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201807071517
+# Version: 201807081202
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -458,6 +458,7 @@
 0.0.0.0 offergold.online
 0.0.0.0 offerstrack.net
 0.0.0.0 offrtrking.com
+0.0.0.0 oli.tools
 0.0.0.0 onlytopoffers.com
 0.0.0.0 oomph.club
 0.0.0.0 opencurvemedia.com
