@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201807081202
+# Version: 201807182107
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -158,6 +158,7 @@
 0.0.0.0 bigolives.tv
 0.0.0.0 billmscurlrev.com
 0.0.0.0 billyaffcontent.com
+0.0.0.0 bk8my.com
 0.0.0.0 bkkonline.com
 0.0.0.0 blastoffgaming.com
 0.0.0.0 bldtrax.com
@@ -1404,6 +1405,7 @@
 0.0.0.0 www.ar.clubxzone.com
 0.0.0.0 www.atmail.nl
 0.0.0.0 www.au.clubxzone.com
+0.0.0.0 www.bk8my.com
 0.0.0.0 www.bkkonline.com
 0.0.0.0 www.bmobil.net
 0.0.0.0 www.boos.vuclip.com
