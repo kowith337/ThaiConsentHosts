@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201807182107
+# Version: 201807242127
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -150,6 +150,7 @@
 0.0.0.0 atmail.nl
 0.0.0.0 autoportal.com
 0.0.0.0 awolf.mobi
+0.0.0.0 awz.bz
 0.0.0.0 b-qq.com
 0.0.0.0 b3st0ff3rs.com
 0.0.0.0 bajajcapital.com
@@ -251,6 +252,7 @@
 0.0.0.0 fly2.me
 0.0.0.0 fly2me.com
 0.0.0.0 flybi.store
+0.0.0.0 flygemobi.com
 0.0.0.0 flyrlk.com
 0.0.0.0 focusonone.cc
 0.0.0.0 formulawire.com
@@ -391,6 +393,7 @@
 0.0.0.0 mli.me
 0.0.0.0 mob-api.net
 0.0.0.0 mobgkt.com
+0.0.0.0 mobi-zone.mobi
 0.0.0.0 mobi2u.biz
 0.0.0.0 mobi2u.mobi
 0.0.0.0 mobico.my
@@ -420,7 +423,6 @@
 0.0.0.0 mobixing.com
 0.0.0.0 mobiz.guru
 0.0.0.0 mobl-apps.com
-0.0.0.0 mobi-zone.mobi
 0.0.0.0 mobopromo.biz
 0.0.0.0 mobplanner.com
 0.0.0.0 mobplus.net
@@ -582,6 +584,7 @@
 0.0.0.0 txtnation.com
 0.0.0.0 u-nee.com
 0.0.0.0 umobi.biz
+0.0.0.0 vasglobalnetwork.com
 0.0.0.0 vasgn.com
 0.0.0.0 vassolution.com
 0.0.0.0 vcdn.stream
@@ -681,6 +684,7 @@
 0.0.0.0 app.chickcell.com
 0.0.0.0 app.comedymunch.com
 0.0.0.0 app.cosmik-ltd.com
+0.0.0.0 app.hm5.me
 0.0.0.0 apps.mobusi.com
 0.0.0.0 apps.waremode.com
 0.0.0.0 ar.chickcell.com
@@ -769,6 +773,7 @@
 0.0.0.0 cont.mcommsg.com
 0.0.0.0 content.eskimi.com
 0.0.0.0 content.gmpmobi.com
+0.0.0.0 content.mobgkt.com
 0.0.0.0 content.mobicute.com
 0.0.0.0 content.momoga.com
 0.0.0.0 content.yasune360.com
@@ -1072,8 +1077,8 @@
 0.0.0.0 no.sunnygames.club
 0.0.0.0 odiamovies.vuclip.com
 0.0.0.0 onads.thinksmart.co.th
-0.0.0.0 orange.akazoo.com
 0.0.0.0 oqg84co2z.bkt.clouddn.com
+0.0.0.0 orange.akazoo.com
 0.0.0.0 p.lustzy.com
 0.0.0.0 p1.maejaow.com
 0.0.0.0 p2.maejaow.com
@@ -1139,6 +1144,7 @@
 0.0.0.0 s2.mono-mobile.com
 0.0.0.0 s3.mono-mobile.com
 0.0.0.0 sa.sunnygames.club
+0.0.0.0 safedown.s3.amazonaws.com
 0.0.0.0 sd.gw2cloud.com
 0.0.0.0 sd.txtnation.com
 0.0.0.0 se.kaka-games.com
@@ -1441,6 +1447,7 @@
 0.0.0.0 www.fblives.net
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
+0.0.0.0 www.flygemobi.com
 0.0.0.0 www.flyrlk.com
 0.0.0.0 www.free8888content.com
 0.0.0.0 www.fun-clix.com
