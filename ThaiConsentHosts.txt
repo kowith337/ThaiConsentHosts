@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201807252039
+# Version: 201807252049
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -369,6 +369,7 @@
 0.0.0.0 lovehoro2561.com
 0.0.0.0 ltvperf.com
 0.0.0.0 lucky6lucky.club
+0.0.0.0 lunla.net
 0.0.0.0 lustzy.com
 0.0.0.0 m2888.net
 0.0.0.0 ma3.co
@@ -407,6 +408,7 @@
 0.0.0.0 mobile-link.today
 0.0.0.0 mobileacademy.com
 0.0.0.0 mobilecontents.mobi
+0.0.0.0 mobilefunclub.com
 0.0.0.0 mobilegameblast.com
 0.0.0.0 mobilegamepass.com
 0.0.0.0 mobilejmp.com
@@ -993,6 +995,7 @@
 0.0.0.0 m.kodfin.com
 0.0.0.0 m.mobifan.com
 0.0.0.0 m.mobilart.in
+0.0.0.0 m.mobilefunclub.com
 0.0.0.0 m.mobindy.com
 0.0.0.0 m.mobixing.com
 0.0.0.0 m.mobiz.guru
@@ -1366,6 +1369,7 @@
 0.0.0.0 wowclip.tksm.mobi
 0.0.0.0 ws-adv.ais.co.th
 0.0.0.0 ws.n-content.com
+0.0.0.0 ww.lunla.net
 0.0.0.0 ww.mobindy.com
 0.0.0.0 ww.vcdn.stream
 0.0.0.0 ww.xn--42c8cmgk9dvfyd.com
@@ -1451,6 +1455,7 @@
 0.0.0.0 www.fly2me.com
 0.0.0.0 www.flygemobi.com
 0.0.0.0 www.flyrlk.com
+0.0.0.0 www.free.wap.mobixing.com
 0.0.0.0 www.free8888content.com
 0.0.0.0 www.fun-clix.com
 0.0.0.0 www.fun-offer-th.com
@@ -1491,6 +1496,7 @@
 0.0.0.0 www.loadmuns.com
 0.0.0.0 www.looke.mobi
 0.0.0.0 www.lovehoro2561.com
+0.0.0.0 www.lunla.net
 0.0.0.0 www.lustzy.com
 0.0.0.0 www.magent.my
 0.0.0.0 www.matchme.com.ng
@@ -1501,6 +1507,7 @@
 0.0.0.0 www.mobgkt.com
 0.0.0.0 www.mobico.my
 0.0.0.0 www.mobifan.com
+0.0.0.0 www.mobifan.wap.com
 0.0.0.0 www.mobifunz.com
 0.0.0.0 www.mobihibiz.com
 0.0.0.0 www.mobilecontents.mobi
