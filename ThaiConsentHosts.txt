@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201807252049
+# Version: 201807261802
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -763,6 +763,7 @@
 0.0.0.0 clientreports.etracker.cc
 0.0.0.0 club.funzone.mobi
 0.0.0.0 cmms.cheesemobile.com
+0.0.0.0 cms.arco.co.th
 0.0.0.0 cms.magent.my
 0.0.0.0 cms.thinksmart.co.th
 0.0.0.0 cmt-web.thinksmart.co.th
@@ -914,6 +915,7 @@
 0.0.0.0 iq.sunnygames.club
 0.0.0.0 ir.sunnygames.club
 0.0.0.0 it.sunnygames.club
+0.0.0.0 iv.arco.co.th
 0.0.0.0 ivas.chickyclub.net
 0.0.0.0 ivr.eggdigital.com
 0.0.0.0 iwap.symbioticinfo.com
@@ -1205,6 +1207,7 @@
 0.0.0.0 tds-03.atas.io
 0.0.0.0 telemedia.txtnation.com
 0.0.0.0 telkomsel.vuclip.com
+0.0.0.0 test.arco.co.th
 0.0.0.0 test.lalamobi.com
 0.0.0.0 tgrjlzc.vuclip.com
 0.0.0.0 th.12mob.com
@@ -1415,6 +1418,7 @@
 0.0.0.0 www.app3.datapremium.net
 0.0.0.0 www.appsilike.mobi
 0.0.0.0 www.ar.clubxzone.com
+0.0.0.0 www.arco.co.th
 0.0.0.0 www.atmail.nl
 0.0.0.0 www.au.clubxzone.com
 0.0.0.0 www.bk8my.com
