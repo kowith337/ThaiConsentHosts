@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201807261802
+# Version: 201808051307
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -8,6 +8,7 @@
 # Operator
 0.0.0.0 comenu.ais.co.th
 0.0.0.0 consentprt.dtac.co.th
+0.0.0.0 ddch.dtac.co.th
 0.0.0.0 sdpwap.dtac.co.th
 0.0.0.0 srf.ais.co.th
 0.0.0.0 ss1.mobilelife.co.th
@@ -713,6 +714,7 @@
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 br.sunnygames.club
 0.0.0.0 by.sunnygames.club
+0.0.0.0 c.6969jp.xyz
 0.0.0.0 c.admblink.xyz
 0.0.0.0 c.beezzi.com
 0.0.0.0 c.hfa.mobi
@@ -1118,6 +1120,7 @@
 0.0.0.0 play.vipgames.me
 0.0.0.0 pokktperformance.go2cloud.org
 0.0.0.0 portal.veoo.com
+0.0.0.0 ppvr.page.link
 0.0.0.0 private.playinvaders.com
 0.0.0.0 products.cosmik-ltd.com
 0.0.0.0 program.niitcloudcampus.com
