@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201808051307
+# Version: 201808091241
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -81,6 +81,7 @@
 0.0.0.0 203.146.249.21
 0.0.0.0 203.146.251.229
 0.0.0.0 203.151.206.102
+0.0.0.0 203.170.193.118
 0.0.0.0 203.223.147.133
 0.0.0.0 203.223.159.245
 0.0.0.0 205.147.96.155
@@ -214,6 +215,7 @@
 0.0.0.0 cpactions.com
 0.0.0.0 cpgnrotationurl.com
 0.0.0.0 cpitraffic.com
+0.0.0.0 cpweb.com
 0.0.0.0 ctrackz.net
 0.0.0.0 cuteclub.tv
 0.0.0.0 cutties.net
@@ -1443,6 +1445,7 @@
 0.0.0.0 www.clubtigermob.com
 0.0.0.0 www.clubxzone.com
 0.0.0.0 www.contentdd.net
+0.0.0.0 www.cpweb.com
 0.0.0.0 www.ctrackz.net
 0.0.0.0 www.cutties.net
 0.0.0.0 www.dangduter.com
