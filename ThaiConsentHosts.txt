@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201808172031
+# Version: 201808211517
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -460,6 +460,7 @@
 0.0.0.0 newshunt.com
 0.0.0.0 newsplus.me
 0.0.0.0 nexg.tv
+0.0.0.0 ngdfx.com
 0.0.0.0 niitcloudcampus.com
 0.0.0.0 nmpcenter.com
 0.0.0.0 nowportal.net
