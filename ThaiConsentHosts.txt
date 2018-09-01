@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201808211517
+# Version: 201809011350
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -119,6 +119,7 @@
 0.0.0.0 ad5network.com
 0.0.0.0 addictiveads.com
 0.0.0.0 addlink.mobi
+0.0.0.0 adultvids.mobi
 0.0.0.0 adfries.net
 0.0.0.0 adfrigate.com
 0.0.0.0 admblink.xyz
@@ -551,6 +552,7 @@
 0.0.0.0 stream-flix.mobi
 0.0.0.0 stream-flixth.com
 0.0.0.0 streamflix.mobi
+0.0.0.0 streamsharp.com
 0.0.0.0 studiox-babes.com
 0.0.0.0 sunmob.net
 0.0.0.0 sunnygames.club
@@ -1158,6 +1160,7 @@
 0.0.0.0 s2.mono-mobile.com
 0.0.0.0 s3.mono-mobile.com
 0.0.0.0 sa.sunnygames.club
+0.0.0.0 safe.streamsharp.com
 0.0.0.0 safedown.s3.amazonaws.com
 0.0.0.0 sd.gw2cloud.com
 0.0.0.0 sd.txtnation.com
@@ -1209,6 +1212,7 @@
 0.0.0.0 t3.contentfall.com
 0.0.0.0 t3.wiseforwarding.com
 0.0.0.0 tapigy.go2cloud.org
+0.0.0.0 tcity.adultvids.mobi
 0.0.0.0 tds-01.atas.io
 0.0.0.0 tds-02.atas.io
 0.0.0.0 tds-03.atas.io
@@ -1220,6 +1224,7 @@
 0.0.0.0 th.12mob.com
 0.0.0.0 th.5rio.com
 0.0.0.0 th.9v8p.com
+0.0.0.0 th.adultvids.mobi
 0.0.0.0 th.chickcell.com
 0.0.0.0 th.clubxzone.com
 0.0.0.0 th.contentbox.stream
@@ -1616,6 +1621,7 @@
 0.0.0.0 www.zmclick.com
 0.0.0.0 wytqaey.vuclip.com
 0.0.0.0 xiphfef.vuclip.com
+0.0.0.0 xposed.adultvids.mobi
 0.0.0.0 yads.zedo.com
 0.0.0.0 yapodur.vuclip.com
 0.0.0.0 yu.fun-clix.com
