@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201809011350
+# Version: 201809042352
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -16,6 +16,7 @@
 0.0.0.0 ss3.mobilelife.co.th
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 wap.dtac.co.th
+0.0.0.0 ws-adv.ais.co.th
 
 # IP Address
 0.0.0.0 10.104.143.133
@@ -1382,7 +1383,6 @@
 0.0.0.0 wifi.xn--42c8cmgk9dvfyd.com
 0.0.0.0 wiki.txtnation.com
 0.0.0.0 wowclip.tksm.mobi
-0.0.0.0 ws-adv.ais.co.th
 0.0.0.0 ws.n-content.com
 0.0.0.0 ww.lunla.net
 0.0.0.0 ww.mobindy.com
