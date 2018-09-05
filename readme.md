@@ -1,4 +1,4 @@
-﻿## Hosts File ที่รวบรวม Domain ของเว็บที่ให้บริการสมัครบริการเสริม (โดยที่ไม่แจ้งผู้ใช้ให้ทราบ)
+﻿﻿## Hosts File ที่รวบรวม Domain ของเว็บที่ให้บริการสมัครบริการเสริม (โดยที่ไม่แจ้งผู้ใช้ให้ทราบ)
 
 หรือที่เรียกว่า **SMS กินเงิน / Content เสียเงิน / บริการอีแอบ**
 
@@ -8,14 +8,14 @@
 
 **มือถือ Android ที่ Root แล้ว**: ใช้กับแอพฯ [AdAway](https://github.com/AdAway/AdAway)
 
-**มือถือ Android ที่ไม่ได้ Root**: สามารถใช้ได้กับแอพฯ [DNS66](https://github.com/julian-klode/dns66), [Blokada](https://github.com/blokadaorg/blokada)
-> [NetGuard](https://github.com/M66B/NetGuard) *(ไม่แนะนำ)*
+**มือถือ Android ที่ไม่ได้ Root**: สามารถใช้ได้กับแอพฯ [DNS66](https://github.com/julian-klode/dns66), [Blokada](https://github.com/blokadaorg/blokada), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
+> [NetGuard](https://github.com/M66B/NetGuard) *(ไม่แนะนำ เนื่องจากสามารถโหลด Hosts File ได้เพียงแหล่งเดียว)*
 
 **โปรแกรม Web Browser**: สามารถใช้ได้กับ [uBlock Origin](https://github.com/gorhill/uBlock) และ [uMatrix](https://github.com/gorhill/uMatrix)
 
 แนะนำเพิ่มเติมสำหรับผู้ใช้ Android:
 
-ผู้ใช้สามารถติดตั้งส่วนเสริม uBlock Origin ได้ ภายในแอพฯ Firefox for Android หรือ Browser ที่คล้ายกัน (เช่น Fennec F-Droid, IceCat Mobile, Pale Moon)
+ผู้ใช้สามารถติดตั้งส่วนเสริม uBlock Origin ได้ ภายในแอพฯ [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) หรือ Browser ที่คล้ายกัน (เช่น [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid), [IceCatMobile](https://f-droid.org/packages/org.gnu.icecat), [Waterfox](https://play.google.com/store/apps/details?id=org.waterfoxproject.waterfox))
 
 ### หมายเหตุ
 
