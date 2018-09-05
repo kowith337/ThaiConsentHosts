@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201809050948
+# Version: 201809051526
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -218,6 +218,7 @@
 0.0.0.0 cpgnrotationurl.com
 0.0.0.0 cpitraffic.com
 0.0.0.0 cpweb.com
+0.0.0.0 ct9.me
 0.0.0.0 ctrackz.net
 0.0.0.0 cuteclub.tv
 0.0.0.0 cutties.net
