@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201809051526
+# Version: 201809172057
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -82,6 +82,7 @@
 0.0.0.0 203.146.249.21
 0.0.0.0 203.146.251.229
 0.0.0.0 203.151.206.102
+0.0.0.0 203.151.232.156
 0.0.0.0 203.170.193.118
 0.0.0.0 203.223.147.133
 0.0.0.0 203.223.159.245
