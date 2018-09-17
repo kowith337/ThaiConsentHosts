@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201809172057
+# Version: 201809172103
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -967,6 +967,7 @@
 0.0.0.0 lp.raptorads.net
 0.0.0.0 lp.tvplanet.co
 0.0.0.0 lp.xn--42c8cmgk9dvfyd.com
+0.0.0.0 lpc.ctrackz.net
 0.0.0.0 lpo.perfonspot.com
 0.0.0.0 lps.mobindy.com
 0.0.0.0 lps.xn--42c8cmgk9dvfyd.com
