@@ -1,6 +1,6 @@
-﻿﻿# Hosts File ที่รวบรวม Domain ของเว็บที่ให้บริการสมัครบริการเสริม (โดยที่ไม่แจ้งผู้ใช้ให้ทราบ)
+﻿## Hosts File ที่รวบรวม Domain ของเว็บที่ให้บริการสมัครบริการเสริม (โดยที่ไม่แจ้งผู้ใช้ให้ทราบ)
 
-หรือที่เรียกว่า **SMS กินเงิน / Content เสียเงิน / บริการอีแอบ**
+> หรือที่เรียกว่า **SMS กินเงิน / Content เสียเงิน / บริการอีแอบ**
 
 ### สามารถประยุกต์ใช้ได้กับ
 **Windows Hosts File**: แนะนำให้ใช้กับ [HOSTS Manager (Windows)](https://github.com/henrypp/hostsmgr)
@@ -9,7 +9,7 @@
 **มือถือ Android ที่ Root แล้ว**: ใช้กับแอพฯ [AdAway](https://github.com/AdAway/AdAway)
 
 **มือถือ Android ที่ไม่ได้ Root**: สามารถใช้ได้กับแอพฯ [DNS66](https://github.com/julian-klode/dns66), [Blokada](https://github.com/blokadaorg/blokada), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
-> [NetGuard](https://github.com/M66B/NetGuard) *(ไม่แนะนำ เนื่องจากสามารถโหลด Hosts File ได้เพียงแหล่งเดียว)*
+> ไม่แนะนำ [NetGuard](https://github.com/M66B/NetGuard) *เนื่องจากสามารถโหลด Hosts File ได้เพียงแหล่งเดียว*
 
 **โปรแกรม Web Browser**: สามารถใช้ได้กับ [uBlock Origin](https://github.com/gorhill/uBlock) และ [uMatrix](https://github.com/gorhill/uMatrix)
 
