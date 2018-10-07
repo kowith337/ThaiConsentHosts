@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201810041543
+# Version: 201810071554
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -329,6 +329,7 @@
 0.0.0.0 hfa.mobi
 0.0.0.0 hito.co.vu
 0.0.0.0 hm5.me
+0.0.0.0 horolive.com
 0.0.0.0 horoworld.com
 0.0.0.0 hotstar.com
 0.0.0.0 house365.com
@@ -955,6 +956,7 @@
 0.0.0.0 ldp.mobindy.com
 0.0.0.0 lightbox.th.contentbox.stream
 0.0.0.0 live.gamepanda.me
+0.0.0.0 live.horolive.com
 0.0.0.0 live.vipgames.me
 0.0.0.0 lotto.loadded.com
 0.0.0.0 lotto.thaiza.com
@@ -1089,6 +1091,7 @@
 0.0.0.0 nbc.thinksmart.co.th
 0.0.0.0 neomobilesestatic.azureedge.net
 0.0.0.0 nepalipussy.vuclip.com
+0.0.0.0 neptune.horolive.com
 0.0.0.0 new.vuclip.com
 0.0.0.0 nextlink.cypher-sys.com
 0.0.0.0 nl.sunnygames.club
@@ -1499,6 +1502,7 @@
 0.0.0.0 www.gotd.mobi
 0.0.0.0 www.handysms.com
 0.0.0.0 www.hehemobi.com
+0.0.0.0 www.horolive.com
 0.0.0.0 www.hotstar.com
 0.0.0.0 www.i-link.co
 0.0.0.0 www.i-walkernet.com
