@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201810071554
+# Version: 201810091821
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -765,6 +765,7 @@
 0.0.0.0 cf.fun-clix.com
 0.0.0.0 ch.sunnygames.club
 0.0.0.0 channel.jibhd.com
+0.0.0.0 chat.thaiza.com
 0.0.0.0 cheras.mtouche.com
 0.0.0.0 choose.txtnation.com
 0.0.0.0 cl.clubxzone.com
@@ -815,6 +816,8 @@
 0.0.0.0 dev.magikmobile.mobi
 0.0.0.0 dev3.thinksmart.co.th
 0.0.0.0 dg.gamebuffet.mobi
+0.0.0.0 dictionary.thaiza.com
+0.0.0.0 directory.thaiza.com
 0.0.0.0 dk.sunnygames.club
 0.0.0.0 docs.veoo.com
 0.0.0.0 dtac.mobindy.com
@@ -825,12 +828,14 @@
 0.0.0.0 e-mis.etracker.cc
 0.0.0.0 e-reporting.etracker.cc
 0.0.0.0 ec.sunnygames.club
+0.0.0.0 ecard.thaiza.com
 0.0.0.0 ee.sunnygames.club
 0.0.0.0 eg.kaka-games.com
 0.0.0.0 eg.sunnygames.club
 0.0.0.0 eg.yuppyuppytv.com
 0.0.0.0 ejxlhrc.vuclip.com
 0.0.0.0 en.sunnygames.club
+0.0.0.0 entertainment.thaiza.com
 0.0.0.0 es.sunnygames.club
 0.0.0.0 extern.espabit.net
 0.0.0.0 f.deepbluetech.biz
@@ -843,14 +848,18 @@
 0.0.0.0 ff.media-bucket.com
 0.0.0.0 ffy.fun-clix.com
 0.0.0.0 fhjfs.voluumtrk.com
+0.0.0.0 file.thaiza.com
 0.0.0.0 filesub.vilandsoft.com
 0.0.0.0 fit.media-bucket.com
+0.0.0.0 forum.thaiza.com
 0.0.0.0 fr.sunnygames.club
 0.0.0.0 free.chickyclub.net
 0.0.0.0 free.gangzaa.net
 0.0.0.0 fu.fun-clix.com
 0.0.0.0 g.zm.my
 0.0.0.0 game.mono-mobile.com
+0.0.0.0 game.thaiza.com
+0.0.0.0 gameonline.thaiza.com
 0.0.0.0 gameroom.magikmobile.mobi
 0.0.0.0 games-live.s3.amazonaws.com
 0.0.0.0 games.cdn.famobi.com
@@ -900,6 +909,7 @@
 0.0.0.0 harshitadmobly.afftrack.com
 0.0.0.0 hello.aielber.com
 0.0.0.0 home.house365.com
+0.0.0.0 horoscope.thaiza.com
 0.0.0.0 hot.chickyclub.net
 0.0.0.0 hqloiaw.vuclip.com
 0.0.0.0 hs.fun-clix.com
@@ -939,6 +949,7 @@
 0.0.0.0 jump.link-boost.com
 0.0.0.0 justdownit.s3.amazonaws.com
 0.0.0.0 jz.pk.slypee.com
+0.0.0.0 katejung.thaiza.com
 0.0.0.0 ke.sunnygames.club
 0.0.0.0 kenscio.go2cloud.org
 0.0.0.0 kmlpg.adsbtrack.com
@@ -1046,6 +1057,7 @@
 0.0.0.0 m1.7banana.com
 0.0.0.0 m2.7banana.com
 0.0.0.0 m3.7banana.com
+0.0.0.0 market.thaiza.com
 0.0.0.0 mc.waphub.mobi
 0.0.0.0 media.smsgateway.cc
 0.0.0.0 merjcaw.vuclip.com
@@ -1071,6 +1083,7 @@
 0.0.0.0 mobrevenu.offerstrack.net
 0.0.0.0 mobtions.go2affise.com
 0.0.0.0 mone-analytics.mobileacademy.com
+0.0.0.0 movie.thaiza.com
 0.0.0.0 moviemaster.vipgames.me
 0.0.0.0 ms.mktrack.com
 0.0.0.0 msisdn.terragonbase.com
@@ -1082,6 +1095,7 @@
 0.0.0.0 mtn.akazoo.com
 0.0.0.0 mu.vuclip.com
 0.0.0.0 music.playclub.me
+0.0.0.0 music.thaiza.com
 0.0.0.0 musica.fun-club.mobi
 0.0.0.0 my.12mob.com
 0.0.0.0 my.kaka-games.com
@@ -1093,11 +1107,13 @@
 0.0.0.0 nepalipussy.vuclip.com
 0.0.0.0 neptune.horolive.com
 0.0.0.0 new.vuclip.com
+0.0.0.0 news.thaiza.com
 0.0.0.0 nextlink.cypher-sys.com
 0.0.0.0 nl.sunnygames.club
 0.0.0.0 nno9c.voluumtrk2.com
 0.0.0.0 no.sunnygames.club
 0.0.0.0 odiamovies.vuclip.com
+0.0.0.0 okfashion.thaiza.com
 0.0.0.0 old.chickyclub.net
 0.0.0.0 onads.thinksmart.co.th
 0.0.0.0 oqg84co2z.bkt.clouddn.com
@@ -1116,6 +1132,8 @@
 0.0.0.0 pe.chickcell.com
 0.0.0.0 pe.clubxzone.com
 0.0.0.0 pf.media-bucket.com
+0.0.0.0 phone.thaiza.com
+0.0.0.0 photo.thaiza.com
 0.0.0.0 pk1.slypee.com
 0.0.0.0 pk2.slypee.com
 0.0.0.0 pk3.slypee.com
@@ -1149,6 +1167,7 @@
 0.0.0.0 r.mobindy.com
 0.0.0.0 r620.buddycode.net
 0.0.0.0 rad.mob-api.net
+0.0.0.0 radio.thaiza.com
 0.0.0.0 rbt.getcools.com
 0.0.0.0 rcompromotion.nexg.tv
 0.0.0.0 redirect.consested-opplyield.com
@@ -1194,6 +1213,9 @@
 0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 sms.gameloft.com
 0.0.0.0 smzhsjx.vuclip.com
+0.0.0.0 sondhi.thaiza.com
+0.0.0.0 song.thaiza.com
+0.0.0.0 sport.thaiza.com
 0.0.0.0 srb.9v8p.com
 0.0.0.0 ss.sinocoo.com
 0.0.0.0 ssl.socdm.com
@@ -1293,9 +1315,11 @@
 0.0.0.0 tracking.wrtual.com
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 transcodedmedia.mobivite.net
+0.0.0.0 travel.thaiza.com
 0.0.0.0 trk.mobilevol.com
 0.0.0.0 trk.traffikflow.com
 0.0.0.0 tv.funzytv.com
+0.0.0.0 tv.thaiza.com
 0.0.0.0 tw.fun-clix.com
 0.0.0.0 u.mobilart.in
 0.0.0.0 uat.caportal.etracker.cc
@@ -1308,6 +1332,7 @@
 0.0.0.0 v.hello1.in
 0.0.0.0 v.vstyle4u.com
 0.0.0.0 v.vvidiacom.com
+0.0.0.0 variety.thaiza.com
 0.0.0.0 vc.mocomecome.com
 0.0.0.0 vd1.waphub.mobi
 0.0.0.0 vd2.waphub.mobi
@@ -1339,6 +1364,7 @@
 0.0.0.0 w.mcommsg.com
 0.0.0.0 w.vstyle4u.com
 0.0.0.0 wallpaper.vstyle4u.com
+0.0.0.0 wanlop15.thaiza.com
 0.0.0.0 wap-cpa.digi.com.my
 0.0.0.0 wap.321load.com
 0.0.0.0 wap.7banana.com
@@ -1599,6 +1625,7 @@
 0.0.0.0 www.thai-iphone.com
 0.0.0.0 www.thai2mobi.com
 0.0.0.0 www.thaimobile.com
+0.0.0.0 www.thaiza.com
 0.0.0.0 www.thinksmart.co.th
 0.0.0.0 www.thisilike.net
 0.0.0.0 www.thtrackingap.com
@@ -1632,6 +1659,7 @@
 0.0.0.0 www.zmclick.com
 0.0.0.0 wytqaey.vuclip.com
 0.0.0.0 xiphfef.vuclip.com
+0.0.0.0 xn--72c0b6d.thaiza.com
 0.0.0.0 xposed.adultvids.mobi
 0.0.0.0 yads.zedo.com
 0.0.0.0 yapodur.vuclip.com
