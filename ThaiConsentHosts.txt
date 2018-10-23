@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201810091821
+# Version: 201810252019
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -121,7 +121,6 @@
 0.0.0.0 ad5network.com
 0.0.0.0 addictiveads.com
 0.0.0.0 addlink.mobi
-0.0.0.0 adultvids.mobi
 0.0.0.0 adfries.net
 0.0.0.0 adfrigate.com
 0.0.0.0 admblink.xyz
@@ -130,6 +129,7 @@
 0.0.0.0 adschemist.com
 0.0.0.0 adsfast.com
 0.0.0.0 adsmain.com
+0.0.0.0 adultvids.mobi
 0.0.0.0 adzsx.pro
 0.0.0.0 affichaos.com
 0.0.0.0 affmob.com
@@ -549,6 +549,7 @@
 0.0.0.0 soccerchamp.ng
 0.0.0.0 socdm.com
 0.0.0.0 socialclip.mobi
+0.0.0.0 sohs.co
 0.0.0.0 sosmob.mobi
 0.0.0.0 spak.me
 0.0.0.0 sptslmtrafms.com
