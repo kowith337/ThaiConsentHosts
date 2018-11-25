@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201811212100
+# Version: 201811251949
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -665,6 +665,7 @@
 0.0.0.0 4219208.th.5rio.com
 0.0.0.0 888.thinksmart.co.th
 0.0.0.0 8gua.chocoboard.com
+0.0.0.0 9yam.shinee.com
 0.0.0.0 a.innnews.co.th
 0.0.0.0 a.mobilart.in
 0.0.0.0 a.n-d.bz
@@ -1111,6 +1112,7 @@
 0.0.0.0 nepalipussy.vuclip.com
 0.0.0.0 neptune.horolive.com
 0.0.0.0 new.vuclip.com
+0.0.0.0 news.shinee.com
 0.0.0.0 news.thaiza.com
 0.0.0.0 nextlink.cypher-sys.com
 0.0.0.0 nl.sunnygames.club
@@ -1131,6 +1133,7 @@
 0.0.0.0 pages.mobileacademy.com
 0.0.0.0 pages.mobiteacher.com
 0.0.0.0 pages.vipgames.me
+0.0.0.0 partner.shinee.com
 0.0.0.0 pay.gmpmobi.com
 0.0.0.0 pcs.chickyclub.net
 0.0.0.0 pe.chickcell.com
@@ -1416,7 +1419,9 @@
 0.0.0.0 web.chickyclub.net
 0.0.0.0 web.fun-clix.com
 0.0.0.0 web.fun-club.mobi
+0.0.0.0 web.shinee.com
 0.0.0.0 web.vuclip.com
+0.0.0.0 webpartner.shinee.com
 0.0.0.0 widget.txtnation.com
 0.0.0.0 wifi.mobicute.com
 0.0.0.0 wifi.mobindy.com
