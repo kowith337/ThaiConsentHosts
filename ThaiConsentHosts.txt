@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201811251949
+# Version: 201811271955
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -819,6 +819,8 @@
 0.0.0.0 dev.dangduter.com
 0.0.0.0 dev.hayhaa.com
 0.0.0.0 dev.magikmobile.mobi
+0.0.0.0 dev1.thinksmart.co.th
+0.0.0.0 dev2.thinksmart.co.th
 0.0.0.0 dev3.thinksmart.co.th
 0.0.0.0 dg.gamebuffet.mobi
 0.0.0.0 dictionary.thaiza.com
@@ -829,6 +831,7 @@
 0.0.0.0 dtac.xn--42c8cmgk9dvfyd.com
 0.0.0.0 dtplay-web.thinksmart.co.th
 0.0.0.0 dtrk.slimcdn.com
+0.0.0.0 dzr-uni.thinksmart.co.th
 0.0.0.0 e-mes.etracker.cc
 0.0.0.0 e-mis.etracker.cc
 0.0.0.0 e-reporting.etracker.cc
@@ -879,6 +882,7 @@
 0.0.0.0 get.mx.fun-club.mobi
 0.0.0.0 get.pe.fun-club.mobi
 0.0.0.0 get.th.fun-club.mobi
+0.0.0.0 ghealth-report.thinksmart.co.th
 0.0.0.0 girl18plus.sexy-here.com
 0.0.0.0 gk.wifistudy.com
 0.0.0.0 gmmtv.gmmwireless.com
@@ -1102,6 +1106,7 @@
 0.0.0.0 music.playclub.me
 0.0.0.0 music.thaiza.com
 0.0.0.0 musica.fun-club.mobi
+0.0.0.0 musicbx-cms.thinksmart.co.th
 0.0.0.0 my.12mob.com
 0.0.0.0 my.kaka-games.com
 0.0.0.0 my.mobgkt.com
@@ -1118,9 +1123,11 @@
 0.0.0.0 nl.sunnygames.club
 0.0.0.0 nno9c.voluumtrk2.com
 0.0.0.0 no.sunnygames.club
+0.0.0.0 obivr.thinksmart.co.th
 0.0.0.0 odiamovies.vuclip.com
 0.0.0.0 okfashion.thaiza.com
 0.0.0.0 old.chickyclub.net
+0.0.0.0 onads-report.thinksmart.co.th
 0.0.0.0 onads.thinksmart.co.th
 0.0.0.0 oqg84co2z.bkt.clouddn.com
 0.0.0.0 orange.akazoo.com
@@ -1217,6 +1224,10 @@
 0.0.0.0 sk.sunnygames.club
 0.0.0.0 smart.brvaffs.com
 0.0.0.0 smart.mobopromo.biz
+0.0.0.0 smmp.sv1.thinksmart.co.th
+0.0.0.0 smmp.sv2.thinksmart.co.th
+0.0.0.0 smmp.sv3.thinksmart.co.th
+0.0.0.0 smmp.thinksmart.co.th
 0.0.0.0 smrtads-app.thinksmart.co.th
 0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 sms.gameloft.com
@@ -1242,6 +1253,9 @@
 0.0.0.0 stats.optsearch.net
 0.0.0.0 stream.cdnfiber.com
 0.0.0.0 sub.getcools.com
+0.0.0.0 sv1.thinksmart.co.th
+0.0.0.0 sv2.thinksmart.co.th
+0.0.0.0 sv3.thinksmart.co.th
 0.0.0.0 t.mobilart.in
 0.0.0.0 t.vstyle4u.com
 0.0.0.0 t1.contentfall.com
@@ -1256,6 +1270,7 @@
 0.0.0.0 tds-02.atas.io
 0.0.0.0 tds-03.atas.io
 0.0.0.0 telemedia.txtnation.com
+0.0.0.0 telesales.thinksmart.co.th
 0.0.0.0 telkomsel.vuclip.com
 0.0.0.0 test.arco.co.th
 0.0.0.0 test.lalamobi.com
