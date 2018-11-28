@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201811271955
+# Version: 201811290028
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -244,6 +244,7 @@
 0.0.0.0 dlxxxvip.com
 0.0.0.0 dobmobile.com
 0.0.0.0 dobmobile.xyz
+0.0.0.0 dooplus.tv
 0.0.0.0 downloadhub.me
 0.0.0.0 e668ou.com
 0.0.0.0 eggdigital.com
@@ -726,6 +727,7 @@
 0.0.0.0 binjinn.go2cloud.org
 0.0.0.0 blog.gameloft.co.th
 0.0.0.0 blog.mobusi.com
+0.0.0.0 book.senate.dooplus.tv
 0.0.0.0 boos.vuclip.com
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 br.sunnygames.club
@@ -1209,6 +1211,8 @@
 0.0.0.0 se.kaka-games.com
 0.0.0.0 sec.vuclip.com
 0.0.0.0 selfcare.comedymunch.com
+0.0.0.0 senate.dooplus.tv
+0.0.0.0 service.dooplus.tv
 0.0.0.0 service.horoworld.com
 0.0.0.0 sexindian.vuclip.com
 0.0.0.0 sexjapanm.vuclip.com
@@ -1220,10 +1224,12 @@
 0.0.0.0 sg.mobgkt.com
 0.0.0.0 shineewap.shinee.com
 0.0.0.0 shineeweb.shinee.com
+0.0.0.0 siapp.dooplus.tv
 0.0.0.0 sin.media-bucket.com
 0.0.0.0 sk.sunnygames.club
 0.0.0.0 smart.brvaffs.com
 0.0.0.0 smart.mobopromo.biz
+0.0.0.0 smartmacontrol.dooplus.tv
 0.0.0.0 smmp.sv1.thinksmart.co.th
 0.0.0.0 smmp.sv2.thinksmart.co.th
 0.0.0.0 smmp.sv3.thinksmart.co.th
@@ -1395,6 +1401,7 @@
 0.0.0.0 wap.amkoonline.com
 0.0.0.0 wap.ananda.chickyclub.net
 0.0.0.0 wap.ddzey.com
+0.0.0.0 wap.dooplus.tv
 0.0.0.0 wap.focusonone.cc
 0.0.0.0 wap.free.chickyclub.net
 0.0.0.0 wap.funspaz.com
@@ -1442,6 +1449,7 @@
 0.0.0.0 wifi.mobindy.com
 0.0.0.0 wifi.xn--42c8cmgk9dvfyd.com
 0.0.0.0 wiki.txtnation.com
+0.0.0.0 wlive.senate.dooplus.tv
 0.0.0.0 wowclip.tksm.mobi
 0.0.0.0 ws.n-content.com
 0.0.0.0 ww.lunla.net
@@ -1523,6 +1531,7 @@
 0.0.0.0 www.dindo.co.th
 0.0.0.0 www.dobmobile.com
 0.0.0.0 www.dobmobile.xyz
+0.0.0.0 www.dooplus.tv
 0.0.0.0 www.downloadhub.me
 0.0.0.0 www.enjoy108.com
 0.0.0.0 www.eskimi.com
