@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201811290028
+# Version: 201812052130
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -192,6 +192,7 @@
 0.0.0.0 chocoboard.com
 0.0.0.0 chupa.mobi
 0.0.0.0 chz.mobi
+0.0.0.0 chzmobi.net
 0.0.0.0 ckwizard.com
 0.0.0.0 clausiafze.com
 0.0.0.0 clickmlife.com
@@ -1102,6 +1103,7 @@
 0.0.0.0 mstore.mcommsg.com
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
+0.0.0.0 mt.chzmobi.net
 0.0.0.0 mt.seaman2u.com
 0.0.0.0 mtn.akazoo.com
 0.0.0.0 mu.vuclip.com
