@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201812052147
+# Version: 201812072052
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -1277,6 +1277,7 @@
 0.0.0.0 tds-01.atas.io
 0.0.0.0 tds-02.atas.io
 0.0.0.0 tds-03.atas.io
+0.0.0.0 technology.thaiza.com
 0.0.0.0 telemedia.txtnation.com
 0.0.0.0 telesales.thinksmart.co.th
 0.0.0.0 telkomsel.vuclip.com
