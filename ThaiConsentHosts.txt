@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201812072052
+# Version: 201812241352
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -531,6 +531,9 @@
 0.0.0.0 seaman2u.com
 0.0.0.0 sedapmeesiam.gold
 0.0.0.0 sexy-here.com
+0.0.0.0 www.girl18plus.sexy-here.com
+0.0.0.0 www.sexyangel.sexy-here.com
+0.0.0.0 www.thegirl.sexy-here.com
 0.0.0.0 shemaroo.com
 0.0.0.0 shinee.com
 0.0.0.0 shoopadoo.com
@@ -866,6 +869,7 @@
 0.0.0.0 fr.sunnygames.club
 0.0.0.0 free.chickyclub.net
 0.0.0.0 free.gangzaa.net
+0.0.0.0 ftp.sexy-here.com
 0.0.0.0 fu.fun-clix.com
 0.0.0.0 g.zm.my
 0.0.0.0 game.mono-mobile.com
