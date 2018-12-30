@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201812291742
+# Version: 201812301816
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 1 day
@@ -595,6 +595,7 @@
 0.0.0.0 tomlekded.com
 0.0.0.0 tomyamclub.com
 0.0.0.0 toon-land.com
+0.0.0.0 topfreeload.com
 0.0.0.0 trackinit.com
 0.0.0.0 trackmeplease.com
 0.0.0.0 traffikflow.com
