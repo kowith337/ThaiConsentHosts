@@ -15,12 +15,12 @@
 
 แนะนำเพิ่มเติมสำหรับผู้ใช้ Android:
 
-ผู้ใช้สามารถติดตั้งส่วนเสริม uBlock Origin ได้ ภายในแอพฯ [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) หรือ Browser ที่คล้ายกัน (เช่น [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid), [IceCatMobile](https://f-droid.org/packages/org.gnu.icecat), [Waterfox](https://play.google.com/store/apps/details?id=org.waterfoxproject.waterfox))
+ผู้ใช้สามารถติดตั้งส่วนเสริม uBlock Origin ได้ ภายในแอพฯ [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) หรือ Browser ที่คล้ายกัน \(เช่น [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid), [IceCatMobile](https://f-droid.org/packages/org.gnu.icecat)\)
 
 ### หมายเหตุ
 
-Hosts File นี้ไม่สามารถแก้ปัญหาหรือป้องกันการสมัครโดยวิธีอื่น นอกเหนือจากการถูกโฆษณาประเภท Popunder และการถูก Redirect ไปยังเว็บไซท์เหล่านั้นโดยอัตโนมัติ
-
-เช่น การถูกสมัครโดยช่องทางการส่ง SMS โดยอัตโนมัติของแอพพลิเคชั่นที่ไม่พึงประสงค์ (ซึ่งส่วนมากมักมีโฆษณา และ/หรือ ขอสิทธิ์ในการเข้าถึงและส่งข้อความ SMS รวมถึงการโทรออก)
+Hosts File นี้ไม่สามารถแก้ปัญหาหรือป้องกันการสมัครโดยวิธีอื่น นอกเหนือจากการถูกโฆษณาประเภท Popunder และการถูก Redirect ไปยังเว็บไซท์เหล่านั้นโดยอัตโนมัติ เช่น
+- การถูกสมัครโดยช่องทางการส่ง SMS โดยอัตโนมัติของแอพพลิเคชั่นที่ไม่พึงประสงค์ (ซึ่งส่วนมากมักมีโฆษณา และ/หรือ ขอสิทธิ์ในการเข้าถึงและส่งข้อความ SMS รวมถึงการโทรออก)
+- การสุ่มเบอร์โทรศัพท์ของเจ้าของบริการเสียเงิน โดยมีการใช้ระบบตอบรับอัตโนมัติ หรือมีพนักงานพูดสาย ซึ่งหากเผลอตอบ "ตกลง" "ใช่" "ครับ" หรือ "ค่ะ" จะถือว่าเป็นคำยืนยันการสมัครใช้บริการนั้นๆ เป็นต้น
 
 ทั้งนี้ทั้งนั้น บางเว็บไซท์อาจไม่ได้อัพเดทเพิ่มเข้ามาได้ทัน แต่จะพยายามรวบรวมให้มากที่สุดเท่าที่จะทำได้
