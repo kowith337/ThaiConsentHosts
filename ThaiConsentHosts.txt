@@ -1,10 +1,10 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201901061918
+# Version: 201901271900
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
-
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 # Operator
 0.0.0.0 comenu.ais.co.th
 0.0.0.0 consentprt.dtac.co.th
@@ -17,7 +17,6 @@
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 wap.dtac.co.th
 0.0.0.0 ws-adv.ais.co.th
-
 # IP Address
 0.0.0.0 10.104.143.133
 0.0.0.0 13.76.87.1
@@ -92,7 +91,6 @@
 0.0.0.0 223.25.242.68
 0.0.0.0 223.25.242.69
 0.0.0.0 223.25.242.95
-
 # Base Domain
 0.0.0.0 100000freecontent.com
 0.0.0.0 12mob.com
@@ -352,6 +350,8 @@
 0.0.0.0 imgamma.com
 0.0.0.0 imzog.com
 0.0.0.0 innnews.co.th
+0.0.0.0 innygang.com
+0.0.0.0 innygang.net
 0.0.0.0 instantbabes.mobi
 0.0.0.0 iqwmxn.com
 0.0.0.0 isport.co.th
@@ -487,6 +487,7 @@
 0.0.0.0 optsearch.net
 0.0.0.0 outputfx.com
 0.0.0.0 panshimob.com
+0.0.0.0 pdanow.net
 0.0.0.0 peak-serving.com
 0.0.0.0 peerfly.com
 0.0.0.0 perfonspot.com
@@ -663,7 +664,6 @@
 0.0.0.0 zmclick.com
 0.0.0.0 zog.link
 0.0.0.0 zomobie.com
-
 # Variant
 0.0.0.0 1678.thinksmart.co.th
 0.0.0.0 168.sedapmeesiam.gold
@@ -1589,6 +1589,8 @@
 0.0.0.0 www.idgame.net
 0.0.0.0 www.ilovemobi.com
 0.0.0.0 www.innnews.co.th
+0.0.0.0 www.innygang.com
+0.0.0.0 www.innygang.net
 0.0.0.0 www.iqwmxn.com
 0.0.0.0 www.ivalent.com
 0.0.0.0 www.jmtt.co.th
