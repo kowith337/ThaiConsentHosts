@@ -1,11 +1,11 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201901271900
+# Version: 201901282144
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-# Operator
+# Operator - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 comenu.ais.co.th
 0.0.0.0 consentprt.dtac.co.th
 0.0.0.0 ddch.dtac.co.th
@@ -17,7 +17,7 @@
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 wap.dtac.co.th
 0.0.0.0 ws-adv.ais.co.th
-# IP Address
+# IP Address - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 10.104.143.133
 0.0.0.0 13.76.87.1
 0.0.0.0 27.100.44.214
@@ -91,7 +91,7 @@
 0.0.0.0 223.25.242.68
 0.0.0.0 223.25.242.69
 0.0.0.0 223.25.242.95
-# Base Domain
+# Base Domain - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 100000freecontent.com
 0.0.0.0 12mob.com
 0.0.0.0 181818.com.my
@@ -664,7 +664,7 @@
 0.0.0.0 zmclick.com
 0.0.0.0 zog.link
 0.0.0.0 zomobie.com
-# Variant
+# Variant - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 1678.thinksmart.co.th
 0.0.0.0 168.sedapmeesiam.gold
 0.0.0.0 2048kg.findgit.com
@@ -1726,3 +1726,4 @@
 0.0.0.0 zeed.bigolives.tv
 0.0.0.0 zgxtmtf.vuclip.com
 0.0.0.0 zz.fun-clix.com
+# End of my hosts entry - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
