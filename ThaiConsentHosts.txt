@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201901282144
+# Version: 201902011648
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -507,6 +507,7 @@
 0.0.0.0 pluckyaff.com
 0.0.0.0 pointificsecure.com
 0.0.0.0 porn93.com
+0.0.0.0 pottymag.com
 0.0.0.0 privatebay.tv
 0.0.0.0 privatewow.tv
 0.0.0.0 pubmt.ch
