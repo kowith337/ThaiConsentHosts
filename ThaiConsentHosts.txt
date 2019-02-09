@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201902011648
+# Version: 201902091014
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -212,6 +212,7 @@
 0.0.0.0 consested-opplyield.com
 0.0.0.0 contentbox.stream
 0.0.0.0 contentdd.net
+0.0.0.0 contentsdaily.com
 0.0.0.0 contentfall.com
 0.0.0.0 cool4mob.com
 0.0.0.0 coolzee.net
@@ -980,7 +981,9 @@
 0.0.0.0 kw.sunnygames.club
 0.0.0.0 kz.sunnygames.club
 0.0.0.0 l.chz.mobi
+0.0.0.0 l.chzmobi.net
 0.0.0.0 l.clickstk.com
+0.0.0.0 l.contentsdaily.com
 0.0.0.0 l.vstyle4u.com
 0.0.0.0 landing.mcommsg.com
 0.0.0.0 landing.mobusi.com
@@ -995,7 +998,10 @@
 0.0.0.0 live.vipgames.me
 0.0.0.0 lotto.loadded.com
 0.0.0.0 lotto.thaiza.com
+0.0.0.0 lp.chz.mobi
+0.0.0.0 lp.chzmobi.net
 0.0.0.0 lp.contentdd.net
+0.0.0.0 lp.contentsdaily.com
 0.0.0.0 lp.coolzee.net
 0.0.0.0 lp.ctrackz.net
 0.0.0.0 lp.downloadhub.me
@@ -1117,6 +1123,7 @@
 0.0.0.0 mt.1mov.co
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.chzmobi.net
+0.0.0.0 mt.contentsdaily.com
 0.0.0.0 mt.seaman2u.com
 0.0.0.0 mtn.akazoo.com
 0.0.0.0 mu.vuclip.com
