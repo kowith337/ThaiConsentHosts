@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201902091107
+# Version: 201902101842
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -1255,11 +1255,14 @@
 0.0.0.0 smart.brvaffs.com
 0.0.0.0 smart.mobopromo.biz
 0.0.0.0 smartmacontrol.dooplus.tv
+0.0.0.0 sme.cheesemobile.com
+0.0.0.0 smeevent.cheesemobile.com
 0.0.0.0 smmp.sv1.thinksmart.co.th
 0.0.0.0 smmp.sv2.thinksmart.co.th
 0.0.0.0 smmp.sv3.thinksmart.co.th
 0.0.0.0 smmp.thinksmart.co.th
 0.0.0.0 smrtads-app.thinksmart.co.th
+0.0.0.0 sms.cheesemobile.com
 0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 sms.gameloft.com
 0.0.0.0 smzhsjx.vuclip.com
@@ -1534,11 +1537,14 @@
 0.0.0.0 www.breathing-love.com
 0.0.0.0 www.centili.com
 0.0.0.0 www.chatded.com
+0.0.0.0 www.cheesemobile.com
 0.0.0.0 www.chickcell.com
 0.0.0.0 www.chickyclub.net
 0.0.0.0 www.chilliclubs.com
 0.0.0.0 www.chocoboard.com
 0.0.0.0 www.chupa.mobi
+0.0.0.0 www.chz.mobi
+0.0.0.0 www.chzmobi.net
 0.0.0.0 www.cl.clubxzone.com
 0.0.0.0 www.clausiafze.com
 0.0.0.0 www.clickmultimedia.co.th
@@ -1547,6 +1553,8 @@
 0.0.0.0 www.clubxzone.com
 0.0.0.0 www.cocodat.com
 0.0.0.0 www.contentdd.net
+0.0.0.0 www.contentdd.net
+0.0.0.0 www.contentsdaily.com
 0.0.0.0 www.cpweb.com
 0.0.0.0 www.ctrackz.net
 0.0.0.0 www.cutties.net
@@ -1722,6 +1730,7 @@
 0.0.0.0 www.xn--22c0bau8bor5ac4k7cc6g8a.net
 0.0.0.0 www.xn--42c8cmgk9dvfyd.com
 0.0.0.0 www.zmclick.com
+0.0.0.0 www2.cheesemobile.com
 0.0.0.0 wytqaey.vuclip.com
 0.0.0.0 xiphfef.vuclip.com
 0.0.0.0 xn--72c0b6d.thaiza.com
