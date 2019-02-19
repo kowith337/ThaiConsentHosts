@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201902101842
+# Version: 201902191324
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -212,8 +212,8 @@
 0.0.0.0 consested-opplyield.com
 0.0.0.0 contentbox.stream
 0.0.0.0 contentdd.net
-0.0.0.0 contentsdaily.com
 0.0.0.0 contentfall.com
+0.0.0.0 contentsdaily.com
 0.0.0.0 cool4mob.com
 0.0.0.0 coolzee.net
 0.0.0.0 cosmik-ltd.com
@@ -308,6 +308,7 @@
 0.0.0.0 glimline.com
 0.0.0.0 glmtr4ck.net
 0.0.0.0 globocom.co.in
+0.0.0.0 gloft.co
 0.0.0.0 glzelnk.com
 0.0.0.0 gmmwireless.com
 0.0.0.0 gmpmobi.com
@@ -841,6 +842,7 @@
 0.0.0.0 dictionary.thaiza.com
 0.0.0.0 directory.thaiza.com
 0.0.0.0 dk.sunnygames.club
+0.0.0.0 dl.gameloft.com
 0.0.0.0 docs.veoo.com
 0.0.0.0 dtac.mobindy.com
 0.0.0.0 dtac.xn--42c8cmgk9dvfyd.com
