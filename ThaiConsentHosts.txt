@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201902191324
+# Version: 201902261256
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -254,6 +254,7 @@
 0.0.0.0 espabit.net
 0.0.0.0 etracker.cc 
 0.0.0.0 exprtmb.com
+0.0.0.0 ezym.net
 0.0.0.0 facabooks.com
 0.0.0.0 famobi.com
 0.0.0.0 fashionbunny.com
@@ -1572,6 +1573,7 @@
 0.0.0.0 www.enjoy108.com
 0.0.0.0 www.eskimi.com
 0.0.0.0 www.etracker.cc 
+0.0.0.0 www.ezym.net
 0.0.0.0 www.fashionbunny.com
 0.0.0.0 www.fblives.net
 0.0.0.0 www.fly2.me
