@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201902262252
+# Version: 201903012324
 # Author: kowith337
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
@@ -301,6 +301,7 @@
 0.0.0.0 funzone.mobi
 0.0.0.0 funzytv.com
 0.0.0.0 fusetracking.com
+0.0.0.0 future2you.com
 0.0.0.0 g-mm.co
 0.0.0.0 gadmobe.com
 0.0.0.0 gamebuffet.mobi
@@ -1713,6 +1714,7 @@
 0.0.0.0 www.funspaz.com
 0.0.0.0 www.funzone.mobi
 0.0.0.0 www.funzytv.com
+0.0.0.0 www.future2you.com
 0.0.0.0 www.gameloft.co.th
 0.0.0.0 www.gameloft.com
 0.0.0.0 www.gameplaydd.com
