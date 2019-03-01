@@ -1,9 +1,10 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201903012324
+# Version: 201903012349
 # Author: kowith337
-# Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Expires: 2 days
+# Homepage: https://github.com/kowith337/ThaiConsentHosts
+# Mirror: https://github.com/kowith337/ThaiConsentHosts/raw/master/ThaiConsentHosts.txt
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 # Operator - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 comenu.ais.co.th
