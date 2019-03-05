@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201903012349
+# Version: 201903051104
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -956,6 +956,7 @@
 0.0.0.0 fr.sunnygames.club
 0.0.0.0 free.chickyclub.net
 0.0.0.0 free.gangzaa.net
+0.0.0.0 friend.thaiza.com
 0.0.0.0 ftp.sexy-here.com
 0.0.0.0 fu.fun-clix.com
 0.0.0.0 g.zm.my
@@ -1028,6 +1029,7 @@
 0.0.0.0 id.slypee.com
 0.0.0.0 id.surfto.mobi
 0.0.0.0 idngames.blastoffgaming.com
+0.0.0.0 images.thaiza.com
 0.0.0.0 img.20150917.com
 0.0.0.0 img.manymy.com
 0.0.0.0 img.mobusi.com
@@ -1042,6 +1044,9 @@
 0.0.0.0 in.sunnygames.club
 0.0.0.0 in.tubecorporate.com
 0.0.0.0 in.zog.link
+0.0.0.0 include1.thaiza.com
+0.0.0.0 include2.thaiza.com
+0.0.0.0 include3.thaiza.com
 0.0.0.0 influencer.nipa.co.th
 0.0.0.0 ingames.blastoffgaming.com
 0.0.0.0 instagram.nipa.co.th
@@ -1506,6 +1511,7 @@
 0.0.0.0 vd4.waphub.mobi
 0.0.0.0 vd5.waphub.mobi
 0.0.0.0 vdo.bigolives.tv
+0.0.0.0 vdo.thaiza.com
 0.0.0.0 vedio.vuclip.com
 0.0.0.0 video.videopaper.win
 0.0.0.0 vidxx.playclub.me
