@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201903051104
+# Version: 201903102125
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1193,6 +1193,7 @@
 0.0.0.0 mfadmin.thinksmart.co.th
 0.0.0.0 mgm.gw2cloud.com
 0.0.0.0 mhi.go2cloud.org
+0.0.0.0 mhoro.gmmwireless.com
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mk.sunnygames.club
 0.0.0.0 mnnbv.ab4hr.com
@@ -1457,9 +1458,11 @@
 0.0.0.0 tha.youlaugh.online
 0.0.0.0 thai.blastoffgaming.com
 0.0.0.0 thegirl.sexy-here.com
+0.0.0.0 thestar9.gmmwireless.com
 0.0.0.0 three.vuclip.com
 0.0.0.0 thwpaper.m2888.net
 0.0.0.0 tk.ctrackz.net
+0.0.0.0 tk.gmmwireless.com
 0.0.0.0 tk.pluckyaff.com
 0.0.0.0 tn.sunnygames.club
 0.0.0.0 to.dgmobix.com
@@ -1871,6 +1874,7 @@
 0.0.0.0 www.thtrackingap.com
 0.0.0.0 www.thumbr.com
 0.0.0.0 www.thumbsms.com
+0.0.0.0 www.tk.gmmwireless.com
 0.0.0.0 www.tomlekded.com
 0.0.0.0 www.tomyamclub.com
 0.0.0.0 www.toon-land.com
