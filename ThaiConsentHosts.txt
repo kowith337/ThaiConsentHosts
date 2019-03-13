@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201903102125
+# Version: 201903131738
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -10,6 +10,10 @@
 0.0.0.0 comenu.ais.co.th
 0.0.0.0 consentprt.dtac.co.th
 0.0.0.0 ddch.dtac.co.th
+0.0.0.0 dtacplay.com
+0.0.0.0 freezone.dtacplay.com
+0.0.0.0 gameroom.dtacplay.com
+0.0.0.0 music.dtacplay.com
 0.0.0.0 sdpwap.dtac.co.th
 0.0.0.0 srf.ais.co.th
 0.0.0.0 ss1.mobilelife.co.th
@@ -173,6 +177,7 @@
 0.0.0.0 bigolives.tv
 0.0.0.0 billmscurlrev.com
 0.0.0.0 billyaffcontent.com
+0.0.0.0 bjipanshi.com
 0.0.0.0 bk8my.com
 0.0.0.0 bkkonline.com
 0.0.0.0 blastoffgaming.com
@@ -460,6 +465,7 @@
 0.0.0.0 mobile-link.today
 0.0.0.0 mobileacademy.com
 0.0.0.0 mobilecontents.mobi
+0.0.0.0 mobilefantasy.net
 0.0.0.0 mobilefunclub.com
 0.0.0.0 mobilefunny.com
 0.0.0.0 mobilegameblast.com
@@ -799,6 +805,7 @@
 0.0.0.0 blog.gameloft.co.th
 0.0.0.0 blog.mobusi.com
 0.0.0.0 bof.monotechnology.com
+0.0.0.0 boo.mobifan.com
 0.0.0.0 book.senate.dooplus.tv
 0.0.0.0 boos.vuclip.com
 0.0.0.0 bqm1.b-qq.com
@@ -933,6 +940,7 @@
 0.0.0.0 entertainment.thaiza.com
 0.0.0.0 es.sunnygames.club
 0.0.0.0 espiams.thai-sms.com
+0.0.0.0 ex.getclick.mobi
 0.0.0.0 extern.espabit.net
 0.0.0.0 f.deepbluetech.biz
 0.0.0.0 f1.chickyclub.net
@@ -953,9 +961,11 @@
 0.0.0.0 filesub.vilandsoft.com
 0.0.0.0 fit.media-bucket.com
 0.0.0.0 forum.thaiza.com
+0.0.0.0 forwasms.mobifan.com
 0.0.0.0 fr.sunnygames.club
 0.0.0.0 free.chickyclub.net
 0.0.0.0 free.gangzaa.net
+0.0.0.0 freezone.mobifan.com
 0.0.0.0 friend.thaiza.com
 0.0.0.0 ftp.sexy-here.com
 0.0.0.0 fu.fun-clix.com
@@ -1029,6 +1039,7 @@
 0.0.0.0 id.slypee.com
 0.0.0.0 id.surfto.mobi
 0.0.0.0 idngames.blastoffgaming.com
+0.0.0.0 images.mobifan.com
 0.0.0.0 images.thaiza.com
 0.0.0.0 img.20150917.com
 0.0.0.0 img.manymy.com
@@ -1188,6 +1199,7 @@
 0.0.0.0 mc.waphub.mobi
 0.0.0.0 media.nipa.co.th
 0.0.0.0 media.smsgateway.cc
+0.0.0.0 member.mobifan.com
 0.0.0.0 merjcaw.vuclip.com
 0.0.0.0 mes.etracker.cc
 0.0.0.0 mfadmin.thinksmart.co.th
@@ -1196,6 +1208,7 @@
 0.0.0.0 mhoro.gmmwireless.com
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mk.sunnygames.club
+0.0.0.0 mms.mobifan.com
 0.0.0.0 mnnbv.ab4hr.com
 0.0.0.0 mnnbv.adsbtrk.com
 0.0.0.0 mobi.chickyclub.net
@@ -1238,6 +1251,7 @@
 0.0.0.0 my.mobgkt.com
 0.0.0.0 my.sunnygames.club
 0.0.0.0 my.surfto.mobi
+0.0.0.0 mychat.mobifan.com
 0.0.0.0 nbc.thinksmart.co.th
 0.0.0.0 neomobilesestatic.azureedge.net
 0.0.0.0 nepalipussy.vuclip.com
@@ -1359,6 +1373,7 @@
 0.0.0.0 siapp.dooplus.tv
 0.0.0.0 sin.media-bucket.com
 0.0.0.0 sk.sunnygames.club
+0.0.0.0 skybox.service.thinksmart.co.th
 0.0.0.0 smart.brvaffs.com
 0.0.0.0 smart.mobopromo.biz
 0.0.0.0 smartmacontrol.dooplus.tv
@@ -1557,6 +1572,7 @@
 0.0.0.0 wap.ebizmobile.com
 0.0.0.0 wap.focusonone.cc
 0.0.0.0 wap.free.chickyclub.net
+0.0.0.0 wap.freezone.mobifan.com
 0.0.0.0 wap.funspaz.com
 0.0.0.0 wap.getcools.com
 0.0.0.0 wap.getfeelgood.com
@@ -1571,6 +1587,7 @@
 0.0.0.0 wap.mconverge.in
 0.0.0.0 wap.mfunz.mobi
 0.0.0.0 wap.mobgkt.com
+0.0.0.0 wap.mobifan.com
 0.0.0.0 wap.nexg.tv
 0.0.0.0 wap.retromedya.com
 0.0.0.0 wap.shinee.com
@@ -1608,6 +1625,7 @@
 0.0.0.0 wiki.txtnation.com
 0.0.0.0 wlive.senate.dooplus.tv
 0.0.0.0 women.thaiza.com
+0.0.0.0 wowclip-report.thinksmart.co.th
 0.0.0.0 wowclip.tksm.mobi
 0.0.0.0 ws.n-content.com
 0.0.0.0 ww.lunla.net
@@ -1791,6 +1809,7 @@
 0.0.0.0 www.mobifunz.com
 0.0.0.0 www.mobihibiz.com
 0.0.0.0 www.mobilecontents.mobi
+0.0.0.0 www.mobilefantasy.net
 0.0.0.0 www.mobilefunny.com
 0.0.0.0 www.mobilegamepass.com
 0.0.0.0 www.mobilejmp.com
