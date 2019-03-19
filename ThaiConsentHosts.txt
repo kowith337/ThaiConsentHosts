@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201903131738
+# Version: 201903192335
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -160,6 +160,7 @@
 0.0.0.0 aptrk5.com
 0.0.0.0 aragontrack.com
 0.0.0.0 arco.co.th
+0.0.0.0 arenamedia.co.th
 0.0.0.0 arenamobile.com
 0.0.0.0 at2010.net
 0.0.0.0 atas.io
@@ -263,6 +264,7 @@
 0.0.0.0 dobmobile.com
 0.0.0.0 dobmobile.xyz
 0.0.0.0 dooplus.tv
+0.0.0.0 dosbuy.com
 0.0.0.0 downloadhub.me
 0.0.0.0 e668ou.com
 0.0.0.0 ebizmobile.com
@@ -296,6 +298,7 @@
 0.0.0.0 fun-offer-th.com
 0.0.0.0 fun2u.biz
 0.0.0.0 fun4u.co
+0.0.0.0 funclix.com
 0.0.0.0 fungame.mobi
 0.0.0.0 funmobile.com
 0.0.0.0 funmobileth.com
@@ -365,6 +368,7 @@
 0.0.0.0 hollywoodmobile.com
 0.0.0.0 horolive.com
 0.0.0.0 horoworld.com
+0.0.0.0 hotleague.com
 0.0.0.0 hotstar.com
 0.0.0.0 house365.com
 0.0.0.0 hurvewa.com
@@ -589,6 +593,7 @@
 0.0.0.0 sabai5555.com
 0.0.0.0 sabver.com
 0.0.0.0 sanookde.com
+0.0.0.0 scan-do.com
 0.0.0.0 scattertraff.com
 0.0.0.0 seacom.co.th
 0.0.0.0 seaman2u.com
@@ -1141,6 +1146,7 @@
 0.0.0.0 m.cy.cool4mob.com
 0.0.0.0 m.dittolite.com
 0.0.0.0 m.dk.shoopadoo.com
+0.0.0.0 m.dosbuy.com
 0.0.0.0 m.eggdigital.com
 0.0.0.0 m.es.fun-club.mobi
 0.0.0.0 m.es.musica.fun-club.mobi
@@ -1257,6 +1263,7 @@
 0.0.0.0 nepalipussy.vuclip.com
 0.0.0.0 neptune.horolive.com
 0.0.0.0 new.vuclip.com
+0.0.0.0 news.dosbuy.com
 0.0.0.0 news.shinee.com
 0.0.0.0 news.thaiza.com
 0.0.0.0 nextlink.cypher-sys.com
@@ -1321,6 +1328,7 @@
 0.0.0.0 pumpkin.nipa.co.th
 0.0.0.0 qa.comedy-club.mobi
 0.0.0.0 qa.sunnygames.club
+0.0.0.0 qr.dosbuy.com
 0.0.0.0 qublquv.vuclip.com
 0.0.0.0 r.leadzuaf.com
 0.0.0.0 r.leadzupc.com
@@ -1396,6 +1404,7 @@
 0.0.0.0 ss.sinocoo.com
 0.0.0.0 ssl.socdm.com
 0.0.0.0 st.at2010.net
+0.0.0.0 st.dosbuy.com
 0.0.0.0 st.tubecorporate.com
 0.0.0.0 stage.centili.com
 0.0.0.0 star.etracker.cc
@@ -1458,6 +1467,7 @@
 0.0.0.0 th.mt.1mov.co
 0.0.0.0 th.n-mobile.net
 0.0.0.0 th.panshimob.com
+0.0.0.0 th.scan-do.com
 0.0.0.0 th.shoopadoo.com
 0.0.0.0 th.slypee.com
 0.0.0.0 th.sswap.mobi
@@ -1568,6 +1578,7 @@
 0.0.0.0 wap.amkoonline.com
 0.0.0.0 wap.ananda.chickyclub.net
 0.0.0.0 wap.ddzey.com
+0.0.0.0 wap.disney.co.th
 0.0.0.0 wap.dooplus.tv
 0.0.0.0 wap.ebizmobile.com
 0.0.0.0 wap.focusonone.cc
@@ -1581,6 +1592,7 @@
 0.0.0.0 wap.gmpmobi.com
 0.0.0.0 wap.guideball.com
 0.0.0.0 wap.gzazone.com
+0.0.0.0 wap.hotleague.com
 0.0.0.0 wap.iamzaa.com
 0.0.0.0 wap.isport.co.th
 0.0.0.0 wap.izenmobi.com
@@ -1678,6 +1690,7 @@
 0.0.0.0 www.appsilike.mobi
 0.0.0.0 www.ar.clubxzone.com
 0.0.0.0 www.arco.co.th
+0.0.0.0 www.arenamedia.co.th
 0.0.0.0 www.arenamobile.com
 0.0.0.0 www.atmail.nl
 0.0.0.0 www.au.clubxzone.com
@@ -1860,6 +1873,7 @@
 0.0.0.0 www.rotationurls.com
 0.0.0.0 www.s-onetelecom.com
 0.0.0.0 www.sabai5555.com
+0.0.0.0 www.scan-do.com
 0.0.0.0 www.seacom.co.th
 0.0.0.0 www.seaman2u.com
 0.0.0.0 www.sec.vuclip.com
