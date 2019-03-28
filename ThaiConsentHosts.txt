@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201903281213
+# Version: 201903281220
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -662,6 +662,7 @@
 0.0.0.0 soccerchamp.ng
 0.0.0.0 socdm.com
 0.0.0.0 socialclip.mobi
+0.0.0.0 socialnews.mobi
 0.0.0.0 sohs.co
 0.0.0.0 sosmob.mobi
 0.0.0.0 spak.me
