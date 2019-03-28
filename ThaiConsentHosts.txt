@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201903272101
+# Version: 201903281108
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1836,6 +1836,7 @@
 0.0.0.0 www.contentsdaily.com
 0.0.0.0 www.cpweb.com
 0.0.0.0 www.ctrackz.net
+0.0.0.0 www.cuteclub.tv
 0.0.0.0 www.cutties.net
 0.0.0.0 www.dangduter.com
 0.0.0.0 www.darapayakorn.com
