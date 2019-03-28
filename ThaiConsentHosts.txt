@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201903281200
+# Version: 201903281213
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -308,6 +308,7 @@
 0.0.0.0 free8888content.com
 0.0.0.0 freezone.mobi
 0.0.0.0 full-funny.com
+0.0.0.0 fun-cell.mobi
 0.0.0.0 fun-clix.com
 0.0.0.0 fun-club.mobi
 0.0.0.0 fun-offer-th.com
@@ -425,6 +426,7 @@
 0.0.0.0 khelbazar.in
 0.0.0.0 kissmyads.com
 0.0.0.0 klinikasmara.com
+0.0.0.0 km928bonprabang.club
 0.0.0.0 kodfin.com
 0.0.0.0 kodporno.com
 0.0.0.0 kwizu.club
@@ -631,6 +633,7 @@
 0.0.0.0 segimaid.com
 0.0.0.0 seospeedy.com
 0.0.0.0 sexy-here.com
+0.0.0.0 sexyinvaders.com
 0.0.0.0 sexyjung.com
 0.0.0.0 shemaroo.com
 0.0.0.0 shieldministry.com
@@ -1735,6 +1738,7 @@
 0.0.0.0 wap.iamzaa.com
 0.0.0.0 wap.isport.co.th
 0.0.0.0 wap.izenmobi.com
+0.0.0.0 wap.km928bonprabang.club
 0.0.0.0 wap.mconverge.in
 0.0.0.0 wap.mfunz.mobi
 0.0.0.0 wap.mobgkt.com
