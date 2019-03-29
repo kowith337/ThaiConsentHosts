@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201903282237
+# Version: 201903291157
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1320,6 +1320,7 @@
 0.0.0.0 logandload.com
 0.0.0.0 lotto.loadded.com
 0.0.0.0 lotto.thaiza.com
+0.0.0.0 love.horoworld.com
 0.0.0.0 lovemovie.moviegroups88.com
 0.0.0.0 lp.chz.mobi
 0.0.0.0 lp.chzmobi.net
@@ -1369,6 +1370,7 @@
 0.0.0.0 m.gangzaa.net
 0.0.0.0 m.handysms.com
 0.0.0.0 m.hayhaa.com
+0.0.0.0 m.horoworld.com
 0.0.0.0 m.hu.cool4mob.com
 0.0.0.0 m.innnews.co.th
 0.0.0.0 m.kangped.com
@@ -2117,6 +2119,7 @@
 0.0.0.0 www.hex-cube.com
 0.0.0.0 www.hollywoodmobile.com
 0.0.0.0 www.horolive.com
+0.0.0.0 www.horoworld.com
 0.0.0.0 www.hotstar.com
 0.0.0.0 www.i-link.co
 0.0.0.0 www.i-walkernet.com
