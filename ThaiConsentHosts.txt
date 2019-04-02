@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904022241
+# Version: 201904022244
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -251,7 +251,6 @@
 0.0.0.0 comedy-club.mobi
 0.0.0.0 comedymunch.com
 0.0.0.0 comudjet.pw
-0.0.0.0 comudjet.pw
 0.0.0.0 consested-opplyield.com
 0.0.0.0 contentbox.stream
 0.0.0.0 contentdd.net
@@ -330,7 +329,6 @@
 0.0.0.0 focusonone.cc
 0.0.0.0 formulawire.com
 0.0.0.0 free8888content.com
-0.0.0.0 freecot.pw
 0.0.0.0 freecot.pw
 0.0.0.0 freezone.mobi
 0.0.0.0 full-funny.com
@@ -466,8 +464,6 @@
 0.0.0.0 korverit.pw
 0.0.0.0 kplaw.kz
 0.0.0.0 kronsurf.pw
-0.0.0.0 kronsurf.pw
-0.0.0.0 kronsurf.pw
 0.0.0.0 kwizu.club
 0.0.0.0 lalamobi.com
 0.0.0.0 landorum.pw
@@ -505,7 +501,6 @@
 0.0.0.0 mastermovie-hd.mobi
 0.0.0.0 matchme.com.ng
 0.0.0.0 maxforecast.com
-0.0.0.0 maxmall.pw
 0.0.0.0 maxmall.pw
 0.0.0.0 may91.vn
 0.0.0.0 mayrondigital.com
@@ -573,9 +568,6 @@
 0.0.0.0 mobzeed.com
 0.0.0.0 mogamo.com
 0.0.0.0 mohawkprost.pw
-0.0.0.0 mohawkprost.pw
-0.0.0.0 mohawkprost.pw
-0.0.0.0 mohawkprost.pw
 0.0.0.0 mohemob.com
 0.0.0.0 momoga.com
 0.0.0.0 momoko.co
@@ -641,7 +633,6 @@
 0.0.0.0 panshimob.com
 0.0.0.0 pdanow.net
 0.0.0.0 peak-serving.com
-0.0.0.0 peavidev.pw
 0.0.0.0 peavidev.pw
 0.0.0.0 peerfly.com
 0.0.0.0 perfonspot.com
@@ -723,7 +714,6 @@
 0.0.0.0 siamguru.com
 0.0.0.0 siamtouch.com
 0.0.0.0 sifinmar.pw
-0.0.0.0 sifinmar.pw
 0.0.0.0 silk69.in
 0.0.0.0 silverlines.info
 0.0.0.0 sinocoo.com
@@ -754,7 +744,6 @@
 0.0.0.0 starchef.mobi
 0.0.0.0 startappservice.com
 0.0.0.0 stormobi.com
-0.0.0.0 storyberl.pw
 0.0.0.0 storyberl.pw
 0.0.0.0 stream-flix.mobi
 0.0.0.0 stream-flixth.com
@@ -787,7 +776,6 @@
 0.0.0.0 thaiza.com
 0.0.0.0 thepind.mobi
 0.0.0.0 thestandardlife.com
-0.0.0.0 thevelnit.pw
 0.0.0.0 thevelnit.pw
 0.0.0.0 thinksmart.co.th
 0.0.0.0 thisilike.net
