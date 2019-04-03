@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904032016
+# Version: 201904032057
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -233,7 +233,6 @@
 0.0.0.0 chilliclubs.com
 0.0.0.0 chocoboard.com
 0.0.0.0 chupa.mobi
-0.0.0.0 chupa.mobi
 0.0.0.0 chz.mobi
 0.0.0.0 chzmobi.net
 0.0.0.0 ckwizard.com
@@ -404,7 +403,6 @@
 0.0.0.0 grabmobitraffic.com
 0.0.0.0 grandmobi.net
 0.0.0.0 greatestapps.mobi
-0.0.0.0 greatestapps.mobi
 0.0.0.0 greatmobilegames.mobi
 0.0.0.0 guideball.com
 0.0.0.0 gw2cloud.com
@@ -549,7 +547,6 @@
 0.0.0.0 mobilart.in
 0.0.0.0 mobile-link.today
 0.0.0.0 mobileacademy.com
-0.0.0.0 mobilecontents.mobi
 0.0.0.0 mobilecontents.mobi
 0.0.0.0 mobilefantasy.net
 0.0.0.0 mobilefunclub.com
@@ -2161,7 +2158,6 @@
 0.0.0.0 www.chilliclubs.com
 0.0.0.0 www.chocoboard.com
 0.0.0.0 www.chupa.mobi
-0.0.0.0 www.chupa.mobi
 0.0.0.0 www.chz.mobi
 0.0.0.0 www.chzmobi.net
 0.0.0.0 www.cl.clubxzone.com
@@ -2238,7 +2234,6 @@
 0.0.0.0 www.goorulife.com
 0.0.0.0 www.gotd.mobi
 0.0.0.0 www.greatestapps.mobi
-0.0.0.0 www.greatestapps.mobi
 0.0.0.0 www.greatmobilegames.mobi
 0.0.0.0 www.guideball.com
 0.0.0.0 www.handysms.com
@@ -2297,7 +2292,6 @@
 0.0.0.0 www.mobifan.wap.com
 0.0.0.0 www.mobifunz.com
 0.0.0.0 www.mobihibiz.com
-0.0.0.0 www.mobilecontents.mobi
 0.0.0.0 www.mobilecontents.mobi
 0.0.0.0 www.mobilefantasy.net
 0.0.0.0 www.mobilefunny.com
