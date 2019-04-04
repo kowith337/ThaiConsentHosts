@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904032057
+# Version: 201904042024
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -294,6 +294,7 @@
 0.0.0.0 dindo.co.th
 0.0.0.0 dittolite.com
 0.0.0.0 dlxxxvip.com
+0.0.0.0 dmk365.com
 0.0.0.0 dobmobile.com
 0.0.0.0 dobmobile.xyz
 0.0.0.0 dooplus.tv
@@ -2182,6 +2183,7 @@
 0.0.0.0 www.devss.com
 0.0.0.0 www.digitalngo.com
 0.0.0.0 www.dindo.co.th
+0.0.0.0 www.dmk365.com
 0.0.0.0 www.dobmobile.com
 0.0.0.0 www.dobmobile.xyz
 0.0.0.0 www.dooplus.tv
