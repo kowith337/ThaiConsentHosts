@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904052354
+# Version: 201904060017
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -226,6 +226,7 @@
 0.0.0.0 celeryleek.com
 0.0.0.0 cellvidz.com
 0.0.0.0 centili.com
+0.0.0.0 chaiyo-mobile.com
 0.0.0.0 chatded.com
 0.0.0.0 cheesemobile.com
 0.0.0.0 cherryzone.com.ph
@@ -2156,6 +2157,7 @@
 0.0.0.0 www.buzzcity.com
 0.0.0.0 www.buzzcity.net
 0.0.0.0 www.centili.com
+0.0.0.0 www.chaiyo-mobile.com
 0.0.0.0 www.chatded.com
 0.0.0.0 www.cheesemobile.com
 0.0.0.0 www.chickcell.com
