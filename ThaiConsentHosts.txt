@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904071936
+# Version: 201904071950
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -2302,6 +2302,7 @@
 0.0.0.0 www.mcommsg.com
 0.0.0.0 www.mexcomm.net
 0.0.0.0 www.mfunz.mobi
+0.0.0.0 www.mfunz.mobi
 0.0.0.0 www.min4.com
 0.0.0.0 www.mobgkt.com
 0.0.0.0 www.mobiclub.net
@@ -2471,7 +2472,10 @@
 0.0.0.0 www.xn--42c8cmgk9dvfyd.com
 0.0.0.0 www.xspicyvideos.com
 0.0.0.0 www.zmclick.com
+0.0.0.0 www1.mfunz.mobi
 0.0.0.0 www2.cheesemobile.com
+0.0.0.0 www2.mfunz.mobi
+0.0.0.0 www3.mfunz.mobi
 0.0.0.0 wytqaey.vuclip.com
 0.0.0.0 x-rated.realgirls.mobi
 0.0.0.0 xiphfef.vuclip.com
