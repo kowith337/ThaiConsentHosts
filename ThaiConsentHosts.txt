@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904060017
+# Version: 201904071936
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -168,6 +168,7 @@
 0.0.0.0 amkoonline.com
 0.0.0.0 androidappsfree.mobi
 0.0.0.0 anolog.mobi
+0.0.0.0 aplay.tv
 0.0.0.0 aplaydigital.com
 0.0.0.0 appk.mobi
 0.0.0.0 applikteca.mobi
@@ -505,6 +506,8 @@
 0.0.0.0 lustzy.com
 0.0.0.0 m2888.net
 0.0.0.0 m2mobile.com
+0.0.0.0 m3shoppe.in.th
+0.0.0.0 m3tech.co.th
 0.0.0.0 ma3.co
 0.0.0.0 macrokiosk.com
 0.0.0.0 maejaow.com
@@ -702,6 +705,9 @@
 0.0.0.0 ryhopset.pw
 0.0.0.0 s-onetelecom.com
 0.0.0.0 sabai5555.com
+0.0.0.0 sabdee.com
+0.0.0.0 sabmobile.com
+0.0.0.0 sabsabonline.com
 0.0.0.0 sabver.com
 0.0.0.0 sadman3.icu
 0.0.0.0 saleplus.vn
@@ -761,6 +767,7 @@
 0.0.0.0 sosmob.mobi
 0.0.0.0 spak.me
 0.0.0.0 spicyvideos.mobi
+0.0.0.0 splanetproject.com
 0.0.0.0 sptslmtrafms.com
 0.0.0.0 sswap.mobi
 0.0.0.0 starchef.mobi
@@ -973,6 +980,7 @@
 0.0.0.0 api.centili.com
 0.0.0.0 api.mobgkt.com
 0.0.0.0 api.pixeleads.com
+0.0.0.0 aplaystream.splanetproject.com
 0.0.0.0 aplus.muraltent.pw
 0.0.0.0 app.1moby.com
 0.0.0.0 app.appsflyer.com
@@ -1888,6 +1896,7 @@
 0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 tha.youlaugh.online
 0.0.0.0 thai.blastoffgaming.com
+0.0.0.0 thailife.horoworld.com
 0.0.0.0 thegirl.sexy-here.com
 0.0.0.0 thestar9.gmmwireless.com
 0.0.0.0 thojurus.bluestwep.pw
@@ -2283,6 +2292,8 @@
 0.0.0.0 www.luckyyouna.com
 0.0.0.0 www.lunla.net
 0.0.0.0 www.lustzy.com
+0.0.0.0 www.m3shoppe.in.th
+0.0.0.0 www.m3tech.co.th
 0.0.0.0 www.macrokiosk.com
 0.0.0.0 www.magent.my
 0.0.0.0 www.matchme.com.ng
@@ -2377,6 +2388,9 @@
 0.0.0.0 www.rotationurls.com
 0.0.0.0 www.s-onetelecom.com
 0.0.0.0 www.sabai5555.com
+0.0.0.0 www.sabdee.com
+0.0.0.0 www.sabmobile.com
+0.0.0.0 www.sabsabonline.com
 0.0.0.0 www.scan-do.com
 0.0.0.0 www.scientiamobile.com
 0.0.0.0 www.seacom.co.th
