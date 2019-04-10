@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904071950
+# Version: 201904101651
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -330,6 +330,7 @@
 0.0.0.0 farerbabe.pw
 0.0.0.0 fashionbunny.com
 0.0.0.0 fblives.net
+0.0.0.0 feminum.pw
 0.0.0.0 findgit.com
 0.0.0.0 fly2.me
 0.0.0.0 fly2me.com
@@ -480,6 +481,7 @@
 0.0.0.0 kplaw.kz
 0.0.0.0 kronsurf.pw
 0.0.0.0 kwizu.club
+0.0.0.0 laanbok.pw
 0.0.0.0 lalamobi.com
 0.0.0.0 landorum.pw
 0.0.0.0 larnload.com
@@ -646,6 +648,7 @@
 0.0.0.0 oomph.club
 0.0.0.0 opencurvemedia.com
 0.0.0.0 optsearch.net
+0.0.0.0 orepic.com
 0.0.0.0 outputfx.com
 0.0.0.0 overtleva.pw
 0.0.0.0 ozura.com
@@ -674,8 +677,10 @@
 0.0.0.0 playwork.co.th
 0.0.0.0 playzone.mobi
 0.0.0.0 pluckyaff.com
+0.0.0.0 podanover.pw
 0.0.0.0 pointificsecure.com
 0.0.0.0 porn93.com
+0.0.0.0 pornpt.icu
 0.0.0.0 pottymag.com
 0.0.0.0 privatebay.tv
 0.0.0.0 privatewow.tv
@@ -806,6 +811,7 @@
 0.0.0.0 thepind.mobi
 0.0.0.0 thestandardlife.com
 0.0.0.0 thevelnit.pw
+0.0.0.0 thieferwi.pw
 0.0.0.0 thinksmart.co.th
 0.0.0.0 thisilike.net
 0.0.0.0 thmobi.com
@@ -855,6 +861,7 @@
 0.0.0.0 vilangames.xyz
 0.0.0.0 vipgames.me
 0.0.0.0 viral-mix.com
+0.0.0.0 vitalgall.pw
 0.0.0.0 vodbinny.pw
 0.0.0.0 voluumtrk.com
 0.0.0.0 voluumtrk2.com
@@ -1229,6 +1236,7 @@
 0.0.0.0 fr.sunnygames.club
 0.0.0.0 free.chickyclub.net
 0.0.0.0 free.gangzaa.net
+0.0.0.0 free.horoworld.com
 0.0.0.0 freemium.momoko.co
 0.0.0.0 freemovie-hd.moviegroups88.com
 0.0.0.0 freeonlineslots.zsaqls.com
@@ -1313,6 +1321,7 @@
 0.0.0.0 hero.macrokiosk.com
 0.0.0.0 home.house365.com
 0.0.0.0 hornyhousewives.realgirls.mobi
+0.0.0.0 horodaily.horoworld.com
 0.0.0.0 horoscope.thaiza.com
 0.0.0.0 hot.chickyclub.net
 0.0.0.0 hqloiaw.vuclip.com
@@ -1380,12 +1389,12 @@
 0.0.0.0 kod-hd.moviegroups88.com
 0.0.0.0 kw.sunnygames.club
 0.0.0.0 kz.sunnygames.club
+0.0.0.0 l.cheesemobile.com
 0.0.0.0 l.chz.mobi
 0.0.0.0 l.chzmobi.net
 0.0.0.0 l.clickstk.com
 0.0.0.0 l.contentdd.net
 0.0.0.0 l.contentsdaily.com
-0.0.0.0 l.vstyle4u.com
 0.0.0.0 landing.mcommsg.com
 0.0.0.0 landing.mobusi.com
 0.0.0.0 landing.nipa.co.th
@@ -1408,6 +1417,7 @@
 0.0.0.0 lotto.thaiza.com
 0.0.0.0 love.horoworld.com
 0.0.0.0 lovemovie.moviegroups88.com
+0.0.0.0 lp.cheesemobile.com
 0.0.0.0 lp.chz.mobi
 0.0.0.0 lp.chzmobi.net
 0.0.0.0 lp.contentdd.net
@@ -1558,6 +1568,7 @@
 0.0.0.0 mstatic.tomyamclub.com
 0.0.0.0 mstore.mcommsg.com
 0.0.0.0 mt.1mov.co
+0.0.0.0 mt.cheesemobile.com
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.chzmobi.net
 0.0.0.0 mt.contentdd.net
@@ -2022,6 +2033,12 @@
 0.0.0.0 wap.amkoonline.com
 0.0.0.0 wap.ananda.chickyclub.net
 0.0.0.0 wap.bug2mobile.com
+0.0.0.0 wap.cheesemobile.com
+0.0.0.0 wap.chz.mobi
+0.0.0.0 wap.chzmobi.net
+0.0.0.0 wap.clickstk.com
+0.0.0.0 wap.contentdd.net
+0.0.0.0 wap.contentsdaily.com
 0.0.0.0 wap.ddzey.com
 0.0.0.0 wap.disney.co.th
 0.0.0.0 wap.dooplus.tv
@@ -2078,6 +2095,7 @@
 0.0.0.0 web.shinee.com
 0.0.0.0 web.vuclip.com
 0.0.0.0 webpartner.shinee.com
+0.0.0.0 widget.horoworld.com
 0.0.0.0 widget.txtnation.com
 0.0.0.0 wifi.mobicute.com
 0.0.0.0 wifi.mobindy.com
@@ -2301,7 +2319,6 @@
 0.0.0.0 www.mcommedia.com
 0.0.0.0 www.mcommsg.com
 0.0.0.0 www.mexcomm.net
-0.0.0.0 www.mfunz.mobi
 0.0.0.0 www.mfunz.mobi
 0.0.0.0 www.min4.com
 0.0.0.0 www.mobgkt.com
