@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904111605
+# Version: 201904151621
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -597,6 +597,7 @@
 0.0.0.0 moneymak3rstrack.com
 0.0.0.0 mono-mobile.com
 0.0.0.0 monogame.in.th
+0.0.0.0 monoinfosystems.com
 0.0.0.0 monotechnology.com
 0.0.0.0 monozone.com
 0.0.0.0 moo.mn
@@ -923,6 +924,7 @@
 0.0.0.0 2222.thinksmart.co.th
 0.0.0.0 2kygq.voluumtrk.com
 0.0.0.0 332823.measurementapi.com
+0.0.0.0 360.monoinfosystems.com
 0.0.0.0 365betlive.python-libs.com
 0.0.0.0 365betonline.python-libs.com
 0.0.0.0 365betsportslivescores.python-libs.com
@@ -1244,6 +1246,7 @@
 0.0.0.0 freeslots.aradamandson.com
 0.0.0.0 freeslotsgames.zsaqls.com
 0.0.0.0 freezone.mobifan.com
+0.0.0.0 freya.monoinfosystems.com
 0.0.0.0 friend.thaiza.com
 0.0.0.0 ftp.sexy-here.com
 0.0.0.0 fu.fun-clix.com
@@ -1364,6 +1367,7 @@
 0.0.0.0 ingames.blastoffgaming.com
 0.0.0.0 inspirecasinosouthkorea.czlbc.net
 0.0.0.0 instagram.nipa.co.th
+0.0.0.0 interactive.monoinfosystems.com
 0.0.0.0 iportal.thumbr.com
 0.0.0.0 iq.sunnygames.club
 0.0.0.0 ir.sunnygames.club
@@ -1396,6 +1400,7 @@
 0.0.0.0 l.clickstk.com
 0.0.0.0 l.contentdd.net
 0.0.0.0 l.contentsdaily.com
+0.0.0.0 labike.monoinfosystems.com
 0.0.0.0 landing.mcommsg.com
 0.0.0.0 landing.mobusi.com
 0.0.0.0 landing.nipa.co.th
@@ -2348,6 +2353,7 @@
 0.0.0.0 www.momozaap.com
 0.0.0.0 www.mono-mobile.com
 0.0.0.0 www.monogame.in.th
+0.0.0.0 www.monoinfosystems.com
 0.0.0.0 www.monotechnology.com
 0.0.0.0 www.monozone.com
 0.0.0.0 www.moviegroups88.com
@@ -2512,6 +2518,7 @@
 0.0.0.0 za.mobi-zone.mobi
 0.0.0.0 za.sunnygames.club
 0.0.0.0 za.zz.th.thumbr.com
+0.0.0.0 zaatv.monoinfosystems.com
 0.0.0.0 zeed.bigolives.tv
 0.0.0.0 zgxtmtf.vuclip.com
 0.0.0.0 zoe.bluestwep.pw
