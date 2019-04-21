@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904160731
+# Version: 201904211256
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -201,6 +201,7 @@
 0.0.0.0 bestphoneapps.mobi
 0.0.0.0 bestwomenintown.com
 0.0.0.0 betreat.com
+0.0.0.0 bigdoremi.com
 0.0.0.0 bigolives.tv
 0.0.0.0 billmscurlrev.com
 0.0.0.0 billyaffcontent.com
@@ -356,6 +357,7 @@
 0.0.0.0 funmobile.com
 0.0.0.0 funmobileth.com
 0.0.0.0 funnyclub.tv
+0.0.0.0 funseahk.com
 0.0.0.0 funsexy.info
 0.0.0.0 funspaz.com
 0.0.0.0 funstar.mobi
@@ -802,6 +804,7 @@
 0.0.0.0 tdedlove.com
 0.0.0.0 tdsjsext1.com
 0.0.0.0 tech-vault.com
+0.0.0.0 temenjalan.com
 0.0.0.0 terragonbase.com
 0.0.0.0 th1cs.com
 0.0.0.0 thai-iphone.com
@@ -1254,6 +1257,7 @@
 0.0.0.0 fun88.shrum-studio.com
 0.0.0.0 g.zm.my
 0.0.0.0 game.bug2mobile.com
+0.0.0.0 game.funseahk.com
 0.0.0.0 game.mono-mobile.com
 0.0.0.0 game.thaiza.com
 0.0.0.0 gameonline.thaiza.com
@@ -1508,6 +1512,7 @@
 0.0.0.0 m.sabver.com
 0.0.0.0 m.shemaroo.com
 0.0.0.0 m.smilesms.com
+0.0.0.0 m.temenjalan.com
 0.0.0.0 m.th.cool4mob.com
 0.0.0.0 m.th.fun-club.mobi
 0.0.0.0 m.th.imgamma.com
