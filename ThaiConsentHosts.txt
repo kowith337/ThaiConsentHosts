@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904211256
+# Version: 201904240018
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -194,6 +194,7 @@
 0.0.0.0 b3st0ff3rs.com
 0.0.0.0 bajajcapital.com
 0.0.0.0 bakerssolution.com
+0.0.0.0 bbcontent.co.th
 0.0.0.0 bcomnetwork.com
 0.0.0.0 beacstyle.pw
 0.0.0.0 beezzi.com
@@ -457,6 +458,7 @@
 0.0.0.0 indiagames.com
 0.0.0.0 inediair.pw
 0.0.0.0 innnews.co.th
+0.0.0.0 innvariety.com
 0.0.0.0 innygang.com
 0.0.0.0 innygang.net
 0.0.0.0 instantbabes.mobi
@@ -2184,6 +2186,7 @@
 0.0.0.0 www.arenamobile.com
 0.0.0.0 www.atmail.nl
 0.0.0.0 www.au.clubxzone.com
+0.0.0.0 www.bbcontent.co.th
 0.0.0.0 www.bcomnetwork.com
 0.0.0.0 www.bestphoneapps.mobi
 0.0.0.0 www.betreat.com
@@ -2300,6 +2303,7 @@
 0.0.0.0 www.ilovemobi.com
 0.0.0.0 www.indiagames.com
 0.0.0.0 www.innnews.co.th
+0.0.0.0 www.innvariety.com
 0.0.0.0 www.innygang.com
 0.0.0.0 www.innygang.net
 0.0.0.0 www.iportal.thumbr.com
