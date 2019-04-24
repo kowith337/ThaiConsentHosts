@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904240018
+# Version: 201904241931
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -225,6 +225,7 @@
 0.0.0.0 bulkhentai.com
 0.0.0.0 buzzcity.com
 0.0.0.0 buzzcity.net
+0.0.0.0 bytl.io
 0.0.0.0 bzadx.pro
 0.0.0.0 callingsticker.com
 0.0.0.0 cdnfiber.com
@@ -709,6 +710,7 @@
 0.0.0.0 retail9.com
 0.0.0.0 retail9ventures.com
 0.0.0.0 retromedya.com
+0.0.0.0 rewardnow.com
 0.0.0.0 rhmobi.com
 0.0.0.0 ringtoneth.com
 0.0.0.0 rockymobi.com
@@ -1735,6 +1737,7 @@
 0.0.0.0 ru.v.havfun.mobi
 0.0.0.0 rukmovie.moviegroups88.com
 0.0.0.0 rushvip.mono-mobile.com
+0.0.0.0 rwd.bytl.io
 0.0.0.0 s.5sys.com
 0.0.0.0 s000.vuclip.com
 0.0.0.0 s1.mono-mobile.com
