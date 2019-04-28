@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904281319
+# Version: 201904282241
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -51,6 +51,9 @@
 0.0.0.0 103.16.143.144
 0.0.0.0 103.56.210.21
 0.0.0.0 103.241.146.159
+0.0.0.0 103.246.17.65
+0.0.0.0 103.246.17.72
+0.0.0.0 103.246.17.87
 0.0.0.0 107.170.154.51
 0.0.0.0 113.30.248.2
 0.0.0.0 116.68.193.122
@@ -645,6 +648,8 @@
 0.0.0.0 moo.mn
 0.0.0.0 moobig.com
 0.0.0.0 mookjoke.com
+0.0.0.0 moserv.co.th
+0.0.0.0 moserv.mobi
 0.0.0.0 moviegroups88.com
 0.0.0.0 movilfun4u.com
 0.0.0.0 mp3-shared.com
@@ -1694,6 +1699,9 @@
 0.0.0.0 musica.fun-club.mobi
 0.0.0.0 musicbx-cms.thinksmart.co.th
 0.0.0.0 mvasinter.monotechnology.com
+0.0.0.0 mx.moserv.co.th
+0.0.0.0 mx1.moserv.co.th
+0.0.0.0 mx2.moserv.co.th
 0.0.0.0 mxs.momoko.co
 0.0.0.0 my.12mob.com
 0.0.0.0 my.kaka-games.com
@@ -1718,6 +1726,8 @@
 0.0.0.0 nno9c.voluumtrk2.com
 0.0.0.0 no.sunnygames.club
 0.0.0.0 nportal.thumbr.com
+0.0.0.0 ns1.moserv.mobi
+0.0.0.0 ns2.moserv.mobi
 0.0.0.0 obivr.thinksmart.co.th
 0.0.0.0 odiamovies.vuclip.com
 0.0.0.0 off.bptr88.com
