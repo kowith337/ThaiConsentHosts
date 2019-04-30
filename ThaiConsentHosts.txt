@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201904301811
+# Version: 201904301940
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -428,6 +428,7 @@
 0.0.0.0 globocom.co.in
 0.0.0.0 gloft.co
 0.0.0.0 glzelnk.com
+0.0.0.0 gmmdigital.com
 0.0.0.0 gmmwireless.com
 0.0.0.0 gmpmobi.com
 0.0.0.0 go2affise.com
@@ -1009,6 +1010,7 @@
 0.0.0.0 1678.thinksmart.co.th
 0.0.0.0 168.sedapmeesiam.gold
 0.0.0.0 18bet.python-libs.com
+0.0.0.0 1900.gmmdigital.com
 0.0.0.0 1xbetbet.bakerssolution.com
 0.0.0.0 2048kg.findgit.com
 0.0.0.0 2222.thinksmart.co.th
@@ -1107,6 +1109,7 @@
 0.0.0.0 ar.chickcell.com
 0.0.0.0 ar.clubxzone.com
 0.0.0.0 ar.starchef.mobi
+0.0.0.0 area51.gmmdigital.com
 0.0.0.0 artistupload.gmmwireless.com
 0.0.0.0 as.exprtmb.com
 0.0.0.0 ascreen.muraltent.pw
@@ -1242,6 +1245,7 @@
 0.0.0.0 cms.arco.co.th
 0.0.0.0 cms.magent.my
 0.0.0.0 cms.thinksmart.co.th
+0.0.0.0 cmspart.gmmdigital.com
 0.0.0.0 cmt-web.thinksmart.co.th
 0.0.0.0 co.sunnygames.club
 0.0.0.0 cobrand1.mobistarcorp.net
@@ -1352,6 +1356,7 @@
 0.0.0.0 f1.chickyclub.net
 0.0.0.0 f2.chickyclub.net
 0.0.0.0 f3.chickyclub.net
+0.0.0.0 f5.gmmdigital.com
 0.0.0.0 f7.4219208.th.5rio.com
 0.0.0.0 fabstore.indiagames.com
 0.0.0.0 facebookads.nipa.co.th
@@ -1416,6 +1421,7 @@
 0.0.0.0 ghealth-report.thinksmart.co.th
 0.0.0.0 gholbifyn.bluestwep.pw
 0.0.0.0 girl18plus.sexy-here.com
+0.0.0.0 git.gmmdigital.com
 0.0.0.0 gk.wifistudy.com
 0.0.0.0 gkkj.peakperformsrv.com
 0.0.0.0 gmmadc.gmmwireless.com
@@ -1529,6 +1535,7 @@
 0.0.0.0 ivas.chickyclub.net
 0.0.0.0 ivr.eggdigital.com
 0.0.0.0 iwap.symbioticinfo.com
+0.0.0.0 jira.gmmdigital.com
 0.0.0.0 jo.sunnygames.club
 0.0.0.0 joanna.bluestwep.pw
 0.0.0.0 jobs.nipa.co.th
@@ -1556,6 +1563,7 @@
 0.0.0.0 l.contentdd.net
 0.0.0.0 l.contentsdaily.com
 0.0.0.0 labike.monoinfosystems.com
+0.0.0.0 labs.gmmdigital.com
 0.0.0.0 landing.mcommsg.com
 0.0.0.0 landing.mobusi.com
 0.0.0.0 landing.nipa.co.th
@@ -1568,8 +1576,10 @@
 0.0.0.0 lightbox.th.contentbox.stream
 0.0.0.0 likemovie.moviegroups88.com
 0.0.0.0 line.nipa.co.th
+0.0.0.0 linetoday.gmmdigital.com
 0.0.0.0 linkdafabet.bestwomenintown.com
 0.0.0.0 linkdafabet.python-libs.com
+0.0.0.0 lists.gmmdigital.com
 0.0.0.0 live.gamepanda.me
 0.0.0.0 live.horolive.com
 0.0.0.0 live.vipgames.me
@@ -1691,7 +1701,12 @@
 0.0.0.0 m2.7banana.com
 0.0.0.0 m3.7banana.com
 0.0.0.0 magica.bluestwep.pw
+0.0.0.0 mail-hq.gmmdigital.com
+0.0.0.0 mail.gmmdigital.com
 0.0.0.0 mail.gmmwireless.com
+0.0.0.0 mailgateway.gmmdigital.com
+0.0.0.0 mailgw.gmmdigital.com
+0.0.0.0 mailserv.gmmdigital.com
 0.0.0.0 malachi.bluestwep.pw
 0.0.0.0 manis.muraltent.pw
 0.0.0.0 mansion88.shieldministry.com
@@ -1721,6 +1736,7 @@
 0.0.0.0 mobi.chickyclub.net
 0.0.0.0 mobile.chickyclub.net
 0.0.0.0 mobile.fun-club.mobi
+0.0.0.0 mobile.gmmdigital.com
 0.0.0.0 mobile.gmmwireless.com
 0.0.0.0 mobile.gmpmobi.com
 0.0.0.0 mobile.mthai.com
@@ -1768,7 +1784,9 @@
 0.0.0.0 musicstore.gmmwireless.com
 0.0.0.0 mv2u.gmmwireless.com
 0.0.0.0 mvasinter.monotechnology.com
+0.0.0.0 mx.gmmdigital.com
 0.0.0.0 mx.moserv.co.th
+0.0.0.0 mx1.gmmdigital.com
 0.0.0.0 mx1.moserv.co.th
 0.0.0.0 mx2.moserv.co.th
 0.0.0.0 mxs.momoko.co
@@ -1781,6 +1799,7 @@
 0.0.0.0 mychat.mobifan.com
 0.0.0.0 naima.ranturdy.pw
 0.0.0.0 nbc.thinksmart.co.th
+0.0.0.0 ncd.gmmdigital.com
 0.0.0.0 ncontent.tv
 0.0.0.0 neomobilesestatic.azureedge.net
 0.0.0.0 nepalipussy.vuclip.com
@@ -1790,6 +1809,8 @@
 0.0.0.0 news.shinee.com
 0.0.0.0 news.thaiza.com
 0.0.0.0 nextlink.cypher-sys.com
+0.0.0.0 ng-hq.gmmdigital.com
+0.0.0.0 ng-tidc.gmmdigital.com
 0.0.0.0 nl.sunnygames.club
 0.0.0.0 nl.zz.zz.thumbr.com
 0.0.0.0 nlsapp.nipa.co.th
@@ -2029,7 +2050,9 @@
 0.0.0.0 sms.gameloft.com
 0.0.0.0 sms.thai-sms.com
 0.0.0.0 smsnews.gmmwireless.com
+0.0.0.0 smtp-gw.gmmdigital.com
 0.0.0.0 smtp.bill.gmmwireless.com
+0.0.0.0 smtp.gmmdigital.com
 0.0.0.0 smtp.kkbox.gmmwireless.com
 0.0.0.0 smzhsjx.vuclip.com
 0.0.0.0 solo18.realgirls.mobi
@@ -2148,10 +2171,12 @@
 0.0.0.0 thojurus.bluestwep.pw
 0.0.0.0 three.vuclip.com
 0.0.0.0 thwpaper.m2888.net
+0.0.0.0 tidc-vpn.gmmdigital.com
 0.0.0.0 titpaingiver.thumbr.com
 0.0.0.0 tk.ctrackz.net
 0.0.0.0 tk.gmmwireless.com
 0.0.0.0 tk.pluckyaff.com
+0.0.0.0 tksmtp.gmmdigital.com
 0.0.0.0 tmhunlimited.gmmwireless.com
 0.0.0.0 tmhwap.gmmwireless.com
 0.0.0.0 tn.sunnygames.club
@@ -2244,6 +2269,7 @@
 0.0.0.0 vn.mobgkt.com
 0.0.0.0 vn.sunnygames.club
 0.0.0.0 vplus.ais.co.th
+0.0.0.0 vpn.gmmdigital.com
 0.0.0.0 vpn.gmmwireless.com
 0.0.0.0 vps553417.ovh.net
 0.0.0.0 vs.media-bucket.com
@@ -2350,6 +2376,8 @@
 0.0.0.0 web.fun-club.mobi
 0.0.0.0 web.shinee.com
 0.0.0.0 web.vuclip.com
+0.0.0.0 webmail.gmmdigital.com
+0.0.0.0 webmaster.gmmdigital.com
 0.0.0.0 webpartner.shinee.com
 0.0.0.0 widget.horoworld.com
 0.0.0.0 widget.txtnation.com
@@ -2544,6 +2572,7 @@
 0.0.0.0 www.girlsonfire.mobi
 0.0.0.0 www.girlsvideosonline.info
 0.0.0.0 www.globocom.co.in
+0.0.0.0 www.gmmdigital.com
 0.0.0.0 www.gmpmobi.com
 0.0.0.0 www.gogameportal.com
 0.0.0.0 www.gomasti.in
