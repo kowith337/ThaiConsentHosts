@@ -5,7 +5,7 @@ daysUntilClose: 15
 # Issues with these labels will never be considered stale
 exemptLabels: false
 # Label to use when marking an issue as stale
-staleLabel: *
+staleLabel: 
 # Comment to post when marking an issue as stale. Set to `false` to disable
 markComment: false
 # Comment to post when closing a stale issue. Set to `false` to disable
