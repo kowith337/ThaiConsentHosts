@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201905011549
+# Version: 201905021050
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -13,6 +13,7 @@
 0.0.0.0 dtacplay.com
 0.0.0.0 freezone.dtacplay.com
 0.0.0.0 gameroom.dtacplay.com
+0.0.0.0 m.ais.co.th
 0.0.0.0 m1.truelife.com
 0.0.0.0 m2.truelife.com
 0.0.0.0 m3.truelife.com
@@ -188,6 +189,7 @@
 0.0.0.0 airpush.com
 0.0.0.0 akazoo.com
 0.0.0.0 alpha-mobi.com
+0.0.0.0 ametechnology.co.th
 0.0.0.0 amkomobile.com
 0.0.0.0 amkoonline.com
 0.0.0.0 androidappsfree.mobi
@@ -219,6 +221,7 @@
 0.0.0.0 b3st0ff3rs.com
 0.0.0.0 bajajcapital.com
 0.0.0.0 bakerssolution.com
+0.0.0.0 bamobile.com
 0.0.0.0 bandlane.com
 0.0.0.0 bbcontent.co.th
 0.0.0.0 bcomnetwork.com
@@ -299,6 +302,7 @@
 0.0.0.0 comedymunch.com
 0.0.0.0 comudjet.pw
 0.0.0.0 consested-opplyield.com
+0.0.0.0 content-cafe.com
 0.0.0.0 contentbox.stream
 0.0.0.0 contentdd.net
 0.0.0.0 contentfall.com
@@ -355,6 +359,7 @@
 0.0.0.0 ebizmobile.com
 0.0.0.0 ectionma.pw
 0.0.0.0 eggdigital.com
+0.0.0.0 eggreadyweb.com
 0.0.0.0 eiei.net
 0.0.0.0 enfothe.pw
 0.0.0.0 enjoy108.com
@@ -380,6 +385,7 @@
 0.0.0.0 fly2me.com
 0.0.0.0 flybi.store
 0.0.0.0 flygemobi.com
+0.0.0.0 flygree.pw
 0.0.0.0 flyrlk.com
 0.0.0.0 focusonone.cc
 0.0.0.0 formulawire.com
@@ -480,6 +486,7 @@
 0.0.0.0 hollywoodmobile.com
 0.0.0.0 hornygirls.mobi
 0.0.0.0 horolive.com
+0.0.0.0 horotalk.com
 0.0.0.0 horoworld.com
 0.0.0.0 hotandspicyvideosonline.com
 0.0.0.0 hotleague.com
@@ -513,6 +520,7 @@
 0.0.0.0 iqwmxn.com
 0.0.0.0 islatively.com
 0.0.0.0 isport.co.th
+0.0.0.0 isub.me
 0.0.0.0 itrks.com
 0.0.0.0 itthai.com
 0.0.0.0 ivalent.com
@@ -699,6 +707,7 @@
 0.0.0.0 netscause-begured.com
 0.0.0.0 newgameeveryday.net
 0.0.0.0 newgamesapp.net
+0.0.0.0 newoneadvertising.com
 0.0.0.0 newshunt.com
 0.0.0.0 newsplus.me
 0.0.0.0 newstarads.com
@@ -711,10 +720,12 @@
 0.0.0.0 nkrbt.com
 0.0.0.0 nmpcenter.com
 0.0.0.0 noclef.com
+0.0.0.0 notesdav.pw
 0.0.0.0 nowportal.net
 0.0.0.0 nrs-group.com
 0.0.0.0 offergold.online
 0.0.0.0 offerstrack.net
+0.0.0.0 officeprs.cf
 0.0.0.0 officeprs.gq
 0.0.0.0 offrtrking.com
 0.0.0.0 oli.tools
@@ -726,6 +737,7 @@
 0.0.0.0 onwardinated.com
 0.0.0.0 oomph.club
 0.0.0.0 opencurvemedia.com
+0.0.0.0 operonsh.pw
 0.0.0.0 optsearch.net
 0.0.0.0 orepic.com
 0.0.0.0 ourbestcontent.com
@@ -814,6 +826,7 @@
 0.0.0.0 saleplus.vn
 0.0.0.0 salvage-shop.com
 0.0.0.0 samartbug.com
+0.0.0.0 samartdigitalmedia.com
 0.0.0.0 samartmedia.com
 0.0.0.0 sanookde.com
 0.0.0.0 scan-do.com
@@ -988,6 +1001,7 @@
 0.0.0.0 wakau.in
 0.0.0.0 walletfun.com
 0.0.0.0 wallpapers-girls.com
+0.0.0.0 wap50.com
 0.0.0.0 waphub.mobi
 0.0.0.0 waplog.com
 0.0.0.0 waremode.com
@@ -1013,6 +1027,7 @@
 0.0.0.0 xn--42c8cmgk9dvfyd.com
 0.0.0.0 xspicyvideos.com
 0.0.0.0 yasune360.com
+0.0.0.0 yibsee.com
 0.0.0.0 youlaugh.online
 0.0.0.0 your-sweet-girls1.com
 0.0.0.0 ypzsls.com
@@ -1075,6 +1090,7 @@
 0.0.0.0 addtechapi.cheesemobile.net
 0.0.0.0 adext.vuclip.com
 0.0.0.0 adgen.socdm.com
+0.0.0.0 admin-trueid-app.eggdigital.com
 0.0.0.0 admin.thai-sms.com
 0.0.0.0 admin.thinksmart.co.th
 0.0.0.0 admission.getcools.com
@@ -1133,6 +1149,7 @@
 0.0.0.0 apc.nipa.co.th
 0.0.0.0 apc4.nipa.co.th
 0.0.0.0 apcm.nipa.co.th
+0.0.0.0 api-anc.eggdigital.com
 0.0.0.0 api.airpush.com
 0.0.0.0 api.centili.com
 0.0.0.0 api.gmmwireless.com
@@ -1168,6 +1185,7 @@
 0.0.0.0 ar.chickcell.com
 0.0.0.0 ar.clubxzone.com
 0.0.0.0 ar.starchef.mobi
+0.0.0.0 araramar.ryhopset.pw
 0.0.0.0 area51.gmmdigital.com
 0.0.0.0 artistupload.gmmwireless.com
 0.0.0.0 as.exprtmb.com
@@ -1210,6 +1228,8 @@
 0.0.0.0 bet365registration.python-libs.com
 0.0.0.0 bet98vn.getdreamdaredo.com
 0.0.0.0 beta.gamezzone.me
+0.0.0.0 beta.innnews.co.th
+0.0.0.0 www.eggdigital.com
 0.0.0.0 betdaq.python-libs.com
 0.0.0.0 betfairapp.python-libs.com
 0.0.0.0 betfairzg.python-libs.com
@@ -1233,6 +1253,7 @@
 0.0.0.0 bqm1.b-qq.com
 0.0.0.0 br.funmobile.com
 0.0.0.0 br.sunnygames.club
+0.0.0.0 brandvote.eggdigital.com
 0.0.0.0 bulk.smilesms.com
 0.0.0.0 bwin.getridofmylien.com
 0.0.0.0 by.sunnygames.club
@@ -1262,6 +1283,7 @@
 0.0.0.0 campaign.gmmwireless.com
 0.0.0.0 campaign.goorulife.com
 0.0.0.0 campaign.nexg.tv
+0.0.0.0 campaign.samartdigitalmedia.com
 0.0.0.0 caportal.etracker.cc
 0.0.0.0 captive-fl18.nipa.co.th
 0.0.0.0 carlie.bluestwep.pw
@@ -1386,6 +1408,7 @@
 0.0.0.0 dev-g.nipa.co.th
 0.0.0.0 dev-gc.nipa.co.th
 0.0.0.0 dev-gt.nipa.co.th
+0.0.0.0 dev.ametechnology.co.th
 0.0.0.0 dev.br.funmobile.com
 0.0.0.0 dev.ca.funmobile.com
 0.0.0.0 dev.centili.com
@@ -1435,6 +1458,7 @@
 0.0.0.0 dtrk.slimcdn.com
 0.0.0.0 durchwandern.thumbr.com
 0.0.0.0 dvr8.nipa.co.th
+0.0.0.0 dynamic-cdn.eggdigital.com
 0.0.0.0 dzr-uni.thinksmart.co.th
 0.0.0.0 e-mes.etracker.cc
 0.0.0.0 e-mis.etracker.cc
@@ -1450,6 +1474,7 @@
 0.0.0.0 eg.kaka-games.com
 0.0.0.0 eg.sunnygames.club
 0.0.0.0 eg.yuppyuppytv.com
+0.0.0.0 eggrep.eggdigital.com
 0.0.0.0 ejxlhrc.vuclip.com
 0.0.0.0 elisevaldorcia.thumbr.com
 0.0.0.0 emailmarketing.nipa.co.th
@@ -1484,6 +1509,7 @@
 0.0.0.0 esx37.shinee.com
 0.0.0.0 esx38.shinee.com
 0.0.0.0 esx39.shinee.com
+0.0.0.0 event.eggdigital.com
 0.0.0.0 ex.getclick.mobi
 0.0.0.0 extcct.gmmwireless.com
 0.0.0.0 extern.espabit.net
@@ -1505,6 +1531,7 @@
 0.0.0.0 facebookads3.nipa.co.th
 0.0.0.0 fanclubsim.gmmwireless.com
 0.0.0.0 faq.chocoboard.com
+0.0.0.0 fastpromo.eggdigital.com
 0.0.0.0 fb.getcools.com
 0.0.0.0 fc.mobiteacher.me
 0.0.0.0 felhalhala.bluestwep.pw
@@ -1540,6 +1567,7 @@
 0.0.0.0 friend.thaiza.com
 0.0.0.0 ftp.clickmultimedia.co.th
 0.0.0.0 ftp.n-content.com
+0.0.0.0 ftp.newoneadvertising.com
 0.0.0.0 ftp.nipa.co.th
 0.0.0.0 ftp.sexy-here.com
 0.0.0.0 fu.fun-clix.com
@@ -1694,6 +1722,7 @@
 0.0.0.0 influencer-dev.nipa.co.th
 0.0.0.0 influencer.nipa.co.th
 0.0.0.0 ingames.blastoffgaming.com
+0.0.0.0 innmc.innnews.co.th
 0.0.0.0 inspirecasinosouthkorea.czlbc.net
 0.0.0.0 instagram-adsonline.nipa.co.th
 0.0.0.0 instagram.nipa.co.th
@@ -1723,6 +1752,7 @@
 0.0.0.0 ivr.n-content.com
 0.0.0.0 ivrpartner.n-content.com
 0.0.0.0 iwap.symbioticinfo.com
+0.0.0.0 jan.freecot.pw
 0.0.0.0 jira.gmmdigital.com
 0.0.0.0 jira.nipa.co.th
 0.0.0.0 jo.sunnygames.club
@@ -1788,11 +1818,13 @@
 0.0.0.0 live.horolive.com
 0.0.0.0 live.vipgames.me
 0.0.0.0 localhost.clickmultimedia.co.th
+0.0.0.0 localhost.newoneadvertising.com
 0.0.0.0 localhost.nipa.co.th
 0.0.0.0 localhost.shinee.com
 0.0.0.0 log.gmmwireless.com
 0.0.0.0 logandload.com
 0.0.0.0 login.moobig.com
+0.0.0.0 lotto.horoworld.com
 0.0.0.0 lotto.loadded.com
 0.0.0.0 lotto.thaiza.com
 0.0.0.0 love.horoworld.com
@@ -1913,10 +1945,13 @@
 0.0.0.0 maekrua.nipa.co.th
 0.0.0.0 magica.bluestwep.pw
 0.0.0.0 mail-hq.gmmdigital.com
+0.0.0.0 mail.ametechnology.co.th
 0.0.0.0 mail.clickmultimedia.co.th
+0.0.0.0 mail.eggdigital.com
 0.0.0.0 mail.gmmdigital.com
 0.0.0.0 mail.gmmwireless.com
 0.0.0.0 mail.n-content.com
+0.0.0.0 mail.newoneadvertising.com
 0.0.0.0 mail.s-onetelecom.com
 0.0.0.0 mail.sexy-here.com
 0.0.0.0 mail.shinee.com
@@ -1988,6 +2023,7 @@
 0.0.0.0 media1.nipa.co.th
 0.0.0.0 member.bug2mobile.com
 0.0.0.0 member.mobifan.com
+0.0.0.0 member.samartmedia.com
 0.0.0.0 merjcaw.vuclip.com
 0.0.0.0 mes.etracker.cc
 0.0.0.0 mfadmin.thinksmart.co.th
@@ -1997,6 +2033,7 @@
 0.0.0.0 mirror.gmmwireless.com
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mk.sunnygames.club
+0.0.0.0 mlib.eggdigital.com
 0.0.0.0 mm.starchef.mobi
 0.0.0.0 mms.mobifan.com
 0.0.0.0 mnnbv.ab4hr.com
@@ -2068,6 +2105,7 @@
 0.0.0.0 mvasinter.monotechnology.com
 0.0.0.0 mx.gmmdigital.com
 0.0.0.0 mx.moserv.co.th
+0.0.0.0 mx.thaiza.com
 0.0.0.0 mx1.gmmdigital.com
 0.0.0.0 mx1.moserv.co.th
 0.0.0.0 mx2.moserv.co.th
@@ -2115,6 +2153,7 @@
 0.0.0.0 npm.shinee.com
 0.0.0.0 nportal.thumbr.com
 0.0.0.0 ns.thinksmart.co.th
+0.0.0.0 ns1.eggdigital.com
 0.0.0.0 ns1.getcools.com
 0.0.0.0 ns1.gmmwireless.com
 0.0.0.0 ns1.moserv.mobi
@@ -2227,6 +2266,7 @@
 0.0.0.0 pohtakbunterng.gmmwireless.com
 0.0.0.0 pokktperformance.go2cloud.org
 0.0.0.0 pop.clickmultimedia.co.th
+0.0.0.0 pop.newoneadvertising.com
 0.0.0.0 pop.nipa.co.th
 0.0.0.0 pop.sexy-here.com
 0.0.0.0 pop1.nipa.co.th
@@ -2392,6 +2432,7 @@
 0.0.0.0 shineewap.shinee.com
 0.0.0.0 shineeweb.shinee.com
 0.0.0.0 shop.n-content.com
+0.0.0.0 shopping.horoworld.com
 0.0.0.0 siam-movie.moviegroups88.com
 0.0.0.0 siapp.dooplus.tv
 0.0.0.0 sin.media-bucket.com
@@ -2423,12 +2464,14 @@
 0.0.0.0 smsapi.getcools.com
 0.0.0.0 smsc.n-content.com
 0.0.0.0 smscorp.shinee.com
+0.0.0.0 smsdev.eggdigital.com
 0.0.0.0 smsnews.gmmwireless.com
 0.0.0.0 smtp-gw.gmmdigital.com
 0.0.0.0 smtp.bill.gmmwireless.com
 0.0.0.0 smtp.clickmultimedia.co.th
 0.0.0.0 smtp.gmmdigital.com
 0.0.0.0 smtp.kkbox.gmmwireless.com
+0.0.0.0 smtp.newoneadvertising.com
 0.0.0.0 smtp.nipa.co.th
 0.0.0.0 smtp.s-onetelecom.com
 0.0.0.0 smtp.sexy-here.com
@@ -2462,6 +2505,7 @@
 0.0.0.0 st.dosbuy.com
 0.0.0.0 st.tubecorporate.com
 0.0.0.0 stage.centili.com
+0.0.0.0 staging-makro-b2c.eggdigital.com
 0.0.0.0 star.etracker.cc
 0.0.0.0 static.awap.tv
 0.0.0.0 static.chilliclubs.com
@@ -2639,6 +2683,7 @@
 0.0.0.0 tructiepbongdavtv3.python-libs.com
 0.0.0.0 tructiepbongdavtv6.python-libs.com
 0.0.0.0 tructuyenbongda.python-libs.com
+0.0.0.0 truecloud.eggdigital.com
 0.0.0.0 truenews.gmmwireless.com
 0.0.0.0 truesms.gmmwireless.com
 0.0.0.0 trueunlimited.gmmwireless.com
@@ -2672,6 +2717,7 @@
 0.0.0.0 v.vvidiacom.com
 0.0.0.0 v9bet.python-libs.com
 0.0.0.0 v9bet88.python-libs.com
+0.0.0.0 variety.horoworld.com
 0.0.0.0 variety.thaiza.com
 0.0.0.0 vc-office.shinee.com
 0.0.0.0 vc-sub.shinee.com
@@ -2691,6 +2737,7 @@
 0.0.0.0 videocasalinghi.realgirls.mobi
 0.0.0.0 vidxx.playclub.me
 0.0.0.0 vip.accu-tag.com
+0.0.0.0 vitamilktogopromotion.eggdigital.com
 0.0.0.0 vlott88.python-libs.com
 0.0.0.0 vn.contentbox.stream
 0.0.0.0 vn.mobgkt.com
@@ -2745,6 +2792,7 @@
 0.0.0.0 wap.amkomobile.com
 0.0.0.0 wap.amkoonline.com
 0.0.0.0 wap.ananda.chickyclub.net
+0.0.0.0 wap.bamobile.com
 0.0.0.0 wap.bug2mobile.com
 0.0.0.0 wap.cheesemobile.com
 0.0.0.0 wap.chz.mobi
@@ -2790,6 +2838,7 @@
 0.0.0.0 wap.tomyamclub.com
 0.0.0.0 wap.trend-tech.net
 0.0.0.0 wap.vassolution.com
+0.0.0.0 wap.wap50.com
 0.0.0.0 wap.waremode.com
 0.0.0.0 wap.xn--42c8cmgk9dvfyd.com
 0.0.0.0 wap.yasune360.com
@@ -2821,6 +2870,7 @@
 0.0.0.0 webwap-vip.shinee.com
 0.0.0.0 webwap1.shinee.com
 0.0.0.0 webwap2.shinee.com
+0.0.0.0 whatsyours.eggdigital.com
 0.0.0.0 whatup.shinee.com
 0.0.0.0 widget.horoworld.com
 0.0.0.0 widget.txtnation.com
@@ -2833,6 +2883,7 @@
 0.0.0.0 win2888.python-libs.com
 0.0.0.0 wise.bluestwep.pw
 0.0.0.0 wlive.senate.dooplus.tv
+0.0.0.0 women.horoworld.com
 0.0.0.0 women.thaiza.com
 0.0.0.0 wowclip-report.thinksmart.co.th
 0.0.0.0 wowclip.tksm.mobi
@@ -2915,6 +2966,7 @@
 0.0.0.0 www.afoss.nipa.co.th
 0.0.0.0 www.akazoo.com
 0.0.0.0 www.alpha-mobi.com
+0.0.0.0 www.ametechnology.co.th
 0.0.0.0 www.amkomobile.com
 0.0.0.0 www.amkoonline.com
 0.0.0.0 www.androidappsfree.mobi
@@ -2931,6 +2983,7 @@
 0.0.0.0 www.arenamobile.com
 0.0.0.0 www.atmail.nl
 0.0.0.0 www.au.clubxzone.com
+0.0.0.0 www.bamobile.com
 0.0.0.0 www.bbcontent.co.th
 0.0.0.0 www.bcomnetwork.com
 0.0.0.0 www.bestphoneapps.mobi
@@ -2964,6 +3017,7 @@
 0.0.0.0 www.clubtigermob.com
 0.0.0.0 www.clubxzone.com
 0.0.0.0 www.cocodat.com
+0.0.0.0 www.content-cafe.com
 0.0.0.0 www.contentdd.net
 0.0.0.0 www.contentformen.mobi
 0.0.0.0 www.contentsdaily.com
@@ -2987,6 +3041,7 @@
 0.0.0.0 www.dsglp.com
 0.0.0.0 www.dsgpy.com
 0.0.0.0 www.ebizmobile.com
+0.0.0.0 www.eggdigital.com
 0.0.0.0 www.eiei.net
 0.0.0.0 www.enjoy108.com
 0.0.0.0 www.enpocket.com
@@ -3042,6 +3097,7 @@
 0.0.0.0 www.hollywoodmobile.com
 0.0.0.0 www.hornygirls.mobi
 0.0.0.0 www.horolive.com
+0.0.0.0 www.horotalk.com
 0.0.0.0 www.horoworld.com
 0.0.0.0 www.hotandspicyvideosonline.com
 0.0.0.0 www.hotstar.com
@@ -3059,6 +3115,7 @@
 0.0.0.0 www.iportal.thumbr.com
 0.0.0.0 www.iqwmxn.com
 0.0.0.0 www.isport.co.th
+0.0.0.0 www.isub.me
 0.0.0.0 www.itthai.com
 0.0.0.0 www.ivalent.com
 0.0.0.0 www.jiudianzhaopin.com
@@ -3134,6 +3191,7 @@
 0.0.0.0 www.net-innova.com
 0.0.0.0 www.netmeds.com
 0.0.0.0 www.new.vuclip.com
+0.0.0.0 www.newoneadvertising.com
 0.0.0.0 www.nfsolution.com
 0.0.0.0 www.nipa.co.th
 0.0.0.0 www.nkrbt.com
@@ -3184,6 +3242,7 @@
 0.0.0.0 www.sabdee.com
 0.0.0.0 www.sabmobile.com
 0.0.0.0 www.sabsabonline.com
+0.0.0.0 www.samartdigitalmedia.com
 0.0.0.0 www.scan-do.com
 0.0.0.0 www.scientiamobile.com
 0.0.0.0 www.seacom.co.th
@@ -3255,6 +3314,7 @@
 0.0.0.0 www.wakau.in
 0.0.0.0 www.walletfun.com
 0.0.0.0 www.wallpapers-girls.com
+0.0.0.0 www.wap50.com
 0.0.0.0 www.waplog.com
 0.0.0.0 www.waptrick.vuclip.com
 0.0.0.0 www.wathspap.com
@@ -3265,6 +3325,7 @@
 0.0.0.0 www.xn--22c0bau8bor5ac4k7cc6g8a.net
 0.0.0.0 www.xn--42c8cmgk9dvfyd.com
 0.0.0.0 www.xspicyvideos.com
+0.0.0.0 www.yibsee.com
 0.0.0.0 www.zmclick.com
 0.0.0.0 www1.mfunz.mobi
 0.0.0.0 www2.cheesemobile.com
