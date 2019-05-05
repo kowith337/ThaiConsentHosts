@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201905021050
+# Version: 201905051545
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -327,6 +327,7 @@
 0.0.0.0 dantri.com.vn
 0.0.0.0 darapayakorn.com
 0.0.0.0 datapremium.com
+0.0.0.0 datapremium.com.ve
 0.0.0.0 datapremium.net
 0.0.0.0 datinggirls.info
 0.0.0.0 datingsexy.org
@@ -372,6 +373,7 @@
 0.0.0.0 exezhanqun.com
 0.0.0.0 exprtmb.com
 0.0.0.0 ezym.net
+0.0.0.0 fabruary30.com
 0.0.0.0 facabooks.com
 0.0.0.0 facishat.pw
 0.0.0.0 famobi.com
@@ -440,6 +442,7 @@
 0.0.0.0 getfeelgood.com
 0.0.0.0 getridofmylien.com
 0.0.0.0 gexiuyixibai.com
+0.0.0.0 ggtwpviko.tk
 0.0.0.0 gigth.com
 0.0.0.0 girlsonfire.mobi
 0.0.0.0 girlsvideosonline.info
@@ -600,6 +603,7 @@
 0.0.0.0 mcommsg.com
 0.0.0.0 mconverge.in
 0.0.0.0 mdeal.co
+0.0.0.0 mdsjubja.cf
 0.0.0.0 mdsjubja.ga
 0.0.0.0 mdsjubja.tk
 0.0.0.0 measurementapi.com
@@ -672,6 +676,7 @@
 0.0.0.0 momozaap.com
 0.0.0.0 moneymak3rstrack.com
 0.0.0.0 mono-mobile.com
+0.0.0.0 mono2u.com
 0.0.0.0 monogame.in.th
 0.0.0.0 monoinfosystems.com
 0.0.0.0 monotechnology.com
@@ -899,6 +904,7 @@
 0.0.0.0 streamsharp.com
 0.0.0.0 studiox-babes.com
 0.0.0.0 suffonect.pw
+0.0.0.0 suhtbneyq.cf
 0.0.0.0 sumone.mobi
 0.0.0.0 sun-system.com
 0.0.0.0 sunmob.net
@@ -923,6 +929,7 @@
 0.0.0.0 thaiboxwap.com
 0.0.0.0 thaifun4u.com
 0.0.0.0 thaimobile.com
+0.0.0.0 thaisync.com
 0.0.0.0 thaiwapportal.com
 0.0.0.0 thaiza.com
 0.0.0.0 thepind.mobi
@@ -1087,6 +1094,7 @@
 0.0.0.0 ad.gadmobe.com
 0.0.0.0 ad.leadboltapps.net
 0.0.0.0 ad.smrtx.net
+0.0.0.0 addon.mono2u.com
 0.0.0.0 addtechapi.cheesemobile.net
 0.0.0.0 adext.vuclip.com
 0.0.0.0 adgen.socdm.com
@@ -1229,7 +1237,6 @@
 0.0.0.0 bet98vn.getdreamdaredo.com
 0.0.0.0 beta.gamezzone.me
 0.0.0.0 beta.innnews.co.th
-0.0.0.0 www.eggdigital.com
 0.0.0.0 betdaq.python-libs.com
 0.0.0.0 betfairapp.python-libs.com
 0.0.0.0 betfairzg.python-libs.com
@@ -1245,7 +1252,9 @@
 0.0.0.0 blog.1moby.com
 0.0.0.0 blog.gameloft.co.th
 0.0.0.0 blog.mobusi.com
+0.0.0.0 bof.enjoy108.com
 0.0.0.0 bof.monotechnology.com
+0.0.0.0 bof2.enjoy108.com
 0.0.0.0 boo.mobifan.com
 0.0.0.0 book.senate.dooplus.tv
 0.0.0.0 booking.tk.gmmwireless.com
@@ -1288,6 +1297,8 @@
 0.0.0.0 captive-fl18.nipa.co.th
 0.0.0.0 carlie.bluestwep.pw
 0.0.0.0 cartoon.getcools.com
+0.0.0.0 caseti-lcms.thinksmart.co.th
+0.0.0.0 casetitude.thinksmart.co.th
 0.0.0.0 cash.getcools.com
 0.0.0.0 cashapi.getcools.com
 0.0.0.0 casinosinseoulkorea.shieldministry.com
@@ -1379,7 +1390,6 @@
 0.0.0.0 dafabetnet.python-libs.com
 0.0.0.0 data-4d-2.monitoringservice.co
 0.0.0.0 data.rockymobi.com
-0.0.0.0 datapremium.com.ve
 0.0.0.0 davila.bluestwep.pw
 0.0.0.0 db.getcools.com
 0.0.0.0 db1.nipa.co.th
@@ -1404,6 +1414,7 @@
 0.0.0.0 deals.shinee.com
 0.0.0.0 deezer.thinksmart.co.th
 0.0.0.0 delivery.glzelnk.com
+0.0.0.0 delivery.mono2u.com
 0.0.0.0 demo.nipa.co.th
 0.0.0.0 dev-g.nipa.co.th
 0.0.0.0 dev-gc.nipa.co.th
@@ -1449,14 +1460,35 @@
 0.0.0.0 dtacdr.n-content.com
 0.0.0.0 dtacivr.n-content.com
 0.0.0.0 dtacnews.gmmwireless.com
+0.0.0.0 dtacplay-web.dev1.thinksmart.co.th
+0.0.0.0 dtacplay-web.dev2.thinksmart.co.th
+0.0.0.0 dtacplay-web.dev3.thinksmart.co.th
+0.0.0.0 dtacplay-web.dev4.thinksmart.co.th
+0.0.0.0 dtacplay-web.dev5.thinksmart.co.th
+0.0.0.0 dtacplay-web.dev6.thinksmart.co.th
+0.0.0.0 dtacplay-web.dev7.thinksmart.co.th
+0.0.0.0 dtacplay-web.dev8.thinksmart.co.th
+0.0.0.0 dtacplay-web.dev9.thinksmart.co.th
+0.0.0.0 dtacplay.dtac.thinksmart.co.th
 0.0.0.0 dtacrbt.gmmwireless.com
 0.0.0.0 dtacsms.gmmwireless.com
 0.0.0.0 dtacwap.gmmwireless.com
 0.0.0.0 dti.nipa.co.th
+0.0.0.0 dtplay-api.dev1.thinksmart.co.th
+0.0.0.0 dtplay-api.dev2.thinksmart.co.th
+0.0.0.0 dtplay-api.dev3.thinksmart.co.th
+0.0.0.0 dtplay-api.dev4.thinksmart.co.th
+0.0.0.0 dtplay-api.dev5.thinksmart.co.th
+0.0.0.0 dtplay-api.dev6.thinksmart.co.th
+0.0.0.0 dtplay-api.dev7.thinksmart.co.th
+0.0.0.0 dtplay-api.dev8.thinksmart.co.th
+0.0.0.0 dtplay-api.dev9.thinksmart.co.th
+0.0.0.0 dtplay-api.thinksmart.co.th
 0.0.0.0 dtplay-web.dev5.thinksmart.co.th
 0.0.0.0 dtplay-web.thinksmart.co.th
 0.0.0.0 dtrk.slimcdn.com
 0.0.0.0 durchwandern.thumbr.com
+0.0.0.0 dvd.mono2u.com
 0.0.0.0 dvr8.nipa.co.th
 0.0.0.0 dynamic-cdn.eggdigital.com
 0.0.0.0 dzr-uni.thinksmart.co.th
@@ -1513,6 +1545,7 @@
 0.0.0.0 ex.getclick.mobi
 0.0.0.0 extcct.gmmwireless.com
 0.0.0.0 extern.espabit.net
+0.0.0.0 external.mono2u.com
 0.0.0.0 extlog.gmmwireless.com
 0.0.0.0 extpartner.shinee.com
 0.0.0.0 f.deepbluetech.biz
@@ -1532,6 +1565,24 @@
 0.0.0.0 fanclubsim.gmmwireless.com
 0.0.0.0 faq.chocoboard.com
 0.0.0.0 fastpromo.eggdigital.com
+0.0.0.0 fb-crb.dev1.thinksmart.co.th
+0.0.0.0 fb-crb.dev2.thinksmart.co.th
+0.0.0.0 fb-crb.dev3.thinksmart.co.th
+0.0.0.0 fb-crb.dev4.thinksmart.co.th
+0.0.0.0 fb-crb.dev5.thinksmart.co.th
+0.0.0.0 fb-crb.dev6.thinksmart.co.th
+0.0.0.0 fb-crb.dev7.thinksmart.co.th
+0.0.0.0 fb-crb.dev8.thinksmart.co.th
+0.0.0.0 fb-crb.dev9.thinksmart.co.th
+0.0.0.0 fb-toyo.dev1.thinksmart.co.th
+0.0.0.0 fb-toyo.dev2.thinksmart.co.th
+0.0.0.0 fb-toyo.dev3.thinksmart.co.th
+0.0.0.0 fb-toyo.dev4.thinksmart.co.th
+0.0.0.0 fb-toyo.dev5.thinksmart.co.th
+0.0.0.0 fb-toyo.dev6.thinksmart.co.th
+0.0.0.0 fb-toyo.dev7.thinksmart.co.th
+0.0.0.0 fb-toyo.dev8.thinksmart.co.th
+0.0.0.0 fb-toyo.dev9.thinksmart.co.th
 0.0.0.0 fb.getcools.com
 0.0.0.0 fc.mobiteacher.me
 0.0.0.0 felhalhala.bluestwep.pw
@@ -1563,6 +1614,7 @@
 0.0.0.0 freeslots.aradamandson.com
 0.0.0.0 freeslotsgames.zsaqls.com
 0.0.0.0 freezone.mobifan.com
+0.0.0.0 freya.enjoy108.com
 0.0.0.0 freya.monoinfosystems.com
 0.0.0.0 friend.thaiza.com
 0.0.0.0 ftp.clickmultimedia.co.th
@@ -1701,6 +1753,7 @@
 0.0.0.0 images.gmmwireless.com
 0.0.0.0 images.mobifan.com
 0.0.0.0 images.thaiza.com
+0.0.0.0 imap.mono2u.com
 0.0.0.0 img.20150917.com
 0.0.0.0 img.manymy.com
 0.0.0.0 img.mobusi.com
@@ -1723,6 +1776,7 @@
 0.0.0.0 influencer.nipa.co.th
 0.0.0.0 ingames.blastoffgaming.com
 0.0.0.0 innmc.innnews.co.th
+0.0.0.0 insight.thinksmart.co.th
 0.0.0.0 inspirecasinosouthkorea.czlbc.net
 0.0.0.0 instagram-adsonline.nipa.co.th
 0.0.0.0 instagram.nipa.co.th
@@ -1822,7 +1876,6 @@
 0.0.0.0 localhost.nipa.co.th
 0.0.0.0 localhost.shinee.com
 0.0.0.0 log.gmmwireless.com
-0.0.0.0 logandload.com
 0.0.0.0 login.moobig.com
 0.0.0.0 lotto.horoworld.com
 0.0.0.0 lotto.loadded.com
@@ -1938,6 +1991,7 @@
 0.0.0.0 m.za.zz.th.thumbr.com
 0.0.0.0 m.zagmob.com
 0.0.0.0 m.zigifun.com
+0.0.0.0 m1-mobi.thinksmart.co.th
 0.0.0.0 m1.7banana.com
 0.0.0.0 m1.n-content.com
 0.0.0.0 m2.7banana.com
@@ -1948,8 +2002,10 @@
 0.0.0.0 mail.ametechnology.co.th
 0.0.0.0 mail.clickmultimedia.co.th
 0.0.0.0 mail.eggdigital.com
+0.0.0.0 mail.enjoy108.com
 0.0.0.0 mail.gmmdigital.com
 0.0.0.0 mail.gmmwireless.com
+0.0.0.0 mail.mono2u.com
 0.0.0.0 mail.n-content.com
 0.0.0.0 mail.newoneadvertising.com
 0.0.0.0 mail.s-onetelecom.com
@@ -2088,12 +2144,14 @@
 0.0.0.0 mta24.nipa.co.th
 0.0.0.0 mta25.nipa.co.th
 0.0.0.0 mta26.nipa.co.th
+0.0.0.0 mthai.mono2u.com
 0.0.0.0 mtn.akazoo.com
 0.0.0.0 mu.vuclip.com
 0.0.0.0 mueller.bluestwep.pw
 0.0.0.0 music.playclub.me
 0.0.0.0 music.thaiza.com
 0.0.0.0 musica.fun-club.mobi
+0.0.0.0 musicbox.thinksmart.co.th
 0.0.0.0 musicbx-cms.thinksmart.co.th
 0.0.0.0 musiccupid.gmmwireless.com
 0.0.0.0 musicdir.gmmwireless.com
@@ -2261,16 +2319,19 @@
 0.0.0.0 play.tvplanet.co
 0.0.0.0 play.vipgames.me
 0.0.0.0 playcasino.cheyouju.net
+0.0.0.0 pma.telesales.thinksmart.co.th
 0.0.0.0 poatal.thumbr.com
 0.0.0.0 pohrtal.thumbr.com
 0.0.0.0 pohtakbunterng.gmmwireless.com
 0.0.0.0 pokktperformance.go2cloud.org
 0.0.0.0 pop.clickmultimedia.co.th
+0.0.0.0 pop.enjoy108.com
 0.0.0.0 pop.newoneadvertising.com
 0.0.0.0 pop.nipa.co.th
 0.0.0.0 pop.sexy-here.com
 0.0.0.0 pop1.nipa.co.th
 0.0.0.0 pop2.nipa.co.th
+0.0.0.0 pop3.mono2u.com
 0.0.0.0 poretal.thumbr.com
 0.0.0.0 porkal.thumbr.com
 0.0.0.0 porqtal.thumbr.com
@@ -2283,6 +2344,7 @@
 0.0.0.0 portnl.thumbr.com
 0.0.0.0 positive.nipa.co.th
 0.0.0.0 post.getcools.com
+0.0.0.0 potato.enjoy108.com
 0.0.0.0 potrtal.thumbr.com
 0.0.0.0 pourtal.thumbr.com
 0.0.0.0 povrtal.thumbr.com
@@ -2345,6 +2407,7 @@
 0.0.0.0 ro.sunnygames.club
 0.0.0.0 roomer.shinee.com
 0.0.0.0 royaldownload.ypzsls.com
+0.0.0.0 rpmtest.thinksmart.co.th
 0.0.0.0 rs.sunnygames.club
 0.0.0.0 rtb.mob-api.net
 0.0.0.0 ru.sunnygames.club
@@ -2455,6 +2518,7 @@
 0.0.0.0 smmp.sv3.thinksmart.co.th
 0.0.0.0 smmp.thinksmart.co.th
 0.0.0.0 smrtads-app.thinksmart.co.th
+0.0.0.0 smrtads.thinksmart.co.th
 0.0.0.0 sms.cheesemobile.com
 0.0.0.0 sms.dlxxxvip.com
 0.0.0.0 sms.gameloft.com
@@ -2469,13 +2533,17 @@
 0.0.0.0 smtp-gw.gmmdigital.com
 0.0.0.0 smtp.bill.gmmwireless.com
 0.0.0.0 smtp.clickmultimedia.co.th
+0.0.0.0 smtp.enjoy108.com
 0.0.0.0 smtp.gmmdigital.com
 0.0.0.0 smtp.kkbox.gmmwireless.com
+0.0.0.0 smtp.mono2u.com
 0.0.0.0 smtp.newoneadvertising.com
 0.0.0.0 smtp.nipa.co.th
 0.0.0.0 smtp.s-onetelecom.com
 0.0.0.0 smtp.sexy-here.com
+0.0.0.0 smtp1.mono2u.com
 0.0.0.0 smtp10.nipa.co.th
+0.0.0.0 smtp2.mono2u.com
 0.0.0.0 smtp2.nipa.co.th
 0.0.0.0 smtp6.nipa.co.th
 0.0.0.0 smtp7.nipa.co.th
@@ -2526,11 +2594,14 @@
 0.0.0.0 story.sexygirlclip.com
 0.0.0.0 stream.cdnfiber.com
 0.0.0.0 stream.getcools.com
+0.0.0.0 stream1.mono2u.com
+0.0.0.0 stream2.mono2u.com
 0.0.0.0 sub.getcools.com
 0.0.0.0 support-apc.nipa.co.th
 0.0.0.0 support.gmmwireless.com
 0.0.0.0 support.nipa.co.th
 0.0.0.0 support.sun-system.com
+0.0.0.0 support.thinksmart.co.th
 0.0.0.0 survey.nipa.co.th
 0.0.0.0 sv1.thinksmart.co.th
 0.0.0.0 sv2.thinksmart.co.th
@@ -2551,6 +2622,7 @@
 0.0.0.0 target.nipa.co.th
 0.0.0.0 target0.nipa.co.th
 0.0.0.0 targetads.nipa.co.th
+0.0.0.0 tcdc.thinksmart.co.th
 0.0.0.0 tcity.adultvids.mobi
 0.0.0.0 tds-01.atas.io
 0.0.0.0 tds-02.atas.io
@@ -2568,6 +2640,7 @@
 0.0.0.0 test.ke.funmobile.com
 0.0.0.0 test.lalamobi.com
 0.0.0.0 test.nmpcenter.com
+0.0.0.0 test2.mono2u.com
 0.0.0.0 tgrjlzc.vuclip.com
 0.0.0.0 tgs.nipa.co.th
 0.0.0.0 th.12mob.com
@@ -2804,6 +2877,7 @@
 0.0.0.0 wap.disney.co.th
 0.0.0.0 wap.dooplus.tv
 0.0.0.0 wap.ebizmobile.com
+0.0.0.0 wap.enjoy108.com
 0.0.0.0 wap.focusonone.cc
 0.0.0.0 wap.free.chickyclub.net
 0.0.0.0 wap.freezone.mobifan.com
@@ -2826,6 +2900,7 @@
 0.0.0.0 wap.mfunz.mobi
 0.0.0.0 wap.mobgkt.com
 0.0.0.0 wap.mobifan.com
+0.0.0.0 wap.mono2u.com
 0.0.0.0 wap.n-content.com
 0.0.0.0 wap.nexg.tv
 0.0.0.0 wap.nmpcenter.com
@@ -2847,6 +2922,7 @@
 0.0.0.0 wap1.sanookde.com
 0.0.0.0 wap2.1moby.com
 0.0.0.0 wap2.cheesemobile.com
+0.0.0.0 wap2.enjoy108.com
 0.0.0.0 wap2.getcools.com
 0.0.0.0 wap2.n-content.com
 0.0.0.0 wap2.sanookde.com
@@ -2856,6 +2932,7 @@
 0.0.0.0 wap3.sanookde.com
 0.0.0.0 wapshop.gameloft.com
 0.0.0.0 waptrick.vuclip.com
+0.0.0.0 wcgw.thinksmart.co.th
 0.0.0.0 web.chickyclub.net
 0.0.0.0 web.fun-clix.com
 0.0.0.0 web.fun-club.mobi
@@ -2863,6 +2940,7 @@
 0.0.0.0 web.vuclip.com
 0.0.0.0 web1.shinee.com
 0.0.0.0 webdesign.nipa.co.th
+0.0.0.0 webmail.enjoy108.com
 0.0.0.0 webmail.gmmdigital.com
 0.0.0.0 webmaster.gmmdigital.com
 0.0.0.0 webpartner.shinee.com
@@ -3173,6 +3251,7 @@
 0.0.0.0 www.mogamo.com
 0.0.0.0 www.momozaap.com
 0.0.0.0 www.mono-mobile.com
+0.0.0.0 www.mono2u.com
 0.0.0.0 www.monogame.in.th
 0.0.0.0 www.monoinfosystems.com
 0.0.0.0 www.monotechnology.com
@@ -3282,6 +3361,7 @@
 0.0.0.0 www.thai2mobi.com
 0.0.0.0 www.thaiboxwap.com
 0.0.0.0 www.thaimobile.com
+0.0.0.0 www.thaisync.com
 0.0.0.0 www.thaiwapportal.com
 0.0.0.0 www.thaiza.com
 0.0.0.0 www.thegirl.sexy-here.com
@@ -3329,6 +3409,7 @@
 0.0.0.0 www.zmclick.com
 0.0.0.0 www1.mfunz.mobi
 0.0.0.0 www2.cheesemobile.com
+0.0.0.0 www2.enjoy108.com
 0.0.0.0 www2.mfunz.mobi
 0.0.0.0 www2.shinee.com
 0.0.0.0 www3.mfunz.mobi
