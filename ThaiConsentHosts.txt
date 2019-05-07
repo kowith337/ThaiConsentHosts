@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201905051545
+# Version: 201905071741
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1510,6 +1510,7 @@
 0.0.0.0 ejxlhrc.vuclip.com
 0.0.0.0 elisevaldorcia.thumbr.com
 0.0.0.0 emailmarketing.nipa.co.th
+0.0.0.0 en.moserv.co.th
 0.0.0.0 en.starchef.mobi
 0.0.0.0 en.sunnygames.club
 0.0.0.0 entertainment.thaiza.com
@@ -2585,6 +2586,7 @@
 0.0.0.0 static.mobivite.net
 0.0.0.0 static.mohemob.com
 0.0.0.0 static.mtouche.com
+0.0.0.0 static.sabver.com
 0.0.0.0 statistics.n-content.com
 0.0.0.0 stats.optsearch.net
 0.0.0.0 storage.n-content.com
@@ -2665,6 +2667,7 @@
 0.0.0.0 th.mobilegameblast.com
 0.0.0.0 th.mobiplus.me
 0.0.0.0 th.momoko.co
+0.0.0.0 th.moserv.co.th
 0.0.0.0 th.mt.1mov.co
 0.0.0.0 th.n-mobile.net
 0.0.0.0 th.panshimob.com
@@ -3257,6 +3260,7 @@
 0.0.0.0 www.monotechnology.com
 0.0.0.0 www.monozone.com
 0.0.0.0 www.moobig.com
+0.0.0.0 www.moserv.mobi
 0.0.0.0 www.moviegroups88.com
 0.0.0.0 www.movilfun4u.com
 0.0.0.0 www.mp3-shared.com
