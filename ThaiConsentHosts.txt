@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201905191235
+# Version: 201905192118
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -2291,6 +2291,7 @@
 0.0.0.0 partners.sparklemob.com
 0.0.0.0 partnersupport.gmmwireless.com
 0.0.0.0 partnervpn.gmmwireless.com
+0.0.0.0 pay.ctrackz.net
 0.0.0.0 pay.gmpmobi.com
 0.0.0.0 payads.nipa.co.th
 0.0.0.0 payment-dev.gmmwireless.com
