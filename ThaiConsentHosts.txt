@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201905101238
+# Version: 201905191235
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -743,6 +743,7 @@
 0.0.0.0 oomph.club
 0.0.0.0 opencurvemedia.com
 0.0.0.0 operonsh.pw
+0.0.0.0 opticks.io
 0.0.0.0 optsearch.net
 0.0.0.0 orepic.com
 0.0.0.0 ourbestcontent.com
@@ -1167,6 +1168,7 @@
 0.0.0.0 api.tk.gmmwireless.com
 0.0.0.0 api0.nipa.co.th
 0.0.0.0 api1.nipa.co.th
+0.0.0.0 app.opticks.io
 0.0.0.0 aplaystream.splanetproject.com
 0.0.0.0 aplus.muraltent.pw
 0.0.0.0 apollo-home.nipa.co.th
@@ -1811,6 +1813,7 @@
 0.0.0.0 ivrpartner.n-content.com
 0.0.0.0 iwap.symbioticinfo.com
 0.0.0.0 jan.freecot.pw
+0.0.0.0 java.devqz.club
 0.0.0.0 jira.gmmdigital.com
 0.0.0.0 jira.nipa.co.th
 0.0.0.0 jo.sunnygames.club
@@ -2736,6 +2739,7 @@
 0.0.0.0 track.mayrondigital.com
 0.0.0.0 track.mobiprofit.com
 0.0.0.0 track.onlytopoffers.com
+0.0.0.0 track.opticks.io
 0.0.0.0 track.regaming.com
 0.0.0.0 track.turbob.mobi
 0.0.0.0 tracker.mobindy.com
