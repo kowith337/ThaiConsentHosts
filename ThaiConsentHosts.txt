@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201905192118
+# Version: 201905202057
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1168,7 +1168,6 @@
 0.0.0.0 api.tk.gmmwireless.com
 0.0.0.0 api0.nipa.co.th
 0.0.0.0 api1.nipa.co.th
-0.0.0.0 app.opticks.io
 0.0.0.0 aplaystream.splanetproject.com
 0.0.0.0 aplus.muraltent.pw
 0.0.0.0 apollo-home.nipa.co.th
@@ -1183,6 +1182,7 @@
 0.0.0.0 app.getcools.com
 0.0.0.0 app.hm5.me
 0.0.0.0 app.nipa.co.th
+0.0.0.0 app.opticks.io
 0.0.0.0 app1.getcools.com
 0.0.0.0 app1.shinee.com
 0.0.0.0 app2.getcools.com
@@ -1730,6 +1730,7 @@
 0.0.0.0 horo.getcools.com
 0.0.0.0 horo.gmmwireless.com
 0.0.0.0 horo12.gmmwireless.com
+0.0.0.0 horodaily.goorulife.com
 0.0.0.0 horodaily.horoworld.com
 0.0.0.0 horoscope.thaiza.com
 0.0.0.0 host103.thaiwapportal.com
@@ -2031,6 +2032,7 @@
 0.0.0.0 masterdb.shinee.com
 0.0.0.0 maxxitv.gmmwireless.com
 0.0.0.0 mbk.n-content.com
+0.0.0.0 mc.goorulife.com
 0.0.0.0 mc.waphub.mobi
 0.0.0.0 mcn.solutiononeholding.com
 0.0.0.0 md.nipa.co.th
@@ -2084,6 +2086,7 @@
 0.0.0.0 media.nipa.co.th
 0.0.0.0 media.smsgateway.cc
 0.0.0.0 media1.nipa.co.th
+0.0.0.0 meedee.goorulife.com
 0.0.0.0 member.bug2mobile.com
 0.0.0.0 member.mobifan.com
 0.0.0.0 member.samartmedia.com
@@ -2406,6 +2409,7 @@
 0.0.0.0 register.cloudify.cc
 0.0.0.0 registertoplaycasino.cheyouju.net
 0.0.0.0 report.n-content.com
+0.0.0.0 report.samartbug.com
 0.0.0.0 reporting.etracker.cc
 0.0.0.0 resources.bajajcapital.com
 0.0.0.0 restwp.mobidea.com
