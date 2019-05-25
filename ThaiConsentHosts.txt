@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201905212155
+# Version: 201905251707
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1370,6 +1370,7 @@
 0.0.0.0 console.bill.gmmwireless.com
 0.0.0.0 console.etracker.cc
 0.0.0.0 cont.mcommsg.com
+0.0.0.0 content.chzmobi.net
 0.0.0.0 content.eskimi.com
 0.0.0.0 content.gmpmobi.com
 0.0.0.0 content.mobgkt.com
