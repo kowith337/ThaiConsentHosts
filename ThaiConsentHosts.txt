@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201905261910
+# Version: 201905272153
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -50,6 +50,7 @@
 0.0.0.0 56.76.86.177
 0.0.0.0 58.137.160.133
 0.0.0.0 58.137.160.134
+0.0.0.0 58.137.222.222
 0.0.0.0 58.181.206.44
 0.0.0.0 61.16.174.219
 0.0.0.0 61.19.249.34
@@ -949,6 +950,7 @@
 0.0.0.0 t3mobileadvertising.xyz
 0.0.0.0 tc-clicks.com
 0.0.0.0 tdedlove.com
+0.0.0.0 tdedteng.com
 0.0.0.0 tdedthai.com
 0.0.0.0 tdsjsext1.com
 0.0.0.0 tech-vault.com
@@ -3428,6 +3430,7 @@
 0.0.0.0 www.sun-system.com
 0.0.0.0 www.symbioticinfo.com
 0.0.0.0 www.tdedlove.com
+0.0.0.0 www.tdedteng.com
 0.0.0.0 www.tdedthai.com
 0.0.0.0 www.th.clubxzone.com
 0.0.0.0 www.th.imgamma.com
