@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201905301752
+# Version: 201905301812
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -193,6 +193,7 @@
 0.0.0.0 airpush.com
 0.0.0.0 akazoo.com
 0.0.0.0 alert301.com
+0.0.0.0 alice2appsmart.com
 0.0.0.0 alpha-mobi.com
 0.0.0.0 ametechnology.co.th
 0.0.0.0 amkomobile.com
@@ -272,6 +273,8 @@
 0.0.0.0 bzadx.pro
 0.0.0.0 cabmu.com
 0.0.0.0 callingsticker.com
+0.0.0.0 caravan.mobi
+0.0.0.0 caravancampingsales.com.au
 0.0.0.0 cd-mob.com
 0.0.0.0 cdnfiber.com
 0.0.0.0 celeryleek.com
@@ -415,6 +418,7 @@
 0.0.0.0 fun2u.biz
 0.0.0.0 fun4u.co
 0.0.0.0 fun88.link
+0.0.0.0 funcell1.com
 0.0.0.0 funclix.com
 0.0.0.0 fungame.mobi
 0.0.0.0 funmobile.com
@@ -596,6 +600,7 @@
 0.0.0.0 lovehoro.space
 0.0.0.0 lovehoro2561.com
 0.0.0.0 lovenights.net
+0.0.0.0 lpalice2appsmart.com
 0.0.0.0 ltvperf.com
 0.0.0.0 lucky6lucky.club
 0.0.0.0 luckymobileuser.club
@@ -1100,20 +1105,24 @@
 0.0.0.0 168.sedapmeesiam.gold
 0.0.0.0 18bet.python-libs.com
 0.0.0.0 1900.gmmdigital.com
+0.0.0.0 1st.lpalice2appsmart.com
 0.0.0.0 1xbetbet.bakerssolution.com
 0.0.0.0 2048kg.findgit.com
 0.0.0.0 2222.thinksmart.co.th
 0.0.0.0 2kygq.voluumtrk.com
+0.0.0.0 2nd.lpalice2appsmart.com
 0.0.0.0 332823.measurementapi.com
 0.0.0.0 360.monoinfosystems.com
 0.0.0.0 365betlive.python-libs.com
 0.0.0.0 365betonline.python-libs.com
 0.0.0.0 365betsportslivescores.python-libs.com
 0.0.0.0 365livestream.python-libs.com
+0.0.0.0 3rd.lpalice2appsmart.com
 0.0.0.0 4.0.nipa.co.th
 0.0.0.0 4219208.th.5rio.com
 0.0.0.0 428701.shakingclicks.com
 0.0.0.0 4998horo.gmmwireless.com
+0.0.0.0 4th.lpalice2appsmart.com
 0.0.0.0 888.thinksmart.co.th
 0.0.0.0 8gua.chocoboard.com
 0.0.0.0 9yam.shinee.com
@@ -2957,6 +2966,7 @@
 0.0.0.0 wap.isport.co.th
 0.0.0.0 wap.izenmobi.com
 0.0.0.0 wap.km928bonprabang.club
+0.0.0.0 wap.lpalice2appsmart.com
 0.0.0.0 wap.luckyyouna.com
 0.0.0.0 wap.mconverge.in
 0.0.0.0 wap.mfunz.mobi
@@ -3141,6 +3151,7 @@
 0.0.0.0 www.buzzcity.com
 0.0.0.0 www.buzzcity.net
 0.0.0.0 www.cabmu.com
+0.0.0.0 www.caravancampingsales.com.au
 0.0.0.0 www.centili.com
 0.0.0.0 www.chaiyo-mobile.com
 0.0.0.0 www.chatded.com
