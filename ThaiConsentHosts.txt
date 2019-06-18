@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201906132101
+# Version: 201906181907
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -400,6 +400,7 @@
 0.0.0.0 fashionbunny.com
 0.0.0.0 fblives.net
 0.0.0.0 feminum.pw
+0.0.0.0 files-media.com
 0.0.0.0 fim88.tk
 0.0.0.0 findgit.com
 0.0.0.0 fly2.me
@@ -579,6 +580,7 @@
 0.0.0.0 korverit.pw
 0.0.0.0 kplaw.kz
 0.0.0.0 kronsurf.pw
+0.0.0.0 kumchanod.com
 0.0.0.0 kwizu.club
 0.0.0.0 laanbok.pw
 0.0.0.0 lalamobi.com
@@ -871,6 +873,7 @@
 0.0.0.0 sadman3.icu
 0.0.0.0 saleplus.vn
 0.0.0.0 salvage-shop.com
+0.0.0.0 samart-digitalmedia.com
 0.0.0.0 samartbug.com
 0.0.0.0 samartdigitalmedia.com
 0.0.0.0 samartmedia.com
@@ -1570,6 +1573,7 @@
 0.0.0.0 ec2co-ecsel-8ds651go7el5-751923663.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 ecard.thaiza.com
 0.0.0.0 echo.getcools.com
+0.0.0.0 ed.files-media.com
 0.0.0.0 edu.getcools.com
 0.0.0.0 ee.sunnygames.club
 0.0.0.0 eg.kaka-games.com
@@ -1790,6 +1794,7 @@
 0.0.0.0 healthytips.gmmwireless.com
 0.0.0.0 hello.aielber.com
 0.0.0.0 hero.macrokiosk.com
+0.0.0.0 ho.files-media.com
 0.0.0.0 home.house365.com
 0.0.0.0 hornyhousewives.realgirls.mobi
 0.0.0.0 horo.getcools.com
@@ -1798,6 +1803,7 @@
 0.0.0.0 horodaily.goorulife.com
 0.0.0.0 horodaily.horoworld.com
 0.0.0.0 horoscope.thaiza.com
+0.0.0.0 horoworld.samart-digitalmedia.com
 0.0.0.0 host103.thaiwapportal.com
 0.0.0.0 hot.chickyclub.net
 0.0.0.0 hqloiaw.vuclip.com
@@ -1822,6 +1828,7 @@
 0.0.0.0 ie.x-rated.realgirls.mobi
 0.0.0.0 ig.nipa.co.th
 0.0.0.0 ikey4ipod.gmmwireless.com
+0.0.0.0 im.files-media.com
 0.0.0.0 images.gmmwireless.com
 0.0.0.0 images.mobifan.com
 0.0.0.0 images.thaiza.com
@@ -1878,6 +1885,7 @@
 0.0.0.0 ivr.n-content.com
 0.0.0.0 ivrpartner.n-content.com
 0.0.0.0 iwap.symbioticinfo.com
+0.0.0.0 ja.files-media.com
 0.0.0.0 jan.freecot.pw
 0.0.0.0 java.devqz.club
 0.0.0.0 jira.gmmdigital.com
@@ -2566,6 +2574,9 @@
 0.0.0.0 sg.datinggirls.info
 0.0.0.0 sg.mobgkt.com
 0.0.0.0 sg.tons.mobi
+0.0.0.0 sh1.files-media.com
+0.0.0.0 sh2.files-media.com
+0.0.0.0 sh3.files-media.com
 0.0.0.0 shape.shinee.com
 0.0.0.0 share.nipa.co.th
 0.0.0.0 shinee-web.shinee.com
@@ -2854,6 +2865,7 @@
 0.0.0.0 ucw18.unpuzzled.net
 0.0.0.0 ucw88.python-libs.com
 0.0.0.0 uf.noclef.com
+0.0.0.0 ui.files-media.com
 0.0.0.0 uk.clubxzone.com
 0.0.0.0 uk.kaka-games.com
 0.0.0.0 um.momoko.co
@@ -3222,6 +3234,7 @@
 0.0.0.0 www.faptubes.mobi
 0.0.0.0 www.fashionbunny.com
 0.0.0.0 www.fblives.net
+0.0.0.0 www.files-media.com
 0.0.0.0 www.fim88.tk
 0.0.0.0 www.fly2.me
 0.0.0.0 www.fly2me.com
@@ -3302,6 +3315,7 @@
 0.0.0.0 www.klinikasmara.com
 0.0.0.0 www.knsbet.tk
 0.0.0.0 www.kodporno.com
+0.0.0.0 www.kumchanod.com
 0.0.0.0 www.lalamobi.com
 0.0.0.0 www.lehbet.tk
 0.0.0.0 www.letgomobile.com
@@ -3428,6 +3442,7 @@
 0.0.0.0 www.sabdee.com
 0.0.0.0 www.sabmobile.com
 0.0.0.0 www.sabsabonline.com
+0.0.0.0 www.samart-digitalmedia.com
 0.0.0.0 www.samartdigitalmedia.com
 0.0.0.0 www.scan-do.com
 0.0.0.0 www.scientiamobile.com
