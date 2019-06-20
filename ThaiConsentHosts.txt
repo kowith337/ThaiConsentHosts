@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201906181907
+# Version: 201906202237
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -190,6 +190,7 @@
 0.0.0.0 afftrack-data.com
 0.0.0.0 afftrack.com
 0.0.0.0 affxx.com
+0.0.0.0 ahyoyo.com
 0.0.0.0 aielber.com
 0.0.0.0 airpush.com
 0.0.0.0 akazoo.com
@@ -452,6 +453,7 @@
 0.0.0.0 gamezine.in
 0.0.0.0 gameziz.com
 0.0.0.0 gamezzone.me
+0.0.0.0 gamiebox.com
 0.0.0.0 gammo.me
 0.0.0.0 gamzones.com
 0.0.0.0 gangzaa.net
@@ -773,6 +775,7 @@
 0.0.0.0 officeprs.cf
 0.0.0.0 officeprs.gq
 0.0.0.0 offrtrking.com
+0.0.0.0 oho-mobile.com
 0.0.0.0 oli.tools
 0.0.0.0 omaharlog.pw
 0.0.0.0 onelinkgroup.com
@@ -846,6 +849,7 @@
 0.0.0.0 re1store.com
 0.0.0.0 real-prizesday.life
 0.0.0.0 realgirls.mobi
+0.0.0.0 redclub.mobi
 0.0.0.0 redporntube.xyz
 0.0.0.0 regaming.com
 0.0.0.0 relingsh.pw
@@ -1191,6 +1195,7 @@
 0.0.0.0 afan.bluestwep.pw
 0.0.0.0 aff.letgomobile.com
 0.0.0.0 affiliate.funsmobi.com
+0.0.0.0 affiliates.mobidea.com
 0.0.0.0 aficfurn.nipa.co.th
 0.0.0.0 afix.muraltent.pw
 0.0.0.0 afoss.nipa.co.th
@@ -1384,6 +1389,8 @@
 0.0.0.0 cdn1.mob-api.net
 0.0.0.0 cdn2.mob-api.net
 0.0.0.0 cdn3.mob-api.net
+0.0.0.0 cdnaws.mobidea.com
+0.0.0.0 cdnpublic.mobidea.com
 0.0.0.0 cdnwp.mobidea.com
 0.0.0.0 cds-dls.thinksmart.co.th
 0.0.0.0 cell.th.shoopadoo.com
@@ -2301,16 +2308,19 @@
 0.0.0.0 ns1.moserv.mobi
 0.0.0.0 ns1.nipa.co.th
 0.0.0.0 ns1.s-onetelecom.com
+0.0.0.0 ns1.thaiza.com
 0.0.0.0 ns1.thinksmart.co.th
 0.0.0.0 ns2.getcools.com
 0.0.0.0 ns2.gmmwireless.com
 0.0.0.0 ns2.moserv.mobi
 0.0.0.0 ns2.nipa.co.th
 0.0.0.0 ns2.s-onetelecom.com
+0.0.0.0 ns2.thaiza.com
 0.0.0.0 ns2.thinksmart.co.th
 0.0.0.0 ns3.getcools.com
 0.0.0.0 ns3.nipa.co.th
 0.0.0.0 ns3.s-onetelecom.com
+0.0.0.0 ns3.thaiza.com
 0.0.0.0 ns4.getcools.com
 0.0.0.0 ns4.nipa.co.th
 0.0.0.0 ns4.s-onetelecom.com
@@ -3140,6 +3150,7 @@
 0.0.0.0 www.affichaos.com
 0.0.0.0 www.affxx.com
 0.0.0.0 www.afoss.nipa.co.th
+0.0.0.0 www.ahyoyo.com
 0.0.0.0 www.akazoo.com
 0.0.0.0 www.alpha-mobi.com
 0.0.0.0 www.ametechnology.co.th
@@ -3398,6 +3409,7 @@
 0.0.0.0 www.nportal.thumbr.com
 0.0.0.0 www.obet88.tk
 0.0.0.0 www.odiamovies.vuclip.com
+0.0.0.0 www.oho-mobile.com
 0.0.0.0 www.onelinkgroup.com
 0.0.0.0 www.online-clip.com
 0.0.0.0 www.ozura.com
@@ -3469,6 +3481,7 @@
 0.0.0.0 www.smarttelebiz.com
 0.0.0.0 www.snapp.asia
 0.0.0.0 www.solutiononeholding.com
+0.0.0.0 www.spak.me
 0.0.0.0 www.spicyvideos.mobi
 0.0.0.0 www.stormobi.com
 0.0.0.0 www.sun-system.com
