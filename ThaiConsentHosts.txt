@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201906202237
+# Version: 201906271740
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -579,6 +579,7 @@
 0.0.0.0 kodfin.com
 0.0.0.0 kodporno.com
 0.0.0.0 kodsextoy.com
+0.0.0.0 kodzed.com
 0.0.0.0 korverit.pw
 0.0.0.0 kplaw.kz
 0.0.0.0 kronsurf.pw
@@ -2033,6 +2034,7 @@
 0.0.0.0 m.ke.musica.fun-club.mobi
 0.0.0.0 m.ke.tons.mobi
 0.0.0.0 m.kodfin.com
+0.0.0.0 m.kodzed.com
 0.0.0.0 m.mobiclub.net
 0.0.0.0 m.mobifan.com
 0.0.0.0 m.mobilart.in
@@ -2680,7 +2682,9 @@
 0.0.0.0 static.chocoboard.com
 0.0.0.0 static.content.yasune360.com
 0.0.0.0 static.funstar.mobi
+0.0.0.0 static.kangped.com
 0.0.0.0 static.kangsom.com
+0.0.0.0 static.kodzed.com
 0.0.0.0 static.mobgkt.com
 0.0.0.0 static.mobivite.net
 0.0.0.0 static.mohemob.com
