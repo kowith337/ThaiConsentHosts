@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201906271740
+# Version: 201906281234
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -2168,6 +2168,9 @@
 0.0.0.0 media.nipa.co.th
 0.0.0.0 media.smsgateway.cc
 0.0.0.0 media1.nipa.co.th
+0.0.0.0 media1.smsgateway.cc
+0.0.0.0 media2.smsgateway.cc
+0.0.0.0 media3.smsgateway.cc
 0.0.0.0 meedee.goorulife.com
 0.0.0.0 member.bug2mobile.com
 0.0.0.0 member.mobifan.com
