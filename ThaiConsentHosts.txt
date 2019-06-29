@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201906291422
+# Version: 201906292212
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -162,6 +162,7 @@
 0.0.0.0 achelous.mobi
 0.0.0.0 acl-wireless.com
 0.0.0.0 acme-mobile.com
+0.0.0.0 ad5media.com
 0.0.0.0 ad5network.com
 0.0.0.0 addictiveads.com
 0.0.0.0 addlink.mobi
@@ -652,6 +653,7 @@
 0.0.0.0 medgeidea.com
 0.0.0.0 media-bucket.com
 0.0.0.0 mexcomm.net
+0.0.0.0 mfun521.com
 0.0.0.0 mfunz.mobi
 0.0.0.0 micrayer.pw
 0.0.0.0 min4.com
@@ -1219,6 +1221,7 @@
 0.0.0.0 aissms.gmmwireless.com
 0.0.0.0 aisunlimited.gmmwireless.com
 0.0.0.0 aiswap.gmmwireless.com
+0.0.0.0 aka-app.upp.st
 0.0.0.0 alchemy.n-d.bz
 0.0.0.0 alite.bluestwep.pw
 0.0.0.0 alpha.solutiononeholding.com
@@ -1409,6 +1412,7 @@
 0.0.0.0 channel.jibhd.com
 0.0.0.0 chat.shinee.com
 0.0.0.0 chat.thaiza.com
+0.0.0.0 chatstory.upp.st
 0.0.0.0 cheatingex.realgirls.mobi
 0.0.0.0 cheras.mtouche.com
 0.0.0.0 choose.txtnation.com
@@ -1463,6 +1467,7 @@
 0.0.0.0 corp.s-onetelecom.com
 0.0.0.0 coupon.n-content.com
 0.0.0.0 cp.clickmultimedia.co.th
+0.0.0.0 cplab.ad5network.com
 0.0.0.0 ct.mobi2u.mobi
 0.0.0.0 cy.chickcell.com
 0.0.0.0 cy.sunnygames.club
@@ -1587,6 +1592,7 @@
 0.0.0.0 ec2co-ecsel-8ds651go7el5-751923663.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 ecard.thaiza.com
 0.0.0.0 echo.getcools.com
+0.0.0.0 econetfree.upp.st
 0.0.0.0 ed.files-media.com
 0.0.0.0 edu.getcools.com
 0.0.0.0 ee.sunnygames.club
@@ -1714,12 +1720,14 @@
 0.0.0.0 fu.fun-clix.com
 0.0.0.0 fun.moobig.com
 0.0.0.0 fun88.shrum-studio.com
+0.0.0.0 funclass.upp.st
 0.0.0.0 fw.shinee.com
 0.0.0.0 g.zm.my
 0.0.0.0 game.bug2mobile.com
 0.0.0.0 game.funseahk.com
 0.0.0.0 game.mono-mobile.com
 0.0.0.0 game.thaiza.com
+0.0.0.0 gamelounge.upp.st
 0.0.0.0 gameonline.thaiza.com
 0.0.0.0 gameroom.magikmobile.mobi
 0.0.0.0 games-live.s3.amazonaws.com
@@ -2201,6 +2209,7 @@
 0.0.0.0 mob.nipa.co.th
 0.0.0.0 mob.waveparadise.xyz
 0.0.0.0 mobi.chickyclub.net
+0.0.0.0 mobile-aka-beamworld.upp.st
 0.0.0.0 mobile.chickyclub.net
 0.0.0.0 mobile.fun-club.mobi
 0.0.0.0 mobile.gmmdigital.com
@@ -2248,6 +2257,7 @@
 0.0.0.0 mta25.nipa.co.th
 0.0.0.0 mta26.nipa.co.th
 0.0.0.0 mthai.mono2u.com
+0.0.0.0 mtn-za-infobites.upp.st
 0.0.0.0 mtn.akazoo.com
 0.0.0.0 mu.vuclip.com
 0.0.0.0 mueller.bluestwep.pw
@@ -2297,6 +2307,7 @@
 0.0.0.0 nextlink.cypher-sys.com
 0.0.0.0 ng-hq.gmmdigital.com
 0.0.0.0 ng-tidc.gmmdigital.com
+0.0.0.0 ngsecuritykit.upp.st
 0.0.0.0 nhome.n-content.com
 0.0.0.0 nipa-adsonline.nipa.co.th
 0.0.0.0 nipaads.nipa.co.th
@@ -2869,6 +2880,7 @@
 0.0.0.0 trainee.gmmwireless.com
 0.0.0.0 transcodedmedia.mobivite.net
 0.0.0.0 travel.thaiza.com
+0.0.0.0 trc.mobipotato.com
 0.0.0.0 trk.mobilevol.com
 0.0.0.0 trk.traffikflow.com
 0.0.0.0 tructiepbongda.python-libs.com
@@ -3087,8 +3099,10 @@
 0.0.0.0 wlive.senate.dooplus.tv
 0.0.0.0 women.horoworld.com
 0.0.0.0 women.thaiza.com
+0.0.0.0 worldofgames.upp.st
 0.0.0.0 wowclip-report.thinksmart.co.th
 0.0.0.0 wowclip.tksm.mobi
+0.0.0.0 wr-vodafone-promo1.upp.st
 0.0.0.0 ws.n-content.com
 0.0.0.0 wsub.getcools.com
 0.0.0.0 wvnnr.lovenights.net
@@ -3159,6 +3173,7 @@
 0.0.0.0 www.9yam.com
 0.0.0.0 www.achelous.mobi
 0.0.0.0 www.acl-wireless.com
+0.0.0.0 www.ad5media.com
 0.0.0.0 www.ad5network.com
 0.0.0.0 www.addtechhub.com
 0.0.0.0 www.adultd8.com
@@ -3368,6 +3383,7 @@
 0.0.0.0 www.mcommedia.com
 0.0.0.0 www.mcommsg.com
 0.0.0.0 www.mexcomm.net
+0.0.0.0 www.mfun521.com
 0.0.0.0 www.mfunz.mobi
 0.0.0.0 www.min4.com
 0.0.0.0 www.minivideo.club
@@ -3390,6 +3406,7 @@
 0.0.0.0 www.mobilesitexxx.com
 0.0.0.0 www.mobiletrendy.net
 0.0.0.0 www.mobill.vuclip.com
+0.0.0.0 www.mobipotato.com
 0.0.0.0 www.mobivite.net
 0.0.0.0 www.moboi.vuclip.com
 0.0.0.0 www.mobplanner.com
@@ -3421,6 +3438,7 @@
 0.0.0.0 www.new.vuclip.com
 0.0.0.0 www.newoneadvertising.com
 0.0.0.0 www.nfsolution.com
+0.0.0.0 www.ngsecuritykit.upp.st
 0.0.0.0 www.nipa.co.th
 0.0.0.0 www.nkrbt.com
 0.0.0.0 www.nmpcenter.com
@@ -3585,6 +3603,7 @@
 0.0.0.0 xcmsv2-cdn.awap.tv
 0.0.0.0 xcmsv3-cdn.awap.tv
 0.0.0.0 xiphfef.vuclip.com
+0.0.0.0 xl-axis-gaming.upp.st
 0.0.0.0 xml.gmmwireless.com
 0.0.0.0 xmpp.sun-system.com
 0.0.0.0 xmpp1.sun-system.com
