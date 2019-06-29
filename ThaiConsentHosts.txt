@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201906281234
+# Version: 201906291422
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -65,6 +65,7 @@
 0.0.0.0 103.246.17.72
 0.0.0.0 103.246.17.87
 0.0.0.0 107.170.154.51
+0.0.0.0 111.118.179.72
 0.0.0.0 113.30.248.2
 0.0.0.0 116.68.193.122
 0.0.0.0 118.102.141.188
@@ -331,6 +332,7 @@
 0.0.0.0 cpgnrotationurl.com
 0.0.0.0 cpitraffic.com
 0.0.0.0 cpweb.com
+0.0.0.0 cswinpz.com
 0.0.0.0 ct9.me
 0.0.0.0 ctrackz.net
 0.0.0.0 cuteclub.tv
@@ -387,6 +389,7 @@
 0.0.0.0 eskimi.com
 0.0.0.0 espabit.net
 0.0.0.0 etexator.pw
+0.0.0.0 etopgame.com
 0.0.0.0 etracker.cc
 0.0.0.0 etsthailand.com
 0.0.0.0 exezhanqun.com
@@ -694,6 +697,7 @@
 0.0.0.0 mobillium.mobi
 0.0.0.0 mobindy.com
 0.0.0.0 mobiplus.me
+0.0.0.0 mobipotato.com
 0.0.0.0 mobiprofit.com
 0.0.0.0 mobistarcorp.net
 0.0.0.0 mobistos.com
@@ -833,6 +837,7 @@
 0.0.0.0 premiumtraff.com
 0.0.0.0 previsupe.pw
 0.0.0.0 privatebay.tv
+0.0.0.0 privatevideoz.com
 0.0.0.0 privatewant.com
 0.0.0.0 privatewow.tv
 0.0.0.0 pubmt.ch
@@ -1032,6 +1037,7 @@
 0.0.0.0 ugjbet.tk
 0.0.0.0 umobi.biz
 0.0.0.0 unpuzzled.net
+0.0.0.0 upp.st
 0.0.0.0 vasglobalnetwork.com
 0.0.0.0 vasgn.com
 0.0.0.0 vassolution.com
@@ -1735,6 +1741,7 @@
 0.0.0.0 ghealth-report.thinksmart.co.th
 0.0.0.0 gholbifyn.bluestwep.pw
 0.0.0.0 girl18plus.sexy-here.com
+0.0.0.0 girlsvdo.upp.st
 0.0.0.0 git.gmmdigital.com
 0.0.0.0 gitlab.nipa.co.th
 0.0.0.0 gk.wifistudy.com
@@ -1817,6 +1824,7 @@
 0.0.0.0 hqloiaw.vuclip.com
 0.0.0.0 hr.getcools.com
 0.0.0.0 hs.fun-clix.com
+0.0.0.0 hs.privatevideoz.com
 0.0.0.0 hs.thumbr.com
 0.0.0.0 hs.video-wrld.com
 0.0.0.0 hu.sunnygames.club
@@ -2799,6 +2807,7 @@
 0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 tha.youlaugh.online
 0.0.0.0 thai.blastoffgaming.com
+0.0.0.0 thaigirl.etopgame.com
 0.0.0.0 thailife.horoworld.com
 0.0.0.0 thegirl.sexy-here.com
 0.0.0.0 theme.shinee.com
@@ -2851,6 +2860,7 @@
 0.0.0.0 tracking.adsmile.net
 0.0.0.0 tracking.clickwinks.com
 0.0.0.0 tracking.kissmyads.com
+0.0.0.0 tracking.mobipotato.com
 0.0.0.0 tracking.nipa.co.th
 0.0.0.0 tracking.performancerevenues.com
 0.0.0.0 tracking.vstyle4u.com
@@ -3084,6 +3094,7 @@
 0.0.0.0 wvnnr.lovenights.net
 0.0.0.0 ww.lunla.net
 0.0.0.0 ww.mobindy.com
+0.0.0.0 ww.privatevideoz.com
 0.0.0.0 ww.vcdn.stream
 0.0.0.0 ww.xn--42c8cmgk9dvfyd.com
 0.0.0.0 ww1.buzzcity.com
@@ -3220,6 +3231,7 @@
 0.0.0.0 www.contentformen.mobi
 0.0.0.0 www.contentsdaily.com
 0.0.0.0 www.cpweb.com
+0.0.0.0 www.cswinpz.com
 0.0.0.0 www.ctrackz.net
 0.0.0.0 www.cuteclub.tv
 0.0.0.0 www.cuteforyou.mobi
@@ -3446,6 +3458,7 @@
 0.0.0.0 www.pourtal.thumbr.com
 0.0.0.0 www.povrtal.thumbr.com
 0.0.0.0 www.privatebay.tv
+0.0.0.0 www.privatevideoz.com
 0.0.0.0 www.python-libs.com
 0.0.0.0 www.raptornetwork.com
 0.0.0.0 www.retail9.com
