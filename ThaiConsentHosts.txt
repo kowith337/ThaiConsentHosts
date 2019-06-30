@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201906292212
+# Version: 201906302353
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -301,6 +301,7 @@
 0.0.0.0 ckwizard.com
 0.0.0.0 clausiafze.com
 0.0.0.0 click404.net
+0.0.0.0 clickdealer.com
 0.0.0.0 clickmlife.com
 0.0.0.0 clickmultimedia.co.th
 0.0.0.0 clickstk.com
@@ -463,6 +464,7 @@
 0.0.0.0 gangzaa.net
 0.0.0.0 gcvw.mobi
 0.0.0.0 gdmconvtrck.com
+0.0.0.0 gdmgsecure.com
 0.0.0.0 genieessp.com
 0.0.0.0 get-intouch.com
 0.0.0.0 getclick.mobi
@@ -895,6 +897,7 @@
 0.0.0.0 scientiamobile.com
 0.0.0.0 seacom.co.th
 0.0.0.0 seaman2u.com
+0.0.0.0 secudatago.com
 0.0.0.0 securecloud-mb.com
 0.0.0.0 sedapmeesiam.gold
 0.0.0.0 segimaid.com
@@ -1858,6 +1861,7 @@
 0.0.0.0 images.thaiza.com
 0.0.0.0 imap.mono2u.com
 0.0.0.0 img.20150917.com
+0.0.0.0 img.clickdealer.com
 0.0.0.0 img.manymy.com
 0.0.0.0 img.mobusi.com
 0.0.0.0 img.redporntube.xyz
@@ -3236,6 +3240,7 @@
 0.0.0.0 www.chzmobi.net
 0.0.0.0 www.cl.clubxzone.com
 0.0.0.0 www.clausiafze.com
+0.0.0.0 www.clickdealer.com
 0.0.0.0 www.clickmultimedia.co.th
 0.0.0.0 www.cloudify.cc
 0.0.0.0 www.clubtigermob.com
@@ -3302,6 +3307,7 @@
 0.0.0.0 www.gamescentreom.com
 0.0.0.0 www.gamesclub.tv
 0.0.0.0 www.gamezzone.me
+0.0.0.0 www.gdmgsecure.com
 0.0.0.0 www.get-intouch.com
 0.0.0.0 www.getclick.mobi
 0.0.0.0 www.getcools.com
@@ -3499,6 +3505,7 @@
 0.0.0.0 www.seacom.co.th
 0.0.0.0 www.seaman2u.com
 0.0.0.0 www.sec.vuclip.com
+0.0.0.0 www.secudatago.com
 0.0.0.0 www.segimaid.com
 0.0.0.0 www.sexonthephone.mobi
 0.0.0.0 www.sexy-here.com
