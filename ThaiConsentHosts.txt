@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201906302353
+# Version: 201907042131
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -150,6 +150,7 @@
 0.0.0.0 7banana.com
 0.0.0.0 7me.co
 0.0.0.0 8086.com.tw
+0.0.0.0 8mobi.co.th
 0.0.0.0 9ep.cc
 0.0.0.0 9v8p.com
 0.0.0.0 9yam.com
@@ -3173,6 +3174,7 @@
 0.0.0.0 www.5sys.com
 0.0.0.0 www.70characters.com
 0.0.0.0 www.8086.com.tw
+0.0.0.0 www.8mobi.co.th
 0.0.0.0 www.9v8p.com
 0.0.0.0 www.9yam.com
 0.0.0.0 www.achelous.mobi
