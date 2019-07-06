@@ -19,5 +19,5 @@
 ### Remark
 - This hosts file may not protect you against other supscription attempt that not come from website advertisements like...
   - dial with USSD service code
-  - direct call from service providers
-  - shady staff employee behind those services (and may some mobile operator) that already known your phone number and submit your number to subscribe their content without any confirmation from you!
+  - direct call from\/to service providers
+  - shady staff employee behind those services (and may some mobile operator) that already known your phone number and submit your number to subscribe their useless services without any confirmation from your side!
