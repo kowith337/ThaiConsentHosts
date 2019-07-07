@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907071904
+# Version: 201907071925
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -138,6 +138,7 @@
 0.0.0.0 20150917.com
 0.0.0.0 321load.com
 0.0.0.0 3mobilecontents.net
+0.0.0.0 3storage.net
 0.0.0.0 4mobilefunz.com
 0.0.0.0 4v4jfe79erfxfu8z8.com
 0.0.0.0 54646.co
@@ -3175,6 +3176,7 @@
 0.0.0.0 www.1moby.com
 0.0.0.0 www.2-spot.com
 0.0.0.0 www.3mobilecontents.net
+0.0.0.0 www.3storage.net
 0.0.0.0 www.4mobilefunz.com
 0.0.0.0 www.55555getcontent.com
 0.0.0.0 www.5rio.com
