@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907071925
+# Version: 201907081337
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -240,6 +240,7 @@
 0.0.0.0 ballhotclub.com
 0.0.0.0 bamobile.com
 0.0.0.0 bandlane.com
+0.0.0.0 bbcmvdo.com
 0.0.0.0 bbcontent.co.th
 0.0.0.0 bcomnetwork.com
 0.0.0.0 beacstyle.pw
@@ -1507,6 +1508,7 @@
 0.0.0.0 dcb.shinee.com
 0.0.0.0 dcdsload.gmmwireless.com
 0.0.0.0 dcpartner.gmmwireless.com
+0.0.0.0 dcw.at2010.net
 0.0.0.0 dddd.jibhd.com
 0.0.0.0 de.ch.zz.th.thumbr.com
 0.0.0.0 de.kaka-games.com
@@ -2193,6 +2195,7 @@
 0.0.0.0 md45.nipa.co.th
 0.0.0.0 md46.nipa.co.th
 0.0.0.0 mds.nipa.co.th
+0.0.0.0 media.at2010.net
 0.0.0.0 media.nipa.co.th
 0.0.0.0 media.smsgateway.cc
 0.0.0.0 media1.nipa.co.th
@@ -2378,6 +2381,7 @@
 0.0.0.0 obivr.thinksmart.co.th
 0.0.0.0 odiamovies.vuclip.com
 0.0.0.0 off.bptr88.com
+0.0.0.0 offers.at2010.net
 0.0.0.0 office.nipa.co.th
 0.0.0.0 officedb.shinee.com
 0.0.0.0 okfashion.thaiza.com
