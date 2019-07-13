@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907081337
+# Version: 201907131418
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -997,6 +997,7 @@
 0.0.0.0 th1cs.com
 0.0.0.0 thai-iphone.com
 0.0.0.0 thai-sms.com
+0.0.0.0 thai-voucher.com
 0.0.0.0 thai2mobi.com
 0.0.0.0 thaiboxwap.com
 0.0.0.0 thaifun4u.com
@@ -3558,6 +3559,7 @@
 0.0.0.0 www.th1cs.com
 0.0.0.0 www.thai-iphone.com
 0.0.0.0 www.thai-sms.com
+0.0.0.0 www.thai-voucher.com
 0.0.0.0 www.thai2mobi.com
 0.0.0.0 www.thaiboxwap.com
 0.0.0.0 www.thaimobile.com
