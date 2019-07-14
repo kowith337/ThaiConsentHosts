@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907142047
+# Version: 201907142126
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -137,6 +137,7 @@
 0.0.0.0 2-spot.com
 0.0.0.0 20150917.com
 0.0.0.0 321load.com
+0.0.0.0 33luo.com
 0.0.0.0 3mobilecontents.net
 0.0.0.0 3storage.net
 0.0.0.0 4mobilefunz.com
@@ -150,9 +151,11 @@
 0.0.0.0 6f76b4c82656094f26.com
 0.0.0.0 6g.cx
 0.0.0.0 70characters.com
+0.0.0.0 755m.com
 0.0.0.0 7banana.com
 0.0.0.0 7me.co
 0.0.0.0 8086.com.tw
+0.0.0.0 81wm.com
 0.0.0.0 8mobi.co.th
 0.0.0.0 9ep.cc
 0.0.0.0 9v8p.com
@@ -234,6 +237,8 @@
 0.0.0.0 awz.bz
 0.0.0.0 b-qq.com
 0.0.0.0 b3st0ff3rs.com
+0.0.0.0 bacc1688.mobi
+0.0.0.0 bacc1688a.com
 0.0.0.0 backstory.ru
 0.0.0.0 bajajcapital.com
 0.0.0.0 bakerssolution.com
@@ -468,6 +473,20 @@
 0.0.0.0 gammo.me
 0.0.0.0 gamzones.com
 0.0.0.0 gangzaa.net
+0.0.0.0 gclub-casino.com
+0.0.0.0 gclub-plaza.com
+0.0.0.0 gclub.guru
+0.0.0.0 gclub123.com
+0.0.0.0 gclub168.casino
+0.0.0.0 gclub168.net
+0.0.0.0 gclub24hr.com
+0.0.0.0 gclub7000.com
+0.0.0.0 gclub8000.com
+0.0.0.0 gclub888.org
+0.0.0.0 gclub9.com
+0.0.0.0 gclub9000.net
+0.0.0.0 gclubgames.com
+0.0.0.0 gclubslot898.com
 0.0.0.0 gcvw.mobi
 0.0.0.0 gdmconvtrck.com
 0.0.0.0 gdmgsecure.com
@@ -496,6 +515,7 @@
 0.0.0.0 go2cloud.org
 0.0.0.0 godnearme.com
 0.0.0.0 gogameportal.com
+0.0.0.0 golden-slot.com
 0.0.0.0 gomasti.in
 0.0.0.0 goohd.tv
 0.0.0.0 goorulife.com
@@ -505,6 +525,7 @@
 0.0.0.0 greatestapps.mobi
 0.0.0.0 greatmobilegames.mobi
 0.0.0.0 grenadatradecentre.com
+0.0.0.0 gtzlz.com
 0.0.0.0 guideball.com
 0.0.0.0 guru3step.com
 0.0.0.0 gw2cloud.com
@@ -573,6 +594,7 @@
 0.0.0.0 jibhd.com
 0.0.0.0 jiudianzhaopin.com
 0.0.0.0 jmtt.co.th
+0.0.0.0 joker123xo.com
 0.0.0.0 jtsws.com
 0.0.0.0 kaka-games.com
 0.0.0.0 kangped.com
@@ -621,6 +643,7 @@
 0.0.0.0 loadmuns.com
 0.0.0.0 logandload.com
 0.0.0.0 looke.mobi
+0.0.0.0 lottoasian.com
 0.0.0.0 lovehoro.space
 0.0.0.0 lovehoro2561.com
 0.0.0.0 lovenights.net
@@ -640,6 +663,7 @@
 0.0.0.0 maejaow.com
 0.0.0.0 magent.my
 0.0.0.0 magikmobile.mobi
+0.0.0.0 mai88.com
 0.0.0.0 malanden.pw
 0.0.0.0 manymy.com
 0.0.0.0 mastermovie-hd.mobi
@@ -756,6 +780,7 @@
 0.0.0.0 mydala.com
 0.0.0.0 myfortune.space
 0.0.0.0 mygirlshow.com
+0.0.0.0 mymaxbet.com
 0.0.0.0 mymgw.com
 0.0.0.0 mynewrotationlink.com
 0.0.0.0 myscoobi.com
@@ -859,6 +884,7 @@
 0.0.0.0 puteez.com
 0.0.0.0 python-libs.com
 0.0.0.0 questionfly.com
+0.0.0.0 r9987.com
 0.0.0.0 rabreptancalbe.info
 0.0.0.0 radio.in.th
 0.0.0.0 radiologistas.com.br
@@ -888,6 +914,7 @@
 0.0.0.0 royalads.net
 0.0.0.0 rushvip.net
 0.0.0.0 ryhopset.pw
+0.0.0.0 s-bobet.com
 0.0.0.0 s-onetelecom.com
 0.0.0.0 sabai5555.com
 0.0.0.0 sabdee.com
@@ -902,9 +929,16 @@
 0.0.0.0 samartdigitalmedia.com
 0.0.0.0 samartmedia.com
 0.0.0.0 sanookde.com
+0.0.0.0 sbobet-365.com
+0.0.0.0 sbobet-onlinecasino.com
+0.0.0.0 sbobet-sports.com
+0.0.0.0 sbobets.tips
+0.0.0.0 sbobettm.com
 0.0.0.0 scan-do.com
 0.0.0.0 scattertraff.com
 0.0.0.0 scientiamobile.com
+0.0.0.0 scr888-vip.com
+0.0.0.0 scr888hd.com
 0.0.0.0 seacom.co.th
 0.0.0.0 seaman2u.com
 0.0.0.0 secudatago.com
@@ -931,6 +965,7 @@
 0.0.0.0 siam2you.com
 0.0.0.0 siamfun4u.com
 0.0.0.0 siamguru.com
+0.0.0.0 siammaxbet.com
 0.0.0.0 siamtouch.com
 0.0.0.0 sifinmar.pw
 0.0.0.0 silk69.in
@@ -1080,6 +1115,7 @@
 0.0.0.0 voluumtrk.com
 0.0.0.0 voluumtrk2.com
 0.0.0.0 vovivooo.com
+0.0.0.0 vrscr888.com
 0.0.0.0 vstyle4u.com
 0.0.0.0 vuclip.com
 0.0.0.0 vuclipgamesat.com
@@ -2145,6 +2181,7 @@
 0.0.0.0 mansion88sportsmain.sybyrl.com
 0.0.0.0 market.thaiza.com
 0.0.0.0 masterdb.shinee.com
+0.0.0.0 maxbet.gclub-casino.com
 0.0.0.0 maxxitv.gmmwireless.com
 0.0.0.0 mbk.n-content.com
 0.0.0.0 mc.goorulife.com
@@ -2838,6 +2875,7 @@
 0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 tha.youlaugh.online
 0.0.0.0 thai.blastoffgaming.com
+0.0.0.0 thaicasinoonline66.000webhostapp.com
 0.0.0.0 thaigirl.etopgame.com
 0.0.0.0 thailife.horoworld.com
 0.0.0.0 thegirl.sexy-here.com
@@ -3183,6 +3221,7 @@
 0.0.0.0 www.1bet2uthai.net
 0.0.0.0 www.1moby.com
 0.0.0.0 www.2-spot.com
+0.0.0.0 www.33luo.com
 0.0.0.0 www.3mobilecontents.net
 0.0.0.0 www.3storage.net
 0.0.0.0 www.4mobilefunz.com
@@ -3190,7 +3229,9 @@
 0.0.0.0 www.5rio.com
 0.0.0.0 www.5sys.com
 0.0.0.0 www.70characters.com
+0.0.0.0 www.755m.com
 0.0.0.0 www.8086.com.tw
+0.0.0.0 www.81wm.com
 0.0.0.0 www.8mobi.co.th
 0.0.0.0 www.9v8p.com
 0.0.0.0 www.9yam.com
@@ -3227,6 +3268,8 @@
 0.0.0.0 www.aromdeemobile.com
 0.0.0.0 www.atmail.nl
 0.0.0.0 www.au.clubxzone.com
+0.0.0.0 www.bacc1688.mobi
+0.0.0.0 www.bacc1688a.com
 0.0.0.0 www.ballhotclub.com
 0.0.0.0 www.bamobile.com
 0.0.0.0 www.bbcontent.co.th
@@ -3327,6 +3370,19 @@
 0.0.0.0 www.gamescentreom.com
 0.0.0.0 www.gamesclub.tv
 0.0.0.0 www.gamezzone.me
+0.0.0.0 www.gclub-casino.com
+0.0.0.0 www.gclub-plaza.com
+0.0.0.0 www.gclub.guru
+0.0.0.0 www.gclub123.com
+0.0.0.0 www.gclub168.casino
+0.0.0.0 www.gclub168.net
+0.0.0.0 www.gclub24hr.com
+0.0.0.0 www.gclub7000.com
+0.0.0.0 www.gclub8000.com
+0.0.0.0 www.gclub888.org
+0.0.0.0 www.gclub9000.net
+0.0.0.0 www.gclubgames.com
+0.0.0.0 www.gclubslot898.com
 0.0.0.0 www.gdmgsecure.com
 0.0.0.0 www.get-intouch.com
 0.0.0.0 www.getclick.mobi
@@ -3340,12 +3396,14 @@
 0.0.0.0 www.gmmdigital.com
 0.0.0.0 www.gmpmobi.com
 0.0.0.0 www.gogameportal.com
+0.0.0.0 www.golden-slot.com
 0.0.0.0 www.gomasti.in
 0.0.0.0 www.goorulife.com
 0.0.0.0 www.gotd.mobi
 0.0.0.0 www.greatestapps.mobi
 0.0.0.0 www.greatmobilegames.mobi
 0.0.0.0 www.grenadatradecentre.com
+0.0.0.0 www.gtzlz.com
 0.0.0.0 www.guideball.com
 0.0.0.0 www.guru3step.com
 0.0.0.0 www.handysms.com
@@ -3379,6 +3437,7 @@
 0.0.0.0 www.ivalent.com
 0.0.0.0 www.jiudianzhaopin.com
 0.0.0.0 www.jmtt.co.th
+0.0.0.0 www.joker123xo.com
 0.0.0.0 www.jtsws.com
 0.0.0.0 www.kaka-games.com
 0.0.0.0 www.kangped.com
@@ -3394,6 +3453,7 @@
 0.0.0.0 www.loadded.com
 0.0.0.0 www.loadmuns.com
 0.0.0.0 www.looke.mobi
+0.0.0.0 www.lottoasian.com
 0.0.0.0 www.lovehoro2561.com
 0.0.0.0 www.luckyyouna.com
 0.0.0.0 www.lunla.net
@@ -3402,6 +3462,7 @@
 0.0.0.0 www.m3tech.co.th
 0.0.0.0 www.macrokiosk.com
 0.0.0.0 www.magent.my
+0.0.0.0 www.mai88.com
 0.0.0.0 www.matchme.com.ng
 0.0.0.0 www.mazamob.net
 0.0.0.0 www.mba788.tk
@@ -3455,6 +3516,7 @@
 0.0.0.0 www.mp3-shared.com
 0.0.0.0 www.mtouche.com
 0.0.0.0 www.mweb.com
+0.0.0.0 www.mymaxbet.com
 0.0.0.0 www.mystyletip.com
 0.0.0.0 www.n-content.com
 0.0.0.0 www.ncontent.tv
@@ -3506,6 +3568,7 @@
 0.0.0.0 www.privatebay.tv
 0.0.0.0 www.privatevideoz.com
 0.0.0.0 www.python-libs.com
+0.0.0.0 www.r9987.com
 0.0.0.0 www.raptornetwork.com
 0.0.0.0 www.retail9.com
 0.0.0.0 www.retail9ventures.com
@@ -3515,6 +3578,7 @@
 0.0.0.0 www.rockymobi.com
 0.0.0.0 www.rotatemyurls.com
 0.0.0.0 www.rotationurls.com
+0.0.0.0 www.s-bobet.com
 0.0.0.0 www.s-onetelecom.com
 0.0.0.0 www.sabai5555.com
 0.0.0.0 www.sabdee.com
@@ -3522,8 +3586,15 @@
 0.0.0.0 www.sabsabonline.com
 0.0.0.0 www.samart-digitalmedia.com
 0.0.0.0 www.samartdigitalmedia.com
+0.0.0.0 www.sbobet-365.com
+0.0.0.0 www.sbobet-onlinecasino.com
+0.0.0.0 www.sbobet-sports.com
+0.0.0.0 www.sbobets.tips
+0.0.0.0 www.sbobettm.com
 0.0.0.0 www.scan-do.com
 0.0.0.0 www.scientiamobile.com
+0.0.0.0 www.scr888-vip.com
+0.0.0.0 www.scr888hd.com
 0.0.0.0 www.seacom.co.th
 0.0.0.0 www.seaman2u.com
 0.0.0.0 www.sec.vuclip.com
@@ -3542,6 +3613,7 @@
 0.0.0.0 www.siam2you.com
 0.0.0.0 www.siamfun4u.com
 0.0.0.0 www.siamguru.com
+0.0.0.0 www.siammaxbet.com
 0.0.0.0 www.siamtouch.com
 0.0.0.0 www.skype4mobile.com
 0.0.0.0 www.smartadurl.com
@@ -3598,6 +3670,7 @@
 0.0.0.0 www.videowap.net
 0.0.0.0 www.viral-mix.com
 0.0.0.0 www.vovivooo.com
+0.0.0.0 www.vrscr888.com
 0.0.0.0 www.w88scnx.tk
 0.0.0.0 www.wakau.in
 0.0.0.0 www.walletfun.com
