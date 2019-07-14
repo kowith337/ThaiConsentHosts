@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907131418
+# Version: 201907142047
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -580,6 +580,7 @@
 0.0.0.0 karysale.pw
 0.0.0.0 katrac.com
 0.0.0.0 khelbazar.in
+0.0.0.0 kilomniadstaz.info
 0.0.0.0 kingstar.pw
 0.0.0.0 kinreyal.pw
 0.0.0.0 kissmyads.com
@@ -609,6 +610,7 @@
 0.0.0.0 lehbet.tk
 0.0.0.0 letgomobile.com
 0.0.0.0 liferrim.pw
+0.0.0.0 likemyhistory.info
 0.0.0.0 link-boost.com
 0.0.0.0 linkbooster.xyz
 0.0.0.0 linkingclicks.com
@@ -2256,6 +2258,7 @@
 0.0.0.0 movie.thaiza.com
 0.0.0.0 moviemaster.vipgames.me
 0.0.0.0 mp3download.gmmwireless.com
+0.0.0.0 ms-21.likemyhistory.info
 0.0.0.0 ms.mktrack.com
 0.0.0.0 msbobetlivecasino.aradamandson.com
 0.0.0.0 msisdn.terragonbase.com
