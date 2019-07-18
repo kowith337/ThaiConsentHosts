@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907162315
+# Version: 201907180951
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -675,6 +675,7 @@
 0.0.0.0 lovehoro2561.com
 0.0.0.0 lovenights.net
 0.0.0.0 lpalice2appsmart.com
+0.0.0.0 lpaosub.com
 0.0.0.0 ltvperf.com
 0.0.0.0 lucky6lucky.club
 0.0.0.0 luckymobileuser.club
@@ -3552,6 +3553,7 @@
 0.0.0.0 www.looke.mobi
 0.0.0.0 www.lottoasian.com
 0.0.0.0 www.lovehoro2561.com
+0.0.0.0 www.lpaosub.com
 0.0.0.0 www.luckyyouna.com
 0.0.0.0 www.lunla.net
 0.0.0.0 www.lustzy.com
