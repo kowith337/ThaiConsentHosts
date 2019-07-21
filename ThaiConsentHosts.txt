@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907180951
+# Version: 201907212300
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -274,6 +274,7 @@
 0.0.0.0 bkkonline.com
 0.0.0.0 blastoffgaming.com
 0.0.0.0 bldtrax.com
+0.0.0.0 bluedr.net
 0.0.0.0 bluestwep.pw
 0.0.0.0 bmobil.me
 0.0.0.0 bmobil.net
@@ -3375,6 +3376,7 @@
 0.0.0.0 www.bikesales.com.au
 0.0.0.0 www.bk8my.com
 0.0.0.0 www.bkkonline.com
+0.0.0.0 www.bluedr.net
 0.0.0.0 www.bmobil.me
 0.0.0.0 www.bmobil.net
 0.0.0.0 www.boos.vuclip.com
