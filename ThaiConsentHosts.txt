@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907250023
+# Version: 201907271324
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -476,6 +476,7 @@
 0.0.0.0 fyybox.com
 0.0.0.0 g-mm.co
 0.0.0.0 gadmobe.com
+0.0.0.0 game.xyz
 0.0.0.0 gamebuffet.mobi
 0.0.0.0 gameloft.co.th
 0.0.0.0 gamepanda.me
