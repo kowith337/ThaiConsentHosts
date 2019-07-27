@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907271324
+# Version: 201907271337
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -2360,6 +2360,7 @@
 0.0.0.0 mobile.thumbr.com
 0.0.0.0 mobile18.in.com
 0.0.0.0 mobileads.nipa.co.th
+0.0.0.0 mobilenetwork.gmmdigital.com
 0.0.0.0 mobilenetwork73.gmmwireless.com
 0.0.0.0 mobiles.shinee.com
 0.0.0.0 mobilesite.gmmwireless.com
