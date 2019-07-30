@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907271337
+# Version: 201907302240
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -907,6 +907,7 @@
 0.0.0.0 pluckyaff.com
 0.0.0.0 podanover.pw
 0.0.0.0 pointificsecure.com
+0.0.0.0 pokienation.com
 0.0.0.0 porn93.com
 0.0.0.0 pornpt.icu
 0.0.0.0 pottymag.com
@@ -3660,6 +3661,7 @@
 0.0.0.0 www.playplay.in.th
 0.0.0.0 www.poatal.thumbr.com
 0.0.0.0 www.pohrtal.thumbr.com
+0.0.0.0 www.pokienation.com
 0.0.0.0 www.poretal.thumbr.com
 0.0.0.0 www.porkal.thumbr.com
 0.0.0.0 www.porqtal.thumbr.com
