@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201908071930
+# Version: 201908072010
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -137,6 +137,7 @@
 0.0.0.0 1mov.co
 0.0.0.0 2-spot.com
 0.0.0.0 20150917.com
+0.0.0.0 2abdanismanlik.com
 0.0.0.0 321load.com
 0.0.0.0 33luo.com
 0.0.0.0 3mobilecontents.net
@@ -207,6 +208,7 @@
 0.0.0.0 aielber.com
 0.0.0.0 airpush.com
 0.0.0.0 akazoo.com
+0.0.0.0 alawael-news.com
 0.0.0.0 alert301.com
 0.0.0.0 alice2appsmart.com
 0.0.0.0 allbet24hr.com
@@ -444,6 +446,7 @@
 0.0.0.0 flygemobi.com
 0.0.0.0 flygree.pw
 0.0.0.0 flyrlk.com
+0.0.0.0 fm88e.tk
 0.0.0.0 focusonone.cc
 0.0.0.0 formulawire.com
 0.0.0.0 free8888content.com
@@ -565,7 +568,9 @@
 0.0.0.0 hex-cube.com
 0.0.0.0 hexcube.net
 0.0.0.0 hfa.mobi
+0.0.0.0 hgzbet.tk
 0.0.0.0 hito.co.vu
+0.0.0.0 hjmbet.tk
 0.0.0.0 hm5.me
 0.0.0.0 hoguhotels.com
 0.0.0.0 hollywoodmobile.com
@@ -576,10 +581,12 @@
 0.0.0.0 horoworld.com
 0.0.0.0 hotandspicyvideosonline.com
 0.0.0.0 hotangelz.mobi
+0.0.0.0 hotfun88.com
 0.0.0.0 hotleague.com
 0.0.0.0 hotstar.com
 0.0.0.0 hottz.mobi
 0.0.0.0 house365.com
+0.0.0.0 hunsa.com
 0.0.0.0 hurvewa.com
 0.0.0.0 hushlove.com
 0.0.0.0 hypermobiworld.com
@@ -647,12 +654,14 @@
 0.0.0.0 korverit.pw
 0.0.0.0 kplaw.kz
 0.0.0.0 kronsurf.pw
+0.0.0.0 ku88ku.tk
 0.0.0.0 kumchanod.com
 0.0.0.0 kwizu.club
 0.0.0.0 laanbok.pw
 0.0.0.0 lalamobi.com
 0.0.0.0 landorum.pw
 0.0.0.0 larnload.com
+0.0.0.0 lbc8.tk
 0.0.0.0 lce9v.com
 0.0.0.0 leadboltapps.net
 0.0.0.0 leadzuaf.com
@@ -680,6 +689,7 @@
 0.0.0.0 lovenights.net
 0.0.0.0 lpalice2appsmart.com
 0.0.0.0 lpaosub.com
+0.0.0.0 lqmbet.tk
 0.0.0.0 ltvperf.com
 0.0.0.0 lucky6lucky.club
 0.0.0.0 luckymobileuser.club
@@ -914,6 +924,7 @@
 0.0.0.0 pottymag.com
 0.0.0.0 premiumtraff.com
 0.0.0.0 previsupe.pw
+0.0.0.0 primaria9.com
 0.0.0.0 privatebay.tv
 0.0.0.0 privatevideoz.com
 0.0.0.0 privatewant.com
@@ -940,6 +951,7 @@
 0.0.0.0 regaming.com
 0.0.0.0 relingsh.pw
 0.0.0.0 renitaburgess.com
+0.0.0.0 renovationsandredorais.com
 0.0.0.0 retail9.com
 0.0.0.0 retail9ventures.com
 0.0.0.0 retargetcore.com
@@ -948,6 +960,7 @@
 0.0.0.0 rfebet.tk
 0.0.0.0 rhmobi.com
 0.0.0.0 ringtoneth.com
+0.0.0.0 ro88ro.tk
 0.0.0.0 rockymobi.com
 0.0.0.0 rotatemyurls.com
 0.0.0.0 rotationurls.com
@@ -956,6 +969,7 @@
 0.0.0.0 ryhopset.pw
 0.0.0.0 s-bobet.com
 0.0.0.0 s-onetelecom.com
+0.0.0.0 sa88sa.tk
 0.0.0.0 sabai5555.com
 0.0.0.0 sabdee.com
 0.0.0.0 sabmobile.com
@@ -1177,6 +1191,7 @@
 0.0.0.0 vuclip.com
 0.0.0.0 vuclipgamesat.com
 0.0.0.0 vvidiacom.com
+0.0.0.0 w88noc.tk
 0.0.0.0 w88scnx.tk
 0.0.0.0 wakau.in
 0.0.0.0 walletfun.com
@@ -1973,6 +1988,7 @@
 0.0.0.0 hvpiphone.gmmwireless.com
 0.0.0.0 hz.sparklemob.com
 0.0.0.0 i8u.operastarz.com
+0.0.0.0 iam.hunsa.com
 0.0.0.0 icggwou.callingallmonsters.com
 0.0.0.0 id.contentbox.stream
 0.0.0.0 id.kaka-games.com
@@ -2547,6 +2563,7 @@
 0.0.0.0 partners.sparklemob.com
 0.0.0.0 partnersupport.gmmwireless.com
 0.0.0.0 partnervpn.gmmwireless.com
+0.0.0.0 passport.hunsa.com
 0.0.0.0 pay.ctrackz.net
 0.0.0.0 pay.gmpmobi.com
 0.0.0.0 payads.nipa.co.th
@@ -3090,6 +3107,7 @@
 0.0.0.0 vd4.waphub.mobi
 0.0.0.0 vd5.waphub.mobi
 0.0.0.0 vdo.bigolives.tv
+0.0.0.0 vdo.hunsa.com
 0.0.0.0 vdo.thaiza.com
 0.0.0.0 vdom.nipa.co.th
 0.0.0.0 vedio.vuclip.com
@@ -3234,6 +3252,7 @@
 0.0.0.0 web.vuclip.com
 0.0.0.0 web1.shinee.com
 0.0.0.0 webdesign.nipa.co.th
+0.0.0.0 webdir.hunsa.com
 0.0.0.0 webmail.enjoy108.com
 0.0.0.0 webmail.gmmdigital.com
 0.0.0.0 webmaster.gmmdigital.com
@@ -3283,6 +3302,7 @@
 0.0.0.0 ww17.r620.buddycode.net
 0.0.0.0 ww2.chilliclubs.com
 0.0.0.0 ww2.chocoboard.com
+0.0.0.0 ww2.hunsa.com
 0.0.0.0 ww2.icubemobile.com
 0.0.0.0 ww2.loadfree2u.com
 0.0.0.0 ww2.vuclip.com
@@ -3460,6 +3480,7 @@
 0.0.0.0 www.fly2me.com
 0.0.0.0 www.flygemobi.com
 0.0.0.0 www.flyrlk.com
+0.0.0.0 www.fm88e.tk
 0.0.0.0 www.fortal.thumbr.com
 0.0.0.0 www.free.wap.mobixing.com
 0.0.0.0 www.free8888content.com
@@ -3517,6 +3538,8 @@
 0.0.0.0 www.hehemobi.com
 0.0.0.0 www.hex-cube.com
 0.0.0.0 www.hexcube.net
+0.0.0.0 www.hgzbet.tk
+0.0.0.0 www.hjmbet.tk
 0.0.0.0 www.hollywoodmobile.com
 0.0.0.0 www.hombet.tk
 0.0.0.0 www.hornygirls.mobi
@@ -3524,6 +3547,7 @@
 0.0.0.0 www.horotalk.com
 0.0.0.0 www.horoworld.com
 0.0.0.0 www.hotandspicyvideosonline.com
+0.0.0.0 www.hotfun88.com
 0.0.0.0 www.hotstar.com
 0.0.0.0 www.i-link.co
 0.0.0.0 www.i-walkernet.com
@@ -3554,8 +3578,10 @@
 0.0.0.0 www.klinikasmara.com
 0.0.0.0 www.knsbet.tk
 0.0.0.0 www.kodporno.com
+0.0.0.0 www.ku88ku.tk
 0.0.0.0 www.kumchanod.com
 0.0.0.0 www.lalamobi.com
+0.0.0.0 www.lbc8.tk
 0.0.0.0 www.lehbet.tk
 0.0.0.0 www.letgomobile.com
 0.0.0.0 www.likefreever.com
@@ -3566,6 +3592,7 @@
 0.0.0.0 www.lottoasian.com
 0.0.0.0 www.lovehoro2561.com
 0.0.0.0 www.lpaosub.com
+0.0.0.0 www.lqmbet.tk
 0.0.0.0 www.luckyyouna.com
 0.0.0.0 www.lunla.net
 0.0.0.0 www.lustzy.com
@@ -3687,11 +3714,13 @@
 0.0.0.0 www.retromedya.com
 0.0.0.0 www.rfebet.tk
 0.0.0.0 www.rhmobi.com
+0.0.0.0 www.ro88ro.tk
 0.0.0.0 www.rockymobi.com
 0.0.0.0 www.rotatemyurls.com
 0.0.0.0 www.rotationurls.com
 0.0.0.0 www.s-bobet.com
 0.0.0.0 www.s-onetelecom.com
+0.0.0.0 www.sa88sa.tk
 0.0.0.0 www.sabai5555.com
 0.0.0.0 www.sabdee.com
 0.0.0.0 www.sabmobile.com
@@ -3792,6 +3821,7 @@
 0.0.0.0 www.viral-mix.com
 0.0.0.0 www.vovivooo.com
 0.0.0.0 www.vrscr888.com
+0.0.0.0 www.w88noc.tk
 0.0.0.0 www.w88scnx.tk
 0.0.0.0 www.wakau.in
 0.0.0.0 www.walletfun.com
@@ -3834,6 +3864,7 @@
 0.0.0.0 xmpp1.sun-system.com
 0.0.0.0 xmpp2.sun-system.com
 0.0.0.0 xmpp3.sun-system.com
+0.0.0.0 xn----4---j7q1fazxafae9n7a7g9c6ck2gygra0mf5bvj.fun88.link
 0.0.0.0 xn--72c0b6d.thaiza.com
 0.0.0.0 xn--sbobet--pantip-cn6b60ajf.fun88.link
 0.0.0.0 xposed.adultvids.mobi
