@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201907302240
+# Version: 201908071930
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -563,6 +563,7 @@
 0.0.0.0 hello1.in
 0.0.0.0 hempsmort.pw
 0.0.0.0 hex-cube.com
+0.0.0.0 hexcube.net
 0.0.0.0 hfa.mobi
 0.0.0.0 hito.co.vu
 0.0.0.0 hm5.me
@@ -3179,6 +3180,7 @@
 0.0.0.0 wap.gmpmobi.com
 0.0.0.0 wap.guideball.com
 0.0.0.0 wap.gzazone.com
+0.0.0.0 wap.hexcube.net
 0.0.0.0 wap.hotleague.com
 0.0.0.0 wap.iamzaa.com
 0.0.0.0 wap.isport.co.th
@@ -3514,6 +3516,7 @@
 0.0.0.0 www.handysms.com
 0.0.0.0 www.hehemobi.com
 0.0.0.0 www.hex-cube.com
+0.0.0.0 www.hexcube.net
 0.0.0.0 www.hollywoodmobile.com
 0.0.0.0 www.hombet.tk
 0.0.0.0 www.hornygirls.mobi
