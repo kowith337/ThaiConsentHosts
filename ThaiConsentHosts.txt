@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201908072010
+# Version: 201908151339
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -111,6 +111,7 @@
 0.0.0.0 203.146.251.210
 0.0.0.0 203.146.251.229
 0.0.0.0 203.149.7.100
+0.0.0.0 203.149.30.86
 0.0.0.0 203.151.206.100
 0.0.0.0 203.151.206.102
 0.0.0.0 203.151.232.156
@@ -638,6 +639,7 @@
 0.0.0.0 katrac.com
 0.0.0.0 key-travel.com
 0.0.0.0 khelbazar.in
+0.0.0.0 khwansiri.com
 0.0.0.0 kilomniadstaz.info
 0.0.0.0 kingstar.pw
 0.0.0.0 kinreyal.pw
@@ -684,6 +686,7 @@
 0.0.0.0 logandload.com
 0.0.0.0 looke.mobi
 0.0.0.0 lottoasian.com
+0.0.0.0 lovehora.com
 0.0.0.0 lovehoro.space
 0.0.0.0 lovehoro2561.com
 0.0.0.0 lovenights.net
@@ -2203,6 +2206,7 @@
 0.0.0.0 m.ke.fun-club.mobi
 0.0.0.0 m.ke.musica.fun-club.mobi
 0.0.0.0 m.ke.tons.mobi
+0.0.0.0 m.khwansiri.com
 0.0.0.0 m.kodfin.com
 0.0.0.0 m.kodzed.com
 0.0.0.0 m.mobiclub.net
@@ -2243,10 +2247,12 @@
 0.0.0.0 m.th.tons.mobi
 0.0.0.0 m.thumbr.com
 0.0.0.0 m.tomyamclub.com
+0.0.0.0 m.tumnai.com
 0.0.0.0 m.umobi.biz
 0.0.0.0 m.vipgames.me
 0.0.0.0 m.vstyle4u.com
 0.0.0.0 m.xn--42c8cmgk9dvfyd.com
+0.0.0.0 m.yibsee.com
 0.0.0.0 m.za.tons.mobi
 0.0.0.0 m.za.zz.th.thumbr.com
 0.0.0.0 m.zagmob.com
@@ -3596,6 +3602,9 @@
 0.0.0.0 www.luckyyouna.com
 0.0.0.0 www.lunla.net
 0.0.0.0 www.lustzy.com
+0.0.0.0 www.m.khwansiri.com
+0.0.0.0 www.m.tumnai.com
+0.0.0.0 www.m.yibsee.com
 0.0.0.0 www.m3shoppe.in.th
 0.0.0.0 www.m3tech.co.th
 0.0.0.0 www.macrokiosk.com
