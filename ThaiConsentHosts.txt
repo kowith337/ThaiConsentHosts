@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201908151339
+# Version: 201908172222
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1148,6 +1148,7 @@
 0.0.0.0 tsalebag.com
 0.0.0.0 tubecorporate.com
 0.0.0.0 tubidy.mobi
+0.0.0.0 tumnai.com
 0.0.0.0 tunkagist.pw
 0.0.0.0 turbob.mobi
 0.0.0.0 tvplanet.co
