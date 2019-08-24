@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201908231522
+# Version: 201908242025
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -178,6 +178,7 @@
 0.0.0.0 ad5media.com
 0.0.0.0 ad5network.com
 0.0.0.0 adcamie.com
+0.0.0.0 adcolony.com
 0.0.0.0 addictiveads.com
 0.0.0.0 addlink.mobi
 0.0.0.0 addtechhub.com
@@ -194,6 +195,8 @@
 0.0.0.0 adsfast.com
 0.0.0.0 adsmain.com
 0.0.0.0 adsmile.net
+0.0.0.0 adsmoloco.com
+0.0.0.0 adtilt.com
 0.0.0.0 adultd8.com
 0.0.0.0 adultvidoes.com
 0.0.0.0 adultvids.mobi
@@ -201,6 +204,7 @@
 0.0.0.0 adver.me
 0.0.0.0 adzsx.pro
 0.0.0.0 affichaos.com
+0.0.0.0 affise.com
 0.0.0.0 affmob.com
 0.0.0.0 affmoney.top
 0.0.0.0 afftrack-data.com
@@ -223,12 +227,14 @@
 0.0.0.0 androidappsfree.mobi
 0.0.0.0 angellanguageacademy.com
 0.0.0.0 anolog.mobi
+0.0.0.0 apiv9.com
 0.0.0.0 aplay.tv
 0.0.0.0 aplaydigital.com
 0.0.0.0 appave.mobi
 0.0.0.0 appk.mobi
 0.0.0.0 applikteca.mobi
 0.0.0.0 appsdorado.com
+0.0.0.0 appsflyer.com
 0.0.0.0 appsforyourphone.mobi
 0.0.0.0 appsilike.mobi
 0.0.0.0 apsalar.com
@@ -309,6 +315,7 @@
 0.0.0.0 caravan.mobi
 0.0.0.0 caravancampingsales.com.au
 0.0.0.0 carlydibona.com
+0.0.0.0 carriersignal.info
 0.0.0.0 carsales.com.au
 0.0.0.0 cd-mob.com
 0.0.0.0 cdnfiber.com
@@ -363,6 +370,7 @@
 0.0.0.0 cool4mob.com
 0.0.0.0 coolzee.net
 0.0.0.0 cosmik-ltd.com
+0.0.0.0 countevt.com
 0.0.0.0 cpactions.com
 0.0.0.0 cpgnrotationurl.com
 0.0.0.0 cpinfantil.com
@@ -484,6 +492,7 @@
 0.0.0.0 future2you.com
 0.0.0.0 fyybox.com
 0.0.0.0 g-mm.co
+0.0.0.0 g2afse.com
 0.0.0.0 gadmobe.com
 0.0.0.0 game.xyz
 0.0.0.0 gamebuffet.mobi
@@ -520,6 +529,7 @@
 0.0.0.0 gdmgsecure.com
 0.0.0.0 genieessp.com
 0.0.0.0 get-intouch.com
+0.0.0.0 getapiv.com
 0.0.0.0 getclick.mobi
 0.0.0.0 getcools.com
 0.0.0.0 getfeelgood.com
@@ -592,6 +602,7 @@
 0.0.0.0 hotstar.com
 0.0.0.0 hottz.mobi
 0.0.0.0 house365.com
+0.0.0.0 hugwealth.com
 0.0.0.0 hunsa.com
 0.0.0.0 hurvewa.com
 0.0.0.0 hushlove.com
@@ -654,6 +665,7 @@
 0.0.0.0 klinikasmara.com
 0.0.0.0 km928bonprabang.club
 0.0.0.0 knsbet.tk
+0.0.0.0 koapkmobi.com
 0.0.0.0 kodfin.com
 0.0.0.0 kodporno.com
 0.0.0.0 kodsextoy.com
@@ -675,6 +687,8 @@
 0.0.0.0 leadzupc.com
 0.0.0.0 leconcev.pw
 0.0.0.0 lehbet.tk
+0.0.0.0 lemon91.com
+0.0.0.0 lemon91.top
 0.0.0.0 letgomobile.com
 0.0.0.0 liferrim.pw
 0.0.0.0 likefreever.com
@@ -741,6 +755,7 @@
 0.0.0.0 mexcomm.net
 0.0.0.0 mfun521.com
 0.0.0.0 mfunz.mobi
+0.0.0.0 miccou.com
 0.0.0.0 micrayer.pw
 0.0.0.0 min4.com
 0.0.0.0 minivideo.club
@@ -801,6 +816,7 @@
 0.0.0.0 mobrain.xyz
 0.0.0.0 mobusi.com
 0.0.0.0 mobzeed.com
+0.0.0.0 moceanwp.com
 0.0.0.0 mogamo.com
 0.0.0.0 mohawkprost.pw
 0.0.0.0 mohemob.com
@@ -876,6 +892,7 @@
 0.0.0.0 officeprs.gq
 0.0.0.0 offrtrking.com
 0.0.0.0 oho-mobile.com
+0.0.0.0 okyesmobi.com
 0.0.0.0 oli.tools
 0.0.0.0 omaharlog.pw
 0.0.0.0 onelinkgroup.com
@@ -944,6 +961,7 @@
 0.0.0.0 pure-babe.com
 0.0.0.0 puteez.com
 0.0.0.0 python-libs.com
+0.0.0.0 qiezi19880621.com
 0.0.0.0 questionfly.com
 0.0.0.0 r9987.com
 0.0.0.0 rabreptancalbe.info
@@ -1034,6 +1052,7 @@
 0.0.0.0 shopandersons.com
 0.0.0.0 shoutingnetwork.com
 0.0.0.0 shrum-studio.com
+0.0.0.0 shuyumsy.com
 0.0.0.0 siam2you.com
 0.0.0.0 siamfun4u.com
 0.0.0.0 siamguru.com
@@ -1148,10 +1167,12 @@
 0.0.0.0 trackinit.com
 0.0.0.0 trackmeplease.com
 0.0.0.0 trackvoluum.com
+0.0.0.0 traffic-c.com
 0.0.0.0 traffikflow.com
 0.0.0.0 trakkthisfor.info
 0.0.0.0 trend-tech.net
 0.0.0.0 trippointz.com
+0.0.0.0 trk-indexmobi.com
 0.0.0.0 trktoken.com
 0.0.0.0 tsalebag.com
 0.0.0.0 tubecorporate.com
@@ -1197,6 +1218,7 @@
 0.0.0.0 voluumtrk.com
 0.0.0.0 voluumtrk2.com
 0.0.0.0 vovivooo.com
+0.0.0.0 vplaynow.com
 0.0.0.0 vrscr888.com
 0.0.0.0 vsjcommsource.com
 0.0.0.0 vstyle4u.com
@@ -1264,6 +1286,7 @@
 0.0.0.0 0zvpi1k.hbengineeringworks.com
 0.0.0.0 10izdesign.thumbr.com
 0.0.0.0 123.gmmwireless.com
+0.0.0.0 125d04f03766.traffic-c.com
 0.0.0.0 12betapp.python-libs.com
 0.0.0.0 12betlogin.python-libs.com
 0.0.0.0 1678.thinksmart.co.th
@@ -1314,6 +1337,8 @@
 0.0.0.0 accounts.mobidea.com
 0.0.0.0 acdn.newshunt.com
 0.0.0.0 aclick.bluestwep.pw
+0.0.0.0 actwebmedia.affise.com
+0.0.0.0 actwebmedia.g2afse.com
 0.0.0.0 acube.bluestwep.pw
 0.0.0.0 aczepi.cloudify.cc
 0.0.0.0 ad.adrttt.com
@@ -1321,7 +1346,9 @@
 0.0.0.0 ad.apsalar.com
 0.0.0.0 ad.gadmobe.com
 0.0.0.0 ad.leadboltapps.net
+0.0.0.0 ad.miccou.com
 0.0.0.0 ad.smrtx.net
+0.0.0.0 adc-ad-assets.adtilt.com
 0.0.0.0 addon.mono2u.com
 0.0.0.0 addtechapi.cheesemobile.net
 0.0.0.0 adext.vuclip.com
@@ -1383,6 +1410,7 @@
 0.0.0.0 analytics.afftrack.com
 0.0.0.0 analytics.gmmwireless.com
 0.0.0.0 android.n-content.com
+0.0.0.0 androidads23.adcolony.com
 0.0.0.0 ans-log.nipa.co.th
 0.0.0.0 antivirus2017pro.m.puteez.com
 0.0.0.0 aoc-ic.smsgateway.cc
@@ -1393,6 +1421,7 @@
 0.0.0.0 api-anc.eggdigital.com
 0.0.0.0 api.airpush.com
 0.0.0.0 api.centili.com
+0.0.0.0 api.getapiv.com
 0.0.0.0 api.gmmwireless.com
 0.0.0.0 api.mobgkt.com
 0.0.0.0 api.nipa.co.th
@@ -1430,6 +1459,7 @@
 0.0.0.0 ar.starchef.mobi
 0.0.0.0 araramar.ryhopset.pw
 0.0.0.0 area51.gmmdigital.com
+0.0.0.0 artifacts.adsmoloco.com
 0.0.0.0 artistupload.gmmwireless.com
 0.0.0.0 as.exprtmb.com
 0.0.0.0 ascreen.muraltent.pw
@@ -1544,6 +1574,7 @@
 0.0.0.0 cativr.n-content.com
 0.0.0.0 catstp.sun-system.com
 0.0.0.0 cbyodcustomer.zingmobiledev.com
+0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn.famobi.com
 0.0.0.0 cdn.fun2u.biz
 0.0.0.0 cdn.globocom.co.in
@@ -1582,8 +1613,10 @@
 0.0.0.0 click.adfries.net
 0.0.0.0 click.buzzcity.com
 0.0.0.0 click.buzzcity.net
+0.0.0.0 click.hugwealth.com
 0.0.0.0 click.hypermobiworld.com
 0.0.0.0 click.startappservice.com
+0.0.0.0 click.trk-indexmobi.com
 0.0.0.0 clientreports.etracker.cc
 0.0.0.0 clip.bigolives.tv
 0.0.0.0 clip.cuteforyou.mobi
@@ -1632,7 +1665,9 @@
 0.0.0.0 cy.chickcell.com
 0.0.0.0 cy.sunnygames.club
 0.0.0.0 cz.sunnygames.club
+0.0.0.0 d.apiv9.com
 0.0.0.0 d.billyaffcontent.com
+0.0.0.0 d.moceanwp.com
 0.0.0.0 d.sunmob.net
 0.0.0.0 d22ndsbwwggzum.cloudfront.net
 0.0.0.0 d24.affmob.com
@@ -1695,6 +1730,7 @@
 0.0.0.0 dg2.momoko.co
 0.0.0.0 dictionary.thaiza.com
 0.0.0.0 dihn.muraltent.pw
+0.0.0.0 director.adcolony.com
 0.0.0.0 directory.gmmwireless.com
 0.0.0.0 directory.thaiza.com
 0.0.0.0 dk.sunnygames.club
@@ -1702,12 +1738,15 @@
 0.0.0.0 dnn.twomikesband.com
 0.0.0.0 doc.nipa.co.th
 0.0.0.0 docs.veoo.com
+0.0.0.0 doublecheck.adsmoloco.com
 0.0.0.0 dousho.bluestwep.pw
 0.0.0.0 download.gmmwireless.com
 0.0.0.0 download.indiagames.com
 0.0.0.0 download.n-content.com
 0.0.0.0 downloadsite.gmmwireless.com
 0.0.0.0 dra.bluestwep.pw
+0.0.0.0 drapi.lemon91.com
+0.0.0.0 drapi.lemon91.top
 0.0.0.0 dtac.gmmwireless.com
 0.0.0.0 dtac.mobindy.com
 0.0.0.0 dtac.xn--42c8cmgk9dvfyd.com
@@ -1744,11 +1783,14 @@
 0.0.0.0 durchwandern.thumbr.com
 0.0.0.0 dvd.mono2u.com
 0.0.0.0 dvr8.nipa.co.th
+0.0.0.0 dwfile3.qiezi19880621.com
 0.0.0.0 dynamic-cdn.eggdigital.com
 0.0.0.0 dzr-uni.thinksmart.co.th
 0.0.0.0 e-mes.etracker.cc
 0.0.0.0 e-mis.etracker.cc
 0.0.0.0 e-reporting.etracker.cc
+0.0.0.0 e.apiv9.com
+0.0.0.0 e.moceanwp.com
 0.0.0.0 easyweb.nipa.co.th
 0.0.0.0 ebi.mobidea.com
 0.0.0.0 ec.sunnygames.club
@@ -1799,7 +1841,18 @@
 0.0.0.0 esx37.shinee.com
 0.0.0.0 esx38.shinee.com
 0.0.0.0 esx39.shinee.com
+0.0.0.0 event.apiv9.com
 0.0.0.0 event.eggdigital.com
+0.0.0.0 events.appsflyer.com
+0.0.0.0 events1.adcolony.com
+0.0.0.0 events1alt.adcolony.com
+0.0.0.0 events2.adcolony.com
+0.0.0.0 events2alt.adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 evt_v1.shuyumsy.com
+0.0.0.0 evt_v2.shuyumsy.com
+0.0.0.0 evt_v3.shuyumsy.com
 0.0.0.0 ex.getclick.mobi
 0.0.0.0 extcct.gmmwireless.com
 0.0.0.0 extern.espabit.net
@@ -2577,6 +2630,9 @@
 0.0.0.0 onads-report.thinksmart.co.th
 0.0.0.0 onads.thinksmart.co.th
 0.0.0.0 onlineoffice.shinee.com
+0.0.0.0 opapi1.shuyumsy.com
+0.0.0.0 opapi2.shuyumsy.com
+0.0.0.0 opapi3.shuyumsy.com
 0.0.0.0 openx.nipa.co.th
 0.0.0.0 opm.shinee.com
 0.0.0.0 oqg84co2z.bkt.clouddn.com
@@ -2690,6 +2746,7 @@
 0.0.0.0 project.mcommedia.com
 0.0.0.0 provisioning.gmmwireless.com
 0.0.0.0 prtg13.nipa.co.th
+0.0.0.0 ps.okyesmobi.com
 0.0.0.0 ps.sunnygames.club
 0.0.0.0 pstorage.n-content.com
 0.0.0.0 pt.erotixxxo.realgirls.mobi
@@ -2702,6 +2759,7 @@
 0.0.0.0 pumpkin.nipa.co.th
 0.0.0.0 putasnovatas.realgirls.mobi
 0.0.0.0 pxtdxx.mrlittlejohn.com
+0.0.0.0 q-mobi.go2affise.com
 0.0.0.0 qa.comedy-club.mobi
 0.0.0.0 qa.sunnygames.club
 0.0.0.0 qfmeo.trackvoluum.com
@@ -2737,6 +2795,7 @@
 0.0.0.0 ritmolatino.slypee.com
 0.0.0.0 ro.sunnygames.club
 0.0.0.0 roomer.shinee.com
+0.0.0.0 root.koapkmobi.com
 0.0.0.0 royaldownload.ypzsls.com
 0.0.0.0 rpmtest.thinksmart.co.th
 0.0.0.0 rs.sunnygames.club
@@ -2749,7 +2808,9 @@
 0.0.0.0 s-office.shinee.com
 0.0.0.0 s-tk.gmmwireless.com
 0.0.0.0 s.5sys.com
+0.0.0.0 s.apiv9.com
 0.0.0.0 s.atlanbox.com
+0.0.0.0 s.moceanwp.com
 0.0.0.0 s000.vuclip.com
 0.0.0.0 s1.mono-mobile.com
 0.0.0.0 s1.node103.iifab.com
@@ -3143,6 +3204,15 @@
 0.0.0.0 v.hello1.in
 0.0.0.0 v.vstyle4u.com
 0.0.0.0 v.vvidiacom.com
+0.0.0.0 v1_event.countevt.com
+0.0.0.0 v1_event.lemon91.com
+0.0.0.0 v1_event.lemon91.top
+0.0.0.0 v2_event.countevt.com
+0.0.0.0 v2_event.lemon91.com
+0.0.0.0 v2_event.lemon91.top
+0.0.0.0 v3_event.countevt.com
+0.0.0.0 v3_event.lemon91.com
+0.0.0.0 v3_event.lemon91.top
 0.0.0.0 v9bet.python-libs.com
 0.0.0.0 v9bet88.python-libs.com
 0.0.0.0 variety.horoworld.com
@@ -3472,6 +3542,7 @@
 0.0.0.0 www.buzzcity.net
 0.0.0.0 www.cabmu.com
 0.0.0.0 www.caravancampingsales.com.au
+0.0.0.0 www.carriersignal.info
 0.0.0.0 www.carsales.com.au
 0.0.0.0 www.centili.com
 0.0.0.0 www.chaiyo-mobile.com
@@ -3634,6 +3705,7 @@
 0.0.0.0 www.kjwbet.tk
 0.0.0.0 www.klinikasmara.com
 0.0.0.0 www.knsbet.tk
+0.0.0.0 www.koapkmobi.com
 0.0.0.0 www.kodporno.com
 0.0.0.0 www.ku88ku.tk
 0.0.0.0 www.kumchanod.com
@@ -3736,6 +3808,7 @@
 0.0.0.0 www.obet88.tk
 0.0.0.0 www.odiamovies.vuclip.com
 0.0.0.0 www.oho-mobile.com
+0.0.0.0 www.okyesmobi.com
 0.0.0.0 www.onelinkgroup.com
 0.0.0.0 www.online-clip.com
 0.0.0.0 www.ozura.com
@@ -3882,6 +3955,7 @@
 0.0.0.0 www.videowap.net
 0.0.0.0 www.viral-mix.com
 0.0.0.0 www.vovivooo.com
+0.0.0.0 www.vplaynow.com
 0.0.0.0 www.vrscr888.com
 0.0.0.0 www.w88noc.tk
 0.0.0.0 www.w88scnx.tk
