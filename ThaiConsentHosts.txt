@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201908242025
+# Version: 201908291346
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -271,6 +271,7 @@
 0.0.0.0 bcomnetwork.com
 0.0.0.0 beacstyle.pw
 0.0.0.0 beezzi.com
+0.0.0.0 bemobtrk.com
 0.0.0.0 bestmobi2u.com
 0.0.0.0 bestmobiworld.com
 0.0.0.0 bestperform3nce.com
@@ -2137,6 +2138,7 @@
 0.0.0.0 ivr.n-content.com
 0.0.0.0 ivrpartner.n-content.com
 0.0.0.0 iwap.symbioticinfo.com
+0.0.0.0 j1ny7.bemobtrk.com
 0.0.0.0 ja.files-media.com
 0.0.0.0 jan.freecot.pw
 0.0.0.0 java.devqz.club
@@ -3018,6 +3020,7 @@
 0.0.0.0 t2.wiseforwarding.com
 0.0.0.0 t3.contentfall.com
 0.0.0.0 t3.wiseforwarding.com
+0.0.0.0 t5z71.bemobtrk.com
 0.0.0.0 taeapp.getcools.com
 0.0.0.0 taigamew88.python-libs.com
 0.0.0.0 tapigy.go2cloud.org
