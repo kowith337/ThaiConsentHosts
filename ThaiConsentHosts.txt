@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201908292008
+# Version: 201909042035
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -163,6 +163,7 @@
 0.0.0.0 918kissauto.com
 0.0.0.0 918kisskiss918.com
 0.0.0.0 9ep.cc
+0.0.0.0 9lotto168.com
 0.0.0.0 9v8p.com
 0.0.0.0 9yam.com
 0.0.0.0 a1n.in
@@ -706,6 +707,7 @@
 0.0.0.0 logandload.com
 0.0.0.0 looke.mobi
 0.0.0.0 lottoasian.com
+0.0.0.0 lottovip.com
 0.0.0.0 lovehora.com
 0.0.0.0 lovehoro.space
 0.0.0.0 lovehoro2561.com
@@ -3559,6 +3561,7 @@
 0.0.0.0 www.8mobi.co.th
 0.0.0.0 www.918kissauto.com
 0.0.0.0 www.918kisskiss918.com
+0.0.0.0 www.9lotto168.com
 0.0.0.0 www.9v8p.com
 0.0.0.0 www.9yam.com
 0.0.0.0 www.achelous.mobi
@@ -3799,6 +3802,7 @@
 0.0.0.0 www.loadmuns.com
 0.0.0.0 www.looke.mobi
 0.0.0.0 www.lottoasian.com
+0.0.0.0 www.lottovip.com
 0.0.0.0 www.lovehoro2561.com
 0.0.0.0 www.lpaosub.com
 0.0.0.0 www.lqmbet.tk
