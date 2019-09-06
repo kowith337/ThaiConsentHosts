@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201909042043
+# Version: 201909061234
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -2080,6 +2080,7 @@
 0.0.0.0 harshitadmobly.afftrack.com
 0.0.0.0 hays.muraltent.pw
 0.0.0.0 hda.muraltent.pw
+0.0.0.0 healthdee.innnews.co.th
 0.0.0.0 healthytips.gmmwireless.com
 0.0.0.0 hello.aielber.com
 0.0.0.0 hero.macrokiosk.com
