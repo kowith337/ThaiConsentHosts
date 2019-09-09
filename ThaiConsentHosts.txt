@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201909061234
+# Version: 201909092033
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -850,6 +850,7 @@
 0.0.0.0 multicakes.com
 0.0.0.0 muraltent.pw
 0.0.0.0 mweb.com
+0.0.0.0 myappfree.com
 0.0.0.0 mydala.com
 0.0.0.0 myfortune.space
 0.0.0.0 mygirlshow.com
@@ -1068,6 +1069,7 @@
 0.0.0.0 silverlines.info
 0.0.0.0 sinocoo.com
 0.0.0.0 skinfie.pw
+0.0.0.0 skmob.xyz
 0.0.0.0 skype4mobile.com
 0.0.0.0 slimcdn.com
 0.0.0.0 slot1688.com
@@ -1449,6 +1451,7 @@
 0.0.0.0 api.getapiv.com
 0.0.0.0 api.gmmwireless.com
 0.0.0.0 api.mobgkt.com
+0.0.0.0 api.myappfree.com
 0.0.0.0 api.nipa.co.th
 0.0.0.0 api.pixeleads.com
 0.0.0.0 api.tk.gmmwireless.com
@@ -2024,6 +2027,7 @@
 0.0.0.0 go.iamzaa.com
 0.0.0.0 go.moartraffic.com
 0.0.0.0 go.mobile-link.today
+0.0.0.0 go.myappfree.com
 0.0.0.0 go.scattertraff.com
 0.0.0.0 go.trackinit.com
 0.0.0.0 go1.mobrain.xyz
@@ -2708,6 +2712,7 @@
 0.0.0.0 orange.akazoo.com
 0.0.0.0 ossyy.hoguhotels.com
 0.0.0.0 ovpn.gmmwireless.com
+0.0.0.0 owl.skmob.xyz
 0.0.0.0 owncloud.nipa.co.th
 0.0.0.0 p.appk.mobi
 0.0.0.0 p.applikteca.mobi
@@ -3323,6 +3328,7 @@
 0.0.0.0 videocasalinghi.realgirls.mobi
 0.0.0.0 vidxx.playclub.me
 0.0.0.0 vip.accu-tag.com
+0.0.0.0 vipgames.upp.st
 0.0.0.0 vitamilktogopromotion.eggdigital.com
 0.0.0.0 vkhe3m8n.programablecontrol.com
 0.0.0.0 vlott88.python-libs.com
@@ -3876,6 +3882,7 @@
 0.0.0.0 www.mp3-shared.com
 0.0.0.0 www.mtouche.com
 0.0.0.0 www.mweb.com
+0.0.0.0 www.myappfree.com
 0.0.0.0 www.mymaxbet.com
 0.0.0.0 www.mystyletip.com
 0.0.0.0 www.n-content.com
