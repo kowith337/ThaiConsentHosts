@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201909092033
+# Version: 201909131854
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1010,6 +1010,8 @@
 0.0.0.0 sabsabonline.com
 0.0.0.0 sabver.com
 0.0.0.0 sadman3.icu
+0.0.0.0 sagame66.co
+0.0.0.0 sagame66.com
 0.0.0.0 saleplus.vn
 0.0.0.0 salvage-shop.com
 0.0.0.0 samart-digitalmedia.com
