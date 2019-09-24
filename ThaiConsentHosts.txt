@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201909131854
+# Version: 201909241251
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -706,6 +706,7 @@
 0.0.0.0 loadmuns.com
 0.0.0.0 logandload.com
 0.0.0.0 looke.mobi
+0.0.0.0 lottery789.net
 0.0.0.0 lottoasian.com
 0.0.0.0 lottovip.com
 0.0.0.0 lovehora.com
@@ -3814,6 +3815,7 @@
 0.0.0.0 www.loadded.com
 0.0.0.0 www.loadmuns.com
 0.0.0.0 www.looke.mobi
+0.0.0.0 www.lottery789.net
 0.0.0.0 www.lottoasian.com
 0.0.0.0 www.lottovip.com
 0.0.0.0 www.lovehoro2561.com
