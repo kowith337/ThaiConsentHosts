@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201909241251
+# Version: 201909262120
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1019,6 +1019,7 @@
 0.0.0.0 samartbug.com
 0.0.0.0 samartdigitalmedia.com
 0.0.0.0 samartmedia.com
+0.0.0.0 samartpay.com
 0.0.0.0 sanookde.com
 0.0.0.0 sbobet-365.com
 0.0.0.0 sbobet-onlinecasino.com
@@ -3962,6 +3963,7 @@
 0.0.0.0 www.sabsabonline.com
 0.0.0.0 www.samart-digitalmedia.com
 0.0.0.0 www.samartdigitalmedia.com
+0.0.0.0 www.samartpay.com
 0.0.0.0 www.sbobet-365.com
 0.0.0.0 www.sbobet-onlinecasino.com
 0.0.0.0 www.sbobet-sports.com
