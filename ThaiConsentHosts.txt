@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201909262120
+# Version: 201910021153
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -634,6 +634,7 @@
 0.0.0.0 ipxxxzeed.com
 0.0.0.0 iqwmxn.com
 0.0.0.0 isc888th.com
+0.0.0.0 isgivingawayfreestuff.com
 0.0.0.0 islatively.com
 0.0.0.0 isport.co.th
 0.0.0.0 isub.me
