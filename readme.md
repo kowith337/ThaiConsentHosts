@@ -1,5 +1,3 @@
-<div align="center"><img src="https://github.com/kowith337/ThaiConsentHosts/raw/master/ThaiConsentHosts-repository-open-graph-template.png" /></div>
-
 ## Hosts File ที่รวบรวม Domain ของเว็บที่ให้บริการสมัครบริการเสริม (โดยที่ไม่แจ้งผู้ใช้ให้ทราบ)
 
 > หรือที่เรียกว่า **SMS กินเงิน / Content เสียเงิน / บริการอีแอบ**
