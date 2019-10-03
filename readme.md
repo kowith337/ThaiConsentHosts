@@ -1,4 +1,4 @@
-![ogimg](https://github.com/kowith337/ThaiConsentHosts/raw/master/ThaiConsentHosts-repository-open-graph-template.png)
+<center> ![ogimg](https://github.com/kowith337/ThaiConsentHosts/raw/master/ThaiConsentHosts-repository-open-graph-template.png) </center>
 
 ## Hosts File ที่รวบรวม Domain ของเว็บที่ให้บริการสมัครบริการเสริม (โดยที่ไม่แจ้งผู้ใช้ให้ทราบ)
 
