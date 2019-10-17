@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201910121123
+# Version: 201910171446
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -66,6 +66,7 @@
 0.0.0.0 103.246.17.87
 0.0.0.0 107.170.154.51
 0.0.0.0 110.164.252.137
+0.0.0.0 111.118.179.35
 0.0.0.0 111.118.179.72
 0.0.0.0 113.30.248.2
 0.0.0.0 116.68.193.122
@@ -758,6 +759,7 @@
 0.0.0.0 measurementapi.com
 0.0.0.0 medgeidea.com
 0.0.0.0 media-bucket.com
+0.0.0.0 megafun24.com
 0.0.0.0 mexcomm.net
 0.0.0.0 mfun521.com
 0.0.0.0 mfunz.mobi
@@ -857,6 +859,7 @@
 0.0.0.0 mydala.com
 0.0.0.0 myfortune.space
 0.0.0.0 mygirlshow.com
+0.0.0.0 myhoro.space
 0.0.0.0 mymaxbet.com
 0.0.0.0 mymgw.com
 0.0.0.0 mynewrotationlink.com
@@ -881,6 +884,7 @@
 0.0.0.0 nexg.tv
 0.0.0.0 nfsolution.com
 0.0.0.0 ngdfx.com
+0.0.0.0 ngeblaki.com
 0.0.0.0 nicenews.pw
 0.0.0.0 niitcloudcampus.com
 0.0.0.0 nipa.co.th
@@ -1253,6 +1257,7 @@
 0.0.0.0 waypeach.pw
 0.0.0.0 wealthandwealth.com
 0.0.0.0 wealthclick.net
+0.0.0.0 weatherpembe.com
 0.0.0.0 weddingdayphotographerparis.com
 0.0.0.0 wesliptu.pw
 0.0.0.0 wheretobuydiettrex.com
@@ -1716,6 +1721,7 @@
 0.0.0.0 dafabet888.python-libs.com
 0.0.0.0 dafabetkenya.python-libs.com
 0.0.0.0 dafabetnet.python-libs.com
+0.0.0.0 dafoto.megafun24.com
 0.0.0.0 data-4d-2.monitoringservice.co
 0.0.0.0 data.rockymobi.com
 0.0.0.0 davila.bluestwep.pw
@@ -3844,6 +3850,7 @@
 0.0.0.0 www.mcatch.com
 0.0.0.0 www.mcommedia.com
 0.0.0.0 www.mcommsg.com
+0.0.0.0 www.megafun24.com
 0.0.0.0 www.mexcomm.net
 0.0.0.0 www.mfun521.com
 0.0.0.0 www.mfunz.mobi
