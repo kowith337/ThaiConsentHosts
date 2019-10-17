@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201910171446
+# Version: 201910172041
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -4080,6 +4080,7 @@
 0.0.0.0 www.waptrick.vuclip.com
 0.0.0.0 www.wathspap.com
 0.0.0.0 www.wealthandwealth.com
+0.0.0.0 www.weatherpembe.com
 0.0.0.0 www.web.vuclip.com
 0.0.0.0 www.windyalerts.com
 0.0.0.0 www.wirelesstube.mobi
