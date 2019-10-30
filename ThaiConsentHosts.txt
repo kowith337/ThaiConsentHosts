@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201910172041
+# Version: 201910300827
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1050,6 +1050,7 @@
 0.0.0.0 securecloud-mb.com
 0.0.0.0 sedapmeesiam.gold
 0.0.0.0 segimaid.com
+0.0.0.0 sendo.club
 0.0.0.0 seospeedy.com
 0.0.0.0 sexonthephone.mobi
 0.0.0.0 sexy-here.com
