@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201910300827
+# Version: 201911031206
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -3242,6 +3242,7 @@
 0.0.0.0 track.brucelead.com
 0.0.0.0 track.cpitraffic.com
 0.0.0.0 track.mayrondigital.com
+0.0.0.0 track.mcommsg.com
 0.0.0.0 track.mobiprofit.com
 0.0.0.0 track.onlytopoffers.com
 0.0.0.0 track.opticks.io
