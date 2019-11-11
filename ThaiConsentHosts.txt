@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201911031206
+# Version: 201911112335
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -33,6 +33,7 @@
 # IP Address  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 10.104.143.133
 0.0.0.0 13.76.87.1
+0.0.0.0 27.100.44.80
 0.0.0.0 27.100.44.214
 0.0.0.0 27.254.82.82
 0.0.0.0 27.254.82.83
@@ -489,6 +490,7 @@
 0.0.0.0 funspaz.com
 0.0.0.0 funstar.mobi
 0.0.0.0 funster.mobi
+0.0.0.0 funzahub.com
 0.0.0.0 funzone.mobi
 0.0.0.0 funzytv.com
 0.0.0.0 fusetracking.com
@@ -2188,6 +2190,7 @@
 0.0.0.0 ir.sunnygames.club
 0.0.0.0 it.starchef.mobi
 0.0.0.0 it.sunnygames.club
+0.0.0.0 it.thisilike.net
 0.0.0.0 iv.arco.co.th
 0.0.0.0 ivas.chickyclub.net
 0.0.0.0 ivr-1900.shinee.com
