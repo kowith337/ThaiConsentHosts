@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201911112335
+# Version: 201911112336
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -13,7 +13,7 @@
 0.0.0.0 dtacplay.com
 0.0.0.0 freezone.dtacplay.com
 0.0.0.0 gameroom.dtacplay.com
-0.0.0.0 m.ais.co.th
+# 0.0.0.0 m.ais.co.th # Due to problem with some AIS apps
 0.0.0.0 m1.truelife.com
 0.0.0.0 m2.truelife.com
 0.0.0.0 m3.truelife.com
