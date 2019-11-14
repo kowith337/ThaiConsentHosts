@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201911112336
+# Version: 201911150147
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -578,6 +578,7 @@
 0.0.0.0 halocell.com
 0.0.0.0 handysms.com
 0.0.0.0 happytube.mobi
+0.0.0.0 happywinning.com
 0.0.0.0 harddayforall30.icu
 0.0.0.0 havfun.mobi
 0.0.0.0 hayhaa.com
@@ -956,6 +957,7 @@
 0.0.0.0 playzone.mobi
 0.0.0.0 pleasurehere.com
 0.0.0.0 pluckyaff.com
+0.0.0.0 pluckynetwork.com
 0.0.0.0 podanover.pw
 0.0.0.0 pointificsecure.com
 0.0.0.0 pokienation.com
@@ -1409,6 +1411,7 @@
 0.0.0.0 ads.google.nipa.co.th
 0.0.0.0 ads.guideball.com
 0.0.0.0 ads.mobindy.com
+0.0.0.0 ads.pluckynetwork.com
 0.0.0.0 ads.pubmt.ch
 0.0.0.0 ads.samartmedia.com
 0.0.0.0 ads.solutiononeholding.com
@@ -3431,6 +3434,7 @@
 0.0.0.0 wap.gmpmobi.com
 0.0.0.0 wap.guideball.com
 0.0.0.0 wap.gzazone.com
+0.0.0.0 wap.happywinning.com
 0.0.0.0 wap.hexcube.net
 0.0.0.0 wap.hotleague.com
 0.0.0.0 wap.iamzaa.com
@@ -3752,6 +3756,7 @@
 0.0.0.0 www.gclub9000.net
 0.0.0.0 www.gclubgames.com
 0.0.0.0 www.gclubslot898.com
+0.0.0.0 www.gcvw.mobi
 0.0.0.0 www.gdmgsecure.com
 0.0.0.0 www.get-intouch.com
 0.0.0.0 www.getclick.mobi
@@ -3776,6 +3781,7 @@
 0.0.0.0 www.guideball.com
 0.0.0.0 www.guru3step.com
 0.0.0.0 www.handysms.com
+0.0.0.0 www.happywinning.com
 0.0.0.0 www.hehemobi.com
 0.0.0.0 www.hex-cube.com
 0.0.0.0 www.hexcube.net
@@ -3941,6 +3947,7 @@
 0.0.0.0 www.pl.clubxzone.com
 0.0.0.0 www.playmobileapp.com
 0.0.0.0 www.playplay.in.th
+0.0.0.0 www.pluckynetwork.com
 0.0.0.0 www.poatal.thumbr.com
 0.0.0.0 www.pohrtal.thumbr.com
 0.0.0.0 www.pokienation.com
