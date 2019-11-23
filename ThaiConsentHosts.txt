@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201911150147
+# Version: 201911231918
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -400,6 +400,7 @@
 0.0.0.0 datinggirls.info
 0.0.0.0 datingsexy.org
 0.0.0.0 ddzey.com
+0.0.0.0 dealsonline24-7.com
 0.0.0.0 deepbluetech.biz
 0.0.0.0 deloplen.com
 0.0.0.0 desisilk.com
@@ -964,6 +965,7 @@
 0.0.0.0 porn93.com
 0.0.0.0 pornpt.icu
 0.0.0.0 pottymag.com
+0.0.0.0 powerlion.space
 0.0.0.0 premiumtraff.com
 0.0.0.0 previsupe.pw
 0.0.0.0 primaria9.com
@@ -3963,6 +3965,7 @@
 0.0.0.0 www.potrtal.thumbr.com
 0.0.0.0 www.pourtal.thumbr.com
 0.0.0.0 www.povrtal.thumbr.com
+0.0.0.0 www.powerlion.space
 0.0.0.0 www.privatebay.tv
 0.0.0.0 www.privatevideoz.com
 0.0.0.0 www.python-libs.com
