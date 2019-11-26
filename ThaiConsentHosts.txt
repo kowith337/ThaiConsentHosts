@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201911231918
+# Version: 201911262012
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -58,6 +58,7 @@
 0.0.0.0 61.47.40.132
 0.0.0.0 61.91.6.131
 0.0.0.0 65.49.33.31
+0.0.0.0 103.10.234.164
 0.0.0.0 103.16.143.120
 0.0.0.0 103.16.143.144
 0.0.0.0 103.56.210.21
@@ -407,7 +408,6 @@
 0.0.0.0 despiteracy.com
 0.0.0.0 devss.com
 0.0.0.0 dgmobix.com
-0.0.0.0 digi.com.my
 0.0.0.0 digitalmerkat.com
 0.0.0.0 digitalngo.com
 0.0.0.0 digitalzoneng.com
@@ -907,6 +907,7 @@
 0.0.0.0 officeprs.gq
 0.0.0.0 offrtrking.com
 0.0.0.0 oho-mobile.com
+0.0.0.0 okjojihgv.com
 0.0.0.0 okyesmobi.com
 0.0.0.0 oli.tools
 0.0.0.0 omaharlog.pw
