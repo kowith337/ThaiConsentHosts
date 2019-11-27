@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201911262012
+# Version: 201911271848
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -389,6 +389,7 @@
 0.0.0.0 cutties.net
 0.0.0.0 cypher-sys.com
 0.0.0.0 czlbc.net
+0.0.0.0 d9h.me
 0.0.0.0 damneddevastator.com
 0.0.0.0 dangduter.com
 0.0.0.0 daniellefriedland.com
@@ -1013,6 +1014,7 @@
 0.0.0.0 rotatemyurls.com
 0.0.0.0 rotationurls.com
 0.0.0.0 royalads.net
+0.0.0.0 rsalcch.com
 0.0.0.0 rushvip.net
 0.0.0.0 ryhopset.pw
 0.0.0.0 s-bobet.com
@@ -3535,6 +3537,7 @@
 0.0.0.0 ww1.buzzcity.net
 0.0.0.0 ww1.chilliclubs.com
 0.0.0.0 ww1.chocoboard.com
+0.0.0.0 ww1.d9h.me
 0.0.0.0 ww1.funsexy.info
 0.0.0.0 ww1.icubemobile.com
 0.0.0.0 ww1.loadfree2u.com
@@ -3544,12 +3547,14 @@
 0.0.0.0 ww17.r620.buddycode.net
 0.0.0.0 ww2.chilliclubs.com
 0.0.0.0 ww2.chocoboard.com
+0.0.0.0 ww2.d9h.me
 0.0.0.0 ww2.hunsa.com
 0.0.0.0 ww2.icubemobile.com
 0.0.0.0 ww2.loadfree2u.com
 0.0.0.0 ww2.vuclip.com
 0.0.0.0 ww3.chilliclubs.com
 0.0.0.0 ww3.chocoboard.com
+0.0.0.0 ww3.d9h.me
 0.0.0.0 ww3.icubemobile.com
 0.0.0.0 ww3.loadfree2u.com
 0.0.0.0 ww3.vuclip.com
@@ -3693,6 +3698,7 @@
 0.0.0.0 www.cuteclub.tv
 0.0.0.0 www.cuteforyou.mobi
 0.0.0.0 www.cutties.net
+0.0.0.0 www.d9h.me
 0.0.0.0 www.dangduter.com
 0.0.0.0 www.darapayakorn.com
 0.0.0.0 www.ddzey.com
