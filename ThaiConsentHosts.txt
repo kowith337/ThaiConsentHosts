@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201911271848
+# Version: 201911282352
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -142,6 +142,7 @@
 0.0.0.0 2-spot.com
 0.0.0.0 20150917.com
 0.0.0.0 2abdanismanlik.com
+0.0.0.0 2get2load.com
 0.0.0.0 321load.com
 0.0.0.0 33luo.com
 0.0.0.0 3mobilecontents.net
@@ -1247,6 +1248,7 @@
 0.0.0.0 voluumtrk2.com
 0.0.0.0 vovivooo.com
 0.0.0.0 vplaynow.com
+0.0.0.0 vpnshieldplus2.com
 0.0.0.0 vrscr888.com
 0.0.0.0 vsjcommsource.com
 0.0.0.0 vstyle4u.com
@@ -3589,6 +3591,7 @@
 0.0.0.0 www.1bet2uthai.net
 0.0.0.0 www.1moby.com
 0.0.0.0 www.2-spot.com
+0.0.0.0 www.2get2load.com
 0.0.0.0 www.33luo.com
 0.0.0.0 www.3mobilecontents.net
 0.0.0.0 www.3storage.net
