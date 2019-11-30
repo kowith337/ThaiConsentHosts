@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201911282352
+# Version: 201911301649
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -557,6 +557,7 @@
 0.0.0.0 glzelnk.com
 0.0.0.0 gmmdigital.com
 0.0.0.0 gmmwireless.com
+0.0.0.0 gmp.mobi
 0.0.0.0 gmpmobi.com
 0.0.0.0 go2affise.com
 0.0.0.0 go2cloud.org
