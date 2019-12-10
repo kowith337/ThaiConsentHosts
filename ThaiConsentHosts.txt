@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201911301649
+# Version: 201912110055
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -8,6 +8,7 @@
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 # Operator  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 comenu.ais.co.th
+0.0.0.0 consent.dtac.co.th
 0.0.0.0 consentprt.dtac.co.th
 0.0.0.0 ddch.dtac.co.th
 0.0.0.0 dtacplay.com
@@ -390,6 +391,7 @@
 0.0.0.0 cutties.net
 0.0.0.0 cypher-sys.com
 0.0.0.0 czlbc.net
+0.0.0.0 d0yd6ulp.com
 0.0.0.0 d9h.me
 0.0.0.0 damneddevastator.com
 0.0.0.0 dangduter.com
