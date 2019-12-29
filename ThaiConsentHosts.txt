@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201912252056
+# Version: 201912290906
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -236,6 +236,7 @@
 0.0.0.0 apiv9.com
 0.0.0.0 aplay.tv
 0.0.0.0 aplaydigital.com
+0.0.0.0 aplaymusic.com
 0.0.0.0 appave.mobi
 0.0.0.0 appk.mobi
 0.0.0.0 applikteca.mobi
@@ -1688,6 +1689,7 @@
 0.0.0.0 cloud.macrokiosk.com
 0.0.0.0 club.funzone.mobi
 0.0.0.0 cmms.cheesemobile.com
+0.0.0.0 cms.aplaymusic.com
 0.0.0.0 cms.arco.co.th
 0.0.0.0 cms.magent.my
 0.0.0.0 cms.thinksmart.co.th
@@ -1794,6 +1796,7 @@
 0.0.0.0 dg.gamebuffet.mobi
 0.0.0.0 dg2.momoko.co
 0.0.0.0 dictionary.thaiza.com
+0.0.0.0 digital.aplaymusic.com
 0.0.0.0 dihn.muraltent.pw
 0.0.0.0 director.adcolony.com
 0.0.0.0 directory.gmmwireless.com
@@ -1813,6 +1816,8 @@
 0.0.0.0 dra.bluestwep.pw
 0.0.0.0 drapi.lemon91.com
 0.0.0.0 drapi.lemon91.top
+0.0.0.0 drp.aplaymusic.com
+0.0.0.0 dsn.aplaymusic.com
 0.0.0.0 dtac.gmmwireless.com
 0.0.0.0 dtac.mobindy.com
 0.0.0.0 dtac.xn--42c8cmgk9dvfyd.com
@@ -2091,6 +2096,7 @@
 0.0.0.0 gr.videocasalinghi.realgirls.mobi
 0.0.0.0 gr.x-rated.realgirls.mobi
 0.0.0.0 gr.zz.th.thumbr.com
+0.0.0.0 green.aplaymusic.com
 0.0.0.0 gsc.1mov.co
 0.0.0.0 gu3go.bemobtrk.com
 0.0.0.0 guides.mobidea.com
@@ -2188,6 +2194,7 @@
 0.0.0.0 inetvpn.gmmwireless.com
 0.0.0.0 influencer-dev.nipa.co.th
 0.0.0.0 influencer.nipa.co.th
+0.0.0.0 infotel.aplaymusic.com
 0.0.0.0 ingames.blastoffgaming.com
 0.0.0.0 innmc.innnews.co.th
 0.0.0.0 insight.thinksmart.co.th
@@ -2532,6 +2539,7 @@
 0.0.0.0 media1.smsgateway.cc
 0.0.0.0 media2.smsgateway.cc
 0.0.0.0 media3.smsgateway.cc
+0.0.0.0 mediadigital.aplaymusic.com
 0.0.0.0 meedee.goorulife.com
 0.0.0.0 member.bug2mobile.com
 0.0.0.0 member.mobifan.com
@@ -2542,6 +2550,7 @@
 0.0.0.0 mgm.gw2cloud.com
 0.0.0.0 mhi.go2cloud.org
 0.0.0.0 mhoro.gmmwireless.com
+0.0.0.0 michael.aplaymusic.com
 0.0.0.0 mirror.gmmwireless.com
 0.0.0.0 mis.etracker.cc
 0.0.0.0 mk.sunnygames.club
@@ -3126,6 +3135,7 @@
 0.0.0.0 sv2.thinksmart.co.th
 0.0.0.0 sv3.thinksmart.co.th
 0.0.0.0 sweeps8340.sadman25.icu
+0.0.0.0 system.aplaymusic.com
 0.0.0.0 t.mobilart.in
 0.0.0.0 t.vstyle4u.com
 0.0.0.0 t1.contentfall.com
@@ -3420,6 +3430,7 @@
 0.0.0.0 wap.amkomobile.com
 0.0.0.0 wap.amkoonline.com
 0.0.0.0 wap.ananda.chickyclub.net
+0.0.0.0 wap.aplaymusic.com
 0.0.0.0 wap.bamobile.com
 0.0.0.0 wap.bug2mobile.com
 0.0.0.0 wap.cheesemobile.com
@@ -3637,6 +3648,7 @@
 0.0.0.0 www.androidappsfree.mobi
 0.0.0.0 www.anolog.mobi
 0.0.0.0 www.aplaydigital.com
+0.0.0.0 www.aplaymusic.com
 0.0.0.0 www.app1.datapremium.net
 0.0.0.0 www.app2.datapremium.net
 0.0.0.0 www.app3.datapremium.net
