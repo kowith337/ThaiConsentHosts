@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201912290906
+# Version: 201912290922
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -472,6 +472,7 @@
 0.0.0.0 flyrlk.com
 0.0.0.0 fm88e.tk
 0.0.0.0 focusonone.cc
+0.0.0.0 footballzean.com
 0.0.0.0 formulawire.com
 0.0.0.0 free8888content.com
 0.0.0.0 freecot.pw
@@ -592,6 +593,7 @@
 0.0.0.0 hbengineeringworks.com
 0.0.0.0 hclips.net
 0.0.0.0 hd0y.com
+0.0.0.0 hdfreemovie007.com
 0.0.0.0 hehemobi.com
 0.0.0.0 hello1.in
 0.0.0.0 hempsmort.pw
@@ -1310,6 +1312,7 @@
 0.0.0.0 yuqazate.com
 0.0.0.0 zagmob.com
 0.0.0.0 zeanhot.com
+0.0.0.0 zeankickoff.com
 0.0.0.0 zedo.com
 0.0.0.0 zigifun.com
 0.0.0.0 zim88.tk
@@ -3754,6 +3757,7 @@
 0.0.0.0 www.flygemobi.com
 0.0.0.0 www.flyrlk.com
 0.0.0.0 www.fm88e.tk
+0.0.0.0 www.footballzean.com
 0.0.0.0 www.fortal.thumbr.com
 0.0.0.0 www.free.wap.mobixing.com
 0.0.0.0 www.free8888content.com
@@ -3810,6 +3814,7 @@
 0.0.0.0 www.guru3step.com
 0.0.0.0 www.handysms.com
 0.0.0.0 www.happywinning.com
+0.0.0.0 www.hdfreemovie007.com
 0.0.0.0 www.hehemobi.com
 0.0.0.0 www.hex-cube.com
 0.0.0.0 www.hexcube.net
@@ -4135,6 +4140,7 @@
 0.0.0.0 www.yibsee.com
 0.0.0.0 www.yim88.tk
 0.0.0.0 www.zeanhot.com
+0.0.0.0 www.zeankickoff.com
 0.0.0.0 www.zim88.tk
 0.0.0.0 www.zmclick.com
 0.0.0.0 www1.mfunz.mobi
