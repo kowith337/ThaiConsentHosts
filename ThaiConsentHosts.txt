@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201912290922
+# Version: 201912302220
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1285,6 +1285,7 @@
 0.0.0.0 windyalerts.com
 0.0.0.0 wirelesstube.mobi
 0.0.0.0 wiseforwarding.com
+0.0.0.0 wish-you.co
 0.0.0.0 wizlimited.com
 0.0.0.0 womanceri.pw
 0.0.0.0 worldgamespn.mobi
