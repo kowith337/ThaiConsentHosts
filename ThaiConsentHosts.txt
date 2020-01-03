@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 201912302220
+# Version: 202001030749
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -867,6 +867,7 @@
 0.0.0.0 mugforward.com
 0.0.0.0 multicakes.com
 0.0.0.0 muraltent.pw
+0.0.0.0 mv1.in
 0.0.0.0 mweb.com
 0.0.0.0 myappfree.com
 0.0.0.0 mydala.com
@@ -1649,6 +1650,7 @@
 0.0.0.0 cdn.lustzy.com
 0.0.0.0 cdn.mobilesitexxx.com
 0.0.0.0 cdn.mobivite.net
+0.0.0.0 cdn.mv1.in
 0.0.0.0 cdn.static.mobgkt.com
 0.0.0.0 cdn.waplog.com
 0.0.0.0 cdn1.mob-api.net
