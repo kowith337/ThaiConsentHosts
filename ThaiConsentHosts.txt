@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001030749
+# Version: 202001061045
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -260,6 +260,7 @@
 0.0.0.0 atmail.nl
 0.0.0.0 authbill.com
 0.0.0.0 autoportal.com
+0.0.0.0 awap.tv
 0.0.0.0 awolf.mobi
 0.0.0.0 awz.bz
 0.0.0.0 axmtracker.com
@@ -299,6 +300,7 @@
 0.0.0.0 bluestwep.pw
 0.0.0.0 bmobil.me
 0.0.0.0 bmobil.net
+0.0.0.0 bodelen.com
 0.0.0.0 bonbonmob.com
 0.0.0.0 bothtrk.com
 0.0.0.0 bptr88.com
@@ -1174,6 +1176,7 @@
 0.0.0.0 thaisync.com
 0.0.0.0 thaiwapportal.com
 0.0.0.0 thaiza.com
+0.0.0.0 tharbadir.com
 0.0.0.0 thepind.mobi
 0.0.0.0 thestandardlife.com
 0.0.0.0 thevelnit.pw
@@ -1536,7 +1539,9 @@
 0.0.0.0 augustus.bluestwep.pw
 0.0.0.0 autodiscover.s-onetelecom.com
 0.0.0.0 avault.bluestwep.pw
-0.0.0.0 awap.tv
+0.0.0.0 axora-9292d.appspot.com
+0.0.0.0 axora-9292d.firebaseapp.com
+0.0.0.0 axora-9292d.fireaseio.com
 0.0.0.0 ayou.bluestwep.pw
 0.0.0.0 az.yuppyuppytv.com
 0.0.0.0 b2b.mtouche.com
@@ -2482,6 +2487,9 @@
 0.0.0.0 mansion88.shieldministry.com
 0.0.0.0 mansion88sportsmain.sybyrl.com
 0.0.0.0 market.thaiza.com
+0.0.0.0 marvel-e8d36.appspot.com
+0.0.0.0 marvel-e8d36.firebaseapp.com
+0.0.0.0 marvel-e8d36.fireaseio.com
 0.0.0.0 masterdb.shinee.com
 0.0.0.0 maxbet.gclub-casino.com
 0.0.0.0 maxxitv.gmmwireless.com
