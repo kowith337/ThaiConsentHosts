@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001061045
+# Version: 202001072304
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -280,6 +280,9 @@
 0.0.0.0 beacstyle.pw
 0.0.0.0 beezzi.com
 0.0.0.0 bemobtrk.com
+0.0.0.0 bestgamebook.mobi
+0.0.0.0 bestgamebox.mobi
+0.0.0.0 bestgameworld.mobi
 0.0.0.0 bestmobi2u.com
 0.0.0.0 bestmobiworld.com
 0.0.0.0 bestperform3nce.com
@@ -334,6 +337,7 @@
 0.0.0.0 centili.com
 0.0.0.0 cfallasd.com
 0.0.0.0 chaiyo-mobile.com
+0.0.0.0 championplayground.mobi
 0.0.0.0 chatded.com
 0.0.0.0 chcipujcit.com
 0.0.0.0 cheesemobile.com
@@ -466,6 +470,7 @@
 0.0.0.0 files-media.com
 0.0.0.0 fim88.tk
 0.0.0.0 findgit.com
+0.0.0.0 finegames.mobi
 0.0.0.0 fly2.me
 0.0.0.0 fly2me.com
 0.0.0.0 flybi.store
@@ -509,9 +514,15 @@
 0.0.0.0 g2afse.com
 0.0.0.0 gadmobe.com
 0.0.0.0 game.xyz
+0.0.0.0 gamebang.mobi
+0.0.0.0 gamebench.mobi
+0.0.0.0 gameboomer.mobi
 0.0.0.0 gamebuffet.mobi
+0.0.0.0 gamefuse.com
+0.0.0.0 gamefuse.mobi
 0.0.0.0 gamehack.bid
 0.0.0.0 gameloft.co.th
+0.0.0.0 gamelux.mobi
 0.0.0.0 gamepanda.me
 0.0.0.0 gameplaydd.com
 0.0.0.0 games-unlimited.mobi
@@ -829,6 +840,7 @@
 0.0.0.0 mobistos.com
 0.0.0.0 mobiteacher.com
 0.0.0.0 mobiteacher.me
+0.0.0.0 mobiunigame.mobi
 0.0.0.0 mobivite.net
 0.0.0.0 mobixing.com
 0.0.0.0 mobiz.guru
@@ -938,6 +950,7 @@
 0.0.0.0 ourbestcontent.com
 0.0.0.0 outputfx.com
 0.0.0.0 overtleva.pw
+0.0.0.0 oxyvid.mobi
 0.0.0.0 ozura.com
 0.0.0.0 panshimob.com
 0.0.0.0 parisedlittled.info
@@ -1112,6 +1125,7 @@
 0.0.0.0 smartcalltech.co.za
 0.0.0.0 smartoffer.site
 0.0.0.0 smarttelebiz.com
+0.0.0.0 smartvid.mobi
 0.0.0.0 smilesms.com
 0.0.0.0 smrtx.net
 0.0.0.0 smsgateway.cc
@@ -1204,16 +1218,21 @@
 0.0.0.0 topfreeload.com
 0.0.0.0 topphoneapps.mobi
 0.0.0.0 toptiptrack85.life
+0.0.0.0 topvids.mobi
 0.0.0.0 trackinit.com
 0.0.0.0 trackmeplease.com
 0.0.0.0 trackvoluum.com
 0.0.0.0 traffic-c.com
 0.0.0.0 traffikflow.com
 0.0.0.0 trakkthisfor.info
+0.0.0.0 travid.mobi
 0.0.0.0 trend-tech.net
 0.0.0.0 trippointz.com
 0.0.0.0 trk-indexmobi.com
 0.0.0.0 trktoken.com
+0.0.0.0 truevid.mobi
+0.0.0.0 truevids.mobi
+0.0.0.0 truevivid.mobi
 0.0.0.0 tsalebag.com
 0.0.0.0 tubecorporate.com
 0.0.0.0 tubidy.mobi
@@ -1531,6 +1550,7 @@
 0.0.0.0 as.exprtmb.com
 0.0.0.0 ascreen.muraltent.pw
 0.0.0.0 asia.gw2cloud.com
+0.0.0.0 assets.gamefuse.com
 0.0.0.0 assets.pure-babe.com
 0.0.0.0 at.sunnygames.club
 0.0.0.0 au.clubxzone.com
@@ -1540,8 +1560,8 @@
 0.0.0.0 autodiscover.s-onetelecom.com
 0.0.0.0 avault.bluestwep.pw
 0.0.0.0 axora-9292d.appspot.com
-0.0.0.0 axora-9292d.firebaseapp.com
 0.0.0.0 axora-9292d.fireaseio.com
+0.0.0.0 axora-9292d.firebaseapp.com
 0.0.0.0 ayou.bluestwep.pw
 0.0.0.0 az.yuppyuppytv.com
 0.0.0.0 b2b.mtouche.com
@@ -2488,8 +2508,8 @@
 0.0.0.0 mansion88sportsmain.sybyrl.com
 0.0.0.0 market.thaiza.com
 0.0.0.0 marvel-e8d36.appspot.com
-0.0.0.0 marvel-e8d36.firebaseapp.com
 0.0.0.0 marvel-e8d36.fireaseio.com
+0.0.0.0 marvel-e8d36.firebaseapp.com
 0.0.0.0 masterdb.shinee.com
 0.0.0.0 maxbet.gclub-casino.com
 0.0.0.0 maxxitv.gmmwireless.com
@@ -3780,6 +3800,7 @@
 0.0.0.0 www.funzytv.com
 0.0.0.0 www.future2you.com
 0.0.0.0 www.fyybox.com
+0.0.0.0 www.gamefuse.com
 0.0.0.0 www.gameloft.co.th
 0.0.0.0 www.gameloft.com
 0.0.0.0 www.gameplaydd.com
@@ -4185,6 +4206,7 @@
 0.0.0.0 yads.zedo.com
 0.0.0.0 yapodur.vuclip.com
 0.0.0.0 yh7a6.bemobtrk.com
+0.0.0.0 yhpartneronline.gamefuse.com
 0.0.0.0 youtube-adsonline.nipa.co.th
 0.0.0.0 youtube.n-content.com
 0.0.0.0 yqr90.bemobtrk.com
