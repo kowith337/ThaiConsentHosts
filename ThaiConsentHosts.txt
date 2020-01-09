@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001072304
+# Version: 202001092302
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -95,6 +95,7 @@
 0.0.0.0 180.179.207.246
 0.0.0.0 180.179.236.26
 0.0.0.0 182.71.228.49
+0.0.0.0 188.166.180.115
 0.0.0.0 192.241.162.245
 0.0.0.0 192.241.180.55
 0.0.0.0 192.241.249.228
@@ -685,7 +686,6 @@
 0.0.0.0 katrac.com
 0.0.0.0 key-travel.com
 0.0.0.0 khelbazar.in
-0.0.0.0 khwansiri.com
 0.0.0.0 kilomniadstaz.info
 0.0.0.0 kingstar.pw
 0.0.0.0 kinreyal.pw
@@ -792,6 +792,7 @@
 0.0.0.0 micrayer.pw
 0.0.0.0 min4.com
 0.0.0.0 minivideo.club
+0.0.0.0 mitsuiict.com
 0.0.0.0 mktrack.com
 0.0.0.0 mli.me
 0.0.0.0 mmtgo.me
@@ -2425,7 +2426,6 @@
 0.0.0.0 m.ke.fun-club.mobi
 0.0.0.0 m.ke.musica.fun-club.mobi
 0.0.0.0 m.ke.tons.mobi
-0.0.0.0 m.khwansiri.com
 0.0.0.0 m.kodfin.com
 0.0.0.0 m.kodzed.com
 0.0.0.0 m.mobiclub.net
@@ -3200,6 +3200,7 @@
 0.0.0.0 telkomsel.vuclip.com
 0.0.0.0 tempkkboxdev.gmmwireless.com
 0.0.0.0 tempprovisioningdev.gmmwireless.com
+0.0.0.0 test-new-site.mitsuiict.com
 0.0.0.0 test.arco.co.th
 0.0.0.0 test.br.funmobile.com
 0.0.0.0 test.ca.funmobile.com
@@ -3911,7 +3912,6 @@
 0.0.0.0 www.luckyyouna.com
 0.0.0.0 www.lunla.net
 0.0.0.0 www.lustzy.com
-0.0.0.0 www.m.khwansiri.com
 0.0.0.0 www.m.tumnai.com
 0.0.0.0 www.m.yibsee.com
 0.0.0.0 www.m3shoppe.in.th
@@ -3932,6 +3932,7 @@
 0.0.0.0 www.mfunz.mobi
 0.0.0.0 www.min4.com
 0.0.0.0 www.minivideo.club
+0.0.0.0 www.mitsuiict.com
 0.0.0.0 www.mmtk88.tk
 0.0.0.0 www.mobgkt.com
 0.0.0.0 www.mobiclub.net
