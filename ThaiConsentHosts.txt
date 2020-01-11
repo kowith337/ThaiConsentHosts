@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001092302
+# Version: 202001111145
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -499,6 +499,7 @@
 0.0.0.0 funmobile.com
 0.0.0.0 funmobileth.com
 0.0.0.0 funnyclub.tv
+0.0.0.0 funnytime.guru
 0.0.0.0 funseahk.com
 0.0.0.0 funsexy.info
 0.0.0.0 funsmobi.com
@@ -943,6 +944,7 @@
 0.0.0.0 onwardinated.com
 0.0.0.0 oomph.club
 0.0.0.0 opencurvemedia.com
+0.0.0.0 opendayz.com
 0.0.0.0 operastarz.com
 0.0.0.0 operonsh.pw
 0.0.0.0 opticks.io
@@ -2450,6 +2452,7 @@
 0.0.0.0 m.pe.fun-club.mobi
 0.0.0.0 m.pe.musica.fun-club.mobi
 0.0.0.0 m.pl.cool4mob.com
+0.0.0.0 m.playclub.me
 0.0.0.0 m.pt.cool4mob.com
 0.0.0.0 m.puteez.com
 0.0.0.0 m.sabver.com
@@ -2581,6 +2584,7 @@
 0.0.0.0 merjcaw.vuclip.com
 0.0.0.0 mes.etracker.cc
 0.0.0.0 mfadmin.thinksmart.co.th
+0.0.0.0 mgm.playclub.me
 0.0.0.0 mgm.gw2cloud.com
 0.0.0.0 mhi.go2cloud.org
 0.0.0.0 mhoro.gmmwireless.com
@@ -3255,12 +3259,14 @@
 0.0.0.0 th.x-rated.realgirls.mobi
 0.0.0.0 th.yuppytv.com
 0.0.0.0 th.yuppyuppytv.com
+0.0.0.0 th1.games.playclub.me
 0.0.0.0 th1.music.playclub.me
 0.0.0.0 th1.vidxx.playclub.me
 0.0.0.0 tha.youlaugh.online
 0.0.0.0 thai.blastoffgaming.com
 0.0.0.0 thaicasinoonline66.000webhostapp.com
 0.0.0.0 thaigirl.etopgame.com
+0.0.0.0 thailand.azurewebsites.net
 0.0.0.0 thailife.horoworld.com
 0.0.0.0 thegirl.sexy-here.com
 0.0.0.0 theme.shinee.com
@@ -3796,6 +3802,7 @@
 0.0.0.0 www.freezone.mobi
 0.0.0.0 www.fun-clix.com
 0.0.0.0 www.fun-offer-th.com
+0.0.0.0 www.funnytime.guru
 0.0.0.0 www.funspaz.com
 0.0.0.0 www.funzone.mobi
 0.0.0.0 www.funzytv.com
@@ -4000,6 +4007,7 @@
 0.0.0.0 www.okyesmobi.com
 0.0.0.0 www.onelinkgroup.com
 0.0.0.0 www.online-clip.com
+0.0.0.0 www.opendayz.com
 0.0.0.0 www.ozura.com
 0.0.0.0 www.panshimob.com
 0.0.0.0 www.passwon.com
