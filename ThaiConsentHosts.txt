@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001111145
+# Version: 202001121936
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -459,6 +459,7 @@
 0.0.0.0 exezhanqun.com
 0.0.0.0 exprtmb.com
 0.0.0.0 ezym.net
+0.0.0.0 ezymedia.mobi
 0.0.0.0 fabruary30.com
 0.0.0.0 facabooks.com
 0.0.0.0 facishat.pw
@@ -2584,8 +2585,8 @@
 0.0.0.0 merjcaw.vuclip.com
 0.0.0.0 mes.etracker.cc
 0.0.0.0 mfadmin.thinksmart.co.th
-0.0.0.0 mgm.playclub.me
 0.0.0.0 mgm.gw2cloud.com
+0.0.0.0 mgm.playclub.me
 0.0.0.0 mhi.go2cloud.org
 0.0.0.0 mhoro.gmmwireless.com
 0.0.0.0 michael.aplaymusic.com
@@ -3785,6 +3786,7 @@
 0.0.0.0 www.etracker.cc
 0.0.0.0 www.exezhanqun.com
 0.0.0.0 www.ezym.net
+0.0.0.0 www.ezymedia.mobi
 0.0.0.0 www.faptubes.mobi
 0.0.0.0 www.fashionbunny.com
 0.0.0.0 www.fblives.net
