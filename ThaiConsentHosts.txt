@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001121936
+# Version: 202001241835
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -651,6 +651,7 @@
 0.0.0.0 illcorp.com
 0.0.0.0 ilovemobi.com
 0.0.0.0 imgamma.com
+0.0.0.0 important-notices.com
 0.0.0.0 imzog.com
 0.0.0.0 indiagames.com
 0.0.0.0 inediair.pw
