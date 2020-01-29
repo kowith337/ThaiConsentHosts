@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001241835
+# Version: 202001300036
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1283,6 +1283,7 @@
 0.0.0.0 voluumtrk2.com
 0.0.0.0 vovivooo.com
 0.0.0.0 vplaynow.com
+0.0.0.0 vpnprotectplus.com
 0.0.0.0 vpnshieldplus2.com
 0.0.0.0 vrscr888.com
 0.0.0.0 vsjcommsource.com
