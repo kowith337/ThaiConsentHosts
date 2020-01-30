@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001300036
+# Version: 202001302053
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -699,6 +699,7 @@
 0.0.0.0 km928bonprabang.club
 0.0.0.0 knsbet.tk
 0.0.0.0 koapkmobi.com
+0.0.0.0 kochava.com
 0.0.0.0 kodfin.com
 0.0.0.0 kodporno.com
 0.0.0.0 kodsextoy.com
@@ -1513,6 +1514,7 @@
 0.0.0.0 api.centili.com
 0.0.0.0 api.getapiv.com
 0.0.0.0 api.gmmwireless.com
+0.0.0.0 api.kochava.com
 0.0.0.0 api.mobgkt.com
 0.0.0.0 api.myappfree.com
 0.0.0.0 api.nipa.co.th
@@ -1752,6 +1754,7 @@
 0.0.0.0 content.mobicute.com
 0.0.0.0 content.momoga.com
 0.0.0.0 content.yasune360.com
+0.0.0.0 control.kochava.com
 0.0.0.0 cook.fun2u.biz
 0.0.0.0 cooking.shinee.com
 0.0.0.0 core.royalads.net
@@ -2306,6 +2309,7 @@
 0.0.0.0 kmlpg.adsbtrack.com
 0.0.0.0 kod-hd.moviegroups88.com
 0.0.0.0 ktspn.bemobtrk.com
+0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 kw.sunnygames.club
 0.0.0.0 kz.sunnygames.club
 0.0.0.0 l.cheesemobile.com
@@ -2352,6 +2356,7 @@
 0.0.0.0 localhost.newoneadvertising.com
 0.0.0.0 localhost.nipa.co.th
 0.0.0.0 localhost.shinee.com
+0.0.0.0 location.api.kochava.com
 0.0.0.0 log.gmmwireless.com
 0.0.0.0 login.moobig.com
 0.0.0.0 lotto.horoworld.com
@@ -3294,6 +3299,7 @@
 0.0.0.0 tns00.nipa.co.th
 0.0.0.0 tns1.nipa.co.th
 0.0.0.0 to.dgmobix.com
+0.0.0.0 token.api.kochava.com
 0.0.0.0 toolbar.nipa.co.th
 0.0.0.0 top.ourbestcontent.com
 0.0.0.0 top1.ourbestcontent.com
