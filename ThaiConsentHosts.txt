@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001302053
+# Version: 202001302058
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -3908,6 +3908,7 @@
 0.0.0.0 www.klinikasmara.com
 0.0.0.0 www.knsbet.tk
 0.0.0.0 www.koapkmobi.com
+0.0.0.0 www.kochava.com
 0.0.0.0 www.kodporno.com
 0.0.0.0 www.ku88ku.tk
 0.0.0.0 www.kumchanod.com
