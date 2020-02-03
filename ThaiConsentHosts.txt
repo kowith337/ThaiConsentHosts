@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202001302058
+# Version: 202002030833
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -483,6 +483,7 @@
 0.0.0.0 focusonone.cc
 0.0.0.0 footballzean.com
 0.0.0.0 formulawire.com
+0.0.0.0 frechint.com
 0.0.0.0 free8888content.com
 0.0.0.0 freecot.pw
 0.0.0.0 freezone.mobi
