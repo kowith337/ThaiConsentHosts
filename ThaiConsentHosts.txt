@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202002030833
+# Version: 202002160910
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -220,6 +220,7 @@
 0.0.0.0 ahyoyo.com
 0.0.0.0 aielber.com
 0.0.0.0 airpush.com
+0.0.0.0 ais-coth.com
 0.0.0.0 akazoo.com
 0.0.0.0 alawael-news.com
 0.0.0.0 alert301.com
