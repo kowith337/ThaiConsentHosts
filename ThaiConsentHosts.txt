@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202002160910
+# Version: 202002170106
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -601,6 +601,7 @@
 0.0.0.0 gw2cloud.com
 0.0.0.0 gzazone.com
 0.0.0.0 hack-dragon-city.com
+0.0.0.0 hacking-incidents.com
 0.0.0.0 halocell.com
 0.0.0.0 handysms.com
 0.0.0.0 happytube.mobi
