@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202002170106
+# Version: 202002192219
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -973,6 +973,7 @@
 0.0.0.0 perfonspot.com
 0.0.0.0 performancerevenues.com
 0.0.0.0 phadoo-mobile.com
+0.0.0.0 phone-notify.com
 0.0.0.0 phonemobileapps.com
 0.0.0.0 phubbers.com
 0.0.0.0 pickeringtown.info
