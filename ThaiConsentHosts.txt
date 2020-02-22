@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202002192219
+# Version: 202002222305
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -626,6 +626,7 @@
 0.0.0.0 hoguhotels.com
 0.0.0.0 hollywoodmobile.com
 0.0.0.0 hombet.tk
+0.0.0.0 homedeal.xyz
 0.0.0.0 hornygirls.mobi
 0.0.0.0 horolive.com
 0.0.0.0 horotalk.com
@@ -1070,6 +1071,7 @@
 0.0.0.0 samartmedia.com
 0.0.0.0 samartpay.com
 0.0.0.0 sanookde.com
+0.0.0.0 satisfactional-survey-platform.com
 0.0.0.0 sbobet-365.com
 0.0.0.0 sbobet-onlinecasino.com
 0.0.0.0 sbobet-sports.com
@@ -1087,6 +1089,7 @@
 0.0.0.0 scr888th.live
 0.0.0.0 scr888thcasino.com
 0.0.0.0 scr888thslot.com
+0.0.0.0 scratch-surveys.co
 0.0.0.0 seacom.co.th
 0.0.0.0 seaman2u.com
 0.0.0.0 secudatago.com
@@ -1173,6 +1176,7 @@
 0.0.0.0 sunnygames.club
 0.0.0.0 supergirls.one
 0.0.0.0 surfto.mobi
+0.0.0.0 surveyprizedraw.com
 0.0.0.0 sutanrajacirebon.com
 0.0.0.0 svkrg.com
 0.0.0.0 sybyrl.com
@@ -1208,6 +1212,8 @@
 0.0.0.0 thinksmart.co.th
 0.0.0.0 thisilike.net
 0.0.0.0 thmobi.com
+0.0.0.0 thquestionnaire.com
+0.0.0.0 thsurveys.com
 0.0.0.0 thtrackingap.com
 0.0.0.0 thumbr.com
 0.0.0.0 thumbsms.com
