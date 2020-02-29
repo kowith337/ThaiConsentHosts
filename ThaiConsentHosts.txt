@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202002222325
+# Version: 202002292315
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -312,6 +312,7 @@
 0.0.0.0 braverymobtracking.com
 0.0.0.0 brazzers93.com
 0.0.0.0 breathing-love.com
+0.0.0.0 bridgemob.com
 0.0.0.0 brucelead.com
 0.0.0.0 brvaffs.com
 0.0.0.0 bsnlhellotv.in
@@ -1642,6 +1643,7 @@
 0.0.0.0 br.funmobile.com
 0.0.0.0 br.sunnygames.club
 0.0.0.0 brandvote.eggdigital.com
+0.0.0.0 bridgemob-com-pl89g1ago.stackpathdns.com
 0.0.0.0 bulk.smilesms.com
 0.0.0.0 bwin.getridofmylien.com
 0.0.0.0 bwvuc.bemobtrk.com
