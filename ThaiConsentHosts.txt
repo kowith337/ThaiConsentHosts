@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202002292315
+# Version: 202003060042
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1833,6 +1833,7 @@
 0.0.0.0 dev.br.funmobile.com
 0.0.0.0 dev.ca.funmobile.com
 0.0.0.0 dev.centili.com
+0.0.0.0 dev.chaiyo-mobile.com
 0.0.0.0 dev.dangduter.com
 0.0.0.0 dev.gmmwireless.com
 0.0.0.0 dev.hayhaa.com
