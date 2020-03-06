@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003060042
+# Version: 202003062236
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -184,6 +184,7 @@
 0.0.0.0 acupofcafeconleche.com
 0.0.0.0 ad5media.com
 0.0.0.0 ad5network.com
+0.0.0.0 adadept.space
 0.0.0.0 adcamie.com
 0.0.0.0 adcolony.com
 0.0.0.0 addictiveads.com
@@ -223,6 +224,7 @@
 0.0.0.0 ais-coth.com
 0.0.0.0 akazoo.com
 0.0.0.0 alawael-news.com
+0.0.0.0 alert-cleaner.club
 0.0.0.0 alert301.com
 0.0.0.0 alice2appsmart.com
 0.0.0.0 alivetoyou.com
@@ -1269,6 +1271,7 @@
 0.0.0.0 ude182.com
 0.0.0.0 ugjbet.tk
 0.0.0.0 umobi.biz
+0.0.0.0 unithese-resteven.icu
 0.0.0.0 unpuzzled.net
 0.0.0.0 upp.st
 0.0.0.0 vasglobalnetwork.com
@@ -1298,6 +1301,7 @@
 0.0.0.0 voluumtrk2.com
 0.0.0.0 vovivooo.com
 0.0.0.0 vplaynow.com
+0.0.0.0 vpn1aprotectplus.com
 0.0.0.0 vpnprotectplus.com
 0.0.0.0 vpnshieldplus2.com
 0.0.0.0 vrscr888.com
@@ -1351,6 +1355,7 @@
 0.0.0.0 yim88.tk
 0.0.0.0 youlaugh.online
 0.0.0.0 your-sweet-girls1.com
+0.0.0.0 yourstukov.com
 0.0.0.0 ypzsls.com
 0.0.0.0 yuppytv.com
 0.0.0.0 yuppyuppytv.com
@@ -3362,6 +3367,7 @@
 0.0.0.0 transcodedmedia.mobivite.net
 0.0.0.0 travel.thaiza.com
 0.0.0.0 trc.mobipotato.com
+0.0.0.0 trk.adadept.space
 0.0.0.0 trk.mobilevol.com
 0.0.0.0 trk.traffikflow.com
 0.0.0.0 tructiepbongda.python-libs.com
