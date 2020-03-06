@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003062236
+# Version: 202003062250
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -135,6 +135,7 @@
 0.0.0.0 125-telecom.com
 0.0.0.0 12horo.com
 0.0.0.0 12mob.com
+0.0.0.0 12xlwin3.net
 0.0.0.0 133ms2u.com
 0.0.0.0 157gamestudios.com
 0.0.0.0 181818.com.my
@@ -386,6 +387,7 @@
 0.0.0.0 contentfall.com
 0.0.0.0 contentformen.mobi
 0.0.0.0 contentsdaily.com
+0.0.0.0 cook-giant-under-leg.xyz
 0.0.0.0 cool4mob.com
 0.0.0.0 coolzee.net
 0.0.0.0 cosmik-ltd.com
@@ -1011,6 +1013,7 @@
 0.0.0.0 premiumtraff.com
 0.0.0.0 previsupe.pw
 0.0.0.0 primaria9.com
+0.0.0.0 privacy-protect-webs-phone.club
 0.0.0.0 privatebay.tv
 0.0.0.0 privatevideoz.com
 0.0.0.0 privatewant.com
@@ -1244,6 +1247,7 @@
 0.0.0.0 trackmeplease.com
 0.0.0.0 trackvoluum.com
 0.0.0.0 traffic-c.com
+0.0.0.0 trafficshark.pro
 0.0.0.0 traffikflow.com
 0.0.0.0 trakkthisfor.info
 0.0.0.0 travid.mobi
@@ -1704,6 +1708,7 @@
 0.0.0.0 cdn.mobilesitexxx.com
 0.0.0.0 cdn.mobivite.net
 0.0.0.0 cdn.mv1.in
+0.0.0.0 cdn.privacy-protect-webs-phone.club
 0.0.0.0 cdn.static.mobgkt.com
 0.0.0.0 cdn.waplog.com
 0.0.0.0 cdn1.mob-api.net
@@ -3071,6 +3076,7 @@
 0.0.0.0 sexxxyy.vuclip.com
 0.0.0.0 sexyangel.sexy-here.com
 0.0.0.0 sexypron.vuclip.com
+0.0.0.0 sg.12xlwin3.net
 0.0.0.0 sg.affmoney.top
 0.0.0.0 sg.datinggirls.info
 0.0.0.0 sg.mobgkt.com
@@ -3368,6 +3374,7 @@
 0.0.0.0 travel.thaiza.com
 0.0.0.0 trc.mobipotato.com
 0.0.0.0 trk.adadept.space
+0.0.0.0 trk.cook-giant-under-leg.xyz
 0.0.0.0 trk.mobilevol.com
 0.0.0.0 trk.traffikflow.com
 0.0.0.0 tructiepbongda.python-libs.com
@@ -4073,6 +4080,7 @@
 0.0.0.0 www.pourtal.thumbr.com
 0.0.0.0 www.povrtal.thumbr.com
 0.0.0.0 www.powerlion.space
+0.0.0.0 www.privacy-protect-webs-phone.club
 0.0.0.0 www.privatebay.tv
 0.0.0.0 www.privatevideoz.com
 0.0.0.0 www.python-libs.com
