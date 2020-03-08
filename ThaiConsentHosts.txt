@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003062250
+# Version: 202003081231
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -882,6 +882,7 @@
 0.0.0.0 monomax.me
 0.0.0.0 monomaxx.com
 0.0.0.0 monotechnology.com
+0.0.0.0 monthlywinners.com
 0.0.0.0 monozone.com
 0.0.0.0 moo.mn
 0.0.0.0 moobig.com
@@ -2802,6 +2803,7 @@
 0.0.0.0 obivr.thinksmart.co.th
 0.0.0.0 odiamovies.vuclip.com
 0.0.0.0 off.bptr88.com
+0.0.0.0 offer.monthlywinners.com
 0.0.0.0 offers.at2010.net
 0.0.0.0 office.nipa.co.th
 0.0.0.0 officedb.shinee.com
