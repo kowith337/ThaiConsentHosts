@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003081231
+# Version: 202003091939
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -441,6 +441,7 @@
 0.0.0.0 downloadhub.me
 0.0.0.0 downloadwap.co.uk
 0.0.0.0 downloadwap.com
+0.0.0.0 dreamgame33.com
 0.0.0.0 dsglp.com
 0.0.0.0 dsgpy.com
 0.0.0.0 durarenti.pw
