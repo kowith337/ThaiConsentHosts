@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003091948
+# Version: 202003100950
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -285,6 +285,7 @@
 0.0.0.0 beacstyle.pw
 0.0.0.0 beezzi.com
 0.0.0.0 bemobtrk.com
+0.0.0.0 beonixom.com
 0.0.0.0 bestgamebook.mobi
 0.0.0.0 bestgamebox.mobi
 0.0.0.0 bestgameworld.mobi
@@ -494,6 +495,7 @@
 0.0.0.0 frechint.com
 0.0.0.0 free8888content.com
 0.0.0.0 freecot.pw
+0.0.0.0 freemineapplicationads.icu
 0.0.0.0 freezone.mobi
 0.0.0.0 full-funny.com
 0.0.0.0 fun-cell.mobi
