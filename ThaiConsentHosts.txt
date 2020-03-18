@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003141144
+# Version: 202003181449
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1034,6 +1034,16 @@
 0.0.0.0 privatewow.tv
 0.0.0.0 programablecontrol.com
 0.0.0.0 protectad.online
+0.0.0.0 protection-cellphone.club
+0.0.0.0 protection-cellphone.site
+0.0.0.0 protection-device.club
+0.0.0.0 protection-device.site
+0.0.0.0 protection-fixer.club
+0.0.0.0 protection-fixer.site
+0.0.0.0 protection-iphone.club
+0.0.0.0 protection-iphone.site
+0.0.0.0 protection-phone.club
+0.0.0.0 protection-phone.site
 0.0.0.0 pubmt.ch
 0.0.0.0 pure-babe.com
 0.0.0.0 puteez.com
