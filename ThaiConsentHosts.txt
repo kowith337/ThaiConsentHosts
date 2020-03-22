@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003222307
+# Version: 202003222315
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -912,7 +912,6 @@
 0.0.0.0 mymgw.com
 0.0.0.0 mynewrotationlink.com
 0.0.0.0 myscoobi.com
-0.0.0.0 myshopify.com
 0.0.0.0 mystyletip.com
 0.0.0.0 n-content.com
 0.0.0.0 n-d.bz
@@ -1551,7 +1550,6 @@
 0.0.0.0 alpha.solutiononeholding.com
 0.0.0.0 alytic.gmmwireless.com
 0.0.0.0 am8.0frmluki.tw
-0.0.0.0 americangundamstore.myshopify.com
 0.0.0.0 analytic.gmmwireless.com
 0.0.0.0 analytics.afftrack.com
 0.0.0.0 analytics.gmmwireless.com
@@ -2744,7 +2742,6 @@
 0.0.0.0 mx1.moserv.co.th
 0.0.0.0 mx2.moserv.co.th
 0.0.0.0 mxs.momoko.co
-0.0.0.0 my-complete-boutique.myshopify.com
 0.0.0.0 my.12mob.com
 0.0.0.0 my.kaka-games.com
 0.0.0.0 my.mobgkt.com
@@ -2846,7 +2843,6 @@
 0.0.0.0 old.chickyclub.net
 0.0.0.0 olddb-mds.nipa.co.th
 0.0.0.0 olddb-tns.nipa.co.th
-0.0.0.0 omnipre.myshopify.com
 0.0.0.0 ona.muraltent.pw
 0.0.0.0 onads-report.thinksmart.co.th
 0.0.0.0 onads.thinksmart.co.th
