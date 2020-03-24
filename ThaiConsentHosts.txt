@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003240724
+# Version: 202003240958
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -27,6 +27,7 @@
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 wap.dtac.co.th
 0.0.0.0 wap.mobilelife.co.th
+0.0.0.0 wapng.dtac.co.th
 0.0.0.0 ws-adv.ais.co.th
 0.0.0.0 ww1.mobilelife.co.th
 0.0.0.0 ww2.mobilelife.co.th
