@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003222315
+# Version: 202003240724
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -941,6 +941,8 @@
 0.0.0.0 nmpcenter.com
 0.0.0.0 noclef.com
 0.0.0.0 notesdav.pw
+0.0.0.0 notice-booster.club
+0.0.0.0 notice-booster.site
 0.0.0.0 notice-cellphone.club
 0.0.0.0 notice-cellphone.site
 0.0.0.0 notice-device.club
@@ -1034,6 +1036,8 @@
 0.0.0.0 privatewow.tv
 0.0.0.0 programablecontrol.com
 0.0.0.0 protectad.online
+0.0.0.0 protection-booster.club
+0.0.0.0 protection-booster.site
 0.0.0.0 protection-cellphone.club
 0.0.0.0 protection-cellphone.site
 0.0.0.0 protection-device.club
