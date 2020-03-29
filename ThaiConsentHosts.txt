@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003291137
+# Version: 202003291138
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1476,7 +1476,7 @@
 0.0.0.0 94ag2.bemobtrk.com
 0.0.0.0 94tdm.bemobtrk.com
 0.0.0.0 9yam.shinee.com
-0.0.0.0 NSSEC.SHINEE.COM
+0.0.0.0 nssec.shinee.com
 0.0.0.0 a.axmtracker.com
 0.0.0.0 a.innnews.co.th
 0.0.0.0 a.mobilart.in
@@ -2161,7 +2161,7 @@
 0.0.0.0 f7.4219208.th.5rio.com
 0.0.0.0 fabstore.indiagames.com
 0.0.0.0 face.crbro.appsdorado.com
-0.0.0.0 facebook-Adsonline.nipa.co.th
+0.0.0.0 facebook-adsonline.nipa.co.th
 0.0.0.0 facebook.getcools.com
 0.0.0.0 facebook.shinee.com
 0.0.0.0 facebookads.nipa.co.th
