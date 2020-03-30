@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202003291138
+# Version: 202003302117
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1235,6 +1235,7 @@
 0.0.0.0 tech-vault.com
 0.0.0.0 temenjalan.com
 0.0.0.0 terragonbase.com
+0.0.0.0 tescolotus-th.club
 0.0.0.0 th-scr888.com
 0.0.0.0 th1cs.com
 0.0.0.0 thai-iphone.com
@@ -4800,6 +4801,7 @@
 0.0.0.0 www.tdedteng.com
 0.0.0.0 www.tdedthai.com
 0.0.0.0 www.technology.thaiza.com
+0.0.0.0 www.tescolotus-th.club
 0.0.0.0 www.th-scr888.com
 0.0.0.0 www.th.clubxzone.com
 0.0.0.0 www.th.imgamma.com
