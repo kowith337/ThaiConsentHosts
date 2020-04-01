@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004011053
+# Version: 202004011115
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -417,6 +417,7 @@
 0.0.0.0 coolzee.net
 0.0.0.0 cosmik-ltd.com
 0.0.0.0 countevt.com
+0.0.0.0 cpa-tc.com
 0.0.0.0 cpactions.com
 0.0.0.0 cpgnrotationurl.com
 0.0.0.0 cpinfantil.com
@@ -601,6 +602,7 @@
 0.0.0.0 gexiuyixibai.com
 0.0.0.0 ggtwpviko.tk
 0.0.0.0 gift4u.today
+0.0.0.0 giftswinners.com
 0.0.0.0 gigth.com
 0.0.0.0 girlsonfire.mobi
 0.0.0.0 girlsvideosonline.info
@@ -1326,6 +1328,7 @@
 0.0.0.0 traffikflow.com
 0.0.0.0 trakkthisfor.info
 0.0.0.0 travid.mobi
+0.0.0.0 trclndrs.xyz
 0.0.0.0 trend-tech.net
 0.0.0.0 trippointz.com
 0.0.0.0 trk-indexmobi.com
@@ -1464,7 +1467,9 @@
 0.0.0.0 168.sedapmeesiam.gold
 0.0.0.0 18bet.python-libs.com
 0.0.0.0 1900.gmmdigital.com
+0.0.0.0 1d6529af475.cpa-tc.com
 0.0.0.0 1d6533b2b61.tcplndr.club
+0.0.0.0 1d653c60641.trclndrs.com
 0.0.0.0 1iemi.bemobtrk.com
 0.0.0.0 1st.lpalice2appsmart.com
 0.0.0.0 1xbetbet.bakerssolution.com
@@ -4530,6 +4535,7 @@
 0.0.0.0 www.getclick.mobi
 0.0.0.0 www.getcools.com
 0.0.0.0 www.getfeelgood.com
+0.0.0.0 www.giftswinners.com
 0.0.0.0 www.gigth.com
 0.0.0.0 www.girl18plus.sexy-here.com
 0.0.0.0 www.girlsonfire.mobi
