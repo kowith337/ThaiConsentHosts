@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004011115
+# Version: 202004051017
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -371,6 +371,7 @@
 0.0.0.0 championplayground.mobi
 0.0.0.0 chatded.com
 0.0.0.0 chcipujcit.com
+0.0.0.0 check-your-antivirus.net
 0.0.0.0 cheesemobile.com
 0.0.0.0 cherryzone.com.ph
 0.0.0.0 cheyouju.net
@@ -382,6 +383,7 @@
 0.0.0.0 chupa.mobi
 0.0.0.0 chz.mobi
 0.0.0.0 chzmobi.net
+0.0.0.0 ciga.xyz
 0.0.0.0 circultural.com
 0.0.0.0 ckwizard.com
 0.0.0.0 clausiafze.com
@@ -749,6 +751,7 @@
 0.0.0.0 kronsurf.pw
 0.0.0.0 ku88ku.tk
 0.0.0.0 kumchanod.com
+0.0.0.0 kupol-development.com
 0.0.0.0 kwizu.club
 0.0.0.0 laanbok.pw
 0.0.0.0 lalamobi.com
