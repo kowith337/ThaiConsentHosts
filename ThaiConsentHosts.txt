@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004051017
+# Version: 202004082322
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -111,6 +111,7 @@
 0.0.0.0 202.91.22.224
 0.0.0.0 202.174.122.12
 0.0.0.0 202.191.128.157
+0.0.0.0 203.107.132.149
 0.0.0.0 203.107.133.238
 0.0.0.0 203.115.195.57
 0.0.0.0 203.122.58.93
@@ -832,6 +833,7 @@
 0.0.0.0 medgeidea.com
 0.0.0.0 media-bucket.com
 0.0.0.0 megafun24.com
+0.0.0.0 member2you.com
 0.0.0.0 mexcomm.net
 0.0.0.0 mfun521.com
 0.0.0.0 mfunz.mobi
@@ -1000,6 +1002,7 @@
 0.0.0.0 officeprs.cf
 0.0.0.0 officeprs.gq
 0.0.0.0 offrtrking.com
+0.0.0.0 ohchaiyo.com
 0.0.0.0 oho-mobile.com
 0.0.0.0 okjojihgv.com
 0.0.0.0 okyesmobi.com
@@ -1523,7 +1526,6 @@
 0.0.0.0 94ag2.bemobtrk.com
 0.0.0.0 94tdm.bemobtrk.com
 0.0.0.0 9yam.shinee.com
-0.0.0.0 nssec.shinee.com
 0.0.0.0 a.axmtracker.com
 0.0.0.0 a.innnews.co.th
 0.0.0.0 a.mobilart.in
@@ -4651,6 +4653,7 @@
 0.0.0.0 www.mcommedia.com
 0.0.0.0 www.mcommsg.com
 0.0.0.0 www.megafun24.com
+0.0.0.0 www.member2you.com
 0.0.0.0 www.mexcomm.net
 0.0.0.0 www.mfun521.com
 0.0.0.0 www.mfunz.mobi
@@ -4727,6 +4730,7 @@
 0.0.0.0 www.ns1.ckwizard.com
 0.0.0.0 www.obet88.tk
 0.0.0.0 www.odiamovies.vuclip.com
+0.0.0.0 www.ohchaiyo.com
 0.0.0.0 www.oho-mobile.com
 0.0.0.0 www.okyesmobi.com
 0.0.0.0 www.onelinkgroup.com
