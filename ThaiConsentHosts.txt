@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004082322
+# Version: 202004082350
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -536,6 +536,7 @@
 0.0.0.0 funcell1.com
 0.0.0.0 funclix.com
 0.0.0.0 fungame.mobi
+0.0.0.0 fungirl.mobi
 0.0.0.0 funmobile.com
 0.0.0.0 funmobileth.com
 0.0.0.0 funnyclub.tv
@@ -3470,6 +3471,7 @@
 0.0.0.0 ppcm-n.nipa.co.th
 0.0.0.0 ppcm.nipa.co.th
 0.0.0.0 ppvr.page.link
+0.0.0.0 pr.fun-club.mobi
 0.0.0.0 pr.nipa.co.th
 0.0.0.0 pr2.nipa.co.th
 0.0.0.0 praewpect.thaiza.com
@@ -4708,6 +4710,7 @@
 0.0.0.0 www.mtouche.com
 0.0.0.0 www.mweb.com
 0.0.0.0 www.myappfree.com
+0.0.0.0 www.myhoro.space
 0.0.0.0 www.mymaxbet.com
 0.0.0.0 www.mystyletip.com
 0.0.0.0 www.n-content.com
