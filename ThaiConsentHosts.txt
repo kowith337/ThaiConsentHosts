@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004082350
+# Version: 202004102009
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -126,6 +126,7 @@
 0.0.0.0 203.151.232.156
 0.0.0.0 203.170.193.117
 0.0.0.0 203.170.193.118
+0.0.0.0 203.170.193.119
 0.0.0.0 203.223.147.133
 0.0.0.0 203.223.159.245
 0.0.0.0 205.147.96.155
@@ -263,6 +264,7 @@
 0.0.0.0 androidappsfree.mobi
 0.0.0.0 angellanguageacademy.com
 0.0.0.0 anolog.mobi
+0.0.0.0 answireless.net
 0.0.0.0 apiv9.com
 0.0.0.0 aplay.tv
 0.0.0.0 aplaydigital.com
@@ -667,6 +669,7 @@
 0.0.0.0 hollywoodmobile.com
 0.0.0.0 hombet.tk
 0.0.0.0 homedeal.xyz
+0.0.0.0 homeways.com.tw
 0.0.0.0 hornygirls.mobi
 0.0.0.0 horolive.com
 0.0.0.0 horotalk.com
@@ -1929,6 +1932,7 @@
 0.0.0.0 console.moserv.co.th
 0.0.0.0 cont.mcommsg.com
 0.0.0.0 content.amkoonline.com
+0.0.0.0 content.answireless.net
 0.0.0.0 content.chzmobi.net
 0.0.0.0 content.eskimi.com
 0.0.0.0 content.gmpmobi.com
@@ -2978,6 +2982,7 @@
 0.0.0.0 magica.bluestwep.pw
 0.0.0.0 mail-hq.gmmdigital.com
 0.0.0.0 mail.ametechnology.co.th
+0.0.0.0 mail.answireless.net
 0.0.0.0 mail.arco.co.th
 0.0.0.0 mail.centili.com
 0.0.0.0 mail.ckwizard.com
@@ -4376,6 +4381,7 @@
 0.0.0.0 www.amkoonline.com
 0.0.0.0 www.androidappsfree.mobi
 0.0.0.0 www.anolog.mobi
+0.0.0.0 www.answireless.net
 0.0.0.0 www.aplaydigital.com
 0.0.0.0 www.aplaymusic.com
 0.0.0.0 www.app1.datapremium.net
@@ -4573,6 +4579,7 @@
 0.0.0.0 www.hjmbet.tk
 0.0.0.0 www.hollywoodmobile.com
 0.0.0.0 www.hombet.tk
+0.0.0.0 www.homeways.com.tw
 0.0.0.0 www.hornygirls.mobi
 0.0.0.0 www.horolive.com
 0.0.0.0 www.horotalk.com
