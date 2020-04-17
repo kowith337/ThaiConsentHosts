@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004121331
+# Version: 202004171757
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -383,6 +383,7 @@
 0.0.0.0 chiencenter.com
 0.0.0.0 chilliclubs.com
 0.0.0.0 chocoboard.com
+0.0.0.0 chooseandwinit.com
 0.0.0.0 chupa.mobi
 0.0.0.0 chz.mobi
 0.0.0.0 chzmobi.net
@@ -1033,6 +1034,7 @@
 0.0.0.0 ozura.com
 0.0.0.0 panshimob.com
 0.0.0.0 parisedlittled.info
+0.0.0.0 parcel-track-trace.co
 0.0.0.0 passwon.com
 0.0.0.0 pdanow.net
 0.0.0.0 peak-serving.com
@@ -4439,6 +4441,7 @@
 0.0.0.0 www.chickyclub.net
 0.0.0.0 www.chilliclubs.com
 0.0.0.0 www.chocoboard.com
+0.0.0.0 www.chooseandwinit.com
 0.0.0.0 www.chupa.mobi
 0.0.0.0 www.chz.mobi
 0.0.0.0 www.chzmobi.net
@@ -4754,6 +4757,7 @@
 0.0.0.0 www.opendayz.com
 0.0.0.0 www.ozura.com
 0.0.0.0 www.panshimob.com
+0.0.0.0 www.parcel-track-trace.co
 0.0.0.0 www.passwon.com
 0.0.0.0 www.pe.clubxzone.com
 0.0.0.0 www.pgortal.thumbr.com
