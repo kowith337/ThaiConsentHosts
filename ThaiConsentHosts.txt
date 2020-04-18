@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004171757
+# Version: 202004181605
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1072,6 +1072,7 @@
 0.0.0.0 pokienation.com
 0.0.0.0 porn93.com
 0.0.0.0 pornpt.icu
+0.0.0.0 post-track-trace.com
 0.0.0.0 pottymag.com
 0.0.0.0 powerlion.space
 0.0.0.0 premiumtraff.com
@@ -4786,6 +4787,7 @@
 0.0.0.0 www.portnl.thumbr.com
 0.0.0.0 www.potrtal.thumbr.com
 0.0.0.0 www.pourtal.thumbr.com
+0.0.0.0 www.post-track-trace.com
 0.0.0.0 www.povrtal.thumbr.com
 0.0.0.0 www.powerlion.space
 0.0.0.0 www.privacy-protect-webs-phone.club
