@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004190242
+# Version: 202004202354
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -466,6 +466,7 @@
 0.0.0.0 digitalngo.com
 0.0.0.0 digitalzoneng.com
 0.0.0.0 dindo.co.th
+0.0.0.0 dinoraptzor.org
 0.0.0.0 dittolite.com
 0.0.0.0 dlxxxvip.com
 0.0.0.0 dmk365.com
@@ -844,6 +845,7 @@
 0.0.0.0 media-bucket.com
 0.0.0.0 megafun24.com
 0.0.0.0 member2you.com
+0.0.0.0 metagme.org
 0.0.0.0 mexcomm.net
 0.0.0.0 mfun521.com
 0.0.0.0 mfunz.mobi
@@ -1089,6 +1091,7 @@
 0.0.0.0 privatewow.tv
 0.0.0.0 programablecontrol.com
 0.0.0.0 protectad.online
+0.0.0.0 protectbrowser.info
 0.0.0.0 protection-booster.club
 0.0.0.0 protection-booster.fun
 0.0.0.0 protection-booster.site
@@ -1301,6 +1304,7 @@
 0.0.0.0 thai-sms.com
 0.0.0.0 thai-voucher.com
 0.0.0.0 thai2mobi.com
+0.0.0.0 thaibetsite.com
 0.0.0.0 thaiboxwap.com
 0.0.0.0 thaifun4u.com
 0.0.0.0 thaimobile.com
