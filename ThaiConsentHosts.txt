@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004241316
+# Version: 202004252012
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1698,6 +1698,7 @@
 0.0.0.0 app2.getcools.com
 0.0.0.0 app2.shinee.com
 0.0.0.0 app3.shinee.com
+0.0.0.0 apple-warning.com
 0.0.0.0 apple.com-giveaway5.info
 0.0.0.0 apps.getcools.com
 0.0.0.0 apps.mobusi.com
