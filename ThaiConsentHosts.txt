@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202004301050
+# Version: 202005020045
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -17,17 +17,20 @@
 0.0.0.0 freezone.dtacplay.com
 0.0.0.0 gameroom.dtacplay.com
 0.0.0.0 hlifeplus.com
+0.0.0.0 luckydrawservice.com
 # 0.0.0.0 m.ais.co.th # Due to problem with some AIS apps
 0.0.0.0 m1.truelife.com
 0.0.0.0 m2.truelife.com
 0.0.0.0 m3.truelife.com
 0.0.0.0 music.dtacplay.com
 0.0.0.0 nextportal.hlifeplus.com
+0.0.0.0 rbt.truemoveh.com
 0.0.0.0 sdpwap.dtac.co.th
 0.0.0.0 srf.ais.co.th
 0.0.0.0 ss1.mobilelife.co.th
 0.0.0.0 ss2.mobilelife.co.th
 0.0.0.0 ss3.mobilelife.co.th
+0.0.0.0 trueh.luckydrawservice.com
 0.0.0.0 vas.dtac.co.th
 0.0.0.0 wap.dtac.co.th
 0.0.0.0 wap.mobilelife.co.th
@@ -1201,6 +1204,7 @@
 0.0.0.0 seacom.co.th
 0.0.0.0 seaman2u.com
 0.0.0.0 secudatago.com
+0.0.0.0 secure-guard.online
 0.0.0.0 securecloud-mb.com
 0.0.0.0 sedapmeesiam.gold
 0.0.0.0 segimaid.com
@@ -3433,6 +3437,7 @@
 0.0.0.0 picpost.nipa.co.th
 0.0.0.0 pies.shinee.com
 0.0.0.0 pioj1.bemobtrk.com
+0.0.0.0 pixel.protectad.online
 0.0.0.0 pjrtal.thumbr.com
 0.0.0.0 pk1.slypee.com
 0.0.0.0 pk2.slypee.com
