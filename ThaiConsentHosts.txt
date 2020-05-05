@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202005042324
+# Version: 202005051345
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -719,6 +719,7 @@
 0.0.0.0 innvariety.com
 0.0.0.0 innygang.com
 0.0.0.0 innygang.net
+0.0.0.0 installstechiefreeapp.club
 0.0.0.0 instantbabes.mobi
 0.0.0.0 integrativeanalytic.com
 0.0.0.0 interchan.com
@@ -1365,6 +1366,7 @@
 0.0.0.0 topvids.mobi
 0.0.0.0 trackinit.com
 0.0.0.0 trackmeplease.com
+0.0.0.0 tracksz.co
 0.0.0.0 trackvoluum.com
 0.0.0.0 traffic-c.com
 0.0.0.0 trafficshark.pro
@@ -1500,8 +1502,6 @@
 0.0.0.0 zomobie.com
 0.0.0.0 zop381q5o0q1.com
 0.0.0.0 zsaqls.com
-0.0.0.0 tracksz.co
-installstechiefreeapp.club
 # Variant - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 0ow.integrativeanalytic.com
 0.0.0.0 0zvpi1k.hbengineeringworks.com
