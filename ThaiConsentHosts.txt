@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202005070022
+# Version: 202005072134
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -48,6 +48,7 @@
 0.0.0.0 27.254.82.83
 0.0.0.0 43.231.124.161
 0.0.0.0 49.50.69.80
+0.0.0.0 52.74.143.118
 0.0.0.0 52.76.52.18
 0.0.0.0 52.76.89.151
 0.0.0.0 52.76.242.20
@@ -719,6 +720,7 @@
 0.0.0.0 homedeal.xyz
 0.0.0.0 homeways.com.tw
 0.0.0.0 hornygirls.mobi
+0.0.0.0 horohooray.com
 0.0.0.0 horolive.com
 0.0.0.0 horotalk.com
 0.0.0.0 horoworld.com
@@ -823,6 +825,7 @@
 0.0.0.0 letgomobile.com
 0.0.0.0 liferrim.pw
 0.0.0.0 likefreever.com
+0.0.0.0 likelikeyour.com
 0.0.0.0 likemyhistory.info
 0.0.0.0 link-boost.com
 0.0.0.0 linkbooster.xyz
@@ -4251,6 +4254,7 @@
 0.0.0.0 videocasalinghi.realgirls.mobi
 0.0.0.0 vidxx.playclub.me
 0.0.0.0 vip.accu-tag.com
+0.0.0.0 vip.likelikeyour.com
 0.0.0.0 vipgames.upp.st
 0.0.0.0 vitamilktogopromotion.eggdigital.com
 0.0.0.0 vkhe3m8n.programablecontrol.com
@@ -4759,6 +4763,7 @@
 0.0.0.0 www.hombet.tk
 0.0.0.0 www.homeways.com.tw
 0.0.0.0 www.hornygirls.mobi
+0.0.0.0 www.horohooray.com
 0.0.0.0 www.horolive.com
 0.0.0.0 www.horotalk.com
 0.0.0.0 www.horoworld.com
