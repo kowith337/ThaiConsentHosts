@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202005072134
+# Version: 202005111409
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -786,6 +786,7 @@
 0.0.0.0 karysale.pw
 0.0.0.0 katrac.com
 0.0.0.0 key-travel.com
+0.0.0.0 kfc-box.club
 0.0.0.0 khelbazar.in
 0.0.0.0 kilomniadstaz.info
 0.0.0.0 kingstar.pw
@@ -4800,6 +4801,7 @@
 0.0.0.0 www.kaka-games.com
 0.0.0.0 www.kangped.com
 0.0.0.0 www.kangsom.com
+0.0.0.0 www.kfc-box.club
 0.0.0.0 www.kjwbet.tk
 0.0.0.0 www.klinikasmara.com
 0.0.0.0 www.knsbet.tk
