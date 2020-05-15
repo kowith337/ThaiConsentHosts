@@ -21,7 +21,7 @@
 ### Statement
 1. This list possibly false positive against anyone who use this list outside `Thailand` due to some or most of sites can retrieve additional information through `HTTP Header` that shipped with outgoing traffic from mobile data, I'm afraid that any sites who can read or extract information from header can use them for make their (and any mobile carriers that possibly also get shared) profits.
 2. The also blocking their main websites is only to make sure that you will not reaching to those domains and/or companies, since their have some API to getting or resolving header data (mostly known as `MSISDN`), they may possibly get and/or use your phone numbers for sent fake requests to mobile operator network that you've intentionally subscribe to some of their wasteful content by your own!
-> Although, you didn't really do that, eithger!
+> Although, you didn't really do that, either!
 
 
 ### Remark
