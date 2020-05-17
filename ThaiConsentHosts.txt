@@ -1,14 +1,18 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202005111409
+# Version: 202005172346
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Mirror: https://gitlab.com/kowith337/ThaiConsentHosts/raw/master/ThaiConsentHosts.txt
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 # Operator  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+0.0.0.0 777visualivr.ais.co.th
+0.0.0.0 adfspxy.ais.co.th
 0.0.0.0 adn.ais.co.th
 0.0.0.0 adnlog.ais.co.th
+0.0.0.0 ads.ais.co.th
+0.0.0.0 aisvisualivr.ais.co.th
 0.0.0.0 comenu.ais.co.th
 0.0.0.0 consent.dtac.co.th
 0.0.0.0 consentprt.dtac.co.th
@@ -17,25 +21,33 @@
 0.0.0.0 freezone.dtacplay.com
 0.0.0.0 gameroom.dtacplay.com
 0.0.0.0 hlifeplus.com
+0.0.0.0 iot-srf.ais.co.th
 0.0.0.0 luckydrawservice.com
 # 0.0.0.0 m.ais.co.th # Due to problem with some AIS apps
 0.0.0.0 m1.truelife.com
 0.0.0.0 m2.truelife.com
 0.0.0.0 m3.truelife.com
+0.0.0.0 mobileadapi.ais.co.th
 0.0.0.0 music.dtacplay.com
 0.0.0.0 nextportal.hlifeplus.com
 0.0.0.0 rbt.truemoveh.com
 0.0.0.0 sdpwap.dtac.co.th
 0.0.0.0 srf.ais.co.th
+0.0.0.0 srf-pg.ais.co.th
 0.0.0.0 ss1.mobilelife.co.th
 0.0.0.0 ss2.mobilelife.co.th
 0.0.0.0 ss3.mobilelife.co.th
 0.0.0.0 trueh.luckydrawservice.com
 0.0.0.0 vas.dtac.co.th
+0.0.0.0 vplus.ais.co.th
+0.0.0.0 vuclip.ais.co.th
 0.0.0.0 wap.dtac.co.th
 0.0.0.0 wap.mobilelife.co.th
 0.0.0.0 wapng.dtac.co.th
 0.0.0.0 ws-adv.ais.co.th
+0.0.0.0 ws1.mobilelife.co.th
+0.0.0.0 ws2.mobilelife.co.th
+0.0.0.0 ws3.mobilelife.co.th
 0.0.0.0 ww1.mobilelife.co.th
 0.0.0.0 ww2.mobilelife.co.th
 0.0.0.0 ww3.mobilelife.co.th
@@ -366,6 +378,7 @@
 0.0.0.0 bestwomenintown.com
 0.0.0.0 betreat.com
 0.0.0.0 bigdoremi.com
+0.0.0.0 biggerthanyou14.live
 0.0.0.0 bigolives.tv
 0.0.0.0 bikesales.com.au
 0.0.0.0 billmscurlrev.com
@@ -4265,7 +4278,6 @@
 0.0.0.0 vn.sunnygames.club
 0.0.0.0 voices.n-content.com
 0.0.0.0 voip.shinee.com
-0.0.0.0 vplus.ais.co.th
 0.0.0.0 vpn.centili.com
 0.0.0.0 vpn.gmmdigital.com
 0.0.0.0 vpn.gmmwireless.com
@@ -4282,7 +4294,6 @@
 0.0.0.0 vu7.vuclip.com
 0.0.0.0 vu8.vuclip.com
 0.0.0.0 vu9.vuclip.com
-0.0.0.0 vuclip.ais.co.th
 0.0.0.0 vwin.python-libs.com
 0.0.0.0 vzla.vuclip.com
 0.0.0.0 w.1moby.com
