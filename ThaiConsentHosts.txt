@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202005190043
+# Version: 202005191944
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -13,9 +13,11 @@
 0.0.0.0 adnlog.ais.co.th
 0.0.0.0 ads.ais.co.th
 0.0.0.0 aisvisualivr.ais.co.th
+0.0.0.0 aoc.hlifeplus.com
 0.0.0.0 comenu.ais.co.th
 0.0.0.0 consent.dtac.co.th
 0.0.0.0 consentprt.dtac.co.th
+0.0.0.0 contentactivities.hlifeplus.com
 0.0.0.0 ddch.dtac.co.th
 0.0.0.0 dtacplay.com
 0.0.0.0 freezone.dtacplay.com
@@ -51,6 +53,7 @@
 0.0.0.0 ww1.mobilelife.co.th
 0.0.0.0 ww2.mobilelife.co.th
 0.0.0.0 ww3.mobilelife.co.th
+0.0.0.0 www.hlifeplus.com
 # IP Address  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 10.104.143.133
 0.0.0.0 13.76.87.1
@@ -243,6 +246,7 @@
 0.0.0.0 afftrack-data.com
 0.0.0.0 afftrack.com
 0.0.0.0 affxx.com
+0.0.0.0 agoodplus.com
 0.0.0.0 ahyoyo.com
 0.0.0.0 aielber.com
 0.0.0.0 airpush.com
@@ -2976,6 +2980,7 @@
 0.0.0.0 lxkrt.bemobtrk.com
 0.0.0.0 m-online.gameziz.com
 0.0.0.0 m.7banana.com
+0.0.0.0 m.7me.co
 0.0.0.0 m.ae.ar.cool4mob.com
 0.0.0.0 m.ae.en.cool4mob.com
 0.0.0.0 m.amkomobile.com
@@ -4564,6 +4569,7 @@
 0.0.0.0 www.affichaos.com
 0.0.0.0 www.affxx.com
 0.0.0.0 www.afoss.nipa.co.th
+0.0.0.0 www.agoodplus.com
 0.0.0.0 www.ahyoyo.com
 0.0.0.0 www.akazoo.com
 0.0.0.0 www.alivetoyou.com
@@ -4827,6 +4833,7 @@
 0.0.0.0 www.ku88ku.tk
 0.0.0.0 www.kumchanod.com
 0.0.0.0 www.lalamobi.com
+0.0.0.0 www.larnload.com
 0.0.0.0 www.lbc8.tk
 0.0.0.0 www.lehbet.tk
 0.0.0.0 www.letgomobile.com
