@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202005172346
+# Version: 202005190043
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -311,6 +311,7 @@
 0.0.0.0 allbet24hr.com
 0.0.0.0 allforbetthailand.com
 0.0.0.0 alpha-mobi.com
+0.0.0.0 alphacell.co
 0.0.0.0 ametechnology.co.th
 0.0.0.0 amkomobile.com
 0.0.0.0 amkoonline.com
@@ -3351,6 +3352,7 @@
 0.0.0.0 moviemaster.vipgames.me
 0.0.0.0 mp3download.gmmwireless.com
 0.0.0.0 ms-21.likemyhistory.info
+0.0.0.0 ms.alphacell.co
 0.0.0.0 ms.mktrack.com
 0.0.0.0 msbobetlivecasino.aradamandson.com
 0.0.0.0 msisdn.terragonbase.com
@@ -4568,6 +4570,7 @@
 0.0.0.0 www.allbet24hr.com
 0.0.0.0 www.allforbetthailand.com
 0.0.0.0 www.alpha-mobi.com
+0.0.0.0 www.alphacell.co
 0.0.0.0 www.ametechnology.co.th
 0.0.0.0 www.amkomobile.com
 0.0.0.0 www.amkoonline.com
