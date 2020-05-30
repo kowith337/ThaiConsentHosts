@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202005291240
+# Version: 202005301251
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -351,6 +351,7 @@
 0.0.0.0 atmail.nl
 0.0.0.0 authbill.com
 0.0.0.0 autoportal.com
+0.0.0.0 auulala.com
 0.0.0.0 awap.tv
 0.0.0.0 awolf.mobi
 0.0.0.0 awz.bz
@@ -365,6 +366,7 @@
 0.0.0.0 bakerssolution.com
 0.0.0.0 ballhotclub.com
 0.0.0.0 bamobile.com
+0.0.0.0 ban-terng.com
 0.0.0.0 bandlane.com
 0.0.0.0 bbcmvdo.com
 0.0.0.0 bbcontent.co.th
@@ -444,6 +446,7 @@
 0.0.0.0 chickyclub.net
 0.0.0.0 chiencenter.com
 0.0.0.0 chilliclubs.com
+0.0.0.0 chillmoby.com
 0.0.0.0 chocoboard.com
 0.0.0.0 chooseandwinit.com
 0.0.0.0 chupa.mobi
@@ -455,12 +458,14 @@
 0.0.0.0 clausiafze.com
 0.0.0.0 click404.net
 0.0.0.0 clickdealer.com
+0.0.0.0 clickdedee.com
 0.0.0.0 clickmlife.com
 0.0.0.0 clickmultimedia.co.th
 0.0.0.0 clickstk.com
 0.0.0.0 clickwinks.com
 0.0.0.0 clip.vu
 0.0.0.0 clipcute.info
+0.0.0.0 clipdonjai.com
 0.0.0.0 closetologie.com
 0.0.0.0 cloudcnt.com
 0.0.0.0 cloudify.cc
@@ -708,6 +713,7 @@
 0.0.0.0 gtzlz.com
 0.0.0.0 guideball.com
 0.0.0.0 guru3step.com
+0.0.0.0 guruhahey.com
 0.0.0.0 gw2cloud.com
 0.0.0.0 gzazone.com
 0.0.0.0 hack-dragon-city.com
@@ -791,6 +797,8 @@
 0.0.0.0 itthai.com
 0.0.0.0 ivalent.com
 0.0.0.0 izenmobi.com
+0.0.0.0 jadjann.com
+0.0.0.0 jamloey.com
 0.0.0.0 jibhd.com
 0.0.0.0 jinshengpacking.com
 0.0.0.0 jiudianzhaopin.com
@@ -1204,6 +1212,7 @@
 0.0.0.0 playwork.co.th
 0.0.0.0 playzone.mobi
 0.0.0.0 pleasurehere.com
+0.0.0.0 plern-jai.com
 0.0.0.0 pluckyaff.com
 0.0.0.0 pluckynetwork.com
 0.0.0.0 podanover.pw
@@ -1443,6 +1452,7 @@
 0.0.0.0 streamsharp.com
 0.0.0.0 studiox-babes.com
 0.0.0.0 success-is-in-reach.com
+0.0.0.0 sudjad.com
 0.0.0.0 suffonect.pw
 0.0.0.0 suhtbneyq.cf
 0.0.0.0 sumone.mobi
@@ -4612,11 +4622,13 @@
 0.0.0.0 www.atlanbox.com
 0.0.0.0 www.atmail.nl
 0.0.0.0 www.au.clubxzone.com
+0.0.0.0 www.auulala.com
 0.0.0.0 www.axmtracker.com
 0.0.0.0 www.bacc1688.mobi
 0.0.0.0 www.bacc1688a.com
 0.0.0.0 www.ballhotclub.com
 0.0.0.0 www.bamobile.com
+0.0.0.0 www.ban-terng.com
 0.0.0.0 www.bbcontent.co.th
 0.0.0.0 www.bcomnetwork.com
 0.0.0.0 www.bestphoneapps.mobi
@@ -4646,6 +4658,7 @@
 0.0.0.0 www.chickcell.com
 0.0.0.0 www.chickyclub.net
 0.0.0.0 www.chilliclubs.com
+0.0.0.0 www.chillmoby.com
 0.0.0.0 www.chocoboard.com
 0.0.0.0 www.chooseandwinit.com
 0.0.0.0 www.chupa.mobi
@@ -4655,9 +4668,11 @@
 0.0.0.0 www.cl.clubxzone.com
 0.0.0.0 www.clausiafze.com
 0.0.0.0 www.clickdealer.com
+0.0.0.0 www.clickdedee.com
 0.0.0.0 www.clickmlife.com
 0.0.0.0 www.clickmultimedia.co.th
 0.0.0.0 www.clickstk.com
+0.0.0.0 www.clipdonjai.com
 0.0.0.0 www.cloudify.cc
 0.0.0.0 www.clubtigermob.com
 0.0.0.0 www.clubxzone.com
@@ -4783,6 +4798,7 @@
 0.0.0.0 www.gtzlz.com
 0.0.0.0 www.guideball.com
 0.0.0.0 www.guru3step.com
+0.0.0.0 www.guruhahey.com
 0.0.0.0 www.handysms.com
 0.0.0.0 www.happywinning.com
 0.0.0.0 www.hayhaa.com
@@ -4826,6 +4842,8 @@
 0.0.0.0 www.itthai.com
 0.0.0.0 www.ivalent.com
 0.0.0.0 www.jabber.momoko.co
+0.0.0.0 www.jadjann.com
+0.0.0.0 www.jamloey.com
 0.0.0.0 www.jiudianzhaopin.com
 0.0.0.0 www.jmtt.co.th
 0.0.0.0 www.joker123xo.com
@@ -4983,6 +5001,7 @@
 0.0.0.0 www.pl.clubxzone.com
 0.0.0.0 www.playmobileapp.com
 0.0.0.0 www.playplay.in.th
+0.0.0.0 www.plern-jai.com
 0.0.0.0 www.pluckynetwork.com
 0.0.0.0 www.poatal.thumbr.com
 0.0.0.0 www.pohrtal.thumbr.com
@@ -5078,6 +5097,7 @@
 0.0.0.0 www.spak.me
 0.0.0.0 www.spicyvideos.mobi
 0.0.0.0 www.stormobi.com
+0.0.0.0 www.sudjad.com
 0.0.0.0 www.sun-system.com
 0.0.0.0 www.suncity.online
 0.0.0.0 www.sv1.thinksmart.co.th
