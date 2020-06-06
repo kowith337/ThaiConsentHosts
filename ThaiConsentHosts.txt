@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202006011446
+# Version: 202006062237
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -969,6 +969,7 @@
 0.0.0.0 mobilegameblast.com
 0.0.0.0 mobilegamepass.com
 0.0.0.0 mobilejmp.com
+0.0.0.0 mobilephonechance.site
 0.0.0.0 mobilesenses.com
 0.0.0.0 mobilesexlife.mobi
 0.0.0.0 mobilesitexxx.com
@@ -5541,6 +5542,7 @@
 0.0.0.0 www.mobilefunny.com
 0.0.0.0 www.mobilegamepass.com
 0.0.0.0 www.mobilejmp.com
+0.0.0.0 www.mobilephonechance.site
 0.0.0.0 www.mobilesenses.com
 0.0.0.0 www.mobilesexlife.mobi
 0.0.0.0 www.mobilesitexxx.com
