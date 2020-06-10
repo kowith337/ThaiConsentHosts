@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202006100958
+# Version: 202006101004
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -896,6 +896,7 @@
 0.0.0.0 maciejdoryk.com
 0.0.0.0 macrokiosk.com
 0.0.0.0 maejaow.com
+0.0.0.0 maesot168.com
 0.0.0.0 magent.my
 0.0.0.0 magikmobile.mobi
 0.0.0.0 mai88.com
@@ -5506,6 +5507,7 @@
 0.0.0.0 www.m3shoppe.in.th
 0.0.0.0 www.m3tech.co.th
 0.0.0.0 www.macrokiosk.com
+0.0.0.0 www.maesot168.com
 0.0.0.0 www.magent.my
 0.0.0.0 www.mai88.com
 0.0.0.0 www.marhasanook.com
