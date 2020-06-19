@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
-# Title: ThaiConsentHosts
-# Version: 202006190051
+# Title: ThaiConsentHosts (IP Blocklist)
+# Version: 202006190756
 # Author: kowith337
 # Expires: 2 days
 # Description: Responsing to some users who use ThaiConsentHosts and found out I've also block some IP addresses that might be
