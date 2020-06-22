@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202006190051
+# Version: 202006221811
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1287,6 +1287,7 @@
 0.0.0.0 rotationurls.com
 0.0.0.0 royalads.net
 0.0.0.0 rsalcch.com
+0.0.0.0 runewfugift.xyz
 0.0.0.0 rushvip.net
 0.0.0.0 ryhopset.pw
 0.0.0.0 s-bobet.com
