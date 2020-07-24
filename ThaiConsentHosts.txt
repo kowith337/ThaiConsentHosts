@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202007041514
+# Version: 202007232309
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -821,6 +821,7 @@
 0.0.0.0 mastermovie-hd.mobi
 0.0.0.0 matchme.com.ng
 0.0.0.0 maxforecast.com
+0.0.0.0 maximob4u.com
 0.0.0.0 maxmall.pw
 0.0.0.0 may91.vn
 0.0.0.0 mayrondigital.com
@@ -5911,6 +5912,7 @@
 0.0.0.0 www.mastermovie-hd.mobi
 0.0.0.0 www.matchme.com.ng
 0.0.0.0 www.maxforecast.com
+0.0.0.0 www.maximob4u.com
 0.0.0.0 www.maxmall.pw
 0.0.0.0 www.may91.vn
 0.0.0.0 www.mayrondigital.com
