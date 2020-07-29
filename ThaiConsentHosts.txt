@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202007232309
+# Version: 202007291915
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -797,6 +797,7 @@
 0.0.0.0 lpaosub.com
 0.0.0.0 lqmbet.tk
 0.0.0.0 ltvperf.com
+0.0.0.0 lucabetasia.com
 0.0.0.0 lucky6lucky.club
 0.0.0.0 luckymobileuser.club
 0.0.0.0 luckyyouna.com
@@ -5884,6 +5885,7 @@
 0.0.0.0 www.lpaosub.com
 0.0.0.0 www.lqmbet.tk
 0.0.0.0 www.ltvperf.com
+0.0.0.0 www.lucabetasia.com
 0.0.0.0 www.lucky6lucky.club
 0.0.0.0 www.luckymobileuser.club
 0.0.0.0 www.luckyyouna.com
