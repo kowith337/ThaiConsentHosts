@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202007291915
+# Version: 202008121732
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1500,6 +1500,7 @@
 0.0.0.0 trafficshark.pro
 0.0.0.0 traffikflow.com
 0.0.0.0 trakkthisfor.info
+0.0.0.0 transcendent.shop
 0.0.0.0 travid.mobi
 0.0.0.0 trck2020.club
 0.0.0.0 trclndrs.xyz
