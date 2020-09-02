@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202008172016
+# Version: 202009021335
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -401,6 +401,7 @@
 0.0.0.0 comedymunch.com
 0.0.0.0 comudjet.pw
 0.0.0.0 consested-opplyield.com
+0.0.0.0 consummate.shop
 0.0.0.0 content-cafe.com
 0.0.0.0 contentbox.stream
 0.0.0.0 contentdd.net
@@ -5666,6 +5667,7 @@
 0.0.0.0 www.comudjet.pw
 0.0.0.0 www.conn.getcools.com
 0.0.0.0 www.consested-opplyield.com
+0.0.0.0 www.consummate.shop
 0.0.0.0 www.content-cafe.com
 0.0.0.0 www.contentbox.stream
 0.0.0.0 www.contentdd.net
