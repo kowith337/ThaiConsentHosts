@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202009021335
+# Version: 202009042046
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -820,6 +820,7 @@
 0.0.0.0 magikmobile.mobi
 0.0.0.0 mai88.com
 0.0.0.0 makeprogress.shop
+0.0.0.0 makingcompensate.shop
 0.0.0.0 malanden.pw
 0.0.0.0 manymy.com
 0.0.0.0 marhasanook.com
@@ -6121,6 +6122,7 @@
 0.0.0.0 www.magikmobile.mobi
 0.0.0.0 www.mai88.com
 0.0.0.0 www.makeprogress.shop
+0.0.0.0 www.makingcompensate.shop
 0.0.0.0 www.malanden.pw
 0.0.0.0 www.manymy.com
 0.0.0.0 www.marhasanook.com
