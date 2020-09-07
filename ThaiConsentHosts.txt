@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202009042046
+# Version: 202009072150
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -725,6 +725,7 @@
 0.0.0.0 jibhd.com
 0.0.0.0 jinshengpacking.com
 0.0.0.0 jiudianzhaopin.com
+0.0.0.0 jkuailai.com
 0.0.0.0 jmtt.co.th
 0.0.0.0 joker123xo.com
 0.0.0.0 joybaerfrescoes.com
@@ -1664,6 +1665,7 @@
 0.0.0.0 0ow.integrativeanalytic.com
 0.0.0.0 0zvpi1k.hbengineeringworks.com
 0.0.0.0 0zxbn.trackvoluum.com
+0.0.0.0 1.jkuailai.com
 0.0.0.0 104-219-46-67.kochava.com
 0.0.0.0 104-219-46-68.kochava.com
 0.0.0.0 104-219-46-69.kochava.com
@@ -1728,6 +1730,7 @@
 0.0.0.0 1st.lpalice2appsmart.com
 0.0.0.0 1xbetbet.bakerssolution.com
 0.0.0.0 1zngd.bemobtrk.com
+0.0.0.0 2.jkuailai.com
 0.0.0.0 2048kg.findgit.com
 0.0.0.0 21s3u.bemobtrk.com
 0.0.0.0 2222.thinksmart.co.th
@@ -1741,6 +1744,7 @@
 0.0.0.0 2uz.cpinfantil.com
 0.0.0.0 2v1y3.bemobtrk.com
 0.0.0.0 2vci0.trackvoluum.com
+0.0.0.0 3.jkuailai.com
 0.0.0.0 332823.measurementapi.com
 0.0.0.0 360.monoinfosystems.com
 0.0.0.0 365betlive.python-libs.com
