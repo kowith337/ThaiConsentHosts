@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202009091929
+# Version: 202009152200
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -328,6 +328,7 @@
 0.0.0.0 bptr88.com
 0.0.0.0 braverymobtracking.com
 0.0.0.0 brazzers93.com
+0.0.0.0 breaknews.life
 0.0.0.0 breathing-love.com
 0.0.0.0 bridgemob.com
 0.0.0.0 brucelead.com
@@ -1317,6 +1318,7 @@
 0.0.0.0 sabsabonline.com
 0.0.0.0 sabver.com
 0.0.0.0 sadman3.icu
+0.0.0.0 sagame-auto.com
 0.0.0.0 sagame66.co
 0.0.0.0 sagame66.com
 0.0.0.0 saleplus.vn
@@ -5824,6 +5826,7 @@
 0.0.0.0 www.bptr88.com
 0.0.0.0 www.braverymobtracking.com
 0.0.0.0 www.brazzers93.com
+0.0.0.0 www.breaknews.life
 0.0.0.0 www.breathing-love.com
 0.0.0.0 www.bridgemob.com
 0.0.0.0 www.brucelead.com
@@ -6890,6 +6893,7 @@
 0.0.0.0 www.sabsabonline.com
 0.0.0.0 www.sabver.com
 0.0.0.0 www.sadman3.icu
+0.0.0.0 www.sagame-auto.com
 0.0.0.0 www.sagame66.co
 0.0.0.0 www.sagame66.com
 0.0.0.0 www.saleplus.vn
