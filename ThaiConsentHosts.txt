@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202009152200
+# Version: 202009171859
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -82,6 +82,7 @@
 0.0.0.0 32255.com
 0.0.0.0 33luo.com
 0.0.0.0 38.net
+0.0.0.0 3838111.com
 0.0.0.0 3mobilecontents.net
 0.0.0.0 3storage.net
 0.0.0.0 430.com
@@ -5569,6 +5570,7 @@
 0.0.0.0 www.32255.com
 0.0.0.0 www.33luo.com
 0.0.0.0 www.38.net
+0.0.0.0 www.3838111.com
 0.0.0.0 www.3mobilecontents.net
 0.0.0.0 www.3storage.net
 0.0.0.0 www.430.com
