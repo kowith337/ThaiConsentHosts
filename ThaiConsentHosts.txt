@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202009171859
+# Version: 202009251248
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1654,6 +1654,7 @@
 0.0.0.0 yuppyuppytv.com
 0.0.0.0 yuqazate.com
 0.0.0.0 z8.com
+0.0.0.0 z82020.com
 0.0.0.0 z8888.app
 0.0.0.0 zagmob.com
 0.0.0.0 zeanhot.com
@@ -7264,6 +7265,7 @@
 0.0.0.0 www.yuppyuppytv.com
 0.0.0.0 www.yuqazate.com
 0.0.0.0 www.z8.com
+0.0.0.0 www.z82020.com
 0.0.0.0 www.zagmob.com
 0.0.0.0 www.zeanhot.com
 0.0.0.0 www.zeankickoff.com
