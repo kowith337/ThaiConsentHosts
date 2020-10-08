@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202010052303
+# Version: 202010082026
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -76,6 +76,7 @@
 0.0.0.0 1mov.co
 0.0.0.0 2-spot.com
 0.0.0.0 20150917.com
+0.0.0.0 20icipp.com
 0.0.0.0 2abdanismanlik.com
 0.0.0.0 2get2load.com
 0.0.0.0 321load.com
@@ -1558,6 +1559,7 @@
 0.0.0.0 unpuzzled.net
 0.0.0.0 upp.st
 0.0.0.0 uropportunity.com
+0.0.0.0 v432.com
 0.0.0.0 vasglobalnetwork.com
 0.0.0.0 vasgn.com
 0.0.0.0 vassolution.com
@@ -2125,6 +2127,7 @@
 0.0.0.0 api.shoopadoo.com
 0.0.0.0 api.starchef.mobi
 0.0.0.0 api.tk.gmmwireless.com
+0.0.0.0 api.v432.com
 0.0.0.0 api0.nipa.co.th
 0.0.0.0 api1.nipa.co.th
 0.0.0.0 apig.mfunz.mobi
@@ -2520,6 +2523,7 @@
 0.0.0.0 crje.nbryb.com
 0.0.0.0 cs.ph.momoko.co
 0.0.0.0 cs3yl.bemobtrk.com
+0.0.0.0 csi.20icipp.com
 0.0.0.0 csi.kochava.com
 0.0.0.0 csza.ctrackz.net
 0.0.0.0 ct.mobi2u.mobi
@@ -5579,6 +5583,7 @@
 0.0.0.0 www.1mov.co
 0.0.0.0 www.2-spot.com
 0.0.0.0 www.20150917.com
+0.0.0.0 www.20icipp.com
 0.0.0.0 www.2abdanismanlik.com
 0.0.0.0 www.2get2load.com
 0.0.0.0 www.321load.com
@@ -7175,6 +7180,7 @@
 0.0.0.0 www.unpuzzled.net
 0.0.0.0 www.upp.st
 0.0.0.0 www.uropportunity.com
+0.0.0.0 www.v432.com
 0.0.0.0 www.vasglobalnetwork.com
 0.0.0.0 www.vasgn.com
 0.0.0.0 www.vassolution.com
