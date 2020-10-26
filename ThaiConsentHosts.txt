@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202010262124
+# Version: 202010262210
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1488,6 +1488,7 @@
 0.0.0.0 thaibetsite.com
 0.0.0.0 thaiboxwap.com
 0.0.0.0 thaifun4u.com
+0.0.0.0 thaimob4u.com
 0.0.0.0 thaimobile.com
 0.0.0.0 thaisync.com
 0.0.0.0 thaiwapportal.com
@@ -1794,8 +1795,8 @@
 0.0.0.0 8tyo.nbryb.com
 0.0.0.0 8wpz.nbryb.com
 0.0.0.0 9.nbryb.com
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9g7i.nbryb.com
+0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9ij29.trackvoluum.com
@@ -3237,8 +3238,8 @@
 0.0.0.0 h5.walletfun.com
 0.0.0.0 h6.walletfun.com
 0.0.0.0 h7.walletfun.com
-0.0.0.0 h8.walletfun.com
 0.0.0.0 h08otsc3.acupofcafeconleche.com
+0.0.0.0 h8.walletfun.com
 0.0.0.0 h9.walletfun.com
 0.0.0.0 h9di0.trackvoluum.com
 0.0.0.0 hab3n.trackvoluum.com
@@ -7129,6 +7130,7 @@
 0.0.0.0 www.thaibetsite.com
 0.0.0.0 www.thaiboxwap.com
 0.0.0.0 www.thaifun4u.com
+0.0.0.0 www.thaimob4u.com
 0.0.0.0 www.thaimobile.com
 0.0.0.0 www.thaisync.com
 0.0.0.0 www.thaiwapportal.com
