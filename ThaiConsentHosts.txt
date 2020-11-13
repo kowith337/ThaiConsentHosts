@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202010262210
+# Version: 202011131944
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -327,6 +327,7 @@
 0.0.0.0 bmobil.net
 0.0.0.0 bodelen.com
 0.0.0.0 bonbonmob.com
+0.0.0.0 boobi.biz
 0.0.0.0 bothtrk.com
 0.0.0.0 bptr88.com
 0.0.0.0 braverymobtracking.com
@@ -1794,9 +1795,9 @@
 0.0.0.0 8qy.hack-dragon-city.com
 0.0.0.0 8tyo.nbryb.com
 0.0.0.0 8wpz.nbryb.com
+0.0.0.0 09am.nbryb.com
 0.0.0.0 9.nbryb.com
 0.0.0.0 9g7i.nbryb.com
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9ij29.trackvoluum.com
@@ -4132,6 +4133,7 @@
 0.0.0.0 mrml1.trackvoluum.com
 0.0.0.0 ms-21.likemyhistory.info
 0.0.0.0 ms.alphacell.co
+0.0.0.0 ms.boobi.biz
 0.0.0.0 ms.mktrack.com
 0.0.0.0 msbobetlivecasino.aradamandson.com
 0.0.0.0 msisdn.halocell.com
@@ -5872,6 +5874,7 @@
 0.0.0.0 www.bmobil.net
 0.0.0.0 www.bodelen.com
 0.0.0.0 www.bonbonmob.com
+0.0.0.0 www.boobi.biz
 0.0.0.0 www.boos.vuclip.com
 0.0.0.0 www.bothtrk.com
 0.0.0.0 www.bptr88.com
