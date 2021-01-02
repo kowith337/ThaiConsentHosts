@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202011282241
+# Version: 202101021555
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -816,6 +816,7 @@
 0.0.0.0 lpalice2appsmart.com
 0.0.0.0 lpaosub.com
 0.0.0.0 lqmbet.tk
+0.0.0.0 ltitrk.com
 0.0.0.0 ltvperf.com
 0.0.0.0 lucabetasia.com
 0.0.0.0 lucky6lucky.club
@@ -1639,6 +1640,7 @@
 0.0.0.0 web-parcel-tracking.com
 0.0.0.0 webdevwebsnew.club
 0.0.0.0 weddingdayphotographerparis.com
+0.0.0.0 werftipo.com
 0.0.0.0 wesliptu.pw
 0.0.0.0 wheretobuydiettrex.com
 0.0.0.0 wifistudy.com
@@ -6409,6 +6411,7 @@
 0.0.0.0 www.lpgoforapk.phoemobi.com
 0.0.0.0 www.lpnow.phoemobi.com
 0.0.0.0 www.lqmbet.tk
+0.0.0.0 www.ltitrk.com
 0.0.0.0 www.ltvperf.com
 0.0.0.0 www.lucabetasia.com
 0.0.0.0 www.lucky6lucky.club
@@ -7305,6 +7308,7 @@
 0.0.0.0 www.web.vuclip.com
 0.0.0.0 www.webdevwebsnew.club
 0.0.0.0 www.weddingdayphotographerparis.com
+0.0.0.0 www.werftipo.com
 0.0.0.0 www.wesliptu.pw
 0.0.0.0 www.wheretobuydiettrex.com
 0.0.0.0 www.wifi.thinksmart.co.th
