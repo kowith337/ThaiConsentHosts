@@ -1,18 +1,20 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts (IP Blocklist)
-# Version: 202101291929
+# Version: 202103042028
 # Author: kowith337
 # Expires: 2 days
 # Description: Responsing to some users who use ThaiConsentHosts and found out I've also block some IP addresses that might be
-#              bad idea to block them, however, because some services legitimately use IP address to serve confirmation page or
-#              submit HTTP requests to those IPs, even use different and unusual ports (rather than HTTP[80] and HTTPS[443]),
-#              I will keep those IP address rules here instead of shift into the main hosts list.
+#              bad idea to block them, however, because some services intentionally use IP address to serve contents of their
+#              services, redirect to confirmation page or submit HTTP requests to those IPs, even use different and unusual ports
+#              (rather than HTTP[80] and/or HTTPS[443]), I will keep those IP address rules here instead of shift into the main
+#              hosts list.
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Mirror: https://gitlab.com/kowith337/ThaiConsentHosts/raw/master/ThaiConsentHosts-IPList.txt
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 # IP Address  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 10.104.143.133
 13.76.87.1
+13.251.242.129
 27.100.44.80
 27.100.44.214
 27.254.82.82
