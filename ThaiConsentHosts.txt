@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202103151909
+# Version: 202103252022
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -386,6 +386,7 @@
 0.0.0.0 chzmobi.net
 0.0.0.0 ciga.xyz
 0.0.0.0 circultural.com
+0.0.0.0 circus88th.com
 0.0.0.0 ckwizard.com
 0.0.0.0 clausiafze.com
 0.0.0.0 click404.net
@@ -485,16 +486,20 @@
 0.0.0.0 dsglp.com
 0.0.0.0 dsgpy.com
 0.0.0.0 durarenti.pw
+0.0.0.0 dxsrz.org.cn
 0.0.0.0 e668ou.com
 0.0.0.0 e-nee.co
 0.0.0.0 ebizmobile.com
 0.0.0.0 ectionma.pw
 0.0.0.0 edenadoptionagency.com
+0.0.0.0 edtfiles-media.com
+0.0.0.0 edtguide.com
 0.0.0.0 eggdigital.com
 0.0.0.0 eggreadyweb.com
 0.0.0.0 eiei.net
 0.0.0.0 eim88.tk
 0.0.0.0 ejobet.tk
+0.0.0.0 elinks.io
 0.0.0.0 enemy-adult-scared-there.xyz
 0.0.0.0 enfothe.pw
 0.0.0.0 enjoy108.com
@@ -1328,6 +1333,7 @@
 0.0.0.0 rewardnow.com
 0.0.0.0 rfebet.tk
 0.0.0.0 rhmobi.com
+0.0.0.0 richman77.com
 0.0.0.0 right-team.digital
 0.0.0.0 ringtoneth.com
 0.0.0.0 ro88ro.tk
@@ -1774,7 +1780,6 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
-0.0.0.0 02ql0.app.link
 0.0.0.0 2ce60.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
@@ -1794,6 +1799,7 @@
 0.0.0.0 2pob1.app.link
 0.0.0.0 2q91.app.link
 0.0.0.0 2rad-circle001.app.link
+0.0.0.0 02ql0.app.link
 0.0.0.0 2rb.app.link
 0.0.0.0 2s38qv.jinshengpacking.com
 0.0.0.0 2s061.app.link
@@ -1882,9 +1888,19 @@
 0.0.0.0 6ud0.app.link
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
+0.0.0.0 07d0.nbryb.com
+0.0.0.0 07d0.nbryb.com
 0.0.0.0 7.nbryb.com
-0.0.0.0 07d0.nbryb.com
-0.0.0.0 07d0.nbryb.com
+0.0.0.0 7rd70.app.link
+0.0.0.0 7s90.app.link
+0.0.0.0 7s393.bemobtrk.com
+0.0.0.0 7sm0.app.link
+0.0.0.0 7so9g.bemobtrk.com
+0.0.0.0 7tka1.app.link
+0.0.0.0 7un3.nbryb.com
+0.0.0.0 7v30.nbryb.com
+0.0.0.0 7vad.nbryb.com
+0.0.0.0 07u0.app.link
 0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
@@ -1892,7 +1908,6 @@
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
-0.0.0.0 07u0.app.link
 0.0.0.0 7lyr1.bemobtrk.com
 0.0.0.0 7ma1.app.link
 0.0.0.0 7n61.app.link
@@ -1900,17 +1915,8 @@
 0.0.0.0 7q181.app.link
 0.0.0.0 7qsh4.bemobtrk.com
 0.0.0.0 7r41.app.link
-0.0.0.0 7rd70.app.link
 0.0.0.0 7rel0.app.link
-0.0.0.0 7s90.app.link
-0.0.0.0 7s393.bemobtrk.com
-0.0.0.0 7sm0.app.link
-0.0.0.0 7so9g.bemobtrk.com
 0.0.0.0 7syc6.trackvoluum.com
-0.0.0.0 7tka1.app.link
-0.0.0.0 7un3.nbryb.com
-0.0.0.0 7v30.nbryb.com
-0.0.0.0 7vad.nbryb.com
 0.0.0.0 7vao0.app.link
 0.0.0.0 7w2k8.bemobtrk.com
 0.0.0.0 7xx0.app.link
@@ -1937,10 +1943,11 @@
 0.0.0.0 8ugronalnoq20.app.link
 0.0.0.0 8wpz.nbryb.com
 0.0.0.0 8x0g0.app.link
+0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
+0.0.0.0 9g7i.nbryb.com
 0.0.0.0 09am.nbryb.com
 0.0.0.0 9.nbryb.com
-0.0.0.0 9g7i.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -2037,8 +2044,8 @@
 0.0.0.0 59.nbryb.com
 0.0.0.0 60.nbryb.com
 0.0.0.0 61.nbryb.com
-0.0.0.0 062f.nbryb.com
 0.0.0.0 62.nbryb.com
+0.0.0.0 062f.nbryb.com
 0.0.0.0 63.nbryb.com
 0.0.0.0 64.nbryb.com
 0.0.0.0 65.nbryb.com
@@ -2892,6 +2899,7 @@
 0.0.0.0 csi.20icipp.com
 0.0.0.0 csi.kochava.com
 0.0.0.0 csza.ctrackz.net
+0.0.0.0 ct.elinks.io
 0.0.0.0 ct.mobi2u.mobi
 0.0.0.0 cuad0.app.link
 0.0.0.0 cueu0.app.link
@@ -3109,6 +3117,7 @@
 0.0.0.0 e.moceanwp.com
 0.0.0.0 eakissara.thaiza.com
 0.0.0.0 easyweb.nipa.co.th
+0.0.0.0 eat.edtguide.com
 0.0.0.0 ebi.mobidea.com
 0.0.0.0 ebs00.app.link
 0.0.0.0 ec2co-ecsel-8ds651go7el5-751923663.ap-southeast-1.elb.amazonaws.com
@@ -3119,6 +3128,7 @@
 0.0.0.0 econetfree.upp.st
 0.0.0.0 ed1.files-media.com
 0.0.0.0 ed2.files-media.com
+0.0.0.0 ed.edtfiles-media.com
 0.0.0.0 ed.files-media.com
 0.0.0.0 edu.getcools.com
 0.0.0.0 ee.sunnygames.club
@@ -3677,8 +3687,8 @@
 0.0.0.0 h6.walletfun.com
 0.0.0.0 h7.walletfun.com
 0.0.0.0 h7pq0.app.link
-0.0.0.0 h08otsc3.acupofcafeconleche.com
 0.0.0.0 h8.walletfun.com
+0.0.0.0 h08otsc3.acupofcafeconleche.com
 0.0.0.0 h9.walletfun.com
 0.0.0.0 h9di0.trackvoluum.com
 0.0.0.0 h4311.app.link
@@ -3752,6 +3762,7 @@
 0.0.0.0 hs.thumbr.com
 0.0.0.0 hs.video-wrld.com
 0.0.0.0 ht8n8.trackvoluum.com
+0.0.0.0 htcb.edtguide.com
 0.0.0.0 html5.forest-interactive.com
 0.0.0.0 httpsxufw0.app.link
 0.0.0.0 hu.sunnygames.club
@@ -4227,6 +4238,7 @@
 0.0.0.0 m.dittolite.com
 0.0.0.0 m.dk.shoopadoo.com
 0.0.0.0 m.dosbuy.com
+0.0.0.0 m.edtguide.com
 0.0.0.0 m.eg.ar.cool4mob.com
 0.0.0.0 m.eg.en.cool4mob.com
 0.0.0.0 m.eggdigital.com
@@ -4456,8 +4468,8 @@
 0.0.0.0 maechan54.thaiza.com
 0.0.0.0 maekrua.nipa.co.th
 0.0.0.0 magica.bluestwep.pw
-0.0.0.0 mail01.mk.macrokiosk.com
 0.0.0.0 mail1.momoko.co
+0.0.0.0 mail01.mk.macrokiosk.com
 0.0.0.0 mail2.shoopadoo.com
 0.0.0.0 mail-hq.gmmdigital.com
 0.0.0.0 mail.2016.lawaweb.com
@@ -5928,6 +5940,7 @@
 0.0.0.0 trainee.gmmwireless.com
 0.0.0.0 transcodedmedia.mobivite.net
 0.0.0.0 transcodedmedia.mv1.in
+0.0.0.0 travel.edtguide.com
 0.0.0.0 travel.thaiza.com
 0.0.0.0 travelinter.app.link
 0.0.0.0 trc.mobipotato.com
@@ -5998,6 +6011,7 @@
 0.0.0.0 ucw88.python-libs.com
 0.0.0.0 uf.noclef.com
 0.0.0.0 ui6g0.app.link
+0.0.0.0 ui.edtfiles-media.com
 0.0.0.0 ui.files-media.com
 0.0.0.0 uk.clubxzone.com
 0.0.0.0 uk.ftv.thisilike.net
@@ -6253,8 +6267,8 @@
 0.0.0.0 wcgw.thinksmart.co.th
 0.0.0.0 weanloves.thaiza.com
 0.0.0.0 web00.6969jp.xyz
-0.0.0.0 web01.6969jp.xyz
 0.0.0.0 web1.shinee.com
+0.0.0.0 web01.6969jp.xyz
 0.0.0.0 web04.trackvoluum.com
 0.0.0.0 web-print.forest-interactive.com
 0.0.0.0 web-sdk.control.kochava.com
@@ -6827,6 +6841,7 @@
 0.0.0.0 www.chzmobi.net
 0.0.0.0 www.ciga.xyz
 0.0.0.0 www.circultural.com
+0.0.0.0 www.circus88th.com
 0.0.0.0 www.ckwizard.com
 0.0.0.0 www.cl.clubxzone.com
 0.0.0.0 www.clausiafze.com
@@ -6943,17 +6958,21 @@
 0.0.0.0 www.dtacivr.n-content.com
 0.0.0.0 www.durarenti.pw
 0.0.0.0 www.dwi.lawaweb.com
+0.0.0.0 www.dxsrz.org.cn
 0.0.0.0 www.e668ou.com
 0.0.0.0 www.e-nee.co
 0.0.0.0 www.ebizmobile.com
 0.0.0.0 www.ectionma.pw
 0.0.0.0 www.edenadoptionagency.com
+0.0.0.0 www.edtfiles-media.com
+0.0.0.0 www.edtguide.com
 0.0.0.0 www.eggdigital.com
 0.0.0.0 www.eggreadyweb.com
 0.0.0.0 www.eiei.net
 0.0.0.0 www.eim88.tk
 0.0.0.0 www.ejobet.tk
 0.0.0.0 www.elearning.lawaweb.com
+0.0.0.0 www.elinks.io
 0.0.0.0 www.enemy-adult-scared-there.xyz
 0.0.0.0 www.enfothe.pw
 0.0.0.0 www.enjoy108.com
@@ -7904,6 +7923,7 @@
 0.0.0.0 www.rewardnow.com
 0.0.0.0 www.rfebet.tk
 0.0.0.0 www.rhmobi.com
+0.0.0.0 www.richman77.com
 0.0.0.0 www.right-team.digital
 0.0.0.0 www.ringtoneth.com
 0.0.0.0 www.ro88ro.tk

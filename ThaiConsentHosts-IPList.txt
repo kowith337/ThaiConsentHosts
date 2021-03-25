@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts (IP Blocklist)
-# Version: 202103042028
+# Version: 202103252022
 # Author: kowith337
 # Expires: 2 days
 # Description: Responsing to some users who use ThaiConsentHosts and found out I've also block some IP addresses that might be
@@ -25,6 +25,7 @@
 52.76.52.18
 52.76.89.151
 52.76.242.20
+52.77.95.229
 52.187.132.230
 52.220.167.186
 54.169.14.129
