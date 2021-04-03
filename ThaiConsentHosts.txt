@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202103252022
+# Version: 202104031332
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -250,6 +250,7 @@
 0.0.0.0 angellanguageacademy.com
 0.0.0.0 anolog.mobi
 0.0.0.0 answireless.net
+0.0.0.0 antivi.xyz
 0.0.0.0 apiv9.com
 0.0.0.0 aplay.tv
 0.0.0.0 aplaydigital.com
@@ -262,6 +263,7 @@
 0.0.0.0 appsflyer.com
 0.0.0.0 appsforyourphone.mobi
 0.0.0.0 appsilike.mobi
+0.0.0.0 apptrk.space
 0.0.0.0 apsalar.com
 0.0.0.0 aptrk5.com
 0.0.0.0 apxadtracking.net
@@ -461,6 +463,7 @@
 0.0.0.0 deloplen.com
 0.0.0.0 desisilk.com
 0.0.0.0 despiteracy.com
+0.0.0.0 device-safety.com
 0.0.0.0 devss.com
 0.0.0.0 dgmobix.com
 0.0.0.0 diamond00.com
@@ -513,6 +516,7 @@
 0.0.0.0 etsthailand.com
 0.0.0.0 exezhanqun.com
 0.0.0.0 exprtmb.com
+0.0.0.0 extrk.xyz
 0.0.0.0 ezym.net
 0.0.0.0 ezymedia.mobi
 0.0.0.0 fabruary30.com
@@ -637,6 +641,7 @@
 0.0.0.0 gktmobi.com
 0.0.0.0 glimline.com
 0.0.0.0 glmtr4ck.net
+0.0.0.0 global-info.space
 0.0.0.0 globocom.co.in
 0.0.0.0 gloft.co
 0.0.0.0 glzelnk.com
@@ -796,6 +801,7 @@
 0.0.0.0 lalamobi.com
 0.0.0.0 landorum.pw
 0.0.0.0 larnload.com
+0.0.0.0 lateyouup.fun
 0.0.0.0 lawaapp.com
 0.0.0.0 lawaweb.com
 0.0.0.0 lbc8.tk
@@ -1134,6 +1140,7 @@
 0.0.0.0 notification-phone1.com
 0.0.0.0 notification-phone1.fun
 0.0.0.0 notification-phone1.site
+0.0.0.0 notifybook.com
 0.0.0.0 nowportal.net
 0.0.0.0 nrs-group.com
 0.0.0.0 nusa-putra.com
@@ -1390,6 +1397,7 @@
 0.0.0.0 scratch-surveys.co
 0.0.0.0 seacom.co.th
 0.0.0.0 seaman2u.com
+0.0.0.0 sectrack.space
 0.0.0.0 secudatago.com
 0.0.0.0 secure-guard.online
 0.0.0.0 secure-mobile.best
@@ -1420,6 +1428,7 @@
 0.0.0.0 shinee.com
 0.0.0.0 shoopadoo.com
 0.0.0.0 shopandersons.com
+0.0.0.0 short.gy
 0.0.0.0 shoutingnetwork.com
 0.0.0.0 shrum-studio.com
 0.0.0.0 shuyumsy.com
@@ -1477,6 +1486,7 @@
 0.0.0.0 streamflix.mobi
 0.0.0.0 streamsharp.com
 0.0.0.0 studiox-babes.com
+0.0.0.0 stvkr.com
 0.0.0.0 success-is-in-reach.com
 0.0.0.0 sudjad.com
 0.0.0.0 suffonect.pw
@@ -1589,6 +1599,7 @@
 0.0.0.0 txtnation.com
 0.0.0.0 tzkbet.tk
 0.0.0.0 u-nee.com
+0.0.0.0 u.to
 0.0.0.0 ubic-global.com
 0.0.0.0 ude182.com
 0.0.0.0 ugjbet.tk
@@ -1697,6 +1708,7 @@
 0.0.0.0 xn--42cn1aug7dc0hrhc1gd.net
 0.0.0.0 xn--r3cpjgt3b.com
 0.0.0.0 xspicyvideos.com
+0.0.0.0 yadro.ru
 0.0.0.0 yasune360.com
 0.0.0.0 yibsee.com
 0.0.0.0 yim88.tk
@@ -1797,9 +1809,9 @@
 0.0.0.0 2pbj0.app.link
 0.0.0.0 2pnd4.trackvoluum.com
 0.0.0.0 2pob1.app.link
+0.0.0.0 02ql0.app.link
 0.0.0.0 2q91.app.link
 0.0.0.0 2rad-circle001.app.link
-0.0.0.0 02ql0.app.link
 0.0.0.0 2rb.app.link
 0.0.0.0 2s38qv.jinshengpacking.com
 0.0.0.0 2s061.app.link
@@ -1888,26 +1900,16 @@
 0.0.0.0 6ud0.app.link
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
-0.0.0.0 07d0.nbryb.com
-0.0.0.0 07d0.nbryb.com
 0.0.0.0 7.nbryb.com
-0.0.0.0 7rd70.app.link
-0.0.0.0 7s90.app.link
-0.0.0.0 7s393.bemobtrk.com
-0.0.0.0 7sm0.app.link
-0.0.0.0 7so9g.bemobtrk.com
-0.0.0.0 7tka1.app.link
-0.0.0.0 7un3.nbryb.com
-0.0.0.0 7v30.nbryb.com
-0.0.0.0 7vad.nbryb.com
-0.0.0.0 07u0.app.link
 0.0.0.0 7b2o.nbryb.com
+0.0.0.0 07d0.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
+0.0.0.0 07u0.app.link
 0.0.0.0 7lyr1.bemobtrk.com
 0.0.0.0 7ma1.app.link
 0.0.0.0 7n61.app.link
@@ -1915,8 +1917,17 @@
 0.0.0.0 7q181.app.link
 0.0.0.0 7qsh4.bemobtrk.com
 0.0.0.0 7r41.app.link
+0.0.0.0 7rd70.app.link
 0.0.0.0 7rel0.app.link
+0.0.0.0 7s90.app.link
+0.0.0.0 7s393.bemobtrk.com
+0.0.0.0 7sm0.app.link
+0.0.0.0 7so9g.bemobtrk.com
 0.0.0.0 7syc6.trackvoluum.com
+0.0.0.0 7tka1.app.link
+0.0.0.0 7un3.nbryb.com
+0.0.0.0 7v30.nbryb.com
+0.0.0.0 7vad.nbryb.com
 0.0.0.0 7vao0.app.link
 0.0.0.0 7w2k8.bemobtrk.com
 0.0.0.0 7xx0.app.link
@@ -1945,9 +1956,9 @@
 0.0.0.0 8x0g0.app.link
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
+0.0.0.0 9.nbryb.com
 0.0.0.0 9g7i.nbryb.com
 0.0.0.0 09am.nbryb.com
-0.0.0.0 9.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -2010,8 +2021,8 @@
 0.0.0.0 38.nbryb.com
 0.0.0.0 39.nbryb.com
 0.0.0.0 40.nbryb.com
-0.0.0.0 41.nbryb.com
 0.0.0.0 041h0.app.link
+0.0.0.0 41.nbryb.com
 0.0.0.0 41ds.nbryb.com
 0.0.0.0 42.nbryb.com
 0.0.0.0 43.nbryb.com
@@ -2383,6 +2394,7 @@
 0.0.0.0 appinstall-priceline-com.control.kochava.com
 0.0.0.0 apple-warning.com
 0.0.0.0 apple.com-giveaway5.info
+0.0.0.0 apple.global-info.space
 0.0.0.0 apps.api.kochava.com
 0.0.0.0 apps.forest-interactive.com
 0.0.0.0 apps.getcools.com
@@ -2584,6 +2596,7 @@
 0.0.0.0 c4.ltvperf.com
 0.0.0.0 c5.ltvperf.com
 0.0.0.0 c6.ltvperf.com
+0.0.0.0 c6y.short.gy
 0.0.0.0 c7.ltvperf.com
 0.0.0.0 c7gp2.trackvoluum.com
 0.0.0.0 c8.ltvperf.com
@@ -2767,6 +2780,7 @@
 0.0.0.0 core.royalads.net
 0.0.0.0 corellinet.beezzi.com
 0.0.0.0 corp.s-onetelecom.com
+0.0.0.0 counter.yadro.ru
 0.0.0.0 coupon.n-content.com
 0.0.0.0 coxcommunications21.app.link
 0.0.0.0 cozz0.app.link
@@ -6683,6 +6697,7 @@
 0.0.0.0 www.angellanguageacademy.com
 0.0.0.0 www.anolog.mobi
 0.0.0.0 www.answireless.net
+0.0.0.0 www.antivi.xyz
 0.0.0.0 www.apacsms.gamesclub.mobi
 0.0.0.0 www.apitoken.phoemobi.com
 0.0.0.0 www.apiv9.com
@@ -6699,6 +6714,7 @@
 0.0.0.0 www.appsflyer.com
 0.0.0.0 www.appsforyourphone.mobi
 0.0.0.0 www.appsilike.mobi
+0.0.0.0 www.apptrk.space
 0.0.0.0 www.apsalar.com
 0.0.0.0 www.aptrk5.com
 0.0.0.0 www.apxadtracking.net
@@ -6927,6 +6943,7 @@
 0.0.0.0 www.deloplen.com
 0.0.0.0 www.desisilk.com
 0.0.0.0 www.despiteracy.com
+0.0.0.0 www.device-safety.com
 0.0.0.0 www.devss.com
 0.0.0.0 www.dgmobix.com
 0.0.0.0 www.diamond00.com
@@ -6988,6 +7005,7 @@
 0.0.0.0 www.etsthailand.com
 0.0.0.0 www.exezhanqun.com
 0.0.0.0 www.exprtmb.com
+0.0.0.0 www.extrk.xyz
 0.0.0.0 www.ezym.net
 0.0.0.0 www.ezymedia.mobi
 0.0.0.0 www.fabruary30.com
@@ -7127,6 +7145,7 @@
 0.0.0.0 www.glamour.funmunch.mobi
 0.0.0.0 www.glimline.com
 0.0.0.0 www.glmtr4ck.net
+0.0.0.0 www.global-info.space
 0.0.0.0 www.globocom.co.in
 0.0.0.0 www.gloft.co
 0.0.0.0 www.glzelnk.com
@@ -7309,6 +7328,7 @@
 0.0.0.0 www.lalamobi.com
 0.0.0.0 www.landorum.pw
 0.0.0.0 www.larnload.com
+0.0.0.0 www.lateyouup.fun
 0.0.0.0 www.lawaapp.com
 0.0.0.0 www.lawaweb.com
 0.0.0.0 www.lbc8.tk
@@ -7681,6 +7701,7 @@
 0.0.0.0 www.notification-phone1.com
 0.0.0.0 www.notification-phone1.fun
 0.0.0.0 www.notification-phone1.site
+0.0.0.0 www.notifybook.com
 0.0.0.0 www.nowportal.net
 0.0.0.0 www.nportal.thumbr.com
 0.0.0.0 www.nrs-group.com
@@ -7986,6 +8007,7 @@
 0.0.0.0 www.seacom.co.th
 0.0.0.0 www.seaman2u.com
 0.0.0.0 www.sec.vuclip.com
+0.0.0.0 www.sectrack.space
 0.0.0.0 www.secudatago.com
 0.0.0.0 www.secure-guard.online
 0.0.0.0 www.secure-mobile.best
@@ -8020,6 +8042,7 @@
 0.0.0.0 www.shinee.com
 0.0.0.0 www.shoopadoo.com
 0.0.0.0 www.shopandersons.com
+0.0.0.0 www.short.gy
 0.0.0.0 www.shoutingnetwork.com
 0.0.0.0 www.shrum-studio.com
 0.0.0.0 www.shuyumsy.com
@@ -8088,6 +8111,7 @@
 0.0.0.0 www.streamflix.mobi
 0.0.0.0 www.streamsharp.com
 0.0.0.0 www.studiox-babes.com
+0.0.0.0 www.stvkr.com
 0.0.0.0 www.subsystem.aplaymusic.com
 0.0.0.0 www.success-is-in-reach.com
 0.0.0.0 www.sudjad.com
@@ -8222,6 +8246,7 @@
 0.0.0.0 www.tynesidercc.org.uk
 0.0.0.0 www.tzkbet.tk
 0.0.0.0 www.u-nee.com
+0.0.0.0 www.u.to
 0.0.0.0 www.ubic-global.com
 0.0.0.0 www.ude182.com
 0.0.0.0 www.ugjbet.tk
@@ -8343,6 +8368,7 @@
 0.0.0.0 www.xn--42cn1aug7dc0hrhc1gd.net
 0.0.0.0 www.xn--r3cpjgt3b.com
 0.0.0.0 www.xspicyvideos.com
+0.0.0.0 www.yadro.ru
 0.0.0.0 www.yasune360.com
 0.0.0.0 www.yibsee.com
 0.0.0.0 www.yim88.tk
