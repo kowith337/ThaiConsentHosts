@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202104281329
+# Version: 202105051317
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -498,6 +498,7 @@
 0.0.0.0 e668ou.com
 0.0.0.0 e-nee.co
 0.0.0.0 ebizmobile.com
+0.0.0.0 econotify.com
 0.0.0.0 ectionma.pw
 0.0.0.0 edenadoptionagency.com
 0.0.0.0 edtfiles-media.com
@@ -531,6 +532,7 @@
 0.0.0.0 faptubes.mobi
 0.0.0.0 farerbabe.pw
 0.0.0.0 fashionbunny.com
+0.0.0.0 fashionmsg.com
 0.0.0.0 fblives.net
 0.0.0.0 feminum.pw
 0.0.0.0 files-media.com
@@ -996,6 +998,7 @@
 0.0.0.0 movilfun4u.com
 0.0.0.0 mp3-shared.com
 0.0.0.0 mrlittlejohn.com
+0.0.0.0 msgbrand.com
 0.0.0.0 mtertain.com
 0.0.0.0 mtouche.com
 0.0.0.0 mugforward.com
@@ -1180,6 +1183,7 @@
 0.0.0.0 ourbestcontent.com
 0.0.0.0 outputfx.com
 0.0.0.0 overtleva.pw
+0.0.0.0 owstoom.club
 0.0.0.0 oxyvid.mobi
 0.0.0.0 ozura.com
 0.0.0.0 panshimob.com
@@ -1620,6 +1624,7 @@
 0.0.0.0 umobi.biz
 0.0.0.0 unithese-resteven.icu
 0.0.0.0 unpuzzled.net
+0.0.0.0 update-phone-today.com
 0.0.0.0 upp.st
 0.0.0.0 uropportunity.com
 0.0.0.0 v432.com
@@ -1836,7 +1841,6 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3a257.trackvoluum.com
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
@@ -1850,11 +1854,12 @@
 0.0.0.0 3ofi0.app.link
 0.0.0.0 3ohb.nbryb.com
 0.0.0.0 3q50.app.link
+0.0.0.0 3z9s0.app.link
+0.0.0.0 03y0.app.link
 0.0.0.0 3rd.lpalice2appsmart.com
 0.0.0.0 3sat35c.multicakes.com
 0.0.0.0 3sps.app.link
 0.0.0.0 3vjtfh.njysmy.com
-0.0.0.0 3z9s0.app.link
 0.0.0.0 3zqs0.app.link
 0.0.0.0 4.0.nipa.co.th
 0.0.0.0 4.nbryb.com
@@ -1915,13 +1920,13 @@
 0.0.0.0 6ud0.app.link
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
-0.0.0.0 7.nbryb.com
 0.0.0.0 07d0.nbryb.com
+0.0.0.0 7.nbryb.com
+0.0.0.0 07u0.app.link
 0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
-0.0.0.0 07u0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
@@ -1971,9 +1976,9 @@
 0.0.0.0 8x0g0.app.link
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
-0.0.0.0 9g7i.nbryb.com
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9.nbryb.com
+0.0.0.0 09am.nbryb.com
+0.0.0.0 9g7i.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -2070,8 +2075,8 @@
 0.0.0.0 59.nbryb.com
 0.0.0.0 60.nbryb.com
 0.0.0.0 61.nbryb.com
-0.0.0.0 62.nbryb.com
 0.0.0.0 062f.nbryb.com
+0.0.0.0 62.nbryb.com
 0.0.0.0 63.nbryb.com
 0.0.0.0 64.nbryb.com
 0.0.0.0 65.nbryb.com
@@ -5314,6 +5319,7 @@
 0.0.0.0 r.leadzuaf.com
 0.0.0.0 r.leadzupc.com
 0.0.0.0 r.mobindy.com
+0.0.0.0 r.safellk.com
 0.0.0.0 rad.mob-api.net
 0.0.0.0 radio.thaiza.com
 0.0.0.0 rakkiller654.thaiza.com
@@ -7001,6 +7007,7 @@
 0.0.0.0 www.e668ou.com
 0.0.0.0 www.e-nee.co
 0.0.0.0 www.ebizmobile.com
+0.0.0.0 www.econotify.com
 0.0.0.0 www.ectionma.pw
 0.0.0.0 www.edenadoptionagency.com
 0.0.0.0 www.edtfiles-media.com
@@ -7038,6 +7045,7 @@
 0.0.0.0 www.faptubes.mobi
 0.0.0.0 www.farerbabe.pw
 0.0.0.0 www.fashionbunny.com
+0.0.0.0 www.fashionmsg.com
 0.0.0.0 www.fblives.net
 0.0.0.0 www.feminum.pw
 0.0.0.0 www.files-media.com
@@ -7563,6 +7571,7 @@
 0.0.0.0 www.movilfun4u.com
 0.0.0.0 www.mp3-shared.com
 0.0.0.0 www.mrlittlejohn.com
+0.0.0.0 www.msgbrand.com
 0.0.0.0 www.mt.funmunch.mobi
 0.0.0.0 www.mtertain.com
 0.0.0.0 www.mtouche.com
@@ -7761,6 +7770,7 @@
 0.0.0.0 www.ourbestcontent.com
 0.0.0.0 www.outputfx.com
 0.0.0.0 www.overtleva.pw
+0.0.0.0 www.owstoom.club
 0.0.0.0 www.oxyvid.mobi
 0.0.0.0 www.ozura.com
 0.0.0.0 www.panshimob.com
@@ -8286,6 +8296,7 @@
 0.0.0.0 www.umobi.biz
 0.0.0.0 www.unithese-resteven.icu
 0.0.0.0 www.unpuzzled.net
+0.0.0.0 www.update-phone-today.com
 0.0.0.0 www.upp.st
 0.0.0.0 www.uropportunity.com
 0.0.0.0 www.usman.lawaweb.com
