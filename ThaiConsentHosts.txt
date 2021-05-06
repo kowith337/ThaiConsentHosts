@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202105051329
+# Version: 202105062032
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -15,6 +15,8 @@
 0.0.0.0 ads.ais.co.th
 0.0.0.0 aisvisualivr.ais.co.th
 0.0.0.0 aoc.hlifeplus.com
+0.0.0.0 aoc.truecorp.co.th
+0.0.0.0 aoc.truemoveh.com
 0.0.0.0 callingmelody.net
 0.0.0.0 comenu.ais.co.th
 0.0.0.0 consent.dtac.co.th
@@ -260,6 +262,7 @@
 0.0.0.0 aplaymusic.com
 0.0.0.0 app.link
 0.0.0.0 appave.mobi
+0.0.0.0 appflood.com
 0.0.0.0 appk.mobi
 0.0.0.0 applikteca.mobi
 0.0.0.0 appsdorado.com
@@ -1679,6 +1682,7 @@
 0.0.0.0 vrscr888.com
 0.0.0.0 vsjcommsource.com
 0.0.0.0 vstyle4u.com
+0.0.0.0 vtocasino88.com
 0.0.0.0 vuclip.com
 0.0.0.0 vuclipgamesat.com
 0.0.0.0 vvidiacom.com
@@ -1921,18 +1925,18 @@
 0.0.0.0 6ud0.app.link
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
-0.0.0.0 7.nbryb.com
-0.0.0.0 7b2o.nbryb.com
 0.0.0.0 07d0.nbryb.com
+0.0.0.0 7.nbryb.com
+0.0.0.0 7f0n0.app.link
+0.0.0.0 07u0.app.link
+0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
-0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
-0.0.0.0 7ma1.app.link
-0.0.0.0 07u0.app.link
 0.0.0.0 7lyr1.bemobtrk.com
+0.0.0.0 7ma1.app.link
 0.0.0.0 7n61.app.link
 0.0.0.0 7q1b.nbryb.com
 0.0.0.0 7q181.app.link
@@ -2448,6 +2452,7 @@
 0.0.0.0 at.ga.gogameportal.com
 0.0.0.0 at.mychatpremium.com
 0.0.0.0 at.sunnygames.club
+0.0.0.0 atracking-auto.appflood.com
 0.0.0.0 attserivceweb2020.app.link
 0.0.0.0 au.clubxzone.com
 0.0.0.0 au.muraltent.pw
@@ -6735,6 +6740,7 @@
 0.0.0.0 www.app2.datapremium.net
 0.0.0.0 www.app3.datapremium.net
 0.0.0.0 www.appave.mobi
+0.0.0.0 www.appflood.com
 0.0.0.0 www.appk.mobi
 0.0.0.0 www.applikteca.mobi
 0.0.0.0 www.appsdorado.com
@@ -8356,6 +8362,7 @@
 0.0.0.0 www.vrscr888.com
 0.0.0.0 www.vsjcommsource.com
 0.0.0.0 www.vstyle4u.com
+0.0.0.0 www.vtocasino88.com
 0.0.0.0 www.vuclip.com
 0.0.0.0 www.vuclipgamesat.com
 0.0.0.0 www.vvidiacom.com
