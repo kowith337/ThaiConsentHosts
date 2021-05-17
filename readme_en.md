@@ -11,12 +11,11 @@
   - [AdAway](https://github.com/AdAway/AdAway) (Root required)
   - [DNS66](https://github.com/julian-klode/dns66)
   - [Blokada](https://github.com/blokadaorg/blokada)
+  - [Nebulo](https://github.com/Ch4t4r/Nebulo)
   - [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
 
 - Web browser extensions
   - [uBlock Origin](https://github.com/gorhill/uBlock)
-  - [uMatrix](https://github.com/gorhill/uMatrix)
-  - [NanoAdblocker](https://github.com/NanoAdblocker/NanoCore)
 
 ### Statement
 1. This list possibly false positive against anyone who use this list outside `Thailand` due to some or most of sites can retrieve additional information through `HTTP Header` that shipped with outgoing traffic from mobile data, I'm afraid that any sites who can read or extract information from header can use them for make their (and any mobile carriers that possibly also get shared) profits.
