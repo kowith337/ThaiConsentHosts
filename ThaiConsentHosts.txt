@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202106131415
+# Version: 202107121722
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -434,6 +434,7 @@
 0.0.0.0 contentsdaily.com
 0.0.0.0 cook-giant-under-leg.xyz
 0.0.0.0 cool4mob.com
+0.0.0.0 coolgang.net
 0.0.0.0 coolzee.net
 0.0.0.0 cosmik-ltd.com
 0.0.0.0 countevt.com
@@ -1824,8 +1825,8 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
-0.0.0.0 2ce60.app.link
 0.0.0.0 02ql0.app.link
+0.0.0.0 2ce60.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
 0.0.0.0 2flp.shoopadoo.com
@@ -1853,8 +1854,8 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
-0.0.0.0 3a257.trackvoluum.com
 0.0.0.0 03y0.app.link
+0.0.0.0 3a257.trackvoluum.com
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
@@ -1934,11 +1935,8 @@
 0.0.0.0 6vkqc.bemobtrk.com
 0.0.0.0 7.nbryb.com
 0.0.0.0 7b2o.nbryb.com
-0.0.0.0 7s393.bemobtrk.com
-0.0.0.0 07u0.app.link
-0.0.0.0 7c1e.nbryb.com
-0.0.0.0 07d0.nbryb.com
 0.0.0.0 7bpr0.app.link
+0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
@@ -1953,12 +1951,15 @@
 0.0.0.0 7rd70.app.link
 0.0.0.0 7rel0.app.link
 0.0.0.0 7s90.app.link
+0.0.0.0 7v30.nbryb.com
+0.0.0.0 07d0.nbryb.com
+0.0.0.0 07u0.app.link
+0.0.0.0 7s393.bemobtrk.com
 0.0.0.0 7sm0.app.link
 0.0.0.0 7so9g.bemobtrk.com
 0.0.0.0 7syc6.trackvoluum.com
 0.0.0.0 7tka1.app.link
 0.0.0.0 7un3.nbryb.com
-0.0.0.0 7v30.nbryb.com
 0.0.0.0 7vad.nbryb.com
 0.0.0.0 7vao0.app.link
 0.0.0.0 7w2k8.bemobtrk.com
@@ -1989,8 +1990,8 @@
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
 0.0.0.0 9.nbryb.com
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9g7i.nbryb.com
+0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -6264,6 +6265,7 @@
 0.0.0.0 wap.clickstk.com
 0.0.0.0 wap.contentdd.net
 0.0.0.0 wap.contentsdaily.com
+0.0.0.0 wap.coolgang.net
 0.0.0.0 wap.ddzey.com
 0.0.0.0 wap.disney.co.th
 0.0.0.0 wap.dooplus.tv
@@ -6318,8 +6320,8 @@
 0.0.0.0 wcgw.thinksmart.co.th
 0.0.0.0 weanloves.thaiza.com
 0.0.0.0 web00.6969jp.xyz
-0.0.0.0 web01.6969jp.xyz
 0.0.0.0 web1.shinee.com
+0.0.0.0 web01.6969jp.xyz
 0.0.0.0 web04.trackvoluum.com
 0.0.0.0 web-print.forest-interactive.com
 0.0.0.0 web-sdk.control.kochava.com
@@ -6944,6 +6946,7 @@
 0.0.0.0 www.control.kochava.com
 0.0.0.0 www.cook-giant-under-leg.xyz
 0.0.0.0 www.cool4mob.com
+0.0.0.0 www.coolgang.net
 0.0.0.0 www.coolzee.net
 0.0.0.0 www.cosmik-ltd.com
 0.0.0.0 www.countevt.com
