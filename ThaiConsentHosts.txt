@@ -1,12 +1,13 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202107121722
+# Version: 202107201538
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
 # Mirror: https://gitlab.com/kowith337/ThaiConsentHosts/raw/master/ThaiConsentHosts.txt
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 # Operator  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+# 0.0.0.0 m.ais.co.th # Due to problem with some AIS apps
 0.0.0.0 777visualivr.ais.co.th
 0.0.0.0 adfs16.dtac.co.th
 0.0.0.0 adfspxy.ais.co.th
@@ -31,7 +32,6 @@
 0.0.0.0 hlifeplus.com
 0.0.0.0 iot-srf.ais.co.th
 0.0.0.0 luckydrawservice.com
-# 0.0.0.0 m.ais.co.th # Due to problem with some AIS apps
 0.0.0.0 m1.truelife.com
 0.0.0.0 m2.truelife.com
 0.0.0.0 m3.truelife.com
@@ -55,10 +55,10 @@
 0.0.0.0 wap.dtac.co.th
 0.0.0.0 wap.mobilelife.co.th
 0.0.0.0 wapng.dtac.co.th
-0.0.0.0 ws-adv.ais.co.th
 0.0.0.0 ws1.mobilelife.co.th
 0.0.0.0 ws2.mobilelife.co.th
 0.0.0.0 ws3.mobilelife.co.th
+0.0.0.0 ws-adv.ais.co.th
 0.0.0.0 ww1.mobilelife.co.th
 0.0.0.0 ww2.mobilelife.co.th
 0.0.0.0 ww3.mobilelife.co.th
@@ -324,6 +324,7 @@
 0.0.0.0 bestwomenintown.com
 0.0.0.0 betreat.com
 0.0.0.0 bigdoremi.com
+0.0.0.0 bigfunroom.com
 0.0.0.0 bigfunspace.com
 0.0.0.0 biggerthanyou14.live
 0.0.0.0 bigolives.tv
@@ -503,6 +504,7 @@
 0.0.0.0 dxsrz.org.cn
 0.0.0.0 e668ou.com
 0.0.0.0 e-nee.co
+0.0.0.0 easyfun2u.com
 0.0.0.0 ebizmobile.com
 0.0.0.0 econotify.com
 0.0.0.0 ectionma.pw
@@ -539,6 +541,7 @@
 0.0.0.0 farerbabe.pw
 0.0.0.0 fashionbunny.com
 0.0.0.0 fashionmsg.com
+0.0.0.0 fastercrafts.com
 0.0.0.0 fblives.net
 0.0.0.0 feminum.pw
 0.0.0.0 files-media.com
@@ -813,6 +816,7 @@
 0.0.0.0 kumchanod.com
 0.0.0.0 kupol-development.com
 0.0.0.0 kwizu.club
+0.0.0.0 l24hrs.com
 0.0.0.0 laanbok.pw
 0.0.0.0 lalamobi.com
 0.0.0.0 landorum.pw
@@ -928,6 +932,7 @@
 0.0.0.0 mobi2u.mobi
 0.0.0.0 mobi224.com
 0.0.0.0 mobi-zone.mobi
+0.0.0.0 mobiclub2u.com
 0.0.0.0 mobiclub.net
 0.0.0.0 mobico.my
 0.0.0.0 mobicute.com
@@ -1239,6 +1244,7 @@
 0.0.0.0 porn93.com
 0.0.0.0 pornpt.icu
 0.0.0.0 post-track-trace.com
+0.0.0.0 postcampa.com
 0.0.0.0 potiongames.com
 0.0.0.0 pottymag.com
 0.0.0.0 powerlion.space
@@ -1825,8 +1831,8 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
-0.0.0.0 02ql0.app.link
 0.0.0.0 2ce60.app.link
+0.0.0.0 02ql0.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
 0.0.0.0 2flp.shoopadoo.com
@@ -1854,10 +1860,11 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3a257.trackvoluum.com
-0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
+0.0.0.0 3sat35c.multicakes.com
+0.0.0.0 03y0.app.link
+0.0.0.0 3ey91.app.link
 0.0.0.0 3j9d1.app.link
 0.0.0.0 3ksa1.app.link
 0.0.0.0 3ky70.app.link
@@ -1869,7 +1876,6 @@
 0.0.0.0 3ohb.nbryb.com
 0.0.0.0 3q50.app.link
 0.0.0.0 3rd.lpalice2appsmart.com
-0.0.0.0 3sat35c.multicakes.com
 0.0.0.0 3sps.app.link
 0.0.0.0 3vjtfh.njysmy.com
 0.0.0.0 3z9s0.app.link
@@ -1934,6 +1940,7 @@
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
 0.0.0.0 7.nbryb.com
+0.0.0.0 07d0.nbryb.com
 0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
@@ -1941,6 +1948,12 @@
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
+0.0.0.0 7rel0.app.link
+0.0.0.0 7s90.app.link
+0.0.0.0 7s393.bemobtrk.com
+0.0.0.0 7sm0.app.link
+0.0.0.0 7so9g.bemobtrk.com
+0.0.0.0 07u0.app.link
 0.0.0.0 7lyr1.bemobtrk.com
 0.0.0.0 7ma1.app.link
 0.0.0.0 7n61.app.link
@@ -1949,17 +1962,10 @@
 0.0.0.0 7qsh4.bemobtrk.com
 0.0.0.0 7r41.app.link
 0.0.0.0 7rd70.app.link
-0.0.0.0 7rel0.app.link
-0.0.0.0 7s90.app.link
-0.0.0.0 7v30.nbryb.com
-0.0.0.0 07d0.nbryb.com
-0.0.0.0 07u0.app.link
-0.0.0.0 7s393.bemobtrk.com
-0.0.0.0 7sm0.app.link
-0.0.0.0 7so9g.bemobtrk.com
 0.0.0.0 7syc6.trackvoluum.com
 0.0.0.0 7tka1.app.link
 0.0.0.0 7un3.nbryb.com
+0.0.0.0 7v30.nbryb.com
 0.0.0.0 7vad.nbryb.com
 0.0.0.0 7vao0.app.link
 0.0.0.0 7w2k8.bemobtrk.com
@@ -2054,8 +2060,8 @@
 0.0.0.0 38.nbryb.com
 0.0.0.0 39.nbryb.com
 0.0.0.0 40.nbryb.com
-0.0.0.0 041h0.app.link
 0.0.0.0 41.nbryb.com
+0.0.0.0 041h0.app.link
 0.0.0.0 41ds.nbryb.com
 0.0.0.0 42.nbryb.com
 0.0.0.0 43.nbryb.com
@@ -2219,6 +2225,7 @@
 0.0.0.0 a6fe.nbryb.com
 0.0.0.0 a07y2.bemobtrk.com
 0.0.0.0 a380.app.link
+0.0.0.0 a.awz.bz
 0.0.0.0 a.axmtracker.com
 0.0.0.0 a.innnews.co.th
 0.0.0.0 a.mobilart.in
@@ -2362,6 +2369,7 @@
 0.0.0.0 anwh0.trackvoluum.com
 0.0.0.0 aoc-ic.smsgateway.cc
 0.0.0.0 aoc.6969jp.xyz
+0.0.0.0 aoc.l24hrs.com
 0.0.0.0 ap51.app.link
 0.0.0.0 ap2250.app.link
 0.0.0.0 apacsms.gamesclub.mobi
@@ -2498,11 +2506,13 @@
 0.0.0.0 b10z.app.link
 0.0.0.0 b138.nbryb.com
 0.0.0.0 b930.app.link
+0.0.0.0 b.awz.
 0.0.0.0 ba41d0.app.link
 0.0.0.0 backapi.tk.gmmwireless.com
 0.0.0.0 backend.gmmwireless.com
 0.0.0.0 backend.tk.gmmwireless.com
 0.0.0.0 backoffice.6969jp.xyz
+0.0.0.0 backoffice.bigfunroom.com
 0.0.0.0 backoffice.bigfunspace.com
 0.0.0.0 backoffice.dev.bigfunspace.com
 0.0.0.0 backoffice.mut2020.bigfunspace.com
@@ -2510,6 +2520,7 @@
 0.0.0.0 backoffice.mut2020.stg.bigfunspace.com
 0.0.0.0 backoffice.samartbug.com
 0.0.0.0 backoffice.shinee.com
+0.0.0.0 backoffice.stg.bigfunroom.com
 0.0.0.0 backoffice.stg.bigfunspace.com
 0.0.0.0 backoffice.tk.gmmwireless.com
 0.0.0.0 backup.shinee.com
@@ -2640,6 +2651,7 @@
 0.0.0.0 c.admblink.xyz
 0.0.0.0 c.beezzi.com
 0.0.0.0 c.hfa.mobi
+0.0.0.0 c.l24hrs.com
 0.0.0.0 c.ltvperf.com
 0.0.0.0 c.offrtrking.com
 0.0.0.0 ca.funmobile.com
@@ -2679,6 +2691,7 @@
 0.0.0.0 cdn2.mob-api.net
 0.0.0.0 cdn3.mob-api.net
 0.0.0.0 cdn-f.adsmoloco.com
+0.0.0.0 cdn.awz.bz
 0.0.0.0 cdn.cloudcnt.com
 0.0.0.0 cdn.dobmobile.xyz
 0.0.0.0 cdn.famobi.com
@@ -3018,6 +3031,7 @@
 0.0.0.0 delivery.mono2u.com
 0.0.0.0 demo1.forest-interactive.com
 0.0.0.0 demo.centili.com
+0.0.0.0 demo.mcommsg.com
 0.0.0.0 demo.nipa.co.th
 0.0.0.0 dental.thaiza.com
 0.0.0.0 depop.app.link
@@ -3652,6 +3666,7 @@
 0.0.0.0 girlsvdo.upp.st
 0.0.0.0 git.dev.kochava.com
 0.0.0.0 git.gmmdigital.com
+0.0.0.0 gitlab.mcommsg.com
 0.0.0.0 gitlab.nipa.co.th
 0.0.0.0 gj51.app.link
 0.0.0.0 gjqp.nbryb.com
@@ -5049,6 +5064,7 @@
 0.0.0.0 onboarding.forest-interactive.com
 0.0.0.0 one31.app.link
 0.0.0.0 onedrive-doc20.app.link
+0.0.0.0 onepro.fastercrafts.com
 0.0.0.0 onlineoffice.shinee.com
 0.0.0.0 ontrol.kochava.com
 0.0.0.0 oocherryoo.thaiza.com
@@ -5217,6 +5233,7 @@
 0.0.0.0 porkal.thumbr.com
 0.0.0.0 porqtal.thumbr.com
 0.0.0.0 portagl.thumbr.com
+0.0.0.0 portal.bigfunroom.com
 0.0.0.0 portal.etracker.cc
 0.0.0.0 portal.gamesteka.com
 0.0.0.0 portal.lt.bigfunspace.com
@@ -5230,6 +5247,7 @@
 0.0.0.0 portnl.thumbr.com
 0.0.0.0 positive.nipa.co.th
 0.0.0.0 post.getcools.com
+0.0.0.0 post.postcampa.com
 0.0.0.0 potato.enjoy108.com
 0.0.0.0 potrtal.thumbr.com
 0.0.0.0 pourtal.thumbr.com
@@ -5424,6 +5442,7 @@
 0.0.0.0 s.5sys.com
 0.0.0.0 s.apiv9.com
 0.0.0.0 s.atlanbox.com
+0.0.0.0 s.l24hrs.com
 0.0.0.0 s.moceanwp.com
 0.0.0.0 s.wizlimited.com
 0.0.0.0 sa2.mcommedia.com
@@ -5811,6 +5830,7 @@
 0.0.0.0 test.isport.co.th
 0.0.0.0 test.ke.funmobile.com
 0.0.0.0 test.lalamobi.com
+0.0.0.0 test.mcommsg.com
 0.0.0.0 test.nmpcenter.com
 0.0.0.0 testing.amkomobile.com
 0.0.0.0 teut.nbryb.com
@@ -6248,6 +6268,7 @@
 0.0.0.0 wap3.sanookde.com
 0.0.0.0 wap-cpa.digi.com.my
 0.0.0.0 wap-th.bestmobi2u.com
+0.0.0.0 wap-th.mobiclub2u.com
 0.0.0.0 wap-za.bestmobi2u.com
 0.0.0.0 wap.1moby.com
 0.0.0.0 wap.2-spot.com
@@ -6269,6 +6290,7 @@
 0.0.0.0 wap.ddzey.com
 0.0.0.0 wap.disney.co.th
 0.0.0.0 wap.dooplus.tv
+0.0.0.0 wap.easyfun2u.com
 0.0.0.0 wap.ebizmobile.com
 0.0.0.0 wap.enjoy108.com
 0.0.0.0 wap.focusonone.cc
@@ -6281,6 +6303,7 @@
 0.0.0.0 wap.globocom.co.in
 0.0.0.0 wap.gmmwireless.com
 0.0.0.0 wap.gmpmobi.com
+0.0.0.0 wap.goodymoby.com
 0.0.0.0 wap.guideball.com
 0.0.0.0 wap.gzazone.com
 0.0.0.0 wap.happywinning.com
@@ -6290,11 +6313,13 @@
 0.0.0.0 wap.isport.co.th
 0.0.0.0 wap.izenmobi.com
 0.0.0.0 wap.km928bonprabang.club
+0.0.0.0 wap.l24hrs.com
 0.0.0.0 wap.lpalice2appsmart.com
 0.0.0.0 wap.luckyyouna.com
 0.0.0.0 wap.mconverge.in
 0.0.0.0 wap.mfunz.mobi
 0.0.0.0 wap.mobgkt.com
+0.0.0.0 wap.mobiclub2u.com
 0.0.0.0 wap.mobifan.com
 0.0.0.0 wap.mono2u.com
 0.0.0.0 wap.n-content.com
@@ -6821,6 +6846,7 @@
 0.0.0.0 www.beta.lawaweb.com
 0.0.0.0 www.betreat.com
 0.0.0.0 www.bigdoremi.com
+0.0.0.0 www.bigfunroom.com
 0.0.0.0 www.bigfunspace.com
 0.0.0.0 www.biggerthanyou14.live
 0.0.0.0 www.bigolives.tv
@@ -7026,6 +7052,7 @@
 0.0.0.0 www.dxsrz.org.cn
 0.0.0.0 www.e668ou.com
 0.0.0.0 www.e-nee.co
+0.0.0.0 www.easyfun2u.com
 0.0.0.0 www.ebizmobile.com
 0.0.0.0 www.econotify.com
 0.0.0.0 www.ectionma.pw
@@ -7376,6 +7403,7 @@
 0.0.0.0 www.kw.biktv.com
 0.0.0.0 www.kw.mychatpremium.com
 0.0.0.0 www.kwizu.club
+0.0.0.0 www.l24hrs.com
 0.0.0.0 www.laanbok.pw
 0.0.0.0 www.lac.lawaweb.com
 0.0.0.0 www.lalamobi.com
@@ -7510,6 +7538,7 @@
 0.0.0.0 www.mobi2u.mobi
 0.0.0.0 www.mobi224.com
 0.0.0.0 www.mobi-zone.mobi
+0.0.0.0 www.mobiclub2u.com
 0.0.0.0 www.mobiclub.net
 0.0.0.0 www.mobico.my
 0.0.0.0 www.mobicute.com
