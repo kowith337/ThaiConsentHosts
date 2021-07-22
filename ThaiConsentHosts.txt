@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202107201538
+# Version: 202107222033
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -153,6 +153,7 @@
 0.0.0.0 adultd8.com
 0.0.0.0 adultvidoes.com
 0.0.0.0 adultvids.mobi
+0.0.0.0 advab.space
 0.0.0.0 adventure.co.th
 0.0.0.0 adver.me
 0.0.0.0 adzsx.pro
@@ -306,6 +307,7 @@
 0.0.0.0 bamobile.com
 0.0.0.0 ban-terng.com
 0.0.0.0 bandlane.com
+0.0.0.0 banquedexcuse.co
 0.0.0.0 bbcmvdo.com
 0.0.0.0 bbcontent.co.th
 0.0.0.0 bcomnetwork.com
@@ -451,6 +453,7 @@
 0.0.0.0 cswinpz.com
 0.0.0.0 ct9.me
 0.0.0.0 ctrackz.net
+0.0.0.0 ctthatthey.top
 0.0.0.0 cuteclub.tv
 0.0.0.0 cuteforyou.mobi
 0.0.0.0 cutties.net
@@ -760,6 +763,7 @@
 0.0.0.0 installstechiefreeapp.club
 0.0.0.0 instantbabes.mobi
 0.0.0.0 integrativeanalytic.com
+0.0.0.0 interactivecrypto.com
 0.0.0.0 interchan.com
 0.0.0.0 ipxxxzeed.com
 0.0.0.0 iqwmxn.com
@@ -886,8 +890,10 @@
 0.0.0.0 malanden.pw
 0.0.0.0 manymy.com
 0.0.0.0 marhasanook.com
+0.0.0.0 marketing66.com
 0.0.0.0 mastermovie-hd.mobi
 0.0.0.0 matchme.com.ng
+0.0.0.0 mavpn.com
 0.0.0.0 maxforecast.com
 0.0.0.0 maximob4u.com
 0.0.0.0 maxmall.pw
@@ -1437,6 +1443,7 @@
 0.0.0.0 secure-net.link
 0.0.0.0 secure-open.com
 0.0.0.0 securecloud-mb.com
+0.0.0.0 security-check.space
 0.0.0.0 security-protect.org
 0.0.0.0 security-protect.systems
 0.0.0.0 security-rd.com
@@ -1445,6 +1452,7 @@
 0.0.0.0 segimaid.com
 0.0.0.0 sendo.club
 0.0.0.0 seospeedy.com
+0.0.0.0 service-care.space
 0.0.0.0 sexonthephone.mobi
 0.0.0.0 sexy-here.com
 0.0.0.0 sexyclipded.com
@@ -1603,6 +1611,7 @@
 0.0.0.0 trackmeplease.com
 0.0.0.0 tracksz.co
 0.0.0.0 trackvoluum.com
+0.0.0.0 tradingcompare.com
 0.0.0.0 traffic-c.com
 0.0.0.0 trafficshark.pro
 0.0.0.0 traffikflow.com
@@ -1614,6 +1623,7 @@
 0.0.0.0 trend-tech.net
 0.0.0.0 trippointz.com
 0.0.0.0 trk-indexmobi.com
+0.0.0.0 trkshark.cc
 0.0.0.0 trksontrks.com
 0.0.0.0 trktoken.com
 0.0.0.0 truevid.mobi
@@ -1745,6 +1755,7 @@
 0.0.0.0 xn--42c8cmgk9dvfyd.com
 0.0.0.0 xn--42cn1aug7dc0hrhc1gd.net
 0.0.0.0 xn--r3cpjgt3b.com
+0.0.0.0 xosignals.com
 0.0.0.0 xspicyvideos.com
 0.0.0.0 yadro.ru
 0.0.0.0 yasune360.com
@@ -1777,18 +1788,18 @@
 0.0.0.0 zsaqls.com
 # Variant - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 0-0-1.app.link
-0.0.0.0 00boa00.app.link
-0.0.0.0 0bfn6.trackvoluum.com
-0.0.0.0 0d710.app.link
-0.0.0.0 0ibt0.app.link
 0.0.0.0 0jr0.app.link
-0.0.0.0 0md5e.trackvoluum.com
 0.0.0.0 0mszb.trackvoluum.com
 0.0.0.0 0nl1nebank1inge01.app.link
 0.0.0.0 0ow.integrativeanalytic.com
 0.0.0.0 0pju0.app.link
 0.0.0.0 0q2q0.app.link
 0.0.0.0 0q8c1.app.link
+0.0.0.0 00boa00.app.link
+0.0.0.0 0bfn6.trackvoluum.com
+0.0.0.0 0d710.app.link
+0.0.0.0 0ibt0.app.link
+0.0.0.0 0md5e.trackvoluum.com
 0.0.0.0 0qks0.app.link
 0.0.0.0 0qst.nbryb.com
 0.0.0.0 0t3j.nbryb.com
@@ -1832,18 +1843,18 @@
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
 0.0.0.0 2ce60.app.link
-0.0.0.0 02ql0.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
 0.0.0.0 2flp.shoopadoo.com
 0.0.0.0 2h2r0.app.link
 0.0.0.0 2haj0.app.link
+0.0.0.0 2n961.app.link
+0.0.0.0 02ql0.app.link
 0.0.0.0 2ii7.nbryb.com
 0.0.0.0 2kygq.voluumtrk.com
 0.0.0.0 2lm81.app.link
 0.0.0.0 2lu0.app.link
 0.0.0.0 2ly60.app.link
-0.0.0.0 2n961.app.link
 0.0.0.0 2nd.lpalice2appsmart.com
 0.0.0.0 2o2ywo2a.shopandersons.com
 0.0.0.0 2pbj0.app.link
@@ -1861,10 +1872,8 @@
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
 0.0.0.0 3a257.trackvoluum.com
-0.0.0.0 3ik0.app.link
-0.0.0.0 3sat35c.multicakes.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3ey91.app.link
+0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
 0.0.0.0 3ksa1.app.link
 0.0.0.0 3ky70.app.link
@@ -1876,10 +1885,12 @@
 0.0.0.0 3ohb.nbryb.com
 0.0.0.0 3q50.app.link
 0.0.0.0 3rd.lpalice2appsmart.com
+0.0.0.0 3sat35c.multicakes.com
 0.0.0.0 3sps.app.link
 0.0.0.0 3vjtfh.njysmy.com
 0.0.0.0 3z9s0.app.link
 0.0.0.0 3zqs0.app.link
+0.0.0.0 03y0.app.link
 0.0.0.0 4.0.nipa.co.th
 0.0.0.0 4.nbryb.com
 0.0.0.0 4cu3b.trackvoluum.com
@@ -1948,11 +1959,6 @@
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
-0.0.0.0 7rel0.app.link
-0.0.0.0 7s90.app.link
-0.0.0.0 7s393.bemobtrk.com
-0.0.0.0 7sm0.app.link
-0.0.0.0 7so9g.bemobtrk.com
 0.0.0.0 07u0.app.link
 0.0.0.0 7lyr1.bemobtrk.com
 0.0.0.0 7ma1.app.link
@@ -1962,6 +1968,11 @@
 0.0.0.0 7qsh4.bemobtrk.com
 0.0.0.0 7r41.app.link
 0.0.0.0 7rd70.app.link
+0.0.0.0 7rel0.app.link
+0.0.0.0 7s90.app.link
+0.0.0.0 7s393.bemobtrk.com
+0.0.0.0 7sm0.app.link
+0.0.0.0 7so9g.bemobtrk.com
 0.0.0.0 7syc6.trackvoluum.com
 0.0.0.0 7tka1.app.link
 0.0.0.0 7un3.nbryb.com
@@ -1997,7 +2008,6 @@
 0.0.0.0 8z5o0.app.link
 0.0.0.0 9.nbryb.com
 0.0.0.0 9g7i.nbryb.com
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -2006,8 +2016,9 @@
 0.0.0.0 9mmm0.app.link
 0.0.0.0 9mybb.trackvoluum.com
 0.0.0.0 9n31.app.link
-0.0.0.0 9okh0.app.link
 0.0.0.0 9pa70.app.link
+0.0.0.0 09am.nbryb.com
+0.0.0.0 9okh0.app.link
 0.0.0.0 9pe20.app.link
 0.0.0.0 9q11.app.link
 0.0.0.0 9rd21.app.link
@@ -2319,6 +2330,7 @@
 0.0.0.0 afan.bluestwep.pw
 0.0.0.0 aff.letgomobile.com
 0.0.0.0 affiliate.funsmobi.com
+0.0.0.0 affiliate.marketing66.com
 0.0.0.0 affiliates.mobidea.com
 0.0.0.0 aficfurn.nipa.co.th
 0.0.0.0 afix.muraltent.pw
@@ -2437,6 +2449,8 @@
 0.0.0.0 apple.com-giveaway5.info
 0.0.0.0 apple.global-info.space
 0.0.0.0 apple.privacy-protection.space
+0.0.0.0 apple.security-check.space
+0.0.0.0 apple.service-care.space
 0.0.0.0 apps.api.kochava.com
 0.0.0.0 apps.forest-interactive.com
 0.0.0.0 apps.getcools.com
@@ -2530,6 +2544,7 @@
 0.0.0.0 banner.n-content.com
 0.0.0.0 banner.wakau.in
 0.0.0.0 banners.cpa-tc.com
+0.0.0.0 banquedexcuse-co.marketing66.com
 0.0.0.0 barelylegal.realgirls.mobi
 0.0.0.0 basic.etracker.cc
 0.0.0.0 bat41.app.link
@@ -2701,6 +2716,8 @@
 0.0.0.0 cdn.halocell.com
 0.0.0.0 cdn.ilovemobi.com
 0.0.0.0 cdn.installstechiefreeapp.club
+0.0.0.0 cdn.jaidee5555.com
+0.0.0.0 cdn.jaideeteam.com
 0.0.0.0 cdn.lustzy.com
 0.0.0.0 cdn.mobilesitexxx.com
 0.0.0.0 cdn.mobivite.net
@@ -2708,6 +2725,7 @@
 0.0.0.0 cdn.n-d.bz
 0.0.0.0 cdn.phonespeedmineinstalls.club
 0.0.0.0 cdn.privacy-protect-webs-phone.club
+0.0.0.0 cdn.sabai5555.com
 0.0.0.0 cdn.security-protect.org
 0.0.0.0 cdn.static.mobgkt.com
 0.0.0.0 cdn.waplog.com
@@ -2957,6 +2975,7 @@
 0.0.0.0 creativekids.mcatch.com
 0.0.0.0 creativetoys.mcatch.com
 0.0.0.0 crje.nbryb.com
+0.0.0.0 crm.marketing66.com
 0.0.0.0 cs3yl.bemobtrk.com
 0.0.0.0 cs.ph.momoko.co
 0.0.0.0 csi.20icipp.com
@@ -3380,6 +3399,7 @@
 0.0.0.0 fpey0.app.link
 0.0.0.0 fq5g.nbryb.com
 0.0.0.0 fr.ch.zz.th.thumbr.com
+0.0.0.0 fr.interactivecrypto.com
 0.0.0.0 fr.starchef.mobi
 0.0.0.0 fr.sunnygames.club
 0.0.0.0 free.chickyclub.net
@@ -3752,8 +3772,8 @@
 0.0.0.0 h6.walletfun.com
 0.0.0.0 h7.walletfun.com
 0.0.0.0 h7pq0.app.link
-0.0.0.0 h8.walletfun.com
 0.0.0.0 h08otsc3.acupofcafeconleche.com
+0.0.0.0 h8.walletfun.com
 0.0.0.0 h9.walletfun.com
 0.0.0.0 h9di0.trackvoluum.com
 0.0.0.0 h4311.app.link
@@ -3914,6 +3934,7 @@
 0.0.0.0 info.kochava.com
 0.0.0.0 infotel.aplaymusic.com
 0.0.0.0 ingames.blastoffgaming.com
+0.0.0.0 initialcloudflare.marketing66.com
 0.0.0.0 inj91.app.link
 0.0.0.0 innad.innnews.co.th
 0.0.0.0 innmc.innnews.co.th
@@ -3922,6 +3943,7 @@
 0.0.0.0 instagram-adsonline.nipa.co.th
 0.0.0.0 instagram.nipa.co.th
 0.0.0.0 interactive.monoinfosystems.com
+0.0.0.0 interactivecrypto.marketing66.com
 0.0.0.0 intern.lawaweb.com
 0.0.0.0 internal.mtouche.com
 0.0.0.0 internal.shinee.com
@@ -4131,6 +4153,7 @@
 0.0.0.0 linkhub.etracker.cc
 0.0.0.0 list.myappfree.com
 0.0.0.0 lists.gmmdigital.com
+0.0.0.0 lists.mailer1.marketing66.com
 0.0.0.0 live.gamepanda.me
 0.0.0.0 live.horolive.com
 0.0.0.0 live.mcatch.com
@@ -4533,8 +4556,8 @@
 0.0.0.0 maechan54.thaiza.com
 0.0.0.0 maekrua.nipa.co.th
 0.0.0.0 magica.bluestwep.pw
-0.0.0.0 mail01.mk.macrokiosk.com
 0.0.0.0 mail1.momoko.co
+0.0.0.0 mail01.mk.macrokiosk.com
 0.0.0.0 mail2.shoopadoo.com
 0.0.0.0 mail-hq.gmmdigital.com
 0.0.0.0 mail.2016.lawaweb.com
@@ -4588,6 +4611,7 @@
 0.0.0.0 mail.levelup.lawaweb.com
 0.0.0.0 mail.liyana.lawaweb.com
 0.0.0.0 mail.macrokiosk.com
+0.0.0.0 mail.marketing66.com
 0.0.0.0 mail.mlive711.mcatch.com
 0.0.0.0 mail.momoko.co
 0.0.0.0 mail.mono2u.com
@@ -4616,6 +4640,7 @@
 0.0.0.0 mail.uswc.lawaweb.com
 0.0.0.0 mail.zeyad.lawaweb.com
 0.0.0.0 mailcampaign.nipa.co.th
+0.0.0.0 mailer1.marketing66.com
 0.0.0.0 mailgateway.gmmdigital.com
 0.0.0.0 mailgw.gmmdigital.com
 0.0.0.0 mailserv.gmmdigital.com
@@ -4638,6 +4663,7 @@
 0.0.0.0 massive.thaiza.com
 0.0.0.0 masterdb.shinee.com
 0.0.0.0 matrix-record.myshopify.com
+0.0.0.0 mavpn.marketing66.com
 0.0.0.0 maxbet.gclub-casino.com
 0.0.0.0 maxxitv.gmmwireless.com
 0.0.0.0 mbaeimmalaysia.lawaweb.com
@@ -5379,6 +5405,7 @@
 0.0.0.0 reporting.etracker.cc
 0.0.0.0 resources.bajajcapital.com
 0.0.0.0 restwp.mobidea.com
+0.0.0.0 reviews.marketing66.com
 0.0.0.0 rht8h.bemobtrk.com
 0.0.0.0 rhythm101.app.link
 0.0.0.0 rhythm401.app.link
@@ -5467,6 +5494,7 @@
 0.0.0.0 sbobet888888.salvage-shop.com
 0.0.0.0 sbobet.adelleandrew.com
 0.0.0.0 sbobet.closetologie.com
+0.0.0.0 sbox.mailer1.marketing66.com
 0.0.0.0 sbppr.trackvoluum.com
 0.0.0.0 sby.get-intouch.com
 0.0.0.0 scbl.nbryb.com
@@ -5830,6 +5858,7 @@
 0.0.0.0 test.isport.co.th
 0.0.0.0 test.ke.funmobile.com
 0.0.0.0 test.lalamobi.com
+0.0.0.0 test.marketing66.com
 0.0.0.0 test.mcommsg.com
 0.0.0.0 test.nmpcenter.com
 0.0.0.0 testing.amkomobile.com
@@ -6004,9 +6033,11 @@
 0.0.0.0 tracking.nipa.co.th
 0.0.0.0 tracking.performancerevenues.com
 0.0.0.0 tracking.premierflows.com
+0.0.0.0 tracking.trkshark.cc
 0.0.0.0 tracking.vstyle4u.com
 0.0.0.0 tracking.wrtual.com
 0.0.0.0 tradesy.app.link
+0.0.0.0 tradingcompare.marketing66.com
 0.0.0.0 tradition.thaiza.com
 0.0.0.0 traffic.tc-clicks.com
 0.0.0.0 trainee.gmmwireless.com
@@ -6341,12 +6372,13 @@
 0.0.0.0 wapshop.gameloft.com
 0.0.0.0 waptrick.vuclip.com
 0.0.0.0 warnerclub.thinksmart.co.th
+0.0.0.0 warningbroker.marketing66.com
 0.0.0.0 wateboass.hotangelz.mobi
 0.0.0.0 wcgw.thinksmart.co.th
 0.0.0.0 weanloves.thaiza.com
 0.0.0.0 web00.6969jp.xyz
-0.0.0.0 web1.shinee.com
 0.0.0.0 web01.6969jp.xyz
+0.0.0.0 web1.shinee.com
 0.0.0.0 web04.trackvoluum.com
 0.0.0.0 web-print.forest-interactive.com
 0.0.0.0 web-sdk.control.kochava.com
@@ -6664,6 +6696,7 @@
 0.0.0.0 www.adver.me
 0.0.0.0 www.adzsx.pro
 0.0.0.0 www.affichaos.com
+0.0.0.0 www.affiliate.marketing66.com
 0.0.0.0 www.affise.com
 0.0.0.0 www.affmob.com
 0.0.0.0 www.affmoney.top
@@ -6825,6 +6858,8 @@
 0.0.0.0 www.bamobile.com
 0.0.0.0 www.ban-terng.com
 0.0.0.0 www.bandlane.com
+0.0.0.0 www.banquedexcuse-co.marketing66.com
+0.0.0.0 www.banquedexcuse.co
 0.0.0.0 www.bayarin.lawaapp.com
 0.0.0.0 www.bbcmvdo.com
 0.0.0.0 www.bbcontent.co.th
@@ -7330,6 +7365,8 @@
 0.0.0.0 www.installstechiefreeapp.club
 0.0.0.0 www.instantbabes.mobi
 0.0.0.0 www.integrativeanalytic.com
+0.0.0.0 www.interactivecrypto.com
+0.0.0.0 www.interactivecrypto.marketing66.com
 0.0.0.0 www.interchan.com
 0.0.0.0 www.intern.lawaweb.com
 0.0.0.0 www.intex.funmunch.mobi
@@ -7358,6 +7395,7 @@
 0.0.0.0 www.jabber.momoko.co
 0.0.0.0 www.jadjann.com
 0.0.0.0 www.jaidee5555.com
+0.0.0.0 www.jaideeteam.com
 0.0.0.0 www.jamloey.com
 0.0.0.0 www.jibhd.com
 0.0.0.0 www.jinshengpacking.com
@@ -7485,14 +7523,18 @@
 0.0.0.0 www.magent.my
 0.0.0.0 www.magikmobile.mobi
 0.0.0.0 www.mai88.com
+0.0.0.0 www.mail.marketing66.com
 0.0.0.0 www.makeprogress.shop
 0.0.0.0 www.makingcompensate.shop
 0.0.0.0 www.malanden.pw
 0.0.0.0 www.manymy.com
 0.0.0.0 www.marhasanook.com
+0.0.0.0 www.marketing66.com
 0.0.0.0 www.marketing.kochava.com
 0.0.0.0 www.mastermovie-hd.mobi
 0.0.0.0 www.matchme.com.ng
+0.0.0.0 www.mavpn.com
+0.0.0.0 www.mavpn.marketing66.com
 0.0.0.0 www.maxforecast.com
 0.0.0.0 www.maximob4u.com
 0.0.0.0 www.maxmall.pw
@@ -8241,6 +8283,7 @@
 0.0.0.0 www.temenjalan.com
 0.0.0.0 www.terragonbase.com
 0.0.0.0 www.tescolotus-th.club
+0.0.0.0 www.test.marketing66.com
 0.0.0.0 www.th1cs.com
 0.0.0.0 www.th124-surveyonline.club
 0.0.0.0 www.th-scr888.com
@@ -8309,6 +8352,8 @@
 0.0.0.0 www.trackmeplease.com
 0.0.0.0 www.tracksz.co
 0.0.0.0 www.trackvoluum.com
+0.0.0.0 www.tradingcompare.com
+0.0.0.0 www.tradingcompare.marketing66.com
 0.0.0.0 www.traffic-c.com
 0.0.0.0 www.trafficshark.pro
 0.0.0.0 www.traffikflow.com
@@ -8427,6 +8472,7 @@
 0.0.0.0 www.waptrick.vuclip.com
 0.0.0.0 www.wareengin.fun
 0.0.0.0 www.waremode.com
+0.0.0.0 www.warningbroker.marketing66.com
 0.0.0.0 www.wathspap.com
 0.0.0.0 www.waveparadise.xyz
 0.0.0.0 www.waypeach.pw
@@ -8465,6 +8511,8 @@
 0.0.0.0 www.xn--42c8cmgk9dvfyd.com
 0.0.0.0 www.xn--42cn1aug7dc0hrhc1gd.net
 0.0.0.0 www.xn--r3cpjgt3b.com
+0.0.0.0 www.xosignals.com
+0.0.0.0 www.xosignals.marketing66.com
 0.0.0.0 www.xspicyvideos.com
 0.0.0.0 www.yadro.ru
 0.0.0.0 www.yasune360.com
@@ -8531,6 +8579,7 @@
 0.0.0.0 xn----4---j7q1fazxafae9n7a7g9c6ck2gygra0mf5bvj.fun88.link
 0.0.0.0 xn--sbobet--pantip-cn6b60ajf.fun88.link
 0.0.0.0 xnxx2020.app.link
+0.0.0.0 xosignals.marketing66.com
 0.0.0.0 xposed.adultvids.mobi
 0.0.0.0 xs6h.nbryb.com
 0.0.0.0 xufw0.app.link
