@@ -10,7 +10,6 @@
 - Android devices
   - [AdAway](https://github.com/AdAway/AdAway) (Root required)
   - [DNS66](https://github.com/julian-klode/dns66)
-  - [Blokada](https://github.com/blokadaorg/blokada)
   - [Nebulo](https://github.com/Ch4t4r/Nebulo)
   - [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
 
