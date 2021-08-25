@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202108071012
+# Version: 202108251807
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -279,6 +279,7 @@
 0.0.0.0 apxadtracking.net
 0.0.0.0 aradamandson.com
 0.0.0.0 aragontrack.com
+0.0.0.0 arbitrator.click
 0.0.0.0 arco.co.th
 0.0.0.0 arenamedia.co.th
 0.0.0.0 arenamobile.com
@@ -1789,9 +1790,9 @@
 0.0.0.0 zsaqls.com
 # Variant - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 0-0-1.app.link
-0.0.0.0 0d710.app.link
 0.0.0.0 00boa00.app.link
 0.0.0.0 0bfn6.trackvoluum.com
+0.0.0.0 0d710.app.link
 0.0.0.0 0ibt0.app.link
 0.0.0.0 0jr0.app.link
 0.0.0.0 0md5e.trackvoluum.com
@@ -1843,6 +1844,7 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
+0.0.0.0 02ql0.app.link
 0.0.0.0 2ce60.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
@@ -1850,7 +1852,6 @@
 0.0.0.0 2h2r0.app.link
 0.0.0.0 2haj0.app.link
 0.0.0.0 2ii7.nbryb.com
-0.0.0.0 02ql0.app.link
 0.0.0.0 2kygq.voluumtrk.com
 0.0.0.0 2lm81.app.link
 0.0.0.0 2lu0.app.link
@@ -1872,6 +1873,7 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
+0.0.0.0 03y0.app.link
 0.0.0.0 3a257.trackvoluum.com
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
@@ -1883,7 +1885,6 @@
 0.0.0.0 3mz60.app.link
 0.0.0.0 3n940.app.link
 0.0.0.0 3ofi0.app.link
-0.0.0.0 03y0.app.link
 0.0.0.0 3ohb.nbryb.com
 0.0.0.0 3q50.app.link
 0.0.0.0 3rd.lpalice2appsmart.com
@@ -1952,17 +1953,17 @@
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
 0.0.0.0 7.nbryb.com
-0.0.0.0 7b2o.nbryb.com
 0.0.0.0 07d0.nbryb.com
-0.0.0.0 7bpr0.app.link
-0.0.0.0 7ma1.app.link
 0.0.0.0 07u0.app.link
+0.0.0.0 7b2o.nbryb.com
+0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
 0.0.0.0 7lyr1.bemobtrk.com
+0.0.0.0 7ma1.app.link
 0.0.0.0 7n61.app.link
 0.0.0.0 7q1b.nbryb.com
 0.0.0.0 7q181.app.link
@@ -2008,8 +2009,8 @@
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
 0.0.0.0 9.nbryb.com
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9g7i.nbryb.com
+0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -3291,6 +3292,7 @@
 0.0.0.0 esx-sub-42.shinee.com
 0.0.0.0 eth.gamesclub.mobi
 0.0.0.0 etr-web1.app.link
+0.0.0.0 eu.arbitrator.click
 0.0.0.0 event.apiv9.com
 0.0.0.0 event.eggdigital.com
 0.0.0.0 events1.adcolony.com
@@ -5582,6 +5584,7 @@
 0.0.0.0 seyn0.app.link
 0.0.0.0 sg.12xlwin3.net
 0.0.0.0 sg.affmoney.top
+0.0.0.0 sg.arbitrator.click
 0.0.0.0 sg.biktv.com
 0.0.0.0 sg.datinggirls.info
 0.0.0.0 sg.mobgkt.com
@@ -6832,6 +6835,7 @@
 0.0.0.0 www.ar.clubxzone.com
 0.0.0.0 www.aradamandson.com
 0.0.0.0 www.aragontrack.com
+0.0.0.0 www.arbitrator.click
 0.0.0.0 www.arco.co.th
 0.0.0.0 www.arenamedia.co.th
 0.0.0.0 www.arenamobile.com
