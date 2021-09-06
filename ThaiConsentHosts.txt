@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202109061854
+# Version: 202109061855
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -545,7 +545,6 @@
 0.0.0.0 farerbabe.pw
 0.0.0.0 fashionbunny.com
 0.0.0.0 fashionmsg.com
-0.0.0.0 fastercrafts.com
 0.0.0.0 fastercrafts.com
 0.0.0.0 fblives.net
 0.0.0.0 feminum.pw
@@ -1254,7 +1253,6 @@
 0.0.0.0 pornpt.icu
 0.0.0.0 post-track-trace.com
 0.0.0.0 postalamasyon.com
-0.0.0.0 postcampa.com
 0.0.0.0 postcampa.com
 0.0.0.0 postol.com
 0.0.0.0 postol.fr
@@ -5114,7 +5112,6 @@
 0.0.0.0 onboarding.forest-interactive.com
 0.0.0.0 one31.app.link
 0.0.0.0 onedrive-doc20.app.link
-0.0.0.0 onepro.fastercrafts.com
 0.0.0.0 onepro.fastercrafts.com
 0.0.0.0 onlineoffice.shinee.com
 0.0.0.0 ontrol.kochava.com
