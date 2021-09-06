@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202109061855
+# Version: 202109061858
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1407,6 +1407,7 @@
 0.0.0.0 sagame66.com
 0.0.0.0 sagame-auto.com
 0.0.0.0 saleplus.vn
+0.0.0.0 salers-bargoing.icu
 0.0.0.0 salvage-shop.com
 0.0.0.0 samart-digitalmedia.com
 0.0.0.0 samartbug.com
@@ -1847,8 +1848,8 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
-0.0.0.0 2ce60.app.link
 0.0.0.0 02ql0.app.link
+0.0.0.0 2ce60.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
 0.0.0.0 2flp.shoopadoo.com
@@ -1876,8 +1877,8 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3a257.trackvoluum.com
+0.0.0.0 03y0.app.link
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
@@ -1956,10 +1957,12 @@
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
 0.0.0.0 7.nbryb.com
-0.0.0.0 07d0.nbryb.com
 0.0.0.0 7b2o.nbryb.com
+0.0.0.0 07d0.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
+0.0.0.0 7y7s0.app.link
+0.0.0.0 07u0.app.link
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
@@ -1984,9 +1987,7 @@
 0.0.0.0 7vad.nbryb.com
 0.0.0.0 7vao0.app.link
 0.0.0.0 7w2k8.bemobtrk.com
-0.0.0.0 07u0.app.link
 0.0.0.0 7xx0.app.link
-0.0.0.0 7y7s0.app.link
 0.0.0.0 7z581.app.link
 0.0.0.0 8.nbryb.com
 0.0.0.0 8b0z.nbryb.com
@@ -2012,8 +2013,8 @@
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
 0.0.0.0 9.nbryb.com
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9g7i.nbryb.com
+0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -2076,8 +2077,8 @@
 0.0.0.0 38.nbryb.com
 0.0.0.0 39.nbryb.com
 0.0.0.0 40.nbryb.com
-0.0.0.0 41.nbryb.com
 0.0.0.0 041h0.app.link
+0.0.0.0 41.nbryb.com
 0.0.0.0 41ds.nbryb.com
 0.0.0.0 42.nbryb.com
 0.0.0.0 43.nbryb.com
@@ -8154,6 +8155,7 @@
 0.0.0.0 www.sagame66.com
 0.0.0.0 www.sagame-auto.com
 0.0.0.0 www.saleplus.vn
+0.0.0.0 www.salers-bargoing.icu
 0.0.0.0 www.salvage-shop.com
 0.0.0.0 www.samart-digitalmedia.com
 0.0.0.0 www.samartbug.com
