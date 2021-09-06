@@ -8,7 +8,7 @@
 
 **มือถือ Android ที่ Root แล้ว**: ใช้กับแอพฯ [AdAway](https://github.com/AdAway/AdAway)
 
-**มือถือ Android ที่ไม่ได้ Root**: สามารถใช้ได้กับแอพฯ [DNS66](https://github.com/julian-klode/dns66), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter), [Nebulo](https://github.com/Ch4t4r/Nebulo)
+**มือถือ Android ที่ไม่ได้ Root**: สามารถใช้ได้กับแอพฯ [DNS66](https://github.com/julian-klode/dns66), [Nebulo](https://github.com/Ch4t4r/Nebulo), [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
 > ไม่แนะนำ [NetGuard](https://github.com/M66B/NetGuard) *เนื่องจากสามารถโหลด Hosts File ได้เพียงแหล่งเดียว*
 
 **โปรแกรม Web Browser**: สามารถใช้ได้กับ [uBlock Origin](https://github.com/gorhill/uBlock)

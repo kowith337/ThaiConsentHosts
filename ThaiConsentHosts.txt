@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202108251807
+# Version: 202109061851
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1252,7 +1252,11 @@
 0.0.0.0 porn93.com
 0.0.0.0 pornpt.icu
 0.0.0.0 post-track-trace.com
+0.0.0.0 postalamasyon.com
 0.0.0.0 postcampa.com
+0.0.0.0 postcampa.com
+0.0.0.0 postol.com
+0.0.0.0 postol.fr
 0.0.0.0 potiongames.com
 0.0.0.0 pottymag.com
 0.0.0.0 powerlion.space
@@ -1790,6 +1794,9 @@
 0.0.0.0 zsaqls.com
 # Variant - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 0-0-1.app.link
+0.0.0.0 0pju0.app.link
+0.0.0.0 0q2q0.app.link
+0.0.0.0 0q8c1.app.link
 0.0.0.0 00boa00.app.link
 0.0.0.0 0bfn6.trackvoluum.com
 0.0.0.0 0d710.app.link
@@ -1799,9 +1806,6 @@
 0.0.0.0 0mszb.trackvoluum.com
 0.0.0.0 0nl1nebank1inge01.app.link
 0.0.0.0 0ow.integrativeanalytic.com
-0.0.0.0 0pju0.app.link
-0.0.0.0 0q2q0.app.link
-0.0.0.0 0q8c1.app.link
 0.0.0.0 0qks0.app.link
 0.0.0.0 0qst.nbryb.com
 0.0.0.0 0t3j.nbryb.com
@@ -1873,7 +1877,6 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3a257.trackvoluum.com
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
@@ -1881,6 +1884,7 @@
 0.0.0.0 3ksa1.app.link
 0.0.0.0 3ky70.app.link
 0.0.0.0 3m6h0.app.link
+0.0.0.0 03y0.app.link
 0.0.0.0 3mdc0.app.link
 0.0.0.0 3mz60.app.link
 0.0.0.0 3n940.app.link
@@ -1953,18 +1957,18 @@
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
 0.0.0.0 7.nbryb.com
-0.0.0.0 07d0.nbryb.com
-0.0.0.0 07u0.app.link
 0.0.0.0 7b2o.nbryb.com
-0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
+0.0.0.0 07d0.nbryb.com
+0.0.0.0 7bpr0.app.link
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
+0.0.0.0 7n61.app.link
+0.0.0.0 07u0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
 0.0.0.0 7lyr1.bemobtrk.com
 0.0.0.0 7ma1.app.link
-0.0.0.0 7n61.app.link
 0.0.0.0 7q1b.nbryb.com
 0.0.0.0 7q181.app.link
 0.0.0.0 7qsh4.bemobtrk.com
@@ -2010,10 +2014,11 @@
 0.0.0.0 8z5o0.app.link
 0.0.0.0 9.nbryb.com
 0.0.0.0 9g7i.nbryb.com
+0.0.0.0 9h2o0.app.link
+0.0.0.0 9q11.app.link
 0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
-0.0.0.0 9h2o0.app.link
 0.0.0.0 9ij29.trackvoluum.com
 0.0.0.0 9iz31.app.link
 0.0.0.0 9mmm0.app.link
@@ -2022,7 +2027,6 @@
 0.0.0.0 9okh0.app.link
 0.0.0.0 9pa70.app.link
 0.0.0.0 9pe20.app.link
-0.0.0.0 9q11.app.link
 0.0.0.0 9rd21.app.link
 0.0.0.0 9tf50.app.link
 0.0.0.0 9vep0.app.link
@@ -2107,8 +2111,8 @@
 0.0.0.0 59.nbryb.com
 0.0.0.0 60.nbryb.com
 0.0.0.0 61.nbryb.com
-0.0.0.0 062f.nbryb.com
 0.0.0.0 62.nbryb.com
+0.0.0.0 062f.nbryb.com
 0.0.0.0 63.nbryb.com
 0.0.0.0 64.nbryb.com
 0.0.0.0 65.nbryb.com
@@ -2894,6 +2898,9 @@
 0.0.0.0 cpanel.navid.lawaweb.com
 0.0.0.0 cpanel.neovable.lawaweb.com
 0.0.0.0 cpanel.payment-metfone.lawaweb.com
+0.0.0.0 cpanel.postalamasyon.com
+0.0.0.0 cpanel.postcampa.com
+0.0.0.0 cpanel.postol.fr
 0.0.0.0 cpanel.rakcontent.com
 0.0.0.0 cpanel.satrya.lawaweb.com
 0.0.0.0 cpanel.staging2.forest-interactive.com
@@ -2932,6 +2939,9 @@
 0.0.0.0 cpcalendars.navid.lawaweb.com
 0.0.0.0 cpcalendars.neovable.lawaweb.com
 0.0.0.0 cpcalendars.payment-metfone.lawaweb.com
+0.0.0.0 cpcalendars.postalamasyon.com
+0.0.0.0 cpcalendars.postcampa.com
+0.0.0.0 cpcalendars.postol.fr
 0.0.0.0 cpcalendars.satrya.lawaweb.com
 0.0.0.0 cpcalendars.staging2.forest-interactive.com
 0.0.0.0 cpcalendars.thommy.lawaweb.com
@@ -2967,6 +2977,9 @@
 0.0.0.0 cpcontacts.navid.lawaweb.com
 0.0.0.0 cpcontacts.neovable.lawaweb.com
 0.0.0.0 cpcontacts.payment-metfone.lawaweb.com
+0.0.0.0 cpcontacts.postalamasyon.com
+0.0.0.0 cpcontacts.postcampa.com
+0.0.0.0 cpcontacts.postol.fr
 0.0.0.0 cpcontacts.satrya.lawaweb.com
 0.0.0.0 cpcontacts.staging2.forest-interactive.com
 0.0.0.0 cpcontacts.thommy.lawaweb.com
@@ -3778,8 +3791,8 @@
 0.0.0.0 h6.walletfun.com
 0.0.0.0 h7.walletfun.com
 0.0.0.0 h7pq0.app.link
-0.0.0.0 h08otsc3.acupofcafeconleche.com
 0.0.0.0 h8.walletfun.com
+0.0.0.0 h08otsc3.acupofcafeconleche.com
 0.0.0.0 h9.walletfun.com
 0.0.0.0 h9di0.trackvoluum.com
 0.0.0.0 h4311.app.link
@@ -4631,6 +4644,9 @@
 0.0.0.0 mail.newoneadvertising.com
 0.0.0.0 mail.payment-metfone.lawaweb.com
 0.0.0.0 mail.pewc.lawaweb.com
+0.0.0.0 mail.postalamasyon.com
+0.0.0.0 mail.postcampa.com
+0.0.0.0 mail.postol.fr
 0.0.0.0 mail.rakcontent.com
 0.0.0.0 mail.rockymobi.com
 0.0.0.0 mail.s-onetelecom.com
@@ -5278,9 +5294,14 @@
 0.0.0.0 portcal.thumbr.com
 0.0.0.0 portfl.thumbr.com
 0.0.0.0 portnl.thumbr.com
+0.0.0.0 pos.postalamasyon.com
 0.0.0.0 positive.nipa.co.th
 0.0.0.0 post.getcools.com
+0.0.0.0 post.postalamasyon.com
 0.0.0.0 post.postcampa.com
+0.0.0.0 postalamasyon.com.postol.fr
+0.0.0.0 postcampa.com.postol.fr
+0.0.0.0 postcol.com.postol.fr
 0.0.0.0 potato.enjoy108.com
 0.0.0.0 potrtal.thumbr.com
 0.0.0.0 pourtal.thumbr.com
@@ -6077,6 +6098,7 @@
 0.0.0.0 truewap.gmmwireless.com
 0.0.0.0 try.fun-club.mobi
 0.0.0.0 try.portal.thumbr.com
+0.0.0.0 try.postalamasyon.com
 0.0.0.0 try.thisilike.net
 0.0.0.0 try.thumbr.com
 0.0.0.0 tsel.get-intouch.com
@@ -6385,8 +6407,8 @@
 0.0.0.0 wcgw.thinksmart.co.th
 0.0.0.0 weanloves.thaiza.com
 0.0.0.0 web00.6969jp.xyz
-0.0.0.0 web01.6969jp.xyz
 0.0.0.0 web1.shinee.com
+0.0.0.0 web01.6969jp.xyz
 0.0.0.0 web04.trackvoluum.com
 0.0.0.0 web-print.forest-interactive.com
 0.0.0.0 web-sdk.control.kochava.com
@@ -6436,6 +6458,9 @@
 0.0.0.0 webdisk.navid.lawaweb.com
 0.0.0.0 webdisk.neovable.lawaweb.com
 0.0.0.0 webdisk.payment-metfone.lawaweb.com
+0.0.0.0 webdisk.postalamasyon.com
+0.0.0.0 webdisk.postcampa.com
+0.0.0.0 webdisk.postol.fr
 0.0.0.0 webdisk.rakcontent.com
 0.0.0.0 webdisk.satrya.lawaweb.com
 0.0.0.0 webdisk.staging2.forest-interactive.com
@@ -6486,6 +6511,9 @@
 0.0.0.0 webmail.navid.lawaweb.com
 0.0.0.0 webmail.neovable.lawaweb.com
 0.0.0.0 webmail.payment-metfone.lawaweb.com
+0.0.0.0 webmail.postalamasyon.com
+0.0.0.0 webmail.postcampa.com
+0.0.0.0 webmail.postol.fr
 0.0.0.0 webmail.rakcontent.com
 0.0.0.0 webmail.satrya.lawaweb.com
 0.0.0.0 webmail.staging2.forest-interactive.com
@@ -7952,7 +7980,16 @@
 0.0.0.0 www.portcal.thumbr.com
 0.0.0.0 www.portfl.thumbr.com
 0.0.0.0 www.portnl.thumbr.com
+0.0.0.0 www.pos.postalamasyon.com
 0.0.0.0 www.post-track-trace.com
+0.0.0.0 www.post.postalamasyon.com
+0.0.0.0 www.post.postcampa.com
+0.0.0.0 www.postalamasyon.com
+0.0.0.0 www.postalamasyon.com.postol.fr
+0.0.0.0 www.postcampa.com
+0.0.0.0 www.postcampa.com.postol.fr
+0.0.0.0 www.postcol.com.postol.fr
+0.0.0.0 www.postol.fr
 0.0.0.0 www.potiongames.com
 0.0.0.0 www.potrtal.thumbr.com
 0.0.0.0 www.pottymag.com
@@ -8382,6 +8419,7 @@
 0.0.0.0 www.truevid.mobi
 0.0.0.0 www.truevids.mobi
 0.0.0.0 www.truevivid.mobi
+0.0.0.0 www.try.postalamasyon.com
 0.0.0.0 www.tryacf01.com
 0.0.0.0 www.tsalebag.com
 0.0.0.0 www.tubecorporate.com
