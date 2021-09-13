@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202109061858
+# Version: 202109132219
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -292,6 +292,7 @@
 0.0.0.0 authbill.com
 0.0.0.0 autoportal.com
 0.0.0.0 auulala.com
+0.0.0.0 auulala.com
 0.0.0.0 awap.tv
 0.0.0.0 awolf.mobi
 0.0.0.0 awz.bz
@@ -462,6 +463,7 @@
 0.0.0.0 czlbc.net
 0.0.0.0 d0yd6ulp.com
 0.0.0.0 d9h.me
+0.0.0.0 dabing77.xyz
 0.0.0.0 damneddevastator.com
 0.0.0.0 dangduter.com
 0.0.0.0 daniellefriedland.com
@@ -725,6 +727,7 @@
 0.0.0.0 homedeal.xyz
 0.0.0.0 homeways.com.tw
 0.0.0.0 hornygirls.mobi
+0.0.0.0 horo365.com
 0.0.0.0 horohooray.com
 0.0.0.0 horolive.com
 0.0.0.0 horotalk.com
@@ -985,6 +988,7 @@
 0.0.0.0 mobixing.com
 0.0.0.0 mobiz.guru
 0.0.0.0 mobl-apps.com
+0.0.0.0 mobll-apps.com
 0.0.0.0 mobopromo.biz
 0.0.0.0 mobplanner.com
 0.0.0.0 mobplus.net
@@ -1517,6 +1521,7 @@
 0.0.0.0 sosmob.mobi
 0.0.0.0 spak.me
 0.0.0.0 sparklemob.com
+0.0.0.0 spicy-videos.com
 0.0.0.0 spicyvideos.mobi
 0.0.0.0 splanetproject.com
 0.0.0.0 sptslmtrafms.com
@@ -1878,7 +1883,6 @@
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
 0.0.0.0 3a257.trackvoluum.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
@@ -1897,6 +1901,7 @@
 0.0.0.0 3vjtfh.njysmy.com
 0.0.0.0 3z9s0.app.link
 0.0.0.0 3zqs0.app.link
+0.0.0.0 03y0.app.link
 0.0.0.0 4.0.nipa.co.th
 0.0.0.0 4.nbryb.com
 0.0.0.0 4cu3b.trackvoluum.com
@@ -1956,13 +1961,12 @@
 0.0.0.0 6ud0.app.link
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
-0.0.0.0 7.nbryb.com
-0.0.0.0 7b2o.nbryb.com
 0.0.0.0 07d0.nbryb.com
+0.0.0.0 7.nbryb.com
+0.0.0.0 07u0.app.link
+0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
-0.0.0.0 7y7s0.app.link
-0.0.0.0 07u0.app.link
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
@@ -1988,6 +1992,7 @@
 0.0.0.0 7vao0.app.link
 0.0.0.0 7w2k8.bemobtrk.com
 0.0.0.0 7xx0.app.link
+0.0.0.0 7y7s0.app.link
 0.0.0.0 7z581.app.link
 0.0.0.0 8.nbryb.com
 0.0.0.0 8b0z.nbryb.com
@@ -2012,9 +2017,9 @@
 0.0.0.0 8x0g0.app.link
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
+0.0.0.0 09am.nbryb.com
 0.0.0.0 9.nbryb.com
 0.0.0.0 9g7i.nbryb.com
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -2077,8 +2082,8 @@
 0.0.0.0 38.nbryb.com
 0.0.0.0 39.nbryb.com
 0.0.0.0 40.nbryb.com
-0.0.0.0 041h0.app.link
 0.0.0.0 41.nbryb.com
+0.0.0.0 041h0.app.link
 0.0.0.0 41ds.nbryb.com
 0.0.0.0 42.nbryb.com
 0.0.0.0 43.nbryb.com
@@ -3272,7 +3277,9 @@
 0.0.0.0 erotic.playclub.me
 0.0.0.0 erotico.realgirls.mobi
 0.0.0.0 erotixxxo.realgirls.mobi
+0.0.0.0 es2.mobll-apps.com
 0.0.0.0 es.biktv.com
+0.0.0.0 es.mobll-apps.com
 0.0.0.0 es.mychatpremium.com
 0.0.0.0 es.sunnygames.club
 0.0.0.0 espiams.thai-sms.com
@@ -3955,6 +3962,7 @@
 0.0.0.0 ingames.blastoffgaming.com
 0.0.0.0 initialcloudflare.marketing66.com
 0.0.0.0 inj91.app.link
+0.0.0.0 inla.thinksmart.co.th
 0.0.0.0 innad.innnews.co.th
 0.0.0.0 innmc.innnews.co.th
 0.0.0.0 insight.thinksmart.co.th
@@ -4575,8 +4583,8 @@
 0.0.0.0 maechan54.thaiza.com
 0.0.0.0 maekrua.nipa.co.th
 0.0.0.0 magica.bluestwep.pw
-0.0.0.0 mail1.momoko.co
 0.0.0.0 mail01.mk.macrokiosk.com
+0.0.0.0 mail1.momoko.co
 0.0.0.0 mail2.shoopadoo.com
 0.0.0.0 mail-hq.gmmdigital.com
 0.0.0.0 mail.2016.lawaweb.com
@@ -4843,6 +4851,7 @@
 0.0.0.0 moviemaster.vipgames.me
 0.0.0.0 mp3download.gmmwireless.com
 0.0.0.0 mrml1.trackvoluum.com
+0.0.0.0 ms6c0wqqi.dabing77.xyz
 0.0.0.0 ms-21.likemyhistory.info
 0.0.0.0 ms.alphacell.co
 0.0.0.0 ms.boobi.biz
@@ -5149,6 +5158,8 @@
 0.0.0.0 p4a10.app.link
 0.0.0.0 p.appk.mobi
 0.0.0.0 p.applikteca.mobi
+0.0.0.0 p.au.mobll-apps.com
+0.0.0.0 p.de.mobll-apps.com
 0.0.0.0 p.gamesteka.com
 0.0.0.0 p.lustzy.com
 0.0.0.0 p.shoopadoo.com
@@ -5256,6 +5267,8 @@
 0.0.0.0 playtw.funmunch.mobi
 0.0.0.0 plc.ctrackz.net
 0.0.0.0 pleasure.realgirls.mobi
+0.0.0.0 pma2.thinksmart.co.th
+0.0.0.0 pma.smrtads.thinksmart.co.th
 0.0.0.0 pma.telesales.thinksmart.co.th
 0.0.0.0 pma.thinksmart.co.th
 0.0.0.0 pnhh3.trackvoluum.com
@@ -5624,6 +5637,7 @@
 0.0.0.0 shineewap.shinee.com
 0.0.0.0 shineeweb.shinee.com
 0.0.0.0 shop.mcatch.com
+0.0.0.0 shop.mobll-apps.com
 0.0.0.0 shop.n-content.com
 0.0.0.0 shopping.horoworld.com
 0.0.0.0 siam-movie.moviegroups88.com
@@ -6388,6 +6402,7 @@
 0.0.0.0 wap.nmpcenter.com
 0.0.0.0 wap.retromedya.com
 0.0.0.0 wap.shinee.com
+0.0.0.0 wap.spicy-videos.com
 0.0.0.0 wap.symbioticinfo.com
 0.0.0.0 wap.tech-vault.com
 0.0.0.0 wap.thaiboxwap.com
@@ -6400,6 +6415,7 @@
 0.0.0.0 wap.xn--42c8cmgk9dvfyd.com
 0.0.0.0 wap.yasune360.com
 0.0.0.0 wapshop.gameloft.com
+0.0.0.0 wapth.spicy-videos.com
 0.0.0.0 waptrick.vuclip.com
 0.0.0.0 warnerclub.thinksmart.co.th
 0.0.0.0 warningbroker.marketing66.com
@@ -6880,6 +6896,7 @@
 0.0.0.0 www.authbill.com
 0.0.0.0 www.autoportal.com
 0.0.0.0 www.auulala.com
+0.0.0.0 www.auulala.com
 0.0.0.0 www.avd.funmunch.mobi
 0.0.0.0 www.awap.tv
 0.0.0.0 www.awolf.mobi
@@ -7072,6 +7089,7 @@
 0.0.0.0 www.czlbc.net
 0.0.0.0 www.d0yd6ulp.com
 0.0.0.0 www.d9h.me
+0.0.0.0 www.dabing77.xyz
 0.0.0.0 www.damneddevastator.com
 0.0.0.0 www.dangduter.com
 0.0.0.0 www.daniellefriedland.com
@@ -7364,6 +7382,7 @@
 0.0.0.0 www.homeways.com.tw
 0.0.0.0 www.hookup.funmunch.mobi
 0.0.0.0 www.hornygirls.mobi
+0.0.0.0 www.horo365.com
 0.0.0.0 www.horohooray.com
 0.0.0.0 www.horolive.com
 0.0.0.0 www.horotalk.com
@@ -7668,6 +7687,7 @@
 0.0.0.0 www.mobixing.com
 0.0.0.0 www.mobiz.guru
 0.0.0.0 www.mobl-apps.com
+0.0.0.0 www.mobll-apps.com
 0.0.0.0 www.moboi.vuclip.com
 0.0.0.0 www.mobopromo.biz
 0.0.0.0 www.mobplanner.com
@@ -8279,6 +8299,7 @@
 0.0.0.0 www.sosmob.mobi
 0.0.0.0 www.spak.me
 0.0.0.0 www.sparklemob.com
+0.0.0.0 www.spicy-videos.com
 0.0.0.0 www.spicyvideos.mobi
 0.0.0.0 www.splanetproject.com
 0.0.0.0 www.sptslmtrafms.com
