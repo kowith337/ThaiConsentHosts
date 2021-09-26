@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202109191824
+# Version: 202109260853
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1557,6 +1557,7 @@
 0.0.0.0 syjxwl.com
 0.0.0.0 symbioticinfo.com
 0.0.0.0 symediatech.com
+0.0.0.0 sys77.cc
 0.0.0.0 t3mobileadvertising.xyz
 0.0.0.0 tackis.xyz
 0.0.0.0 tc-clicks.com
@@ -1854,8 +1855,8 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
-0.0.0.0 2ce60.app.link
 0.0.0.0 02ql0.app.link
+0.0.0.0 2ce60.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
 0.0.0.0 2flp.shoopadoo.com
@@ -1883,8 +1884,8 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3a257.trackvoluum.com
+0.0.0.0 03y0.app.link
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
@@ -4584,8 +4585,8 @@
 0.0.0.0 maechan54.thaiza.com
 0.0.0.0 maekrua.nipa.co.th
 0.0.0.0 magica.bluestwep.pw
-0.0.0.0 mail1.momoko.co
 0.0.0.0 mail01.mk.macrokiosk.com
+0.0.0.0 mail1.momoko.co
 0.0.0.0 mail2.shoopadoo.com
 0.0.0.0 mail-hq.gmmdigital.com
 0.0.0.0 mail.2016.lawaweb.com
@@ -6424,8 +6425,8 @@
 0.0.0.0 wcgw.thinksmart.co.th
 0.0.0.0 weanloves.thaiza.com
 0.0.0.0 web00.6969jp.xyz
-0.0.0.0 web01.6969jp.xyz
 0.0.0.0 web1.shinee.com
+0.0.0.0 web01.6969jp.xyz
 0.0.0.0 web04.trackvoluum.com
 0.0.0.0 web-print.forest-interactive.com
 0.0.0.0 web-sdk.control.kochava.com
@@ -8342,6 +8343,7 @@
 0.0.0.0 www.syjxwl.com
 0.0.0.0 www.symbioticinfo.com
 0.0.0.0 www.symediatech.com
+0.0.0.0 www.sys77.cc
 0.0.0.0 www.t3mobileadvertising.xyz
 0.0.0.0 www.tackis.xyz
 0.0.0.0 www.tapnplay.club.funmunch.mobi
