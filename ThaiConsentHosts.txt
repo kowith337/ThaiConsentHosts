@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202109260853
+# Version: 202109260900
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -292,7 +292,6 @@
 0.0.0.0 authbill.com
 0.0.0.0 autoportal.com
 0.0.0.0 auulala.com
-0.0.0.0 auulala.com
 0.0.0.0 awap.tv
 0.0.0.0 awolf.mobi
 0.0.0.0 awz.bz
@@ -403,6 +402,7 @@
 0.0.0.0 ciga.xyz
 0.0.0.0 circultural.com
 0.0.0.0 circus88th.com
+0.0.0.0 circus999.net
 0.0.0.0 ckwizard.com
 0.0.0.0 clausiafze.com
 0.0.0.0 click404.net
@@ -860,6 +860,7 @@
 0.0.0.0 lokpost.com
 0.0.0.0 looke.mobi
 0.0.0.0 lottery789.net
+0.0.0.0 lotto168.club
 0.0.0.0 lottoasian.com
 0.0.0.0 lottovip.com
 0.0.0.0 lovehora.com
@@ -896,6 +897,7 @@
 0.0.0.0 manymy.com
 0.0.0.0 marhasanook.com
 0.0.0.0 marketing66.com
+0.0.0.0 maruay88.club
 0.0.0.0 mastermovie-hd.mobi
 0.0.0.0 matchme.com.ng
 0.0.0.0 mavpn.com
@@ -1044,6 +1046,7 @@
 0.0.0.0 n-content.com
 0.0.0.0 n-d.bz
 0.0.0.0 n-mobile.net
+0.0.0.0 namnung.com
 0.0.0.0 nbryb.com
 0.0.0.0 ncontent.tv
 0.0.0.0 ncontentmobile.com
@@ -1855,8 +1858,8 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
-0.0.0.0 02ql0.app.link
 0.0.0.0 2ce60.app.link
+0.0.0.0 02ql0.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
 0.0.0.0 2flp.shoopadoo.com
@@ -1884,8 +1887,8 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
-0.0.0.0 3a257.trackvoluum.com
 0.0.0.0 03y0.app.link
+0.0.0.0 3a257.trackvoluum.com
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
@@ -1965,10 +1968,10 @@
 0.0.0.0 6vkqc.bemobtrk.com
 0.0.0.0 07d0.nbryb.com
 0.0.0.0 7.nbryb.com
-0.0.0.0 07u0.app.link
 0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
+0.0.0.0 07u0.app.link
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
@@ -6898,7 +6901,6 @@
 0.0.0.0 www.authbill.com
 0.0.0.0 www.autoportal.com
 0.0.0.0 www.auulala.com
-0.0.0.0 www.auulala.com
 0.0.0.0 www.avd.funmunch.mobi
 0.0.0.0 www.awap.tv
 0.0.0.0 www.awolf.mobi
@@ -7023,6 +7025,7 @@
 0.0.0.0 www.ciga.xyz
 0.0.0.0 www.circultural.com
 0.0.0.0 www.circus88th.com
+0.0.0.0 www.circus999.net
 0.0.0.0 www.ckwizard.com
 0.0.0.0 www.cl.clubxzone.com
 0.0.0.0 www.clausiafze.com
@@ -7544,6 +7547,7 @@
 0.0.0.0 www.lomsiam.thaiza.com
 0.0.0.0 www.looke.mobi
 0.0.0.0 www.lottery789.net
+0.0.0.0 www.lotto168.club
 0.0.0.0 www.lotto.thaiza.com
 0.0.0.0 www.lottoasian.com
 0.0.0.0 www.lottovip.com
@@ -7593,6 +7597,7 @@
 0.0.0.0 www.marhasanook.com
 0.0.0.0 www.marketing66.com
 0.0.0.0 www.marketing.kochava.com
+0.0.0.0 www.maruay88.club
 0.0.0.0 www.mastermovie-hd.mobi
 0.0.0.0 www.matchme.com.ng
 0.0.0.0 www.mavpn.com
@@ -7750,6 +7755,7 @@
 0.0.0.0 www.n-content.com
 0.0.0.0 www.n-d.bz
 0.0.0.0 www.n-mobile.net
+0.0.0.0 www.namnung.com
 0.0.0.0 www.navid.lawaweb.com
 0.0.0.0 www.nazara.gamesclub.mobi
 0.0.0.0 www.nbryb.com
