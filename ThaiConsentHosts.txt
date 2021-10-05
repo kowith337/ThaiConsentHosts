@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202109261438
+# Version: 202110051751
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -86,6 +86,7 @@
 0.0.0.0 8mobi.co.th
 0.0.0.0 9ep.cc
 0.0.0.0 9lotto168.com
+0.0.0.0 9ui.cc
 0.0.0.0 9v8p.com
 0.0.0.0 9yam.com
 0.0.0.0 12horo.com
@@ -346,6 +347,7 @@
 0.0.0.0 bmobil.me
 0.0.0.0 bmobil.net
 0.0.0.0 bodelen.com
+0.0.0.0 boin133.com
 0.0.0.0 bonbonmob.com
 0.0.0.0 boobi.biz
 0.0.0.0 bothtrk.com
@@ -740,6 +742,7 @@
 0.0.0.0 hotstar.com
 0.0.0.0 hottz.mobi
 0.0.0.0 house365.com
+0.0.0.0 huaynaka.com
 0.0.0.0 hugwealth.com
 0.0.0.0 hunsa.com
 0.0.0.0 hurvewa.com
@@ -800,6 +803,7 @@
 0.0.0.0 kangsom.com
 0.0.0.0 karysale.pw
 0.0.0.0 katrac.com
+0.0.0.0 kenlitosorat.tk
 0.0.0.0 key-travel.com
 0.0.0.0 kfc-box.club
 0.0.0.0 khelbazar.in
@@ -926,6 +930,7 @@
 0.0.0.0 member2you.com
 0.0.0.0 metagme.org
 0.0.0.0 mexcomm.net
+0.0.0.0 mf5.cc
 0.0.0.0 mfun521.com
 0.0.0.0 mfunz.mobi
 0.0.0.0 miccou.com
@@ -1465,6 +1470,7 @@
 0.0.0.0 securitymobile.club
 0.0.0.0 sedapmeesiam.gold
 0.0.0.0 segimaid.com
+0.0.0.0 segmentfault.com
 0.0.0.0 sendo.club
 0.0.0.0 seospeedy.com
 0.0.0.0 service-care.space
@@ -1860,12 +1866,12 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
+0.0.0.0 02ql0.app.link
 0.0.0.0 2ce60.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
 0.0.0.0 2flp.shoopadoo.com
 0.0.0.0 2h2r0.app.link
-0.0.0.0 02ql0.app.link
 0.0.0.0 2haj0.app.link
 0.0.0.0 2ii7.nbryb.com
 0.0.0.0 2kygq.voluumtrk.com
@@ -1968,11 +1974,13 @@
 0.0.0.0 6ud0.app.link
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
-0.0.0.0 7.nbryb.com
 0.0.0.0 7b2o.nbryb.com
+0.0.0.0 07d0.nbryb.com
+0.0.0.0 7.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
+0.0.0.0 07u0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
@@ -1987,14 +1995,12 @@
 0.0.0.0 7rel0.app.link
 0.0.0.0 7s90.app.link
 0.0.0.0 7s393.bemobtrk.com
-0.0.0.0 7v30.nbryb.com
-0.0.0.0 07d0.nbryb.com
 0.0.0.0 7sm0.app.link
 0.0.0.0 7so9g.bemobtrk.com
-0.0.0.0 07u0.app.link
 0.0.0.0 7syc6.trackvoluum.com
 0.0.0.0 7tka1.app.link
 0.0.0.0 7un3.nbryb.com
+0.0.0.0 7v30.nbryb.com
 0.0.0.0 7vad.nbryb.com
 0.0.0.0 7vao0.app.link
 0.0.0.0 7w2k8.bemobtrk.com
@@ -2123,8 +2129,8 @@
 0.0.0.0 59.nbryb.com
 0.0.0.0 60.nbryb.com
 0.0.0.0 61.nbryb.com
-0.0.0.0 62.nbryb.com
 0.0.0.0 062f.nbryb.com
+0.0.0.0 62.nbryb.com
 0.0.0.0 63.nbryb.com
 0.0.0.0 64.nbryb.com
 0.0.0.0 65.nbryb.com
@@ -2865,6 +2871,7 @@
 0.0.0.0 core.royalads.net
 0.0.0.0 corellinet.beezzi.com
 0.0.0.0 corp.s-onetelecom.com
+0.0.0.0 could.kenlitosorat.tk
 0.0.0.0 counter.yadro.ru
 0.0.0.0 coupon.n-content.com
 0.0.0.0 coxcommunications21.app.link
@@ -4327,6 +4334,7 @@
 0.0.0.0 m.ba.zz.th.thumbr.com
 0.0.0.0 m.bg.sx.pv.privatevideoz.com
 0.0.0.0 m.bg.zz.th.thumbr.com
+0.0.0.0 m.boin133.com
 0.0.0.0 m.ca.zz.al.appsilike.mobi
 0.0.0.0 m.callingsticker.com
 0.0.0.0 m.ch.zz.ap.appsdorado.com
@@ -5873,6 +5881,7 @@
 0.0.0.0 ta890.app.link
 0.0.0.0 taeapp.getcools.com
 0.0.0.0 taigamew88.python-libs.com
+0.0.0.0 tang.huaynaka.com
 0.0.0.0 tapigy.go2cloud.org
 0.0.0.0 tapnplay.club.funmunch.mobi
 0.0.0.0 taran.bluestwep.pw
@@ -6684,6 +6693,7 @@
 0.0.0.0 www.8mobi.co.th
 0.0.0.0 www.9ep.cc
 0.0.0.0 www.9lotto168.com
+0.0.0.0 www.9ui.cc
 0.0.0.0 www.9v8p.com
 0.0.0.0 www.9yam.com
 0.0.0.0 www.12horo.com
@@ -6964,6 +6974,7 @@
 0.0.0.0 www.bmobil.me
 0.0.0.0 www.bmobil.net
 0.0.0.0 www.bodelen.com
+0.0.0.0 www.boin133.com
 0.0.0.0 www.bonbonmob.com
 0.0.0.0 www.boobi.biz
 0.0.0.0 www.boos.vuclip.com
@@ -7405,6 +7416,7 @@
 0.0.0.0 www.house365.com
 0.0.0.0 www.hr.fyybox.com
 0.0.0.0 www.hs.appsdorado.com
+0.0.0.0 www.huaynaka.com
 0.0.0.0 www.hugwealth.com
 0.0.0.0 www.hunsa.com
 0.0.0.0 www.hurvewa.com
@@ -7481,6 +7493,7 @@
 0.0.0.0 www.kartuas.lawaweb.com
 0.0.0.0 www.karysale.pw
 0.0.0.0 www.katrac.com
+0.0.0.0 www.kenlitosorat.tk
 0.0.0.0 www.key-travel.com
 0.0.0.0 www.kfc-box.club
 0.0.0.0 www.khelbazar.in
@@ -7630,6 +7643,7 @@
 0.0.0.0 www.member2you.com
 0.0.0.0 www.metagme.org
 0.0.0.0 www.mexcomm.net
+0.0.0.0 www.mf5.cc
 0.0.0.0 www.mfun521.com
 0.0.0.0 www.mfunz.mobi
 0.0.0.0 www.miccou.com
