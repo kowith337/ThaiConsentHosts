@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202111031431
+# Version: 202111031811
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -778,6 +778,7 @@
 0.0.0.0 instantbabes.mobi
 0.0.0.0 integrativeanalytic.com
 0.0.0.0 interactivecrypto.com
+0.0.0.0 interchan.co.th
 0.0.0.0 interchan.com
 0.0.0.0 ipxxxzeed.com
 0.0.0.0 iqwmxn.com
@@ -1876,8 +1877,8 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
-0.0.0.0 02ql0.app.link
 0.0.0.0 2ce60.app.link
+0.0.0.0 02ql0.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
 0.0.0.0 2flp.shoopadoo.com
@@ -1905,8 +1906,8 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3a257.trackvoluum.com
+0.0.0.0 03y0.app.link
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
@@ -1985,9 +1986,9 @@
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
 0.0.0.0 7.nbryb.com
-0.0.0.0 7b2o.nbryb.com
 0.0.0.0 07d0.nbryb.com
 0.0.0.0 07u0.app.link
+0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
@@ -2040,9 +2041,8 @@
 0.0.0.0 8x0g0.app.link
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
-0.0.0.0 9y6j0.app.link
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9.nbryb.com
+0.0.0.0 09am.nbryb.com
 0.0.0.0 9g7i.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
@@ -2059,6 +2059,7 @@
 0.0.0.0 9rd21.app.link
 0.0.0.0 9tf50.app.link
 0.0.0.0 9vep0.app.link
+0.0.0.0 9y6j0.app.link
 0.0.0.0 9yam.shinee.com
 0.0.0.0 10.nbryb.com
 0.0.0.0 10izdesign.thumbr.com
@@ -7511,6 +7512,7 @@
 0.0.0.0 www.integrativeanalytic.com
 0.0.0.0 www.interactivecrypto.com
 0.0.0.0 www.interactivecrypto.marketing66.com
+0.0.0.0 www.interchan.co.th
 0.0.0.0 www.interchan.com
 0.0.0.0 www.intern.lawaweb.com
 0.0.0.0 www.intex.funmunch.mobi
