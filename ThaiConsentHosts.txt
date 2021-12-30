@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202112221521
+# Version: 202112301709
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -730,6 +730,7 @@
 0.0.0.0 hex-cube.com
 0.0.0.0 hexcube.net
 0.0.0.0 hfa.mobi
+0.0.0.0 hgufs.eu.org
 0.0.0.0 hgzbet.tk
 0.0.0.0 hito.co.vu
 0.0.0.0 hjmbet.tk
@@ -1089,6 +1090,7 @@
 0.0.0.0 njysmy.com
 0.0.0.0 nkrbt.com
 0.0.0.0 nmpcenter.com
+0.0.0.0 nmv.life
 0.0.0.0 noclef.com
 0.0.0.0 notesdav.pw
 0.0.0.0 notice-booster1.best
@@ -1829,7 +1831,6 @@
 0.0.0.0 zsaqls.com
 # Variant - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
 0.0.0.0 0-0-1.app.link
-0.0.0.0 0t3j.nbryb.com
 0.0.0.0 00boa00.app.link
 0.0.0.0 0bfn6.trackvoluum.com
 0.0.0.0 0d710.app.link
@@ -1844,6 +1845,7 @@
 0.0.0.0 0q8c1.app.link
 0.0.0.0 0qks0.app.link
 0.0.0.0 0qst.nbryb.com
+0.0.0.0 0t3j.nbryb.com
 0.0.0.0 0xn5.nbryb.com
 0.0.0.0 0z470.app.link
 0.0.0.0 0zml.nbryb.com
@@ -1913,6 +1915,8 @@
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
 0.0.0.0 3a257.trackvoluum.com
+0.0.0.0 3z9s0.app.link
+0.0.0.0 03y0.app.link
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
@@ -1920,17 +1924,15 @@
 0.0.0.0 3ky70.app.link
 0.0.0.0 3m6h0.app.link
 0.0.0.0 3mdc0.app.link
-0.0.0.0 3rd.lpalice2appsmart.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3mz60.app.link
 0.0.0.0 3n940.app.link
 0.0.0.0 3ofi0.app.link
 0.0.0.0 3ohb.nbryb.com
 0.0.0.0 3q50.app.link
+0.0.0.0 3rd.lpalice2appsmart.com
 0.0.0.0 3sat35c.multicakes.com
 0.0.0.0 3sps.app.link
 0.0.0.0 3vjtfh.njysmy.com
-0.0.0.0 3z9s0.app.link
 0.0.0.0 3zqs0.app.link
 0.0.0.0 4.0.nipa.co.th
 0.0.0.0 4.nbryb.com
@@ -1991,14 +1993,16 @@
 0.0.0.0 6ud0.app.link
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
+0.0.0.0 07d0.nbryb.com
 0.0.0.0 7.nbryb.com
 0.0.0.0 7b2o.nbryb.com
-0.0.0.0 07d0.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
+0.0.0.0 7rd70.app.link
+0.0.0.0 07u0.app.link
 0.0.0.0 7ktpj.bemobtrk.com
 0.0.0.0 7lyr1.bemobtrk.com
 0.0.0.0 7ma1.app.link
@@ -2007,15 +2011,13 @@
 0.0.0.0 7q181.app.link
 0.0.0.0 7qsh4.bemobtrk.com
 0.0.0.0 7r41.app.link
-0.0.0.0 7rd70.app.link
 0.0.0.0 7rel0.app.link
 0.0.0.0 7s90.app.link
 0.0.0.0 7s393.bemobtrk.com
 0.0.0.0 7sm0.app.link
 0.0.0.0 7so9g.bemobtrk.com
-0.0.0.0 7tka1.app.link
-0.0.0.0 07u0.app.link
 0.0.0.0 7syc6.trackvoluum.com
+0.0.0.0 7tka1.app.link
 0.0.0.0 7un3.nbryb.com
 0.0.0.0 7v30.nbryb.com
 0.0.0.0 7vad.nbryb.com
@@ -2047,7 +2049,6 @@
 0.0.0.0 8x0g0.app.link
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
-0.0.0.0 9n31.app.link
 0.0.0.0 09am.nbryb.com
 0.0.0.0 9.nbryb.com
 0.0.0.0 9g7i.nbryb.com
@@ -2058,6 +2059,7 @@
 0.0.0.0 9iz31.app.link
 0.0.0.0 9mmm0.app.link
 0.0.0.0 9mybb.trackvoluum.com
+0.0.0.0 9n31.app.link
 0.0.0.0 9okh0.app.link
 0.0.0.0 9pa70.app.link
 0.0.0.0 9pe20.app.link
@@ -2274,6 +2276,7 @@
 0.0.0.0 a1.app.link
 0.0.0.0 a2md0.app.link
 0.0.0.0 a4zc.nbryb.com
+0.0.0.0 a6ba398dad.hgufs.eu.org
 0.0.0.0 a6fe.nbryb.com
 0.0.0.0 a07y2.bemobtrk.com
 0.0.0.0 a380.app.link
@@ -4638,8 +4641,8 @@
 0.0.0.0 maechan54.thaiza.com
 0.0.0.0 maekrua.nipa.co.th
 0.0.0.0 magica.bluestwep.pw
-0.0.0.0 mail01.mk.macrokiosk.com
 0.0.0.0 mail1.momoko.co
+0.0.0.0 mail01.mk.macrokiosk.com
 0.0.0.0 mail2.shoopadoo.com
 0.0.0.0 mail-hq.gmmdigital.com
 0.0.0.0 mail.2016.lawaweb.com
@@ -5031,6 +5034,7 @@
 0.0.0.0 netperf.shinee.com
 0.0.0.0 network.myappfree.com
 0.0.0.0 network.sparklemob.com
+0.0.0.0 new.6969jp.xyz
 0.0.0.0 new.getcools.com
 0.0.0.0 new.vuclip.com
 0.0.0.0 news.dosbuy.com
@@ -7885,6 +7889,7 @@
 0.0.0.0 www.njysmy.com
 0.0.0.0 www.nkrbt.com
 0.0.0.0 www.nmpcenter.com
+0.0.0.0 www.nmv.life
 0.0.0.0 www.noclef.com
 0.0.0.0 www.notesdav.pw
 0.0.0.0 www.notice-booster1.best
