@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202112301709
+# Version: 202202021313
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1248,6 +1248,7 @@
 0.0.0.0 perfekt.cyou
 0.0.0.0 perfonspot.com
 0.0.0.0 performancerevenues.com
+0.0.0.0 petropicalno.com
 0.0.0.0 ph88.cc
 0.0.0.0 phadoo-mobile.com
 0.0.0.0 phoemobi.com
@@ -1915,24 +1916,24 @@
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
 0.0.0.0 3a257.trackvoluum.com
-0.0.0.0 3z9s0.app.link
-0.0.0.0 03y0.app.link
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
 0.0.0.0 3ksa1.app.link
-0.0.0.0 3ky70.app.link
 0.0.0.0 3m6h0.app.link
+0.0.0.0 3ohb.nbryb.com
+0.0.0.0 03y0.app.link
+0.0.0.0 3ky70.app.link
 0.0.0.0 3mdc0.app.link
 0.0.0.0 3mz60.app.link
 0.0.0.0 3n940.app.link
 0.0.0.0 3ofi0.app.link
-0.0.0.0 3ohb.nbryb.com
 0.0.0.0 3q50.app.link
 0.0.0.0 3rd.lpalice2appsmart.com
 0.0.0.0 3sat35c.multicakes.com
 0.0.0.0 3sps.app.link
 0.0.0.0 3vjtfh.njysmy.com
+0.0.0.0 3z9s0.app.link
 0.0.0.0 3zqs0.app.link
 0.0.0.0 4.0.nipa.co.th
 0.0.0.0 4.nbryb.com
@@ -1993,16 +1994,14 @@
 0.0.0.0 6ud0.app.link
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
-0.0.0.0 07d0.nbryb.com
 0.0.0.0 7.nbryb.com
+0.0.0.0 07d0.nbryb.com
 0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
-0.0.0.0 7rd70.app.link
-0.0.0.0 07u0.app.link
 0.0.0.0 7ktpj.bemobtrk.com
 0.0.0.0 7lyr1.bemobtrk.com
 0.0.0.0 7ma1.app.link
@@ -2011,10 +2010,12 @@
 0.0.0.0 7q181.app.link
 0.0.0.0 7qsh4.bemobtrk.com
 0.0.0.0 7r41.app.link
+0.0.0.0 7rd70.app.link
 0.0.0.0 7rel0.app.link
 0.0.0.0 7s90.app.link
-0.0.0.0 7s393.bemobtrk.com
 0.0.0.0 7sm0.app.link
+0.0.0.0 07u0.app.link
+0.0.0.0 7s393.bemobtrk.com
 0.0.0.0 7so9g.bemobtrk.com
 0.0.0.0 7syc6.trackvoluum.com
 0.0.0.0 7tka1.app.link
@@ -2049,9 +2050,9 @@
 0.0.0.0 8x0g0.app.link
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
-0.0.0.0 09am.nbryb.com
-0.0.0.0 9.nbryb.com
 0.0.0.0 9g7i.nbryb.com
+0.0.0.0 9.nbryb.com
+0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -2148,8 +2149,8 @@
 0.0.0.0 59.nbryb.com
 0.0.0.0 60.nbryb.com
 0.0.0.0 61.nbryb.com
-0.0.0.0 062f.nbryb.com
 0.0.0.0 62.nbryb.com
+0.0.0.0 062f.nbryb.com
 0.0.0.0 63.nbryb.com
 0.0.0.0 64.nbryb.com
 0.0.0.0 65.nbryb.com
@@ -2409,7 +2410,10 @@
 0.0.0.0 alpha.solutiononeholding.com
 0.0.0.0 alytic.gmmwireless.com
 0.0.0.0 am8.0frmluki.tw
+0.0.0.0 amazingames.upp.st
+0.0.0.0 amegoodgame.upp.st
 0.0.0.0 ameliaearhar.thaiza.com
+0.0.0.0 ameviralnews.upp.st
 0.0.0.0 amsms.etracker.cc
 0.0.0.0 an00.app.link
 0.0.0.0 analytic.gmmwireless.com
@@ -2799,6 +2803,7 @@
 0.0.0.0 cell.th.shoopadoo.com
 0.0.0.0 cell.tr.shoopadoo.com
 0.0.0.0 cellfun.thisilike.net
+0.0.0.0 centonmogame.upp.st
 0.0.0.0 central.dddd.jibhd.com
 0.0.0.0 central.jibhd.com
 0.0.0.0 cf.fun-clix.com
@@ -2847,6 +2852,7 @@
 0.0.0.0 clk.control.kochava.com
 0.0.0.0 cloud.gmmwireless.com
 0.0.0.0 cloud.macrokiosk.com
+0.0.0.0 cloudgamingservice.upp.st
 0.0.0.0 club.funzone.mobi
 0.0.0.0 clubzab.thaiza.com
 0.0.0.0 cmms.cheesemobile.com
@@ -3535,6 +3541,7 @@
 0.0.0.0 game.mobigods.net
 0.0.0.0 game.mono-mobile.com
 0.0.0.0 game.thaiza.com
+0.0.0.0 gamekingdom.upp.st
 0.0.0.0 gamelounge.upp.st
 0.0.0.0 gameonline.thaiza.com
 0.0.0.0 gameroom.magikmobile.mobi
@@ -4641,8 +4648,8 @@
 0.0.0.0 maechan54.thaiza.com
 0.0.0.0 maekrua.nipa.co.th
 0.0.0.0 magica.bluestwep.pw
-0.0.0.0 mail1.momoko.co
 0.0.0.0 mail01.mk.macrokiosk.com
+0.0.0.0 mail1.momoko.co
 0.0.0.0 mail2.shoopadoo.com
 0.0.0.0 mail-hq.gmmdigital.com
 0.0.0.0 mail.2016.lawaweb.com
@@ -5898,6 +5905,7 @@
 0.0.0.0 subscribe.atlanbox.com
 0.0.0.0 subsystem.aplaymusic.com
 0.0.0.0 suksan2000.thaiza.com
+0.0.0.0 sumsukapap.upp.st
 0.0.0.0 suntrst0.app.link
 0.0.0.0 suntrust0.app.link
 0.0.0.0 suntruster0.app.link
@@ -8053,6 +8061,7 @@
 0.0.0.0 www.perfekt.cyou
 0.0.0.0 www.perfonspot.com
 0.0.0.0 www.performancerevenues.com
+0.0.0.0 www.petropicalno.com
 0.0.0.0 www.pewc.lawaweb.com
 0.0.0.0 www.pgortal.thumbr.com
 0.0.0.0 www.ph88.cc
