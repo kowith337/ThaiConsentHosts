@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202202021313
+# Version: 202202202054
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -254,6 +254,7 @@
 0.0.0.0 alpha-mobi.com
 0.0.0.0 alphacell.co
 0.0.0.0 ametechnology.co.th
+0.0.0.0 amgs.co
 0.0.0.0 amkomobile.com
 0.0.0.0 amkoonline.com
 0.0.0.0 androidappsfree.mobi
@@ -1886,8 +1887,8 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
-0.0.0.0 2ce60.app.link
 0.0.0.0 02ql0.app.link
+0.0.0.0 2ce60.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
 0.0.0.0 2flp.shoopadoo.com
@@ -1915,19 +1916,19 @@
 0.0.0.0 2wf0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
+0.0.0.0 03y0.app.link
 0.0.0.0 3a257.trackvoluum.com
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
 0.0.0.0 3j9d1.app.link
 0.0.0.0 3ksa1.app.link
-0.0.0.0 3m6h0.app.link
-0.0.0.0 3ohb.nbryb.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3ky70.app.link
+0.0.0.0 3m6h0.app.link
 0.0.0.0 3mdc0.app.link
 0.0.0.0 3mz60.app.link
 0.0.0.0 3n940.app.link
 0.0.0.0 3ofi0.app.link
+0.0.0.0 3ohb.nbryb.com
 0.0.0.0 3q50.app.link
 0.0.0.0 3rd.lpalice2appsmart.com
 0.0.0.0 3sat35c.multicakes.com
@@ -1994,8 +1995,8 @@
 0.0.0.0 6ud0.app.link
 0.0.0.0 6v28.nbryb.com
 0.0.0.0 6vkqc.bemobtrk.com
-0.0.0.0 7.nbryb.com
 0.0.0.0 07d0.nbryb.com
+0.0.0.0 7.nbryb.com
 0.0.0.0 7b2o.nbryb.com
 0.0.0.0 7bpr0.app.link
 0.0.0.0 7c1e.nbryb.com
@@ -2003,6 +2004,8 @@
 0.0.0.0 7f0n0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
+0.0.0.0 7s393.bemobtrk.com
+0.0.0.0 07u0.app.link
 0.0.0.0 7lyr1.bemobtrk.com
 0.0.0.0 7ma1.app.link
 0.0.0.0 7n61.app.link
@@ -2014,8 +2017,6 @@
 0.0.0.0 7rel0.app.link
 0.0.0.0 7s90.app.link
 0.0.0.0 7sm0.app.link
-0.0.0.0 07u0.app.link
-0.0.0.0 7s393.bemobtrk.com
 0.0.0.0 7so9g.bemobtrk.com
 0.0.0.0 7syc6.trackvoluum.com
 0.0.0.0 7tka1.app.link
@@ -2050,9 +2051,9 @@
 0.0.0.0 8x0g0.app.link
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
-0.0.0.0 9g7i.nbryb.com
 0.0.0.0 9.nbryb.com
 0.0.0.0 09am.nbryb.com
+0.0.0.0 9g7i.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -2447,7 +2448,9 @@
 0.0.0.0 api.centili.com
 0.0.0.0 api.cool4mob.com
 0.0.0.0 api.funsmobi.com
+0.0.0.0 api.gangzaa.net
 0.0.0.0 api.getapiv.com
+0.0.0.0 api.getcools.com
 0.0.0.0 api.gmmwireless.com
 0.0.0.0 api.iamzaa.com
 0.0.0.0 api.kochava.com
@@ -6943,6 +6946,7 @@
 0.0.0.0 www.alpha-mobi.com
 0.0.0.0 www.alphacell.co
 0.0.0.0 www.ametechnology.co.th
+0.0.0.0 www.amgs.co
 0.0.0.0 www.amkomobile.com
 0.0.0.0 www.amkoonline.com
 0.0.0.0 www.androidappsfree.mobi
