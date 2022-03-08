@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202202202054
+# Version: 202203082104
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -339,6 +339,8 @@
 0.0.0.0 bigfunspace.com
 0.0.0.0 biggerthanyou14.live
 0.0.0.0 bigolives.tv
+0.0.0.0 biguz.in
+0.0.0.0 biguz.net
 0.0.0.0 bikesales.com.au
 0.0.0.0 biktv.com
 0.0.0.0 billmscurlrev.com
@@ -1791,6 +1793,7 @@
 0.0.0.0 wowredirect.com
 0.0.0.0 wppbbm.com
 0.0.0.0 wpwhatsappplus.com
+0.0.0.0 wqerur77.com
 0.0.0.0 wrtual.com
 0.0.0.0 wurfl.io
 0.0.0.0 xm88d.tk
@@ -1887,7 +1890,6 @@
 0.0.0.0 1zngd.bemobtrk.com
 0.0.0.0 2.jkuailai.com
 0.0.0.0 2.nbryb.com
-0.0.0.0 02ql0.app.link
 0.0.0.0 2ce60.app.link
 0.0.0.0 2cxan.trackvoluum.com
 0.0.0.0 2d751.app.link
@@ -1914,9 +1916,9 @@
 0.0.0.0 2v1y3.bemobtrk.com
 0.0.0.0 2vci0.trackvoluum.com
 0.0.0.0 2wf0.app.link
+0.0.0.0 02ql0.app.link
 0.0.0.0 3.jkuailai.com
 0.0.0.0 3.nbryb.com
-0.0.0.0 03y0.app.link
 0.0.0.0 3a257.trackvoluum.com
 0.0.0.0 3ey91.app.link
 0.0.0.0 3ik0.app.link
@@ -1933,6 +1935,7 @@
 0.0.0.0 3rd.lpalice2appsmart.com
 0.0.0.0 3sat35c.multicakes.com
 0.0.0.0 3sps.app.link
+0.0.0.0 03y0.app.link
 0.0.0.0 3vjtfh.njysmy.com
 0.0.0.0 3z9s0.app.link
 0.0.0.0 3zqs0.app.link
@@ -2002,10 +2005,9 @@
 0.0.0.0 7c1e.nbryb.com
 0.0.0.0 7dty0.app.link
 0.0.0.0 7f0n0.app.link
+0.0.0.0 07u0.app.link
 0.0.0.0 7ighb.trackvoluum.com
 0.0.0.0 7ktpj.bemobtrk.com
-0.0.0.0 7s393.bemobtrk.com
-0.0.0.0 07u0.app.link
 0.0.0.0 7lyr1.bemobtrk.com
 0.0.0.0 7ma1.app.link
 0.0.0.0 7n61.app.link
@@ -2016,6 +2018,7 @@
 0.0.0.0 7rd70.app.link
 0.0.0.0 7rel0.app.link
 0.0.0.0 7s90.app.link
+0.0.0.0 7s393.bemobtrk.com
 0.0.0.0 7sm0.app.link
 0.0.0.0 7so9g.bemobtrk.com
 0.0.0.0 7syc6.trackvoluum.com
@@ -2052,8 +2055,8 @@
 0.0.0.0 8yjto8.dxsrz.org.cn
 0.0.0.0 8z5o0.app.link
 0.0.0.0 9.nbryb.com
-0.0.0.0 09am.nbryb.com
 0.0.0.0 9g7i.nbryb.com
+0.0.0.0 09am.nbryb.com
 0.0.0.0 9gpd.nbryb.com
 0.0.0.0 9gtsb.trackvoluum.com
 0.0.0.0 9h2o0.app.link
@@ -2510,6 +2513,7 @@
 0.0.0.0 apps.shinee.com
 0.0.0.0 apps.waremode.com
 0.0.0.0 aqou8.bemobtrk.com
+0.0.0.0 ar.biguz.net
 0.0.0.0 ar.chickcell.com
 0.0.0.0 ar.clubxzone.com
 0.0.0.0 ar.starchef.mobi
@@ -2562,6 +2566,7 @@
 0.0.0.0 axora-9292d.fireaseio.com
 0.0.0.0 axora-9292d.firebaseapp.com
 0.0.0.0 ayou.bluestwep.pw
+0.0.0.0 az.biguz.net
 0.0.0.0 az.yuppyuppytv.com
 0.0.0.0 azsz.nbryb.com
 0.0.0.0 b0fa01.app.link
@@ -2616,6 +2621,7 @@
 0.0.0.0 bcnmonetize.go2affise.com
 0.0.0.0 bd.appsdorado.com
 0.0.0.0 bd.zomobie.com
+0.0.0.0 be.biguz.net
 0.0.0.0 be.mugforward.com
 0.0.0.0 be.sunnygames.club
 0.0.0.0 beauty.innnews.co.th
@@ -2644,6 +2650,7 @@
 0.0.0.0 betfairzg.python-libs.com
 0.0.0.0 betfred.python-libs.com
 0.0.0.0 bez90.app.link
+0.0.0.0 bg.biguz.net
 0.0.0.0 bg.sunnygames.club
 0.0.0.0 bgm.shinee.com
 0.0.0.0 bidder.kochava.com
@@ -2691,6 +2698,7 @@
 0.0.0.0 brandvote.eggdigital.com
 0.0.0.0 bridgemob-com-pl89g1ago.stackpathdns.com
 0.0.0.0 brtr.nbryb.com
+0.0.0.0 bs.biguz.net
 0.0.0.0 bst0.app.link
 0.0.0.0 bteamcoth.thaiza.com
 0.0.0.0 buaecuri01.app.link
@@ -2729,6 +2737,7 @@
 0.0.0.0 c.l24hrs.com
 0.0.0.0 c.ltvperf.com
 0.0.0.0 c.offrtrking.com
+0.0.0.0 ca.biguz.net
 0.0.0.0 ca.funmobile.com
 0.0.0.0 cacti.shinee.com
 0.0.0.0 callcenter.gmmwireless.com
@@ -3055,6 +3064,7 @@
 0.0.0.0 crje.nbryb.com
 0.0.0.0 crm.marketing66.com
 0.0.0.0 cs3yl.bemobtrk.com
+0.0.0.0 cs.biguz.net
 0.0.0.0 cs.ph.momoko.co
 0.0.0.0 csi.20icipp.com
 0.0.0.0 csi.kochava.com
@@ -3085,6 +3095,7 @@
 0.0.0.0 d.mfunz.mobi
 0.0.0.0 d.moceanwp.com
 0.0.0.0 d.sunmob.net
+0.0.0.0 da.biguz.net
 0.0.0.0 dafabet888.python-libs.com
 0.0.0.0 dafabetkenya.python-libs.com
 0.0.0.0 dafabetnet.python-libs.com
@@ -3117,6 +3128,7 @@
 0.0.0.0 dddd.jibhd.com
 0.0.0.0 ddkn3dvc.weddingdayphotographerparis.com
 0.0.0.0 ddwv.nbryb.com
+0.0.0.0 de.biguz.net
 0.0.0.0 de.ch.zz.th.thumbr.com
 0.0.0.0 de.kaka-games.com
 0.0.0.0 de.starchef.mobi
@@ -3306,6 +3318,7 @@
 0.0.0.0 eh8f0.app.link
 0.0.0.0 ejxlhrc.vuclip.com
 0.0.0.0 ek6s.nbryb.com
+0.0.0.0 el.biguz.net
 0.0.0.0 elearning.lawaweb.com
 0.0.0.0 elisevaldorcia.thumbr.com
 0.0.0.0 em51.app.link
@@ -3340,6 +3353,7 @@
 0.0.0.0 es.mobll-apps.com
 0.0.0.0 es.mychatpremium.com
 0.0.0.0 es.sunnygames.club
+0.0.0.0 espanol.biguz.net
 0.0.0.0 espiams.thai-sms.com
 0.0.0.0 estore-cj.forest-interactive.com
 0.0.0.0 estore-jkt.forest-interactive.com
@@ -3368,6 +3382,7 @@
 0.0.0.0 esx-sub47.shinee.com
 0.0.0.0 esx-sub-41.shinee.com
 0.0.0.0 esx-sub-42.shinee.com
+0.0.0.0 et.biguz.net
 0.0.0.0 eth.gamesclub.mobi
 0.0.0.0 etr-web1.app.link
 0.0.0.0 eu.arbitrator.click
@@ -3455,6 +3470,7 @@
 0.0.0.0 fhb9n.trackvoluum.com
 0.0.0.0 fhjfs.voluumtrk.com
 0.0.0.0 fhkcb.trackvoluum.com
+0.0.0.0 fi.biguz.net
 0.0.0.0 fi.potiongames.com
 0.0.0.0 fields.muraltent.pw
 0.0.0.0 file.shinee.com
@@ -3485,6 +3501,7 @@
 0.0.0.0 fp.stg.bigfunspace.com
 0.0.0.0 fpey0.app.link
 0.0.0.0 fq5g.nbryb.com
+0.0.0.0 fr.biguz.net
 0.0.0.0 fr.ch.zz.th.thumbr.com
 0.0.0.0 fr.interactivecrypto.com
 0.0.0.0 fr.starchef.mobi
@@ -3880,6 +3897,7 @@
 0.0.0.0 hcqt7.trackvoluum.com
 0.0.0.0 hd.iamzaa.com
 0.0.0.0 hda.muraltent.pw
+0.0.0.0 he.biguz.net
 0.0.0.0 healthdee.innnews.co.th
 0.0.0.0 healthytips.gmmwireless.com
 0.0.0.0 hello.aielber.com
@@ -3925,6 +3943,7 @@
 0.0.0.0 hpark1.app.link
 0.0.0.0 hpqh8.trackvoluum.com
 0.0.0.0 hqloiaw.vuclip.com
+0.0.0.0 hr.biguz.net
 0.0.0.0 hr.fyybox.com
 0.0.0.0 hr.getcools.com
 0.0.0.0 hs.appsdorado.com
@@ -3940,6 +3959,7 @@
 0.0.0.0 htcb.edtguide.com
 0.0.0.0 html5.forest-interactive.com
 0.0.0.0 httpsxufw0.app.link
+0.0.0.0 hu.biguz.net
 0.0.0.0 hu.sunnygames.club
 0.0.0.0 huakoi-game.lottovip.com
 0.0.0.0 hucmm.bemobtrk.com
@@ -3948,6 +3968,7 @@
 0.0.0.0 hvbap.trackvoluum.com
 0.0.0.0 hvpiphone.gmmwireless.com
 0.0.0.0 hwu21.app.link
+0.0.0.0 hy.biguz.net
 0.0.0.0 hz.sparklemob.com
 0.0.0.0 hztu0.app.link
 0.0.0.0 i0lj.nbryb.com
@@ -3958,6 +3979,7 @@
 0.0.0.0 ib30.app.link
 0.0.0.0 icggwou.callingallmonsters.com
 0.0.0.0 icm.kochava.com
+0.0.0.0 id.biguz.net
 0.0.0.0 id.contentbox.stream
 0.0.0.0 id.kaka-games.com
 0.0.0.0 id.slypee.com
@@ -4053,10 +4075,12 @@
 0.0.0.0 iq.sunnygames.club
 0.0.0.0 iqapi.funmunch.mobi
 0.0.0.0 ir.sunnygames.club
+0.0.0.0 is.biguz.net
 0.0.0.0 islah.lawaweb.com
 0.0.0.0 isq80.app.link
 0.0.0.0 it-cooklikers.starchef.mobi
 0.0.0.0 it.appsdorado.com
+0.0.0.0 it.biguz.net
 0.0.0.0 it.biktv.com
 0.0.0.0 it.mychatpremium.com
 0.0.0.0 it.starchef.mobi
@@ -4090,6 +4114,7 @@
 0.0.0.0 j4eg.nbryb.com
 0.0.0.0 j4ypz.bemobtrk.com
 0.0.0.0 j7fgl.bemobtrk.com
+0.0.0.0 ja.biguz.net
 0.0.0.0 ja.files-media.com
 0.0.0.0 jabber.momoko.co
 0.0.0.0 jakaran.thaiza.com
@@ -4146,6 +4171,7 @@
 0.0.0.0 k310.app.link
 0.0.0.0 k635.nbryb.com
 0.0.0.0 k9111.app.link
+0.0.0.0 ka.biguz.net
 0.0.0.0 kajang.mtouche.com
 0.0.0.0 kartuas.lawaweb.com
 0.0.0.0 katejung.thaiza.com
@@ -4162,11 +4188,13 @@
 0.0.0.0 kidsplay.mcatch.com
 0.0.0.0 kioplus.nipa.co.th
 0.0.0.0 kk5nb.trackvoluum.com
+0.0.0.0 kk.biguz.net
 0.0.0.0 kkmail.gmmwireless.com
 0.0.0.0 kllk.nbryb.com
 0.0.0.0 klpa1.trackvoluum.com
 0.0.0.0 kmlpg.adsbtrack.com
 0.0.0.0 knehsbbx.lfkse52.coolzee.net
+0.0.0.0 ko.biguz.net
 0.0.0.0 koalahomeware.mcatch.com
 0.0.0.0 kod-hd.moviegroups88.com
 0.0.0.0 kouba.trackvoluum.com
@@ -4331,6 +4359,7 @@
 0.0.0.0 lt.bigfunarea.com
 0.0.0.0 lt.bigfunroom.com
 0.0.0.0 lt.bigfunspace.com
+0.0.0.0 lt.biguz.net
 0.0.0.0 lt.sunnygames.club
 0.0.0.0 ltd31.app.link
 0.0.0.0 lu770.app.link
@@ -4343,6 +4372,7 @@
 0.0.0.0 luwinski-15.thaiza.com
 0.0.0.0 luwinski-24.thaiza.com
 0.0.0.0 lv6k.nbryb.com
+0.0.0.0 lv.biguz.net
 0.0.0.0 lv.sunnygames.club
 0.0.0.0 lwc0.app.link
 0.0.0.0 lxkrt.bemobtrk.com
@@ -4857,6 +4887,7 @@
 0.0.0.0 microsoft-excel2020.app.link
 0.0.0.0 mirror.gmmwireless.com
 0.0.0.0 mis.etracker.cc
+0.0.0.0 mk.biguz.net
 0.0.0.0 mk.macrokiosk.com
 0.0.0.0 mk.sunnygames.club
 0.0.0.0 mkmrs.etracker.cc
@@ -4923,6 +4954,7 @@
 0.0.0.0 ms6c0wqqi.dabing77.xyz
 0.0.0.0 ms-21.likemyhistory.info
 0.0.0.0 ms.alphacell.co
+0.0.0.0 ms.biguz.net
 0.0.0.0 ms.boobi.biz
 0.0.0.0 ms.mktrack.com
 0.0.0.0 msbobetlivecasino.aradamandson.com
@@ -4933,6 +4965,7 @@
 0.0.0.0 mstore.mcommsg.com
 0.0.0.0 mt0.app.link
 0.0.0.0 mt.1mov.co
+0.0.0.0 mt.biguz.net
 0.0.0.0 mt.cheesemobile.com
 0.0.0.0 mt.chz.mobi
 0.0.0.0 mt.chzmobi.net
@@ -5069,6 +5102,7 @@
 0.0.0.0 nipamail-adsonline.nipa.co.th
 0.0.0.0 nis.nipa.co.th
 0.0.0.0 nk50.app.link
+0.0.0.0 nl.biguz.net
 0.0.0.0 nl.clubxzone.com
 0.0.0.0 nl.pleasurehere.com
 0.0.0.0 nl.sc.pleasurehere.com
@@ -5081,6 +5115,7 @@
 0.0.0.0 nmusic.n-content.com
 0.0.0.0 nn3n0.app.link
 0.0.0.0 nno9c.voluumtrk2.com
+0.0.0.0 no.biguz.net
 0.0.0.0 no.sunnygames.club
 0.0.0.0 noopuk.thaiza.com
 0.0.0.0 notciceeusaaaa0.app.link
@@ -5308,6 +5343,7 @@
 0.0.0.0 pk2.slypee.com
 0.0.0.0 pk3.slypee.com
 0.0.0.0 pl3.ctrackz.net
+0.0.0.0 pl.biguz.net
 0.0.0.0 pl.chickcell.com
 0.0.0.0 pl.clubxzone.com
 0.0.0.0 pl.ctrackz.net
@@ -5438,6 +5474,7 @@
 0.0.0.0 psmaster.app.link
 0.0.0.0 psms.lawaweb.com
 0.0.0.0 pstorage.n-content.com
+0.0.0.0 pt.biguz.net
 0.0.0.0 pt.biktv.com
 0.0.0.0 pt.erotixxxo.realgirls.mobi
 0.0.0.0 pt.funmunch.mobi
@@ -5540,6 +5577,7 @@
 0.0.0.0 rl4z0.app.link
 0.0.0.0 rm510.app.link
 0.0.0.0 rmwdy.bemobtrk.com
+0.0.0.0 ro.biguz.net
 0.0.0.0 ro.sunnygames.club
 0.0.0.0 robi.gamesclub.mobi
 0.0.0.0 roomer.shinee.com
@@ -5564,6 +5602,7 @@
 0.0.0.0 ru.sunnygames.club
 0.0.0.0 ru.v.havfun.mobi
 0.0.0.0 rukmovie.moviegroups88.com
+0.0.0.0 rus.biguz.net
 0.0.0.0 rushvip.mono-mobile.com
 0.0.0.0 rvsq1.trackvoluum.com
 0.0.0.0 rvxv0.app.link
@@ -5740,6 +5779,7 @@
 0.0.0.0 site.myappfree.com
 0.0.0.0 sj551.app.link
 0.0.0.0 sjdkbwkjfbjwdfwhdw0.app.link
+0.0.0.0 sk.biguz.net
 0.0.0.0 sk.biktv.com
 0.0.0.0 sk.fyybox.com
 0.0.0.0 sk.mychatpremium.com
@@ -5832,6 +5872,7 @@
 0.0.0.0 sport1.thaiza.com
 0.0.0.0 sport.thaiza.com
 0.0.0.0 springnews.getcools.com
+0.0.0.0 sq.biguz.net
 0.0.0.0 sql1.nipa.co.th
 0.0.0.0 sql2.nipa.co.th
 0.0.0.0 sql-g1-n1.nipa.co.th
@@ -5839,6 +5880,7 @@
 0.0.0.0 sql-g1.nipa.co.th
 0.0.0.0 sql-g2.nipa.co.th
 0.0.0.0 sql.nipa.co.th
+0.0.0.0 sr.biguz.net
 0.0.0.0 srb.9v8p.com
 0.0.0.0 ss.sinocoo.com
 0.0.0.0 ssl.mmtgo.me
@@ -5924,6 +5966,7 @@
 0.0.0.0 sv1.thinksmart.co.th
 0.0.0.0 sv2.thinksmart.co.th
 0.0.0.0 sv3.thinksmart.co.th
+0.0.0.0 sv.biguz.net
 0.0.0.0 svb1.app.link
 0.0.0.0 sweeps8340.sadman25.icu
 0.0.0.0 sweet-elona.thumbr.com
@@ -6009,6 +6052,7 @@
 0.0.0.0 th.12mob.com
 0.0.0.0 th.adultvids.mobi
 0.0.0.0 th.bestmobi2u.com
+0.0.0.0 th.biguz.net
 0.0.0.0 th.biktv.com
 0.0.0.0 th.cheatingex.realgirls.mobi
 0.0.0.0 th.chickcell.com
@@ -6138,6 +6182,7 @@
 0.0.0.0 toyzone.mcatch.com
 0.0.0.0 tpt-gateway-us.api.kochava.com
 0.0.0.0 tr2ck.brucelead.com
+0.0.0.0 tr.biguz.net
 0.0.0.0 track.adcamie.com
 0.0.0.0 track.adsfast.com
 0.0.0.0 track.appave.mobi
@@ -6251,6 +6296,7 @@
 0.0.0.0 ui6g0.app.link
 0.0.0.0 ui.edtfiles-media.com
 0.0.0.0 ui.files-media.com
+0.0.0.0 uk.biguz.net
 0.0.0.0 uk.clubxzone.com
 0.0.0.0 uk.ftv.thisilike.net
 0.0.0.0 uk.fyybox.com
@@ -6337,6 +6383,7 @@
 0.0.0.0 vecwp.bemobtrk.com
 0.0.0.0 vedio.vuclip.com
 0.0.0.0 vfa.gamesclub.mobi
+0.0.0.0 vi.biguz.net
 0.0.0.0 vid0.app.link
 0.0.0.0 video-hq.forest-interactive.com
 0.0.0.0 video.n-content.com
@@ -8706,6 +8753,7 @@
 0.0.0.0 www.wowredirect.com
 0.0.0.0 www.wppbbm.com
 0.0.0.0 www.wpwhatsappplus.com
+0.0.0.0 www.wqerur77.com
 0.0.0.0 www.wrtual.com
 0.0.0.0 www.wurfl.io
 0.0.0.0 www.xm88d.tk
@@ -8861,6 +8909,7 @@
 0.0.0.0 zf.getcools.com
 0.0.0.0 zfah6.trackvoluum.com
 0.0.0.0 zgxtmtf.vuclip.com
+0.0.0.0 zh.biguz.net
 0.0.0.0 zh.starchef.mobi
 0.0.0.0 zi1p0.app.link
 0.0.0.0 ziflx.trackvoluum.com
