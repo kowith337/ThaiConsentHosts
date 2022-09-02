@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202204151127
+# Version: 202209021314
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -1574,6 +1574,7 @@
 0.0.0.0 sudjad.com
 0.0.0.0 suffonect.pw
 0.0.0.0 suhtbneyq.cf
+0.0.0.0 suki168.com
 0.0.0.0 sumone.mobi
 0.0.0.0 sun-system.com
 0.0.0.0 suncity.online
@@ -1827,6 +1828,7 @@
 0.0.0.0 zeanhot.com
 0.0.0.0 zeankickoff.com
 0.0.0.0 zedo.com
+0.0.0.0 zenbet88.com
 0.0.0.0 zigifun.com
 0.0.0.0 zim88.tk
 0.0.0.0 zingmobiledev.com
@@ -8491,6 +8493,7 @@
 0.0.0.0 www.sudjad.com
 0.0.0.0 www.suffonect.pw
 0.0.0.0 www.suhtbneyq.cf
+0.0.0.0 www.suki168.com
 0.0.0.0 www.sumone.mobi
 0.0.0.0 www.sun-system.com
 0.0.0.0 www.suncity.online
@@ -8783,6 +8786,7 @@
 0.0.0.0 www.zeanhot.com
 0.0.0.0 www.zeankickoff.com
 0.0.0.0 www.zedo.com
+0.0.0.0 www.zenbet88.com
 0.0.0.0 www.zeyad.lawaweb.com
 0.0.0.0 www.zigifun.com
 0.0.0.0 www.zim88.tk
