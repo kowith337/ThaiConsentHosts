@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202502182108
+# Version: 202505300758
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -882,6 +882,7 @@
 0.0.0.0 logandload.com
 0.0.0.0 lokpost.com
 0.0.0.0 looke.mobi
+0.0.0.0 loonsi.com
 0.0.0.0 lottery789.net
 0.0.0.0 lotto168.club
 0.0.0.0 lottoasian.com
@@ -7713,6 +7714,7 @@
 0.0.0.0 www.lokpost.com
 0.0.0.0 www.lomsiam.thaiza.com
 0.0.0.0 www.looke.mobi
+0.0.0.0 www.loonsi.com
 0.0.0.0 www.lottery789.net
 0.0.0.0 www.lotto168.club
 0.0.0.0 www.lotto.thaiza.com
