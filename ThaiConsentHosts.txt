@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202510110845
+# Version: 202510110856
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -2600,6 +2600,7 @@
 0.0.0.0 backoffice.6969jp.xyz
 0.0.0.0 backoffice.af2025.stg.bigfunarea.com
 0.0.0.0 backoffice.af2025.stg.bigfunroom.com
+0.0.0.0 backoffice.af2025.stg.bigfunspace.com
 0.0.0.0 backoffice.bigfunarea.com
 0.0.0.0 backoffice.bigfunroom.com
 0.0.0.0 backoffice.bigfunspace.com
@@ -2615,6 +2616,7 @@
 0.0.0.0 backoffice.shinee.com
 0.0.0.0 backoffice.smsvote.bigfunarea.com
 0.0.0.0 backoffice.smsvote.bigfunroom.com
+0.0.0.0 backoffice.smsvote.bigfunspace.com
 0.0.0.0 backoffice.stg.bigfunarea.com
 0.0.0.0 backoffice.stg.bigfunroom.com
 0.0.0.0 backoffice.stg.bigfunspace.com
@@ -2703,8 +2705,10 @@
 0.0.0.0 boky0.app.link
 0.0.0.0 bonus.bigfunarea.com
 0.0.0.0 bonus.bigfunroom.com
+0.0.0.0 bonus.bigfunspace.com
 0.0.0.0 bonus.stg.bigfunarea.com
 0.0.0.0 bonus.stg.bigfunroom.com
+0.0.0.0 bonus.stg.bigfunspace.com
 0.0.0.0 boo.mobifan.com
 0.0.0.0 book.senate.dooplus.tv
 0.0.0.0 booking.tk.gmmwireless.com
@@ -2763,6 +2767,7 @@
 0.0.0.0 cacti.shinee.com
 0.0.0.0 callback.bigfunarea.com
 0.0.0.0 callback.bigfunroom.com
+0.0.0.0 callback.bigfunspace.com
 0.0.0.0 callcenter.gmmwireless.com
 0.0.0.0 callcenter.n-content.com
 0.0.0.0 callcenterrv.gmmwireless.com
@@ -2789,6 +2794,7 @@
 0.0.0.0 casp2021.app.link
 0.0.0.0 cat.bigfunarea.com
 0.0.0.0 cat.bigfunroom.com
+0.0.0.0 cat.bigfunspace.com
 0.0.0.0 cativr.n-content.com
 0.0.0.0 catstp.sun-system.com
 0.0.0.0 cbjrn.bemobtrk.com
@@ -2845,6 +2851,7 @@
 0.0.0.0 central.jibhd.com
 0.0.0.0 cert-test.bigfunarea.com
 0.0.0.0 cert-test.bigfunroom.com
+0.0.0.0 cert-test.bigfunspace.com
 0.0.0.0 cf.fun-clix.com
 0.0.0.0 ch.biktv.com
 0.0.0.0 ch.fyybox.com
@@ -3379,6 +3386,7 @@
 0.0.0.0 es.mobll-apps.com
 0.0.0.0 es.monitor.bigfunarea.com
 0.0.0.0 es.monitor.bigfunroom.com
+0.0.0.0 es.monitor.bigfunspace.com
 0.0.0.0 es.mychatpremium.com
 0.0.0.0 es.sunnygames.club
 0.0.0.0 es2.mobll-apps.com
@@ -4969,6 +4977,7 @@
 0.0.0.0 mongo1.nipa.co.th
 0.0.0.0 monitor.bigfunarea.com
 0.0.0.0 monitor.bigfunroom.com
+0.0.0.0 monitor.bigfunspace.com
 0.0.0.0 monitor.gmmwireless.com
 0.0.0.0 monitor.kochava.com
 0.0.0.0 monitor.n-content.com
@@ -5153,8 +5162,10 @@
 0.0.0.0 notification.gmmwireless.com
 0.0.0.0 notify.bigfunarea.com
 0.0.0.0 notify.bigfunroom.com
+0.0.0.0 notify.bigfunspace.com
 0.0.0.0 notify.stg.bigfunarea.com
 0.0.0.0 notify.stg.bigfunroom.com
+0.0.0.0 notify.stg.bigfunspace.com
 0.0.0.0 noz50.app.link
 0.0.0.0 npm.shinee.com
 0.0.0.0 nportal.thumbr.com
@@ -5321,6 +5332,7 @@
 0.0.0.0 partner.shinee.com
 0.0.0.0 partner.stg.bigfunarea.com
 0.0.0.0 partner.stg.bigfunroom.com
+0.0.0.0 partner.stg.bigfunspace.com
 0.0.0.0 partner.thaiza.com
 0.0.0.0 partnercms.gmmwireless.com
 0.0.0.0 partners.api.kochava.com
@@ -5533,6 +5545,7 @@
 0.0.0.0 putasnovatas.realgirls.mobi
 0.0.0.0 putb.bigfunarea.com
 0.0.0.0 putb.bigfunroom.com
+0.0.0.0 putb.bigfunspace.com
 0.0.0.0 pvavp121.app.link
 0.0.0.0 pxbs.nbryb.com
 0.0.0.0 pxtdxx.mrlittlejohn.com
@@ -5586,6 +5599,7 @@
 0.0.0.0 rakkiller654.thaiza.com
 0.0.0.0 rbt.bigfunarea.com
 0.0.0.0 rbt.bigfunroom.com
+0.0.0.0 rbt.bigfunspace.com
 0.0.0.0 rbt.getcools.com
 0.0.0.0 rcompromotion.nexg.tv
 0.0.0.0 rdr.stormobi.com
@@ -5877,6 +5891,7 @@
 0.0.0.0 smsnews.gmmwireless.com
 0.0.0.0 smsvote.bigfunarea.com
 0.0.0.0 smsvote.bigfunroom.com
+0.0.0.0 smsvote.bigfunspace.com
 0.0.0.0 smsweb.eggdigital.com
 0.0.0.0 smtp-gw.gmmdigital.com
 0.0.0.0 smtp.bill.gmmwireless.com
@@ -5952,9 +5967,11 @@
 0.0.0.0 stash.api.kochava.com
 0.0.0.0 static-stg.bigfunarea.com
 0.0.0.0 static-stg.bigfunroom.com
+0.0.0.0 static-stg.bigfunspace.com
 0.0.0.0 static.awap.tv
 0.0.0.0 static.bigfunarea.com
 0.0.0.0 static.bigfunroom.com
+0.0.0.0 static.bigfunspace.com
 0.0.0.0 static.chilliclubs.com
 0.0.0.0 static.chocoboard.com
 0.0.0.0 static.content.yasune360.com
@@ -6043,8 +6060,10 @@
 0.0.0.0 ta890.app.link
 0.0.0.0 tac.bigfunarea.com
 0.0.0.0 tac.bigfunroom.com
+0.0.0.0 tac.bigfunspace.com
 0.0.0.0 tac.lt.bigfunarea.com
 0.0.0.0 tac.lt.bigfunroom.com
+0.0.0.0 tac.lt.bigfunspace.com
 0.0.0.0 taeapp.getcools.com
 0.0.0.0 taigamew88.python-libs.com
 0.0.0.0 tang.huaynaka.com
@@ -6052,6 +6071,7 @@
 0.0.0.0 tapnplay.club.funmunch.mobi
 0.0.0.0 tar.bigfunarea.com
 0.0.0.0 tar.bigfunroom.com
+0.0.0.0 tar.bigfunspace.com
 0.0.0.0 taran.bluestwep.pw
 0.0.0.0 target.nipa.co.th
 0.0.0.0 target0.nipa.co.th
