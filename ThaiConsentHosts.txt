@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202510110856
+# Version: 202510181010
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -399,6 +399,7 @@
 0.0.0.0 chatded.com
 0.0.0.0 chcipujcit.com
 0.0.0.0 check-your-antivirus.net
+0.0.0.0 cheesediginet.com
 0.0.0.0 cheesemobile.com
 0.0.0.0 cherryzone.com.ph
 0.0.0.0 cheyouju.net
@@ -7228,6 +7229,7 @@
 0.0.0.0 www.chatded.com
 0.0.0.0 www.chcipujcit.com
 0.0.0.0 www.check-your-antivirus.net
+0.0.0.0 www.cheesediginet.com
 0.0.0.0 www.cheesemobile.com
 0.0.0.0 www.cherryzone.com.ph
 0.0.0.0 www.cheyouju.net
