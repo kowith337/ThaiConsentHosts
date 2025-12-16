@@ -26,7 +26,7 @@
 - [Pi-Hole](https://github.com/pi-hole/pi-hole)
 
 ### แนะนำเพิ่มเติมสำหรับผู้ใช้ Android
-ผู้ใช้สามารถติดตั้งส่วนเสริม uBlock Origin ได้ ภายในแอพฯ [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) หรือ Browser ที่คล้ายกัน เช่น
+ผู้ใช้สามารถติดตั้งส่วนเสริม [uBlock Origin](https://github.com/gorhill/ublock) ได้ ภายในแอพฯ [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) หรือ Browser ที่คล้ายกัน เช่น
 - [Fennec F-Droid](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid)
 - [IronFox](https://github.com/ironfox-oss/IronFox)
 - [WebLibre](https://github.com/FaFre/WebLibre)
@@ -37,6 +37,7 @@ Hosts File นี้ไม่สามารถแก้ปัญหาหรื
 - การสุ่มเบอร์โทรศัพท์ของเจ้าของบริการเสียเงิน โดยมีการใช้ระบบตอบรับอัตโนมัติ หรือมีพนักงานพูดสาย ซึ่งหากเผลอตอบ "ตกลง" "ใช่" "ครับ" หรือ "ค่ะ" จะถือว่าเป็นคำยืนยันการสมัครใช้บริการนั้นๆ เป็นต้น
 
 ทั้งนี้ทั้งนั้น บางเว็บไซท์อาจไม่ได้อัพเดทเพิ่มเข้ามาได้ทัน แต่จะพยายามรวบรวมให้มากที่สุดเท่าที่จะทำได้
+
 
 
 
