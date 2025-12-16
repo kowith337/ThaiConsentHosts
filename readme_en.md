@@ -10,8 +10,16 @@
 - Android devices
   - [AdAway](https://github.com/AdAway/AdAway) (Root required)
   - [DNS66](https://github.com/julian-klode/dns66)
+  - [DNSNet](https://github.com/t895/DNSNet)
   - [Nebulo](https://github.com/Ch4t4r/Nebulo)
   - [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
+
+- Desktop/Laptop devices
+  - [personalDNSfilter](https://zenz-solutions.de/personaldnsfilter)
+
+- Local network
+  - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)
+  - [pi-Hole](https://github.com/pi-hole/pi-hole)
 
 - Web browser extensions
   - [uBlock Origin](https://github.com/gorhill/uBlock)
@@ -26,4 +34,5 @@
 - This hosts file may not protect you against other supscription attempt that not come from website advertisements like...
   - dial with USSD service code
   - direct call from\/to service providers
+
   - shady staff employee behind those services (and may some mobile operator) that already known your phone number and submit your number to subscribe their useless services without any confirmation from your side! (As i said in statement no.2)
