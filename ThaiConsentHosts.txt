@@ -1,6 +1,6 @@
 # [uMatrix 1.0.0.0]
 # Title: ThaiConsentHosts
-# Version: 202510181010
+# Version: 202512160859
 # Author: kowith337
 # Expires: 2 days
 # Homepage: https://github.com/kowith337/ThaiConsentHosts
@@ -605,6 +605,7 @@
 0.0.0.0 funmobile.com
 0.0.0.0 funmobileth.com
 0.0.0.0 funmunch.mobi
+0.0.0.0 funny-doodee.com
 0.0.0.0 funnyclub.tv
 0.0.0.0 funnysnow.com
 0.0.0.0 funnytime.guru
@@ -7461,6 +7462,7 @@
 0.0.0.0 www.funmobile.com
 0.0.0.0 www.funmobileth.com
 0.0.0.0 www.funmunch.mobi
+0.0.0.0 www.funny-doodee.com
 0.0.0.0 www.funnyclub.tv
 0.0.0.0 www.funnysnow.com
 0.0.0.0 www.funnytime.guru
