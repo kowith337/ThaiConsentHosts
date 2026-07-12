@@ -8,7 +8,7 @@
   - [HOSTS Manager](https://github.com/henrypp/hostsmgr)
 
 - Android devices
-  - [AdAway](https://github.com/AdAway/AdAway) (Root required)
+  - [AdAway](https://github.com/AdAway/AdAway) (Root required for system-level hosts file)
   - [DNS66](https://github.com/julian-klode/dns66)
   - [DNSNet](https://github.com/t895/DNSNet)
   - [Nebulo](https://github.com/Ch4t4r/Nebulo)
