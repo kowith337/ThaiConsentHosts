@@ -10,7 +10,7 @@
 **มือถือ Android ที่ Root แล้ว**: ใช้กับแอพฯ [AdAway](https://github.com/AdAway/AdAway)
 
 **มือถือ Android ที่ไม่ได้ Root**: สามารถใช้ได้กับแอพฯ
-- [AdAway](https://github.com/AdAway/AdAway)
+- [AdAway](https://github.com/AdAway/AdAway) (โหมด VPN)
 - [DNS66](https://github.com/julian-klode/dns66)
 - [DNSNet](https://github.com/t895/DNSNet)
 - [Nebulo](https://github.com/Ch4t4r/Nebulo)
